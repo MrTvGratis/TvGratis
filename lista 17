@@ -1,48 +1,150 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png",MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png",M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", M+ Comedia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", M+ Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png" ,FOX Life Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png",FOX Life Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
- #EXTINF:-1 tvg-logo="http://www.vootar.com/imgs/elementos/1248207222_Canal%20Hollywood.jpg",Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
- #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png"-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn.jpg",AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn.jpg",AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
- #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png",COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png",Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1 tvg-logo="http://s01.s3c.es/imag/_v0/640x300/5/3/4/bein-sports.jpg",beIN Sports ES HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/beinlaliga.png",beIN La Liga HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+ 
+          <item> 
+            <title>ES: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Telecinco-720HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco-720HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES: NONSTOPEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NONSTOPEOPLE</link> 
+        </item> 
+          <item> 
+            <title>ES: NICKELODEONHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEONHD</link> 
+        </item> 
+          <item> 
+            <title>ES: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>ES: NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.Xtra.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Xtra.HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.Series-Xtra.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Series-Xtra.HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.series-720.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.series-720.HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.ESTRENOSHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.ESTRENOSHD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.Estrenos-720HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Estrenos-720HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.Deportes2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Deportes2HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.Deportes1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Deportes1</link> 
+        </item> 
+          <item> 
+            <title>ES: M.DCine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.DCine</link> 
+        </item> 
+          <item> 
+            <title>ES: M.ComedyCentral</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.ComedyCentral</link> 
+        </item> 
+          <item> 
+            <title>ES: M.COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M.Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Accion</link> 
+        </item> 
+          <item> 
+            <title>ES: M. XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. XTRA</link> 
+        </item> 
+          <item> 
+            <title>ES: M. GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. GOLF HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. Cine Espa?ol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. Cine Espa?ol</link> 
+        </item> 
+          <item> 
+            <title>ES: LA2-720HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA2-720HD</link> 
+        </item> 
+          <item> 
+            <title>ES: La1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La1</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: HOLLYWOODHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOODHD</link> 
+        </item> 
+          <item> 
+            <title>ES: Historia-720HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Historia-720HD</link> 
+        </item> 
+          <item> 
+            <title>ES: FoxLife</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FoxLife</link> 
+        </item> 
+          <item> 
+            <title>ES: Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney-Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney-Channel</link> 
+        </item> 
+          <item> 
+            <title>ES: Discovery.chanel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Discovery.chanel</link> 
+        </item> 
+          <item> 
+            <title>ES: Cuatro-720HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cuatro-720HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CazaYpesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CazaYpesca</link> 
+        </item> 
+          <item> 
+            <title>ES: Axn-White-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Axn-White-HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Axn</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Axn</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena3HD</link> 
+        </item> 
+  
