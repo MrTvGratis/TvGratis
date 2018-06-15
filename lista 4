@@ -1,0 +1,217 @@
+EXTM3U
+
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",TVGRATIS  LA 1 HD
+http://185.66.143.240:25461/live/amos/1234/623.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",TVGRATIS  LA 2
+http://185.66.143.240:25461/live/amos/1234/624.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",TVGRATIS  Antena 3 HD
+http://185.66.143.240:25461/live/amos/1234/625.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",TVGRATIS  Cuatro HD
+http://185.66.143.240:25461/live/amos/1234/626.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",TVGRATIS  Telecinco HD
+http://185.66.143.240:25461/live/amos/1234/627.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",TVGRATIS  La Sexta HD
+http://185.66.143.240:25461/live/amos/1234/628.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",TVGRATIS  #0
+http://185.66.143.240:25461/live/amos/1234/646.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",TVGRATIS  Movistar Series
+http://185.66.143.240:25461/live/amos/1234/652.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",TVGRATIS  Movistar Series Xtra
+http://185.66.143.240:25461/live/amos/1234/671.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",TVGRATIS  Fox HD
+http://185.66.143.240:25461/live/amos/1234/660.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",TVGRATIS  AXN HD
+http://185.66.143.240:25461/live/amos/1234/649.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TVGRATIS  TNT HD
+http://185.66.143.240:25461/live/amos/1234/673.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",TVGRATIS  Comedy Central HD
+http://185.66.143.240:25461/live/amos/1234/654.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",TVGRATIS  Calle 13
+http://185.66.143.240:25461/live/amos/1234/651.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",TVGRATIS   COSMO
+http://185.66.143.240:25461/live/amos/1234/669.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",TVGRATIS  AMC
+http://185.66.143.240:25461/live/amos/1234/648.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",TVGRATIS  Fox Life HD
+http://185.66.143.240:25461/live/amos/1234/661.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",TVGRATIS  AXN White HD
+http://185.66.143.240:25461/live/amos/1234/650.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",TVGRATIS  SYFY
+http://185.66.143.240:25461/live/amos/1234/672.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mtvespana.jpg",TVGRATIS  MTV
+http://185.66.143.240:25461/live/amos/1234/639.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg",TVGRATIS  Factoria de Ficcion
+http://185.66.143.240:25461/live/amos/1234/662.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/neox.jpg",TVGRATIS  Neox
+http://185.66.143.240:25461/live/amos/1234/667.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg",TVGRATIS  Energy
+http://185.66.143.240:25461/live/amos/1234/659.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",TVGRATIS  Movistar Estrenos
+http://185.66.143.240:25461/live/amos/1234/644.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",TVGRATIS  Movistar Xtra HD
+http://185.66.143.240:25461/live/amos/1234/675.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",TVGRATIS  Movistar Accion
+http://185.66.143.240:25461/live/amos/1234/641.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",TVGRATIS  Movistar Comedia
+http://185.66.143.240:25461/live/amos/1234/642.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",TVGRATIS  Movistar DCine
+http://185.66.143.240:25461/live/amos/1234/643.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TVGRATIS  TCM
+http://185.66.143.240:25461/live/amos/1234/645.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg",TVGRATIS  Hollywood
+http://galaxytv.ml:8880/live/Tvingoplus_ES/mBio1ncIA3/3425.ts|User-Agent=tvingo.tvingoplus.01.04.18.R.A.K.A
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg",TVGRATIS  Paramount Channel
+http://185.66.143.240:25461/live/amos/1234/670.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",TVGRATIS  Movistar Futbol HD
+http://185.66.143.240:25461/live/amos/1234/693.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png",TVGRATIS   Bein LaLiga HD
+http://185.66.143.240:25461/live/amos/1234/678.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",TVGRATIS  beIN SPORTS  HD
+http://185.66.143.240:25461/live/amos/1234/677.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png",TVGRATIS   Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png",TVGRATIS   Barca TV
+http://185.66.143.240:25461/live/amos/1234/676.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",TVGRATIS  Movistar Deportes 1 HD
+http://185.66.143.240:25461/live/amos/1234/682.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",TVGRATIS  Movistar Deportes 2 HD
+http://185.66.143.240:25461/live/amos/1234/683.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",TVGRATIS  Movistar Formula 1 HD
+http://185.66.143.240:25461/live/amos/1234/692.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",TVGRATIS  Movistar Moto GP HD
+http://185.66.143.240:25461/live/amos/1234/694.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",TVGRATIS  Movistar Golf HD
+http://185.66.143.240:25461/live/amos/1234/687.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",TVGRATIS  Eurosport 1 HD
+http://185.66.143.240:25461/live/amos/1234/684.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg",TVGRATIS  Eurosport 2
+http://185.66.143.240:25461/live/amos/1234/685.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/goltv.jpg",TVGRATIS  GOL
+http://185.66.143.240:25461/live/amos/1234/688.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",TVGRATIS   La Liga TV
+http://185.66.143.240:25461/live/amos/1234/690.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",TVGRATIS  Tele Deporte HD
+http://185.66.143.240:25461/live/amos/1234/695.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png",TVGRATIS   Caza y Pesca
+http://185.66.143.240:25461/live/amos/1234/681.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png",TVGRATIS   Iberalia TV
+http://185.66.143.240:25461/live/amos/1234/691.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png",TVGRATIS   Toros TV HD
+http://185.66.143.240:25461/live/amos/1234/712.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",TVGRATIS  National Geographic HD
+http://185.66.143.240:25461/live/amos/1234/665.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",TVGRATIS  Nat Geo Wild HD
+http://185.66.143.240:25461/live/amos/1234/666.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",TVGRATIS  Historia
+http://185.66.143.240:25461/live/amos/1234/663.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg",TVGRATIS  Discovery
+http://185.66.143.240:25461/live/amos/1234/657.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/blaze.png",TVGRATIS   Blaze
+http://185.66.143.240:25461/live/amos/1234/647.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg",TVGRATIS  Viajar HD
+http://185.66.143.240:25461/live/amos/1234/674.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg",TVGRATIS  Crimen + Investigacion
+http://185.66.143.240:25461/live/amos/1234/655.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",TVGRATIS  Canal Cocina
+http://185.66.143.240:25461/live/amos/1234/653.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png",TVGRATIS   De Casa
+http://185.66.143.240:25461/live/amos/1234/656.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",TVGRATIS   Divinity
+http://185.66.143.240:25461/live/amos/1234/658.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nova.jpg",TVGRATIS  Nova
+http://185.66.143.240:25461/live/amos/1234/629.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg",TVGRATIS  Mega
+http://185.66.143.240:25461/live/amos/1234/664.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg",TVGRATIS  Disney Junior
+http://185.66.143.240:25461/live/amos/1234/634.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg",TVGRATIS  Canal Panda
+http://185.66.143.240:25461/live/amos/1234/638.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickjr.jpg",TVGRATIS  NICK JR
+http://185.66.143.240:25461/live/amos/1234/637.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg",TVGRATIS  Nickelodeon HD
+http://185.66.143.240:25461/live/amos/1234/636.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg",TVGRATIS  Disney XD
+http://185.66.143.240:25461/live/amos/1234/635.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",TVGRATIS   Disney Channel HD
+http://185.66.143.240:25461/live/amos/1234/633.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/boing.jpg",TVGRATIS  Boing
+http://185.66.143.240:25461/live/amos/1234/631.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg",TVGRATIS  Clan TVE
+http://185.66.143.240:25461/live/amos/1234/632.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve_24h.jpg",TVGRATIS  24 Horas
+http://185.66.143.240:25461/live/amos/1234/640.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-rDdOja6DYDk/VYGoJw1-DOI/AAAAAAAAL7Y/bZfghOSgWx8/s1600/NSP.png",TVGRATIS   Non Stop People
+http://185.66.143.240:25461/live/amos/1234/668.m3u8
