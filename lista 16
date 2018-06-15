@@ -267,12 +267,8 @@
             <title>ES: Nonstop People</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6722.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nonstop People</link> 
         </item> 
-          <item> 
-            <title>VIP ES: Bein Sports HD ( 1080P )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP ES: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=VIP ES: Bein Sports HD ( 1080P )</link> 
-        </item> 
-          <item> 
-            <title></title> 
+               <item> 
+             <title>VIP ES: Bein Sports HD ( 1080P )</title>  
             <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6724.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
