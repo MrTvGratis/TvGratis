@@ -1,131 +1,310 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",EXTRAS:#0
-http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",EXTRAS:#0 HD
-http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/movistar-accion.png",MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/movistar-accion.png",MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png/revision/latest?cb=20160707190742",M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png",MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png",M+ Comedia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png",MOVISTAR Comedia
-http://185.231.160.49/613/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png",MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png",MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png",M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Movistar_Series_Xtra.svg/2045px-Movistar_Series_Xtra.svg.png",M+ Series Xtra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png",M+ Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Movistar_Series_Xtra.svg/2045px-Movistar_Series_Xtra.svg.png",MOVISTAR Series Xtra
-http://185.231.160.49/600/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png",FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png",FOX
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png",FOX Life Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1 tvg-logo="http://nederland.broadbandtvnews.com/wp-content/uploads/2014/03/Fox-Life.png",Fox Life HD España
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/567/index.m3u8
-#EXTINF:-1 tvg-logo="http://nederland.broadbandtvnews.com/wp-content/uploads/2014/03/Fox-Life.png",Fox Life España
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/601/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.foxplaybrasil.com.br/sites/foxplay-br/files/img/foxlife.png?ver=12d26707-7006-4320-9124-1e4afff47aac",FOX LIFE
-http://185.231.160.49/599/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.bathroomreader.com/wp-content/uploads/2016/04/Comedy-Central-25th-Anniversary.jpg",Comedy Central
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/articulos/37000/n37725_1efdbf953b-c4.jpg",Comedy Central España HD
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/572/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.g8G_vi7NT4vsmOSSG_-7CwHaDW&pid=15.1&P=0&w=348&h=158",COMEDY CENTRAL HD
-http://185.231.160.49/605/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.g8G_vi7NT4vsmOSSG_-7CwHaDW&pid=15.1&P=0&w=348&h=158",COMEDY HD
-http://185.231.160.49/604/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Zi5YuYTm3N_R3LCSc28kaAHaEo&pid=15.1&P=0&w=278&h=174",toros tv
-http://petu10.pedromo.me/live/toros/index.m3u8?token=4Q3L7WwQRvCcUdYpvJHe4Q&expires=1522359745|Referer=http://www.vercanalestv.com/tv/multicanal/canal-plus-toros.html&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.2TJLFHAZZ7kIh_Cwua7yRwHaFf&pid=15.1&P=0&w=216&h=161",historia
-http://copo6.mitopo.me/live/historia/index.m3u8?token=xTJriS7YzBhikB_2yKcfSg&expires=1522359684|Referer=http://vercanalestv.com/tv/documentales/canal-historia.html&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.qrkG4T5hp6yJ9nAIw21drwHaDC&pid=15.1&P=0&w=394&h=163",dark
-http://xxedge262.livesports.pw/live/veranadetelefive17669f5d28e4d7/chunklist.m3u8?md5=cyhxcnrB7vG-StT85aHSGg&expires=1522359770|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TaxTgt54fr2_8bTfTiSpwAAAAA&pid=15.1&P=0&w=369&h=137",nationalwild
-http://copo4.mitopo.me/live/nationalwild/index.m3u8?token=cXjIUDL_XqWW-KvfWzSzdQ&expires=1522359713|Referer=http://vercanalestv.com/tv/documentales/nat-geo-wild.html&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.cK7gjeCLdtRuqO6HTjprZwHaHa&pid=15.1&P=0&w=300&h=300",discovery channel
-http://xxedge266.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/chunklist.m3u8?md5=St4WFeG4yt406a1K8wc8Iw&expires=1522359755|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.GsuArETmmyw6cZK3D_syMgHaDy&pid=15.1&P=0&w=343&h=177",National geografic
-http://copo2.mitopo.me/live/nationalgeo/index.m3u8?token=ew99Ozr36xqa6afjmRkj1A&expires=1522359704|Referer=http://vercanalestv.com/tv/documentales/national-geographic.html&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVr3OHM.png",AMC España HD
-http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/614/index.m3u8
-#EXTINF:-1 tvg-logo="http://livetvi.com/wp-content/uploads/2016/04/AMC-tv-live-990x558.png",amc
-http://185.231.160.49/653/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",Cosmopolitan TV Europa HD
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/570/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.Fl7WEVyh0F3JRTYwPZqPlwHaF0&pid=15.1&P=0&w=237&h=187",COSMO HD
-http://185.231.160.49/602/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ACJkUiP159VDH7hEDYNLRwHaDh&pid=15.1&P=0&w=324&h=155",Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_AbJqhpNfurk/TQ_A9VaLbXI/AAAAAAAAAAw/p0TJVamVw24/s1600/axn_hd.png",AXN HD
-http://185.231.160.49/612/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://logoslogoslogos.files.wordpress.com/2014/05/axn3.png",AXN España HD
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/579/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.vootar.com/imgs/elementos/1248207222_Canal%20Hollywood.jpg",Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/hollywoodHD1.png",HOLLYWOOD HD
-http://185.231.160.49/610/1/index.m3u8
-#EXTINF:-1 tvg-logo="v",HOLLYWOOD HD
-http://185.231.160.49/611/1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2015/11/TNT-oficial.png",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/UVr3OHM.png logo=https://i.imgur.com/UVr3OHM.png", Disney Junior España
-http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/604/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.D3F6eKS2eK9vk1Am05Z3hAAAAA&pid=15.1&P=0&w=303&h=171",Mundo Auto TV
-https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",beIN LaLiga HD
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/574/index.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",beIN LaLiga HD
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",beIN LaLiga opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",Bein LaLiga opción 2
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",beIN LaLiga opción 4
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein sport
-http://185.231.160.49/607/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",beIN Sports Opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports Opción 2
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",beIN Sports Opción 4
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.XncXTIonDjIALVcjx6M5QgHaDt&pid=15.1&P=0&w=338&h=170",laligatv
-http://185.231.160.49/614/1/index.m3u8
-#EXTINF:-1 tvg-logo="http://estaticos02.marca.com/deporte/futbol/segunda-division/img/logo-LaLiga-123.png",LaLiga TV Bar HD
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/581/index.m3u8
-#EXTINF:-1 tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2013/10/la-liga-logo.jpg",laligatv
-http://185.231.160.49/614/1/index.m3u8
-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",LaLiga TV opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",Movistar Fútbol
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.IsacSttnV5eQcjtr0i60rwAAAA&pid=15.1&P=0&w=300&h=300",Movistar F1 opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.IsacSttnV5eQcjtr0i60rwAAAA&pid=15.1&P=0&w=300&h=300",Movistar F1 opción 2
-http://163.172.202.69:4022/formula1hd
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.IsacSttnV5eQcjtr0i60rwAAAA&pid=15.1&P=0&w=300&h=300",Movistar F1 opción 3
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
-#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar MotoGP Opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar MotoGP Opción 2
-http://163.172.202.69:4022/motogphd
-#EXTINF:-1 tvg-logo="http://www.golfchannel.com/public/images/gc-logo-16-9.png",Golf
-http://185.231.160.49/601/1/index.m3u8
+ 
+          <item> 
+            <title>ES:VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:VIAJAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES:TELEDEPORTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2723.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELEDEPORTE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2726.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NICK Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICK Jr</link> 
+        </item> 
+          <item> 
+            <title>ES: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2702.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NAT GEO WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2701.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MEGA</link> 
+        </item> 
+          <item> 
+            <title>ES:LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>ES:HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2728.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>ES:FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>ES:DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2708.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>ES: DISCOVERY CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2703.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>ES:Canal  TOROS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal  TOROS HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>ES:Canal  LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal  LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>ES:Canal  GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal  GOLF HD</link> 
+        </item> 
+          <item> 
+            <title>ES:Canal  FUTBOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2692.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal  FUTBOL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal  ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>ES:Canal  DEPORTES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal  DEPORTES HD</link> 
+        </item> 
+          <item> 
+            <title>ES:Canal  DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal  DEPORTES 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Accion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Accion HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>ES:ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANTENA 3 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5416.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
+        </item> 
+          <item> 
+            <title>ES: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5417.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
+        </item> 
+          <item> 
+            <title>ES: PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5428.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PANDA</link> 
+        </item> 
+          <item> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5409.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES: NICKELODEON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5419.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5408.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
+        </item> 
+          <item> 
+            <title>ES: La Liga BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5424.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Liga BAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2700.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: IBERALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5427.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: IBERALIA</link> 
+        </item> 
+          <item> 
+            <title>ES: GOL Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5421.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL Tv</link> 
+        </item> 
+          <item> 
+            <title>ES: FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5411.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF</link> 
+        </item> 
+          <item> 
+            <title>ES: DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5410.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>ES: COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5412.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Clan Tve</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5418.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan Tve</link> 
+        </item> 
+          <item> 
+            <title>ES: Caza y pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5413.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza y pesca</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5426.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DECASA</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5425.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL COCINA</link> 
+        </item> 
+          <item> 
+            <title>ES: Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5420.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Boing</link> 
+        </item> 
+          <item> 
+            <title>ES: Bein Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5422.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sport HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Bein Liga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5423.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Liga HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2705.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5415.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC</link> 
+        </item> 
+          <item> 
+            <title>ES: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/5414.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>ES: #0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #0 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6696.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Energy</link> 
+        </item> 
+          <item> 
+            <title>ES: EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6694.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>ES: EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6695.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>ES: 24 Horas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24 Horas</link> 
+        </item> 
+          <item> 
+            <title>ES: 40 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6720.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 40 TV</link> 
+        </item> 
+          <item> 
+            <title>ES: BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6718.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: COMEDY CENTRAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6719.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Nonstop People</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6722.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nonstop People</link> 
+        </item> 
+          <item> 
+            <title>VIP ES: Bein Sports HD ( 1080P )</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP ES: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=VIP ES: Bein Sports HD ( 1080P )</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6724.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal De Las Estrellas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6792.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal De Las Estrellas</link> 
+        </item> 
+          <item> 
+            <title>ES: Paramount</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6968.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Paramount</link> 
+        </item> 
+          <item> 
+            <title>ES: Crimen Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6984.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Crimen Investigation</link> 
+        </item> 
+          <item> 
+            <title>ES: MTV ESPANA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/6985.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV ESPANA</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR MOTOGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR MOTOGP</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/3068.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Futbol</link> 
+        </item> 
+          <item> 
+            <title>ES : MOVISTAR FORMULA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/3067.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES : MOVISTAR FORMULA 1</link> 
+        </item> 
+          <item> 
+            <title>ES : MOVISTAR F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/HrPumyVQ3T/eiY8EqrCrZ/3065.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES : MOVISTAR F1 HD</link> 
+        </item> 
+  
