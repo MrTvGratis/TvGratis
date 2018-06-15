@@ -59,7 +59,7 @@ http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30286.m3u8
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29008.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo WILD
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29009.m3u8
-#EXTINF:-1,Discovery
+EXTINF:-1,Discovery
 http://photocall.tv/vc.m3u8?ch=discovery
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",Història
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29017.m3u8
