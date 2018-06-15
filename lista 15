@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1,[COLOR lime]SI ESTA EN OTRO ADDONS Y TE COBRAN [/COLOR]
+http://127.0.0.0
+#EXTINF:-1,[COLOR lime]ES SIN PERMISO Y TE ESTAN ESTAFANDO POR ELLO[/COLOR]
+http://127.0.0.0
+#EXTINF:-1,[COLOR lime]ME REFIERO A TI JHG[/COLOR]
+http://127.0.0.0
+ 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/A3.png",TVGRATIS  Antena 3
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/615/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/C4.png",TVGRATIS  Cuatro
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/616/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/T5.png",TVGRATIS  Telecinco
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/617/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SEXTA.png",TVGRATIS  LaSexta
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/618/index.m3u8
+#EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NOVA",Nova
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/602/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV3.png",TVGRATIS  #0
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/611/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV2.png",TVGRATIS   Movistar Series Xtra
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/568/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXGE.png",TVGRATIS  Fox
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/608/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXCR.png",TVGRATIS  Fox Life
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/601/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AMC.png",TVGRATIS  AMC
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/614/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AXN.png",TVGRATIS  AXN
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/610/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SET.png",TVGRATIS  AXN White
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/609/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png",TVGRATIS  Comedy Central
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/572/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/COSMO.png",TVGRATIS  Cosmo
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/570/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/HOLLYW.png",TVGRATIS  Hollywood
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/577/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOME.png",TVGRATIS   Movistar Comedia
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/606/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPACCI.png",TVGRATIS   Movistar Acción
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/576/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOLE.png",TVGRATIS   Movistar DCine
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/607/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",TVGRATIS  Iberalia
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/603/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PLAYDC.png",TVGRATIS  Disney Junior
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/604/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPFUT.png",TVGRATIS   Movistar Fútbol
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/575/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/BELIGA.png",TVGRATIS  beIN LaLiga
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/574/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/LIGBAR.png",TVGRATIS  La Liga TV
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/581/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png",TVGRATIS  Movistar MotoGP
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/613/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png",TVGRATIS  Movistar F1
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/612/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/GOLF%2B.png",TVGRATIS  Movistar Golf
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/569/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",TVGRATIS  Iberalia
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/603/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TLESUR.png",TVGRATIS  Telesur
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/803/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/RTESP.png",TVGRATIS   Russia Today
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/211/index.m3u8
+#EXTINF:-1, TV GRATIS  MTV Rocks
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/230/index.m3u8
+#EXTINF:-1, TV GRATIS  MTV Live HD
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/26/index.m3u8
+#EXTINF:-1, TV GRATIS  MTV Dance
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/228/index.m3u8
+#EXTINF:-1, TV GRATIS  MTV Hits UK
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/229/index.m3u8
+#EXTINF:-1, TV GRATIS   MTV Live HD
+http://playlist.onlybest.tv/ru/channel/cfe7dcd865447c385d384f69b4f8e5ec/27/index.m3u8
