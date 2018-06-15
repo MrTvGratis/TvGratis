@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png", #0 DE MOVISTAR
+http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png", MOVISTAR SERIES XTRA
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png", MOVISTAR ESTRENOS
+http://grc3.eu:8080/live/inanc48/inanc48/9111.ts
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png", MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png", MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png", MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/607/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png", AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png", AXN WHITE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png", COMEDY CENTRAL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png", COSMO
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png", FOX LIFE 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png", CANAL HOLLYWOOD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPFUT.png", MOVISTAR FUTBOL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8 
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", BEIN LA LIGA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png", REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png", MOVISTAR FORMULA 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png", MOVISTAR FORMULA 1 OP2
+http://163.172.202.69:4022/formula1hd
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVMTGP.png", MOVISTAR MOTO GP
+http://163.172.202.69:4022/motogphd
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png", MOVISTAR GOLF
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u
