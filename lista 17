@@ -1,150 +1,146 @@
- 
-          <item> 
-            <title>ES: TNT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Telecinco-720HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco-720HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TELECINCO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD</link> 
-        </item> 
-          <item> 
-            <title>ES: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>ES: NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
-        </item> 
-          <item> 
-            <title>ES: NONSTOPEOPLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NONSTOPEOPLE</link> 
-        </item> 
-          <item> 
-            <title>ES: NICKELODEONHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEONHD</link> 
-        </item> 
-          <item> 
-            <title>ES: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>ES: NAT GEO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.Xtra.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Xtra.HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.Series-Xtra.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Series-Xtra.HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.series-720.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.series-720.HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.ESTRENOSHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.ESTRENOSHD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.Estrenos-720HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Estrenos-720HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.Deportes2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Deportes2HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.Deportes1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Deportes1</link> 
-        </item> 
-          <item> 
-            <title>ES: M.DCine</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.DCine</link> 
-        </item> 
-          <item> 
-            <title>ES: M.ComedyCentral</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.ComedyCentral</link> 
-        </item> 
-          <item> 
-            <title>ES: M.COMEDIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.COMEDIA HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M.Accion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.Accion</link> 
-        </item> 
-          <item> 
-            <title>ES: M. XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. XTRA</link> 
-        </item> 
-          <item> 
-            <title>ES: M. GOLF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. GOLF HD</link> 
-        </item> 
-          <item> 
-            <title>ES: M. Cine Espa?ol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. Cine Espa?ol</link> 
-        </item> 
-          <item> 
-            <title>ES: LA2-720HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA2-720HD</link> 
-        </item> 
-          <item> 
-            <title>ES: La1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La1</link> 
-        </item> 
-          <item> 
-            <title>ES: LA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: HOLLYWOODHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOODHD</link> 
-        </item> 
-          <item> 
-            <title>ES: Historia-720HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Historia-720HD</link> 
-        </item> 
-          <item> 
-            <title>ES: FoxLife</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FoxLife</link> 
-        </item> 
-          <item> 
-            <title>ES: Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox</link> 
-        </item> 
-          <item> 
-            <title>ES: Disney-Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney-Channel</link> 
-        </item> 
-          <item> 
-            <title>ES: Discovery.chanel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Discovery.chanel</link> 
-        </item> 
-          <item> 
-            <title>ES: Cuatro-720HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cuatro-720HD</link> 
-        </item> 
-          <item> 
-            <title>ES: CazaYpesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CazaYpesca</link> 
-        </item> 
-          <item> 
-            <title>ES: Axn-White-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Axn-White-HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Axn</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Axn</link> 
-        </item> 
-          <item> 
-            <title>ES: Antena3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.sat-tv.net:8000/live/deallsaat/dergd546g/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena3HD</link> 
-        </item> 
-  
+
+#EXTM3U
+#EXTINF:-1,-----SPAIN-----
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/135943.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) LA 1 HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14476.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) LA 2
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14475.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Antena 3 HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14478.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Cuatro HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14473.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Extremadura TV
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14456.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) FDF
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14425.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Fox
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14427.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Fox HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14428.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Fox Life HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14426.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Galicia TV
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14455.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Syfy HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14424.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) TCM
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14423.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Telecinco HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14472.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) A&E
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14443.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) AMC
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14433.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) AMC ESP audio
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14432.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) AXN HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14431.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) AXN White HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14430.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Boing
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14450.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Canal Cocina
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14459.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Caza y Pesca HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14442.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Comedy Central
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14467.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Comedy Central HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14468.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Cosmo HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14466.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Crimen   Investigacion
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14441.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14440.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Disney Channel HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14449.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Disney Junior
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14448.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Neox
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14446.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Nick JR
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14444.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Nickelodeon HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14445.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Disney XD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14447.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) 24 Horas
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14469.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) CANAL TOROS
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/13908.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Barca TV
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14399.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Bein Sports=&amp;streamtype=TSDOWNLOADER HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14412.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Bein Sports=&amp;streamtype=TSDOWNLOADER La Liga HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14411.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Energy
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14462.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Eurosport 1 HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14410.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Gol
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14409.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Historia
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14439.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Mega
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14461.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Canal Hollywood HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/136459.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Action
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14414.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Action HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14421.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Comedia HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14420.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar DCine HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14419.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Deportes 1 HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14407.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Estrenos
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14413.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Estrenos HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14418.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar F1 HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14405.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Futbol
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14408.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Golf
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14402.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Golf HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14403.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar MotoGP HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14404.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Series HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14417.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Series Xtra HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14416.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Movistar Xtra HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14415.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) National Geographic HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14438.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Non Stop People
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14436.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Nova
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14460.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Odisea
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14435.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Real Madrid TV
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14398.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) TNT
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14422.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Viajar HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14434.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) Toros TV HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/14400.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) #0 HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/135848.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) CALLE 13 HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/133322.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) LA LIGA TV BAR HD
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/133296.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) CANAL 24 HORAS
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/136458.ts=&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,(ES) TVE INTERNACIONAL EUROPA
+plugin://plugin.video.f4mTester/?url=http://ip.sltv.be:8000/live/VdUBC66elr/CRqZ4c8uB1/140026.ts=&amp;streamtype=TSDOWNLOADER
