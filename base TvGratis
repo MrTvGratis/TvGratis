@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
- ----canales rusos
-*----enlace externo
-**---listaiptv
-***--amos
+
 
 
 <item>  
@@ -27,18 +24,7 @@
      <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
                   <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
      </item>
-	 <item>
-        <title>[COLOR deepskyblue]                     SI TE GUSTA PUEDES COLABORAR[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
-        <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
-</item>
-<item>
-        <title>[COLOR deepskyblue]                      https://paypal.me/TvGratiskodi[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
-        <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
-</item>
+
 
 <item>
 <title>[COLOR blue]                         Programacion Movistar [/COLOR]</title>
@@ -181,23 +167,23 @@
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 16* [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 16 [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>http://oqefuh.blogspot.com.es/p/lista-2-espana.html</externallink>
+        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2016</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 17* [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 17 [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>http://oqefuh.blogspot.com.es/p/lista-3-espana.html</externallink>
+        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2017</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 18* [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 18 [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>http://oqefuh.blogspot.com.es/p/lista-4-espana.html</externallink>
+        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2018</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
@@ -234,7 +220,7 @@
  <item>
         <title>[COLOR green]                                  TVGRATIS 23* [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/mi%20lista%20m3u</externallink>
+        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2023</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
@@ -257,16 +243,16 @@
 
 
  <item>
-        <title>[COLOR green]                                  TVGRATIS 26***** [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 26 [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>https://pastebin.com/raw/bXKrHmCp</externallink>
+        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2026</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 27***** [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 27 [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>https://pastebin.com/raw/jCzJNecB</externallink>
+        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2027</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
