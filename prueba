@@ -3,10 +3,7 @@ File xml aggiornato.
   
 
  
-          <item> 
-            <title>########## Spain ##########</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7257.ts&amp;streamtype=TSDOWNLOADER&amp;name=########## Spain ##########</link> 
-        </item> 
+       
           <item> 
             <title>TVE LA 1 HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8782.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE LA 1 HD ES</link> 
