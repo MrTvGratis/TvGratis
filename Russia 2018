@@ -10,14 +10,7 @@ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",BeMad FHD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Cuatro 1080p
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Telecinco 1080p
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/617/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Telecinco 1080p
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/617/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Cuatro 1080p
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/616/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Cuatro 720
 http://185.66.143.240:25461/live/amos/1234/626.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Telecinco 720
@@ -36,10 +29,7 @@ http://185.66.143.240:25461/live/amos1/amos1/627.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Cuatro SD
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Cuatro 720
-http://185.66.143.240:25461/live/cruz1/cruz1/626.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",Telecinco SD
-http://185.66.143.240:25461/live/cruz1/cruz1/627.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",CableOnda Sports FC
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg",COS CABLEONDA SPORT
