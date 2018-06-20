@@ -1,16 +1,12 @@
 #EXTM3U
 #EXTINF:-1,--------MOVISTAR-----------
 ---------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",#0
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/611/index.m3u8
+
 #EXTINF:-1,M.Estrenos
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29059.m3u8
 #EXTINF:-1,M.Accion
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29054.m3u8
-#EXTINF:-1,M.XTRA
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1,M.Dcine
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",syfy
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29004.m3u8
 #EXTINF:-1,M.Comedia
