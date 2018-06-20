@@ -3,805 +3,156 @@ File xml aggiornato.
   
 
  
-       
           <item> 
-            <title>TVE LA 1 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8782.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE LA 1 HD ES</link> 
+            <title>******* SPANISH TV *******</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=******* SPANISH TV *******</link> 
         </item> 
           <item> 
-            <title>TVE LA 2 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8781.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE LA 2 ES</link> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
         </item> 
           <item> 
-            <title>Antena 3 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7253.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 FHD ES</link> 
+            <title>ES: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
         </item> 
           <item> 
-            <title>Antena 3 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD ES</link> 
+            <title>ES: NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
         </item> 
           <item> 
-            <title>Cuatro FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7228.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
+            <title>ES: Telecinco</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco</link> 
         </item> 
           <item> 
-            <title>Telecinco HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/11488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco HD ES</link> 
+            <title>ES: TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
         </item> 
           <item> 
-            <title>La Sexta ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/6671.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta ES</link> 
+            <title>ES: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
         </item> 
           <item> 
-            <title>La Sexta HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7213.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta HD ES</link> 
+            <title>ES: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON</link> 
         </item> 
           <item> 
-            <title>la sexta FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16260.ts&amp;streamtype=TSDOWNLOADER&amp;name=la sexta FHD ES</link> 
+            <title>ES: Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nick Jr</link> 
         </item> 
           <item> 
-            <title>Canal #0 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal #0 ES</link> 
+            <title>ES: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD</link> 
         </item> 
           <item> 
-            <title>#0 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16283.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 FHD ES</link> 
+            <title>ES: NAT GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO</link> 
         </item> 
           <item> 
-            <title>Movistar + Series Xtra ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Series Xtra ES</link> 
+            <title>ES: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV</link> 
         </item> 
           <item> 
-            <title>Movistar + Series Xtra FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7190.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Series Xtra FHD ES</link> 
+            <title>ES: LA2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA2</link> 
         </item> 
           <item> 
-            <title>M. Series Xtra FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16281.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Series Xtra FHD ES</link> 
+            <title>ES: La Sexta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta</link> 
         </item> 
           <item> 
-            <title>Movistar + Series FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Series FHD ES</link> 
+            <title>ES: LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1</link> 
         </item> 
           <item> 
-            <title>Movistar Series FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series FHD ES</link> 
+            <title>ES: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood</link> 
         </item> 
           <item> 
-            <title>Movistar + Series ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8767.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Series ES</link> 
+            <title>ES: Historia Espana</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Historia Espana</link> 
         </item> 
           <item> 
-            <title>Movistar + Xtra FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7233.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Xtra FHD ES</link> 
+            <title>ES: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE</link> 
         </item> 
           <item> 
-            <title>Movistar + Xtra  FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7189.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Xtra  FHD ES</link> 
+            <title>ES: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
         </item> 
           <item> 
-            <title>A &amp; E ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name=A &amp; E ES</link> 
+            <title>ES: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
         </item> 
           <item> 
-            <title>AMC FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7255.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC FHD ES</link> 
+            <title>ES: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Junior</link> 
         </item> 
           <item> 
-            <title>Calle 13 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
+            <title>ES: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Channel</link> 
         </item> 
           <item> 
-            <title>Comedy Central HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7230.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD ES</link> 
+            <title>ES: DCINE ESPAOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DCINE ESPAOL</link> 
         </item> 
           <item> 
-            <title>Cosmo FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7229.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmo FHD ES</link> 
+            <title>ES: CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
         </item> 
           <item> 
-            <title>Cosmopolitan HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmopolitan HD ES</link> 
+            <title>ES: COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL</link> 
         </item> 
           <item> 
-            <title>Fox ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7220.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox ES</link> 
+            <title>ES: ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3 HD</link> 
         </item> 
           <item> 
-            <title>FOX FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16267.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX FHD ES</link> 
+            <title>ES: C+ SERIES XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ SERIES XTRA</link> 
         </item> 
           <item> 
-            <title>Fox Life ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7219.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life ES</link> 
+            <title>ES: AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE</link> 
         </item> 
           <item> 
-            <title>FOX Life FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16266.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Life FHD ES</link> 
+            <title>ES: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
         </item> 
           <item> 
-            <title>SyFy FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13522.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy FHD ES</link> 
+            <title>ES: AE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AE</link> 
         </item> 
           <item> 
-            <title>TNT FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7177.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT FHD ES</link> 
+            <title>ES: Canal + Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Xtra</link> 
         </item> 
           <item> 
-            <title>Divinity ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13534.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity ES</link> 
+            <title>ES: Canal + Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Series</link> 
         </item> 
           <item> 
-            <title>Dkiss HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13533.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dkiss HD ES</link> 
+            <title>ES: Canal + Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Estrenos</link> 
         </item> 
           <item> 
-            <title>Neox TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8762.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox TV ES</link> 
+            <title>ES: Canal + Dcine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Dcine</link> 
         </item> 
           <item> 
-            <title>Neox Tv FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16264.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox Tv FHD ES</link> 
+            <title>ES: Canal + Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Comedia</link> 
         </item> 
           <item> 
-            <title>Neox ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
+            <title>ES: Canal + Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Accion</link> 
         </item> 
           <item> 
-            <title>Non Stop People ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7184.ts&amp;streamtype=TSDOWNLOADER&amp;name=Non Stop People ES</link> 
+            <title>ES: Caza y Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza y Pesca</link> 
         </item> 
           <item> 
-            <title>Nova ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
-        </item> 
-          <item> 
-            <title>24 Horas ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7174.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Horas ES</link> 
-        </item> 
-          <item> 
-            <title>FDF ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF ES</link> 
-        </item> 
-          <item> 
-            <title>Energy ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8765.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
-        </item> 
-          <item> 
-            <title>Mega ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8760.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega ES</link> 
-        </item> 
-          <item> 
-            <title>Mega HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13824.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega HD ES</link> 
-        </item> 
-          <item> 
-            <title>Mega FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16263.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega FHD ES</link> 
-        </item> 
-          <item> 
-            <title>MTV Espana ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8759.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Espana ES</link> 
-        </item> 
-          <item> 
-            <title>A3 Series ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13544.ts&amp;streamtype=TSDOWNLOADER&amp;name=A3 Series ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar Estrenos ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7222.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Estrenos ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Estrenos ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Esternos ER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7192.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Esternos ER</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Acción FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Acción FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Accion ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7195.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Accion ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Comedia HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Comedia HD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + DCine FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7242.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + DCine FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Canal + HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8770.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal + HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 1 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7211.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 1 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 2 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 3 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 4 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 4 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 5 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7207.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 5 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 6 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7206.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 6 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 7 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7205.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 7 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 8 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 8 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 9 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7203.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 9 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 10 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7202.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 10 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Paramount Channel ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8769.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel ES</link> 
-        </item> 
-          <item> 
-            <title>Hollywood FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8768.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Hollywood ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7216.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood ES</link> 
-        </item> 
-          <item> 
-            <title>TCM ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7180.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM ES</link> 
-        </item> 
-          <item> 
-            <title>AXN HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7252.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD ES</link> 
-        </item> 
-          <item> 
-            <title>AXN ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13543.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN ES</link> 
-        </item> 
-          <item> 
-            <title>AXN White FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7251.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White FHD ES</link> 
-        </item> 
-          <item> 
-            <title>AXN White ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13542.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
-        </item> 
-          <item> 
-            <title>Ten ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ten ES</link> 
-        </item> 
-          <item> 
-            <title>beIN Sports HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,beIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=beIN Sports HD ES</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8784.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Movistar + FUTBOL FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13551.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + FUTBOL FHD ES</link> 
-        </item> 
-          <item> 
-            <title>beIN Sports La Liga FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,beIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=beIN Sports La Liga FHD ES</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7249.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>bein Sports Espana HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=bein Sports Espana HD ES</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8745.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>bein Sports Espana FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=bein Sports Espana FHD ES</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7248.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Movistar + LaLiga HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7198.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + LaLiga HD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Moto GP ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Moto GP ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Golf ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Golf ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + F1 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + F1 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + F1 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + F1 ES</link> 
-        </item> 
-          <item> 
-            <title>Teledeporte ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7178.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte ES</link> 
-        </item> 
-          <item> 
-            <title>Real Madrid Channel ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7182.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid Channel ES</link> 
-        </item> 
-          <item> 
-            <title>Barca TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7250.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV ES</link> 
-        </item> 
-          <item> 
-            <title>Sevilla Channel ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8742.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sevilla Channel ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Deportes ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7201.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Deportes ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Deportes 2 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7200.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Deportes 2 FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Eurosport 1 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8746.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 ES</link> 
-        </item> 
-          <item> 
-            <title>Eurosport 2 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 ES</link> 
-        </item> 
-          <item> 
-            <title>Caza y Pesca HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7232.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca HD ES</link> 
-        </item> 
-          <item> 
-            <title>Iberalia ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7171.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iberalia ES</link> 
-        </item> 
-          <item> 
-            <title>Toros HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13548.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros HD ES</link> 
-        </item> 
-          <item> 
-            <title>Odisea ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7235.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea ES</link> 
-        </item> 
-          <item> 
-            <title>Discovery Channel ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7226.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel ES</link> 
-        </item> 
-          <item> 
-            <title>National Geographic ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7187.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic ES</link> 
-        </item> 
-          <item> 
-            <title>National Geographic HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13528.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD ES</link> 
-        </item> 
-          <item> 
-            <title>Historia ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7217.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia ES</link> 
-        </item> 
-          <item> 
-            <title>National Geographic FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16270.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Nat Geo Wild ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7188.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild ES</link> 
-        </item> 
-          <item> 
-            <title>Viajar FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7170.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar FHD ES</link> 
-        </item> 
-          <item> 
-            <title>DeCasa ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DeCasa ES</link> 
-        </item> 
-          <item> 
-            <title>Canal Cocina ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7244.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina ES</link> 
-        </item> 
-          <item> 
-            <title>Crime &amp; Investigation ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8757.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime &amp; Investigation ES</link> 
-        </item> 
-          <item> 
-            <title>Discovery Dmax ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Dmax ES</link> 
-        </item> 
-          <item> 
-            <title>DW ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13532.ts&amp;streamtype=TSDOWNLOADER&amp;name=DW ES</link> 
-        </item> 
-          <item> 
-            <title>Baby TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8774.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV ES</link> 
-        </item> 
-          <item> 
-            <title>BOING ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8773.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING ES</link> 
-        </item> 
-          <item> 
-            <title>Clan TVE ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7231.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE ES</link> 
-        </item> 
-          <item> 
-            <title>Disney Channel HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7225.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD ES</link> 
-        </item> 
-          <item> 
-            <title>Disney Junior ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7224.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior ES</link> 
-        </item> 
-          <item> 
-            <title>Disney XD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7223.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD ES</link> 
-        </item> 
-          <item> 
-            <title>Nickelodeon ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7185.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon ES</link> 
-        </item> 
-          <item> 
-            <title>Nickelodeon FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16268.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Nick Jr. ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr. ES</link> 
-        </item> 
-          <item> 
-            <title>Mezzo HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7212.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mezzo HD ES</link> 
-        </item> 
-          <item> 
-            <title>SOL Musica ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7172.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOL Musica ES</link> 
-        </item> 
-          <item> 
-            <title>TV Galicia ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7218.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Galicia ES</link> 
-        </item> 
-          <item> 
-            <title>TV3 Catalunya HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8780.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 Catalunya HD ES</link> 
-        </item> 
-          <item> 
-            <title>TV 3 Catalunya ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7175.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV 3 Catalunya ES</link> 
-        </item> 
-          <item> 
-            <title>Andalucia FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia FHD ES</link> 
-        </item> 
-          <item> 
-            <title>13 TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13547.ts&amp;streamtype=TSDOWNLOADER&amp;name=13 TV ES</link> 
-        </item> 
-          <item> 
-            <title>8TV Madrid ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13545.ts&amp;streamtype=TSDOWNLOADER&amp;name=8TV Madrid ES</link> 
-        </item> 
-          <item> 
-            <title>RTVA ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8775.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTVA ES</link> 
-        </item> 
-          <item> 
-            <title>Navarra TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13527.ts&amp;streamtype=TSDOWNLOADER&amp;name=Navarra TV ES</link> 
-        </item> 
-          <item> 
-            <title>Onda Azul ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Onda Azul ES</link> 
-        </item> 
-          <item> 
-            <title>Telesur ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7169.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telesur ES</link> 
-        </item> 
-          <item> 
-            <title>TVN Chile ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7173.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVN Chile ES</link> 
-        </item> 
-          <item> 
-            <title>Azteca Trece LAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8778.ts&amp;streamtype=TSDOWNLOADER&amp;name=Azteca Trece LAM</link> 
-        </item> 
-          <item> 
-            <title>Televisa HD MX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8766.ts&amp;streamtype=TSDOWNLOADER&amp;name=Televisa HD MX</link> 
-        </item> 
-          <item> 
-            <title>Azteca Honduras LAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8744.ts&amp;streamtype=TSDOWNLOADER&amp;name=Azteca Honduras LAM</link> 
-        </item> 
-          <item> 
-            <title>Azteca Noticias LAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Azteca Noticias LAM</link> 
-        </item> 
-          <item> 
-            <title>Red Advenir ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Red Advenir ES</link> 
-        </item> 
-          <item> 
-            <title>Atre Series ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/12869.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atre Series ES</link> 
-        </item> 
-          <item> 
-            <title>LALiga 123 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16284.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALiga 123 FHD ES</link> 
-        </item> 
-          <item> 
-            <title>beIN LaLiga ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8763.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN LaLiga ES</link> 
-        </item> 
-          <item> 
-            <title>beIN LaLiga HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13541.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN LaLiga HD ES</link> 
-        </item> 
-          <item> 
-            <title>beIN La Liga FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16275.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN La Liga FHD ES</link> 
-        </item> 
-          <item> 
-            <title>La LigaTV  FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16274.ts&amp;streamtype=TSDOWNLOADER&amp;name=La LigaTV  FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Bein Sports FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports FHD ES</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16285.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>beIN Sports ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,beIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=beIN Sports ES</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13540.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>beIN SPORTS  FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13552.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS  FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar F 1 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F 1 FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Deportes 1 HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7240.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Deportes 1 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Liga FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7236.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Liga FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Deportes 2 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7239.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Deportes 2 ES</link> 
-        </item> 
-          <item> 
-            <title>M. Deportes 1 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16278.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Deportes 1 FHD ES</link> 
-        </item> 
-          <item> 
-            <title>M. Deportes 2 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16277.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Deportes 2 FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Fútbol ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7238.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Fútbol ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Cine Ñ FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7227.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Cine Ñ FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Moto GP FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Moto GP FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Comedia  HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Comedia  HD ES</link> 
-        </item> 
-          <item> 
-            <title>M. Dcine FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16265.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Dcine FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Dcine ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7193.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Dcine ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar DCine FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16279.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Disney ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/19472.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Disney ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Futbol  ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8783.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Futbol  ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Golf  FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13550.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Golf  FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Portada ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8776.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Portada ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Partidazo HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13220.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Partidazo HD ES</link> 
-        </item> 
-          <item> 
-            <title>Partidazo FHD (Solo Eventos) ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16286.ts&amp;streamtype=TSDOWNLOADER&amp;name=Partidazo FHD (Solo Eventos) ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar + Cine Ñ ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar + Cine Ñ ES</link> 
-        </item> 
-          <item> 
-            <title>M. Accion FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16280.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Accion FHD ES</link> 
-        </item> 
-          <item> 
-            <title>M. Estrenos FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16262.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Estrenos FHD ES</link> 
-        </item> 
-          <item> 
-            <title>M. Formula 1 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16272.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Formula 1 FHD ES</link> 
-        </item> 
-          <item> 
-            <title>M. Futbol FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16276.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Futbol FHD ES</link> 
-        </item> 
-          <item> 
-            <title>M. Golf FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16273.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Golf FHD ES</link> 
-        </item> 
-          <item> 
-            <title>M. MotoGP FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16271.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MotoGP FHD ES</link> 
-        </item> 
-          <item> 
-            <title>M. Xtra FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16261.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Xtra FHD ES</link> 
-        </item> 
-          <item> 
-            <title>De Casa ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13536.ts&amp;streamtype=TSDOWNLOADER&amp;name=De Casa ES</link> 
-        </item> 
-          <item> 
-            <title>Gol TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13457.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol TV ES</link> 
-        </item> 
-          <item> 
-            <title>Telecinco FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/14022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco FHD ES</link> 
-        </item> 
-          <item> 
-            <title>La 1 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7215.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
-        </item> 
-          <item> 
-            <title>La 1 FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16288.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 FHD ES</link> 
-        </item> 
-          <item> 
-            <title>La 2 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7214.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 ES</link> 
-        </item> 
-          <item> 
-            <title>Cuatro HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8777.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro HD ES</link> 
-        </item> 
-          <item> 
-            <title>Odisea TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8761.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea TV ES</link> 
-        </item> 
-          <item> 
-            <title>Sundance TV ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/14121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sundance TV ES</link> 
-        </item> 
-          <item> 
-            <title>SyFy ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13523.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy ES</link> 
-        </item> 
-          <item> 
-            <title>TOROS TV HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/7176.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV HD ES</link> 
-        </item> 
-          <item> 
-            <title>TVE Clan ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8764.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE Clan ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 1 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8756.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 1 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 2 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8755.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 3 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8754.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 4 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13521.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 4 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 5 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8752.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 5 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 6 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8751.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 6 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 7 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8750.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 7 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 8 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/13520.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 8 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 9 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8748.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 9 ES</link> 
-        </item> 
-          <item> 
-            <title>Taquilla 10 ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/8747.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 10 ES</link> 
-        </item> 
-          <item> 
-            <title>Caza y Pesca FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16269.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca FHD ES</link> 
-        </item> 
-          <item> 
-            <title>Disney Channel FHD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://mypanel.tv:8080/live/bv/bv2017/16287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel FHD ES</link> 
+            <title>ES: Calle 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13</link> 
         </item> 
   
