@@ -70,40 +70,9 @@ http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
 #EXTINF:-1,TODO DEPORTES
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?JoCaRoIPTV.m3u8
 
-#EXTINF:-1,Movistar Futbol | FHD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 
-#EXTINF:-1,MOVISTAR MOTO GP
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 
-#EXTINF:-1,Movistar Golf | FHD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 
-#EXTINF:-1,Movistar Futbol
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-
-#EXTINF:-1,MOVISTAR LA LIGA TV
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
-#EXTINF:-1,MOVISTAR BEIN SPORTS
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
-
-#EXTINF:-1,beIN Sport
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-
-#EXTINF:-1,La Liga TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-
-#EXTINF:-1,LaLiga TV Bar HD
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
-
-#EXTINF:-1,Bein Sports 2 OP01
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-
-#EXTINF:-1,Movistar Futbol HD
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
-
-#EXTINF:-1,Movistar F1 opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 
 #EXTINF:-1,Sevilla Futbol Club TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
@@ -111,44 +80,11 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1,REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1,ESPANHA:VH1 EUROPE ()
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
 
-#EXTINF:-1,Movistar F1 opción 3
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
-
-#EXTINF:-1,Movistar MotoGP | FHD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
 #EXTINF:-1,DXTV DEPORTES
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 
-#EXTINF:-1,Arena Ruso
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/1/index.m3u8
-
-#EXTINF:-1,Arena Ruso HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/289/index.m3u8
-
-#EXTINF:-1,Futbol MAT RUSIA
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/5/index.m3u8
-
-#EXTINF:-1,Futbol MAT RUSIA OPCION 2 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/29/index.m3u8
-
-#EXTINF:-1,Futbol MAT RUSIA 2
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/6/index.m3u8
-
-#EXTINF:-1,Futbol MAT RUSIA 3
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/7/index.m3u8
-
-#EXTINF:-1,Futbol MAT RUSIA 3 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/24/index.m3u8
-
-#EXTINF:-1,Hash Futbol RUSO
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
-
-#EXTINF:-1,Nash Futbol HD RUSO
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
 
 #EXTINF:-1,Abu Dhabi Sports | SD
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
@@ -177,11 +113,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1,Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
 
-#EXTINF:-1,SPORT KLUB HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/902/index.m3u8
 
-#EXTINF:-1,FIGHT BOX HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
 
 #EXTINF:-1,Extrema TV POCKET
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -192,38 +124,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1,El Chavo Animado
 http://3.sendvid.com/y00xutjl.mp4
 
-#EXTINF:-1,Eurosport 2 Russia HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/77/index.m3u8
 
-#EXTINF:-1,Viasat Sport East Ruso
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/45/index.m3u8
-
-#EXTINF:-1,Boes Ruso
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/2/index.m3u8
-
-#EXTINF:-1,Extreme Sports Channel
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
-
-#EXTINF:-1,Viasat Sport East HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/75/index.m3u8
-
-#EXTINF:-1,Viasat Sport East HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/76/index.m3u8
-
-#EXTINF:-1,Avto Plus Aleman
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/248/index.m3u8
-
-#EXTINF:-1,Sport 1 HD Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
-
-#EXTINF:-1,Sky Sport News Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
-
-#EXTINF:-1,Sky Sport Austria HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
-
-#EXTINF:-1,Rai Sport
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
 
 #EXTINF:-1,TVP Mazatlan DEPORTE mx
 https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
