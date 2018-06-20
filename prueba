@@ -1,158 +1,91 @@
-       
-File xml aggiornato.
-  
-
- 
-          <item> 
-            <title>******* SPANISH TV *******</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=******* SPANISH TV *******</link> 
-        </item> 
-          <item> 
-            <title>ES: NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
-        </item> 
-          <item> 
-            <title>ES: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
-        </item> 
-          <item> 
-            <title>ES: NEOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
-        </item> 
-          <item> 
-            <title>ES: Telecinco</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco</link> 
-        </item> 
-          <item> 
-            <title>ES: TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
-        </item> 
-          <item> 
-            <title>ES: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
-        </item> 
-          <item> 
-            <title>ES: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>ES: Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nick Jr</link> 
-        </item> 
-          <item> 
-            <title>ES: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>ES: NAT GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO</link> 
-        </item> 
-          <item> 
-            <title>ES: MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV</link> 
-        </item> 
-          <item> 
-            <title>ES: LA2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA2</link> 
-        </item> 
-          <item> 
-            <title>ES: La Sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta</link> 
-        </item> 
-          <item> 
-            <title>ES: LA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1</link> 
-        </item> 
-          <item> 
-            <title>ES: Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood</link> 
-        </item> 
-          <item> 
-            <title>ES: Historia Espana</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Historia Espana</link> 
-        </item> 
-          <item> 
-            <title>ES: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE</link> 
-        </item> 
-          <item> 
-            <title>ES: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>ES: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>ES: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>ES: DCINE ESPAOL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DCINE ESPAOL</link> 
-        </item> 
-          <item> 
-            <title>ES: CUATRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
-        </item> 
-          <item> 
-            <title>ES: COMEDY CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL</link> 
-        </item> 
-          <item> 
-            <title>ES: ANTENA 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: C+ SERIES XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ SERIES XTRA</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
-        </item> 
-          <item> 
-            <title>ES: AE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AE</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal + Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Xtra</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal + Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Series</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal + Estrenos</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Estrenos</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal + Dcine</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Dcine</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal + Comedia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Comedia</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal + Accion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Accion</link> 
-        </item> 
-          <item> 
-            <title>ES: Caza y Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza y Pesca</link> 
-        </item> 
-          <item> 
-            <title>ES: Calle 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtv.satarabia.com:80/live/euroiptv/euroiptv/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13</link> 
-        </item> 
-  
+#EXTM3U
+#EXTINF:-1,XTRA HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/45.m3u8
+#EXTINF:-1,VL PLAYER
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/50.m3u8
+#EXTINF:-1,TOROS HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/28.m3u8
+#EXTINF:-1,TNT
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/12.m3u8
+#EXTINF:-1,TELECINCO HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/38.m3u8
+#EXTINF:-1,SYFY HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/43.m3u8
+#EXTINF:-1,SERIES XTRA
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/18.m3u8
+#EXTINF:-1,SERIES HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/19.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/7.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/24.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/23.m3u8
+#EXTINF:-1,MTV
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/11.m3u8
+#EXTINF:-1,MOTOGP HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/30.m3u8
+#EXTINF:-1,LA LIGA TV HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/37.m3u8
+#EXTINF:-1,LA 1 HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/41.m3u8
+#EXTINF:-1,IBERALIA
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/21.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/44.m3u8
+#EXTINF:-1,HISTORIA HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/52.m3u8
+#EXTINF:-1,GOLTV
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/35.m3u8
+#EXTINF:-1,GOLF HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/27.m3u8
+#EXTINF:-1,FUTBOL HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/32.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/16.m3u8
+#EXTINF:-1,FOX HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/17.m3u8
+#EXTINF:-1,FORMULA 1 HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/29.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/25.m3u8
+#EXTINF:-1,ESTRENOS HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/48.m3u8
+#EXTINF:-1,DMAX
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/22.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/9.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/10.m3u8
+#EXTINF:-1,DEPORTES HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/34.m3u8
+#EXTINF:-1,DEPORTES 2 HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/33.m3u8
+#EXTINF:-1,DCINE HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/51.m3u8
+#EXTINF:-1,CUATRO HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/39.m3u8
+#EXTINF:-1,COSMO HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/13.m3u8
+#EXTINF:-1,COMEDIA HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/46.m3u8
+#EXTINF:-1,CAZA Y PESCA
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/20.m3u8
+#EXTINF:-1,CALLE 13 HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/42.m3u8
+#EXTINF:-1,BEIN SPORT ESPAÑA HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/31.m3u8
+#EXTINF:-1,BEIN LA LIGA HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/36.m3u8
+#EXTINF:-1,BARÇA TV
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/26.m3u8
+#EXTINF:-1,AXN WHITE
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/14.m3u8
+#EXTINF:-1,AXN HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/15.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/40.m3u8
+#EXTINF:-1,ACCION HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/47.m3u8
+#EXTINF:-1,#0 HD
+http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/49.m3u8
