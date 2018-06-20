@@ -207,11 +207,4 @@ http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3930.m3u8
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3929.m3u8
 #EXTINF:-1,SKY SPORT F1
 http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10320.m3u8
-#EXTINF:-1,Eurosport1 AL HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/704/index.m3u8
-#EXTINF:-1,Eurosport1 Polska HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/895/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport HD  Rusia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport HD  inglés
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/160/index.m3u8
+
