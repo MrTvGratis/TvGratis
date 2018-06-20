@@ -1,182 +1,250 @@
+       
+File xml aggiornato.
+  
+
  
           <item> 
-            <title>XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRA HD</link> 
+            <title>ES: BEIN SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN SPORT HD</link> 
         </item> 
           <item> 
-            <title>VL PLAYER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=VL PLAYER</link> 
+            <title>ES: BEIN LA LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/3752.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LA LIGA HD</link> 
         </item> 
           <item> 
-            <title>TOROS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS HD</link> 
+            <title>ES: MOVISTAR+ FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ FUTBOL</link> 
         </item> 
           <item> 
-            <title>TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+            <title>ES: CANAL LA LIGA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL LA LIGA TV</link> 
         </item> 
           <item> 
-            <title>TELECINCO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+            <title>ES: MOVISTAR+ DEPORTES 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/613.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ DEPORTES 1</link> 
         </item> 
           <item> 
-            <title>SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+            <title>ES: MOVISTAR+ DEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ DEPORTES 2</link> 
         </item> 
           <item> 
-            <title>SERIES XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIES XTRA</link> 
+            <title>ES: MOVISTAR F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR F1</link> 
         </item> 
           <item> 
-            <title>SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIES HD</link> 
+            <title>ES: MOVISTAR+ GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ GOLF HD</link> 
         </item> 
           <item> 
-            <title>NICKELODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON HD</link> 
+            <title>ES: MOVISTAR TOROS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR TOROS HD</link> 
         </item> 
           <item> 
-            <title>NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
+            <title>ES: MOVISTAR MOTO GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR MOTO GP HD</link> 
         </item> 
           <item> 
-            <title>NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
+            <title>ES: ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3 HD</link> 
         </item> 
           <item> 
-            <title>MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
+            <title>ES: LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 HD</link> 
         </item> 
           <item> 
-            <title>MOTOGP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP HD</link> 
+            <title>ES: MOVISTAR+ PARTIDAZO (solo partidos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ PARTIDAZO (solo partidos</link> 
         </item> 
           <item> 
-            <title>LA LIGA TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV HD</link> 
+            <title>ES: MOVISTAR+ PARTIDAZO FHD (solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ PARTIDAZO FHD (solo partidos)</link> 
         </item> 
           <item> 
-            <title>LA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
+            <title>ES: EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT 2</link> 
         </item> 
           <item> 
-            <title>IBERALIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
+            <title>REAL MADRID TV FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV FHD</link> 
         </item> 
           <item> 
-            <title>HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
+            <title>ES: TELEDEPORTE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELEDEPORTE FHD</link> 
         </item> 
           <item> 
-            <title>HISTORIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA HD</link> 
+            <title>ES: CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO HD</link> 
         </item> 
           <item> 
-            <title>GOLTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLTV</link> 
+            <title>ES: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC HD</link> 
         </item> 
           <item> 
-            <title>GOLF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF HD</link> 
+            <title>ES: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN HD</link> 
         </item> 
           <item> 
-            <title>FUTBOL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUTBOL HD</link> 
+            <title>ES: A3SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A3SERIES HD</link> 
         </item> 
           <item> 
-            <title>FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+            <title>ES: MOVISTAR+ ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ ACCION</link> 
         </item> 
           <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+            <title>ES: MOVISTAR+ COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ COMEDIA HD</link> 
         </item> 
           <item> 
-            <title>FORMULA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMULA 1 HD</link> 
+            <title>ES: MOVISTAR+ DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ DCINE HD</link> 
         </item> 
           <item> 
-            <title>EUROSPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT HD</link> 
+            <title>ES: MOVISTAR+ ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ ESTRENOS HD</link> 
         </item> 
           <item> 
-            <title>ESTRENOS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESTRENOS HD</link> 
+            <title>ES: MOVISTAR+ SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ SERIES XTRA HD</link> 
         </item> 
           <item> 
-            <title>DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
+            <title>ES: MOVISTAR+ SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+ SERIES HD</link> 
         </item> 
           <item> 
-            <title>DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+            <title>ES: MOVISTAR+  XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR+  XTRA</link> 
         </item> 
           <item> 
-            <title>DISNEY CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL HD</link> 
+            <title>ES: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX HD</link> 
         </item> 
           <item> 
-            <title>DEPORTES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES HD</link> 
+            <title>ES: FOX LIFE HD.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE HD.</link> 
         </item> 
           <item> 
-            <title>DEPORTES 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES 2 HD</link> 
+            <title>ES: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD HD</link> 
         </item> 
           <item> 
-            <title>DCINE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE HD</link> 
+            <title>ES: PARAMOUNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PARAMOUNT</link> 
         </item> 
           <item> 
-            <title>CUATRO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO HD</link> 
+            <title>ES: SYFY HD.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY HD.</link> 
         </item> 
           <item> 
-            <title>COSMO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO HD</link> 
+            <title>ES: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM HD</link> 
         </item> 
           <item> 
-            <title>COMEDIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIA HD</link> 
+            <title>ES: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD</link> 
         </item> 
           <item> 
-            <title>CAZA Y PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+            <title>ES: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
         </item> 
           <item> 
-            <title>CALLE 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 HD</link> 
+            <title>ES: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JUNIOR</link> 
         </item> 
           <item> 
-            <title>BEIN SPORT ESPAÑA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT ESPAÑA HD</link> 
+            <title>ES: NICKELODEON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON HD</link> 
         </item> 
           <item> 
-            <title>BEIN LA LIGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA HD</link> 
+            <title>ES: PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PANDA</link> 
         </item> 
           <item> 
-            <title>BARÇA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARÇA TV</link> 
+            <title>ES: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
         </item> 
           <item> 
-            <title>AXN WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+            <title>ES: BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BOING</link> 
         </item> 
           <item> 
-            <title>AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+            <title>ES: CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL COCINA</link> 
         </item> 
           <item> 
-            <title>ANTENA 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
+            <title>ES: COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL</link> 
         </item> 
           <item> 
-            <title>ACCION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACCION HD</link> 
+            <title>ES: DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DIVINITY</link> 
         </item> 
           <item> 
-            <title>#0 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/31NOad8998fjkaii/dhfuu3DDe4555gf5/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD</link> 
+            <title>ES: DISCOVERY CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: HISTORIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>ES: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>ES: VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIAJAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES: #O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #O</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: 24H</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24H</link> 
+        </item> 
+          <item> 
+            <title>ES: ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ENERGY</link> 
+        </item> 
+          <item> 
+            <title>ES: FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 2 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2 FHD</link> 
+        </item> 
+          <item> 
+            <title>ES: MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MEGA</link> 
+        </item> 
+          <item> 
+            <title>ES: NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
+        </item> 
+          <item> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES: ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ODISEA</link> 
+        </item> 
+          <item> 
+            <title>ES: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: VIRGIN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.latiniptvplus.com:8000/live/estebancarvajal/oxEb1VlNmd/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIRGIN TV</link> 
         </item> 
   
