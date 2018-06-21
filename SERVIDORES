@@ -1,0 +1,25 @@
+<item>
+<title> [COLOR lime] SERVIDORES[/COLOR]</title>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+ <title>[COLOR pink]Server[/COLOR][COLOR white] [makelist3.param1][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+ ]]></listrepeat>
+<expres>Server:"(.*?)"[\w\W\s]{0,6}http:\/\/(.*?)\/g[\w\W\s]{0,11}name=(.*?)&amp;password=(.*?)&amp;t</expres>
+<page>https://pastebin.com/raw/GamD07K6t</page><!-- Aqui  va la url de donde pongas el txt  ya sea pastebin o dropbox-->
+</regex>
+
+<regex>
+<name>makelist2</name><!-- este regex te revisa si el server esta activo y cuantas conexiones permite antes de cargar todos los canales.-->
+<listrepeat><![CDATA[
+ <title>Server [COLOR violet][makelist3.param1][/COLOR]  |  Status: [COLOR lime][makelist2.param1][/COLOR] |  Max_Con:[COLOR yellow][makelist2.param2] [/COLOR] </title>
+ <link>NA</link>
+ <externallink>http://[makelist3.param2]/get.php?username=[makelist3.param3]&amp;password=[makelist3.param4]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ ]]></listrepeat>
+<expres>status":"(.*?)".*max_connections":"(.*?)",</expres>
+<page>http://[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
+</regex>
+<thumbnail>https://ugc.kn3.net/i/origin/https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300</thumbnail>
+</item>
