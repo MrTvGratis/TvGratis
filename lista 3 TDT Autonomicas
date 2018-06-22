@@ -184,13 +184,13 @@
 <fanart></fanart>
 </item>
  
-<!-- <item>
+ <item>
 <title>TVGRATIS  CLAN TVE</title>
 <sportsdevil>http://livesports.pw/embedna.php?file=clantv&width=650&height=400</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/5ws8l0qzf/clan.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
  
 <item>
 <title>TVGRATIS  DISNEY CHANNEL</title>
@@ -233,7 +233,7 @@
 <item>
 <title>TVGRATIS  LAOTRA</title>
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/966nr6pa3/laotra.png</thumbnail>
 <fanart></fanart>
 </item>
