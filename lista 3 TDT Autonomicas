@@ -27,7 +27,7 @@
 <item>
 <title>TVGRATIS   ANTENA 3  </title>
 <link>https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/fjr5h4kcb/antena3.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -61,7 +61,7 @@
 <item>
 <title>TVGRATIS    LA SEXTA </title>
 <link>https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_4.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/7fj1c3njv/lasexta.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -108,7 +108,7 @@
 <item>
 <title>TVGRATIS    NEOX  </title>
 <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/brc8elc23/neox.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -116,7 +116,7 @@
 <item>
 <title>TVGRATIS   NOVA  </title>
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/s12ehu9yz/nova.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -124,7 +124,7 @@
 <item>
 <title>TVGRATIS   A3SERIES  </title>
 <link>https://atresplayers-i.akamaized.net/geoa3seriesmpp/master.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/beku8j43v/a3series.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -147,7 +147,7 @@
 <item>
 <title>TVGRATIS  MEGA</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&rebase=on</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/oiqelmwa3/mega.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -155,7 +155,7 @@
 <item>
 <title>TVGRATIS  PARAMOUNT CHANNEL</title>
 <link>http://paramount.live.flumotion.com/live/playlist.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/nuhk2efh7/paramount.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -163,7 +163,7 @@
 <item>
 <title>TVGRATIS  24H</title>
 <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/6tyntwa7f/24h.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -171,7 +171,7 @@
 <item>
 <title>TVGRATIS  INTERECONOMIA</title>
 <link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/g6unjxoh7/intereconomia.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -179,7 +179,7 @@
 <item>
 <title>TVGRATIS  BOING</title>
 <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/3s7vjvk6z/boing.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -187,7 +187,7 @@
  <item>
 <title>TVGRATIS  CLAN TVE</title>
 <sportsdevil>http://livesports.pw/embedna.php?file=clantv&width=650&height=400</sportsdevil>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/5ws8l0qzf/clan.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -225,7 +225,7 @@
 <item>
 <title>TVGRATIS  TELEMADRID</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/xzg7rrfzf/telemadrid.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -241,7 +241,7 @@
 <item>
 <title>TVGRATIS  CASTILLA LA MANCHA</title>
 <link>http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/rlr4ooqkr/cmm.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -249,7 +249,7 @@
 <item>
 <title>TVGRATIS  CASTILLA Y LEON</title>
 <link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/3urr6m0ob/cyl.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -257,7 +257,7 @@
 <item>
 <title>TVGRATIS  13TV</title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/83wh8uw8r/trece.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -265,7 +265,7 @@
 <item>
 <title>TVGRATIS  3/24</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/4x1xpa1iz/324.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -273,7 +273,7 @@
 <item>
 <title>TVGRATIS  8 TV</title>
 <link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s1.postimg.cc/104oaomna7/8tv.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -281,7 +281,7 @@
 <item>
 <title>TVGRATIS  CANAL EXTREMADURA</title>
 <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/4mz0jmeuj/extremadura.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -296,7 +296,7 @@
         <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
         <cookieJar></cookieJar>
     </regex>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/3yq60c8bf/andalucia.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -304,7 +304,7 @@
 <item>
 <title>TVGRATIS  GALICIA TV</title>
 <link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/og6iyipyz/galicia.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -312,7 +312,7 @@
 <item>
 <title>TVGRATIS  ETB</title>
 <link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/evmwbuip7/eitb.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -320,7 +320,7 @@
 <item>
 <title>TVGRATIS  TV3</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/sqps7kpi3/tv3.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -328,7 +328,7 @@
 <item>
 <title>TVGRATIS  ARAGON TV</title>
 <link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/cfpobckqz/aragon.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -337,7 +337,7 @@
 <item>
 <title>TVGRATIS  TPA</title>
 <link>http://195.10.10.206/rtpa/tv.webm?GKID=0a23b69cb1c611e7a9ec00163ea2c744</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s7.postimg.cc/6erzebnuz/tpa.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -345,7 +345,7 @@
 <item>
 <title>TVGRATIS  TV CANARIA</title>
 <link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>https://s1.postimg.cc/5tvzchw9kf/TVCANARIA.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -353,7 +353,7 @@
 <item>
 <title>TVGRATIS  MALAGA TV</title>
 <link>http://canalmalaga-tv-live.flumotion.com/chunks.m3u8</link>
-<referer>http://konectas.es/</referer>
+<referer></referer>
 <thumbnail>http://www.ondaazulmalaga.es/img/logo-canal-malaga.jpg</thumbnail>
 <fanart></fanart>
 </item>
