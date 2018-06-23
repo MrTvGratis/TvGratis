@@ -1,31 +1,9 @@
+
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
- 
- 
- 
-item>  
-    <title>                      [COLOR lime]PARA UN MEJOR FUNCIONAMIENTO [/COLOR]</title>
-     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
-                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
-     </item>   
-item>  
-    <title>                      [COLOR lime]NO OLVIDES HACER UN RESET ADDON   [/COLOR]</title>
-     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
-                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
-     </item>   
-     item>
-    <title>                      [COLOR lime](AJUSTES,PULSAR "POR DEFECTO"    [/COLOR]</title>
-     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
-                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
-     </item>   
- 
-     item>
-    <title>                           [COLOR lime]     Y LUEGO EN "OK")   [/COLOR]</title>
-     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
-                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
-     </item>
- 
- 
+
+
+
 <item>
 <title>[COLOR blue]                         Programacion Movistar [/COLOR]</title>
  <link>$doregex[makelist]</link>
@@ -55,14 +33,14 @@ item>
  
  
  <item>
-        <title>[COLOR green]                                  TVGRATIS 1[/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 1***[/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%201</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 2[/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 2*[/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%202</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
@@ -126,7 +104,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 11 [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 11*** [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2011</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
@@ -154,7 +132,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 15 [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 15* [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2015</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
@@ -162,7 +140,7 @@ item>
 </item>
  
 <item>
-        <title>[COLOR green]                                  TVGRATIS 16 [/COLOR]</title></title>
+        <title>[COLOR green]                                  TVGRATIS 16* [/COLOR]</title></title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2016</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
@@ -170,7 +148,7 @@ item>
         <info>en espera</info>
 </item>
  <item>
-        <title>[COLOR green]                                  TVGRATIS 17 [/COLOR]</title>
+        <title>[COLOR green]                                  TVGRATIS 17* [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2017</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
@@ -204,6 +182,8 @@ item>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
+ 
+ 
 <item>
         <title>[COLOR green]                                  TVGRATIS  [/COLOR][COLOR red]  PRUEBAS[/COLOR]</title>
         <link>http://Ignoreme</link>
