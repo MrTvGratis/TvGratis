@@ -3,204 +3,204 @@
 ---------------------------------------------------------------------------------------
 
 #EXTINF:-1,M.Estrenos
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29059.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29059.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,M.Accion
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29054.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29054.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",syfy
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29004.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29004.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,M.Comedia
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29055.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29055.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29000.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29000.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TCM
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30284.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30284.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29033.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29033.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN write
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29090.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29090.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29094.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29094.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",Fox life
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29018.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29018.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29092.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29092.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mgm.jpg",AMC
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30024.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30024.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,M.series
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29062.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29062.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Series Xtra
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29058.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29058.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg",Hollywood
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29096.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29096.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cosmo.jpg",Cosmo HD
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29093.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29093.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",Comedy Central
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+plugin://plugin.video.f4mTester/?url=http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg",Dark
-http://photocall.tv/tf.m3u8?ch=dark
+plugin://plugin.video.f4mTester/?url=http://photocall.tv/tf.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]?ch=dark
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",Canal cocina
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29027.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29027.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Disney
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29053.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29053.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg",Disney Junior
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29022.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29022.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Nick
-http://photocall.tv/tf.m3u8?ch=nick
+plugin://plugin.video.f4mTester/?url=http://photocall.tv/tf.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]?ch=nick
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg",Canal Panda
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30286.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30286.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,-----DOCUMENTALES-----------
 -----------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",Nat Geo
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29008.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29008.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo WILD
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29009.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29009.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 EXTINF:-1,Discovery
-http://photocall.tv/vc.m3u8?ch=discovery
+plugin://plugin.video.f4mTester/?url=http://photocall.tv/vc.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]?ch=discovery
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",Història
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29017.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29017.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/odisea.jpg",Odisea
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29066.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29066.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Blaze
-http://photocall.tv/vc.m3u8?ch=blaze
+plugin://plugin.video.f4mTester/?url=http://photocall.tv/vc.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]?ch=blaze
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg",Crimen e investigación
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29069.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29069.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg",Viajar
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29100.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29100.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,------TDT ESPAÑA------------------
 ------------------------------------------------
 #EXTINF:-1,TVE1
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
+plugin://plugin.video.f4mTester/?url=http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",La 1 TVE Catalunya
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8
+plugin://plugin.video.f4mTester/?url=http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,TVE2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30281.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30281.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/TV3-44x36.jpg",TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+plugin://plugin.video.f4mTester/?url=http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Esport3
-http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8
+plugin://plugin.video.f4mTester/?url=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",Telecinco
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8
+plugin://plugin.video.f4mTester/?url=http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",Antena 3
-https://atresplayerp-i.akamaized.net/geoantena3mpp/master.m3u8
+https://atresplayerp-i.akamaized.net/geoantena3mpp/master.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",Cuatro
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8
+plugin://plugin.video.f4mTester/?url=http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",La Sexta
-https://atresplayerp-i.akamaized.net/geolasextampp/master.m3u8
+https://atresplayerp-i.akamaized.net/geolasextampp/master.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,-------TAQUILLAS ESPAÑA--------------------
 --------------------------------------------
 #EXTINF:-1,Taquilla1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29077.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29077.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29078.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29078.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla3
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29079.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29079.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla4
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29080.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29080.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla5
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29081.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29081.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla6
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29082.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29082.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla7
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29083.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29083.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla8
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29084.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29084.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla9
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29085.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29085.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Taquilla10
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29086.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29086.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,------DEPORTES MOVISTAR-----------
 -----------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Sports
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29091.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29091.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Sports
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29030.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29030.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein sports liga
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+plugin://plugin.video.f4mTester/?url=http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,La liga
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29035.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29035.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,M.Futbol
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29038.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29038.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,M.Deportes1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29040.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29040.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,M.Deportes2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29041.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29041.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Moto GP
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10687.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10687.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,F1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29044.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29044.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Eurosport1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29087.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29087.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Eurosport2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10674.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10674.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",TeleDeporte HD
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1.m3u8
+plugin://plugin.video.f4mTester/?url=http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,------DEPORTES INTERNACIONAL-----------
 -----------------------------------------------------------
 #EXTINF:-1,ESPN1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/35816.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/35816.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,ESPN2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/35818.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/35818.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,ESPN3
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/35817.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/35817.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Sport1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30038.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30038.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Sport1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10847.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10847.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Sport2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10379.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10379.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Sport2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10380.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10380.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Sport3
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10845.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10845.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Sport3
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10846.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10846.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein sports HD1 FR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11414.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11414.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein sports HD2 FR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11413.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11413.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein sports HD3 FR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11412.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11412.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD1 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2914.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2914.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD2 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2915.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2915.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD3 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2916.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2916.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD4 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2917.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2917.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD5 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2918.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2918.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD6 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2919.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2919.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD6 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2920.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2920.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD7 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2921.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2921.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD8 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2922.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2922.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD9 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2923.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2923.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",BEIN SPORTS HD10 AR
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2924.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2924.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Arena sports 1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11251.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11251.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Arena sports2
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11250.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11250.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Arena sports3
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11249.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11249.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Arena sports 4
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11248.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11248.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Arena sports 5
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11247.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11247.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,TRT Sports
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+plugin://plugin.video.f4mTester/?url=http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,Rai Sport1 HD
-http://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist.m3u8
+plugin://plugin.video.f4mTester/?url=http://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SKY SPORTS1 ITA
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3930.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3930.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SKY SPORTS2 ITA
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3929.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3929.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SKY SPORT F1
-http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10320.m3u8
+plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10320.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 
