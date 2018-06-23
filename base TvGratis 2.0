@@ -1,7 +1,29 @@
-
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+item>  
+    <title>                      [COLOR lime]PARA UN MEJOR FUNCIONAMIENTO [/COLOR]</title>
+     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
+                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
+     </item>	
+item>   
+    <title>                      [COLOR lime]NO OLVIDES HACER UN RESET ADDON   [/COLOR]</title>
+     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
+                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
+     </item>	
+	item>
+    <title>                      [COLOR lime](AJUSTES,PULSAR "POR DEFECTO"    [/COLOR]</title>
+     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
+                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
+     </item>	
+
+	 item>
+    <title>                           [COLOR lime]     Y LUEGO EN "OK")   [/COLOR]</title>
+     <link>_</link><thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
+                  <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
+     </item>
 
 
 <item>
@@ -21,28 +43,28 @@
 <thumbnail>https://img.webme.com/pic/e/eric-cast/guiatv.png</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
  </item>
- 
- 
+
+
  <item>
         <title>[COLOR green]                                  RUSIA 2018[/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/Russia%202018</externallink>
+		<externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/Russia%202018</externallink>
         <thumbnail>http://www.brandemia.org/sites/default/files/logotipo_fifa2018_russia.jpg</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
- 
- 
+
+
  <item>
         <title>[COLOR green]                                  TVGRATIS 1***[/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%201</externallink>
+		<externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%201</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
  <item>
         <title>[COLOR green]                                  TVGRATIS 2*[/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%202</externallink>
+		<externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%202</externallink>
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
@@ -60,7 +82,7 @@
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
- 
+
  <item>
         <title>[COLOR green]                                  TVGRATIS 5[/COLOR][COLOR red]  SportsDevil-espera 10 sg[/COLOR]</title>
         <link>http://Ignoreme</link>
@@ -138,7 +160,7 @@
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
- 
+
 <item>
         <title>[COLOR green]                                  TVGRATIS 16* [/COLOR]</title></title>
         <link>http://Ignoreme</link>
@@ -182,8 +204,8 @@
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
 </item>
- 
- 
+
+
 <item>
         <title>[COLOR green]                                  TVGRATIS  [/COLOR][COLOR red]  PRUEBAS[/COLOR]</title>
         <link>http://Ignoreme</link>
@@ -196,5 +218,5 @@
               <link>_</link>
               <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png<thumbnail>
               <fanart>https://images-na.ssl-images-amazon.com/images/I/41nMMnOBYuL.png</fanart>
-   
+    
 </item>
