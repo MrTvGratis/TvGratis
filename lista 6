@@ -38,7 +38,7 @@
 <fanart>https://s18.postimg.cc/b5pxrxci1/PHOTOCALLTV.jpg</fanart>
 </item>
  
-<item>
+item>
 <title>[COLOR green]Verliga.net[/COLOR]                 [COLOR red]PINCHA AQUI[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
