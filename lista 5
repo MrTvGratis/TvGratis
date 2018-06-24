@@ -1,5 +1,5 @@
 <item>
-<title>#0   TVGRATIS</title>
+<title>#0   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -12,7 +12,7 @@
 </item>
  
 <item>
-<title>MOVISTAR ACCION   TVGRATIS</title>
+<title>MOVISTAR ACCION   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -25,7 +25,7 @@
 </item>
  
 <item>
-<title>MOVISTAR CINE Ñ   TVGRATIS</title>
+<title>MOVISTAR CINE Ñ   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -38,7 +38,7 @@
 </item>
  
 <item>
-<title>MOVISTAR COMEDIA   TVGRATIS</title>
+<title>MOVISTAR COMEDIA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -51,7 +51,7 @@
 </item>
  
 <item>
-<title>MOVISTAR DCINE   TVGRATIS</title>
+<title>MOVISTAR DCINE   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -64,7 +64,7 @@
 </item>
  
 <item>
-<title>MOVISTAR ESTRENOS   TVGRATIS</title>
+<title>MOVISTAR ESTRENOS   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -77,7 +77,7 @@
 </item>
  
 <item>
-<title>MOVISTAR SERIES   TVGRATIS</title>
+<title>MOVISTAR SERIES   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -90,7 +90,7 @@
 </item>
  
 <item>
-<title>MOVISTAR SERIES XTRA   TVGRATIS</title>
+<title>MOVISTAR SERIES XTRA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -103,7 +103,7 @@
 </item>
  
 <item>
-<title>MOVISTAR XTRA   TVGRATIS</title>
+<title>MOVISTAR XTRA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -116,7 +116,7 @@
 </item>
  
 <item>
-<title>AMC   TVGRATIS</title>
+<title>AMC   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -129,7 +129,7 @@
 </item>
  
 <item>
-<title>AXN   TVGRATIS</title>
+<title>AXN   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -142,7 +142,7 @@
 </item>
  
 <item>
-<title>AXN WHITE *   TVGRATIS</title>
+<title>AXN WHITE *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=axnesp&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/envivo/axnwhite.htm</referer>
 <thumbnail>https://s1.postimg.cc/1i1pthy4n3/SET.png</thumbnail>
@@ -150,7 +150,7 @@
 </item>
  
 <item>
-<title>Blaze   TVGRATIS</title>
+<title>Blaze   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -163,7 +163,7 @@
 </item>
  
 <item>
-<title>CALLE 13   TVGRATIS</title>
+<title>CALLE 13   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -176,7 +176,7 @@
 </item>
  
 <item>
-<title>COMEDY CENTRAL   TVGRATIS</title>
+<title>COMEDY CENTRAL   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -189,7 +189,7 @@
 </item>
  
 <item>
-<title>COSMO *   TVGRATIS</title>
+<title>COSMO *   </title>
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/envivo/cosmo.html</referer>
 <thumbnail>https://s9.postimg.cc/fxtwko4cv/cosmo.png</thumbnail>
@@ -197,7 +197,7 @@
 </item>
  
 <item>
-<title>DARK   TVGRATIS</title>
+<title>DARK   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -210,7 +210,7 @@
 </item>
  
 <item>
-<title>FOX   TVGRATIS</title>
+<title>FOX   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -223,7 +223,7 @@
 </item>
  
 <item>
-<title>FOX LIFE   TVGRATIS</title>
+<title>FOX LIFE   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -236,7 +236,7 @@
 </item>
  
 <item>
-<title>HOLLYWOOD   TVGRATIS</title>
+<title>HOLLYWOOD   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -249,7 +249,7 @@
 </item>
  
 <item>
-<title>MTV   TVGRATIS</title>
+<title>MTV   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -262,7 +262,7 @@
 </item>
  
 <item>
-<title>SYFY   TVGRATIS</title>
+<title>SYFY   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -275,7 +275,7 @@
 </item>
  
 <item>
-<title>TCM   TVGRATIS</title>
+<title>TCM   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -288,7 +288,7 @@
 </item>
  
 <item>
-<title>TNT   TVGRATIS</title>
+<title>TNT   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -301,7 +301,7 @@
 </item>
  
 <item>
-<title>VIAJAR *   TVGRATIS</title>
+<title>VIAJAR *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=viajar&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://vercanalestv.com/tv/documentales/viajar.html</referer>
 <thumbnail>https://s1.postimg.cc/2uvhgi5lbj/VJR.png</thumbnail>
@@ -309,7 +309,7 @@
 </item>
  
 <item>
-<title>CANAL COCINA   TVGRATIS</title>
+<title>CANAL COCINA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -322,14 +322,14 @@
 </item>
  
 <item>
-<title>DECASA *   TVGRATIS</title>
+<title>DECASA *   </title>
 <link>http://flus0.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8</link>
 <thumbnail>https://s1.postimg.cc/7rzf5n7p9r/DECASA.png</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>TOROS   TVGRATIS</title>
+<title>TOROS   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -342,7 +342,7 @@
 </item>
  
 <item>
-<title>CAZA Y PESCA   TVGRATIS</title>
+<title>CAZA Y PESCA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -355,7 +355,7 @@
 </item>
  
 <item>
-<title>IBERALIA   TVGRATIS</title>
+<title>IBERALIA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -368,7 +368,7 @@
 </item>
  
 <item>
-<title>CRIMEN E INVESTIGACION   TVGRATIS</title>
+<title>CRIMEN E INVESTIGACION   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -381,7 +381,7 @@
 </item>
  
 <item>
-<title>DISCOVERY CHANNEL   TVGRATIS</title>
+<title>DISCOVERY CHANNEL   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -394,7 +394,7 @@
 </item>
  
 <item>
-<title>DMAX   TVGRATIS</title>
+<title>DMAX   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -407,7 +407,7 @@
 </item>
  
 <item>
-<title>HISTORIA   TVGRATIS</title>
+<title>HISTORIA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -420,7 +420,7 @@
 </item>
  
 <item>
-<title>NATIONAL GEOGRAPHIC   TVGRATIS</title>
+<title>NATIONAL GEOGRAPHIC   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -433,7 +433,7 @@
 </item>
  
 <item>
-<title>NAT GEO WILD   TVGRATIS</title>
+<title>NAT GEO WILD   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -446,7 +446,7 @@
 </item>
    
 <item>
-<title>ODISEA   TVGRATIS</title>
+<title>ODISEA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -459,7 +459,7 @@
 </item>
  
 <item>
-<title>MOVISTAR FUTBOL   TVGRATIS</title>
+<title>MOVISTAR FUTBOL   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -472,7 +472,7 @@
 </item>
  
 <item>
-<title>MOVISTAR PARTIDAZO   TVGRATIS</title>
+<title>MOVISTAR PARTIDAZO   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -485,7 +485,7 @@
 </item>
  
 <item>
-<title>MOVISTAR F1   TVGRATIS</title>
+<title>MOVISTAR F1   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -498,7 +498,7 @@
 </item>
  
 <item>
-<title>MOVISTAR MOTOGP   TVGRATIS</title>
+<title>MOVISTAR MOTOGP   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -511,7 +511,7 @@
 </item>
  
 <item>
-<title>MOVISTAR DEPORTES 1   TVGRATIS</title>
+<title>MOVISTAR DEPORTES 1   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -524,7 +524,7 @@
 </item>
  
 <item>
-<title>MOVISTAR DEPORTES 2   TVGRATIS</title>
+<title>MOVISTAR DEPORTES 2   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -537,7 +537,7 @@
 </item>
  
 <item>
-<title>MOVISTAR GOLF   TVGRATIS</title>
+<title>MOVISTAR GOLF   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -550,7 +550,7 @@
 </item>
  
 <item>
-<title>LA LIGA TV   TVGRATIS</title>
+<title>LA LIGA TV   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -563,7 +563,7 @@
 </item>
  
 <item>
-<title>BEIN SPORTS   TVGRATIS</title>
+<title>BEIN SPORTS   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -576,7 +576,7 @@
 </item>
  
 <item>
-<title>BEIN LA LIGA   TVGRATIS</title>
+<title>BEIN LA LIGA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -589,7 +589,7 @@
 </item>
    
 <item>
-<title>BEIN SPORTS Ñ   TVGRATIS</title>
+<title>BEIN SPORTS Ñ   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -602,7 +602,7 @@
 </item>
  
 <item>
-<title>EUROSPORT 1   TVGRATIS</title>
+<title>EUROSPORT 1   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -615,7 +615,7 @@
 </item>
  
 <item>
-<title>EUROSPORT 2   TVGRATIS</title>
+<title>EUROSPORT 2   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -628,7 +628,7 @@
 </item>
  
 <item>
-<title>GOL   TVGRATIS</title>
+<title>GOL   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -641,7 +641,7 @@
 </item>
  
 <item>
-<title>TELEDEPORTE   TVGRATIS</title>
+<title>TELEDEPORTE   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -654,7 +654,7 @@
 </item>
  
 <item>
-<title>R.MADRID TV   TVGRATIS</title>
+<title>R.MADRID TV   </title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/al3n21ydn/realmadrid.png</thumbnail>
@@ -662,14 +662,14 @@
 </item>
  
 <item>
-<title>BARCA TV   TVGRATIS</title>
+<title>BARCA TV   </title>
 <link></link>
 <thumbnail>https://s1.postimg.cc/3wmywyl1rj/BARNA.png</thumbnail>
 <fanart></fanart>
 </item>
  
 <item>
-<title>LA 1   TVGRATIS</title>
+<title>LA 1   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -682,7 +682,7 @@
 </item>
  
 <item>
-<title>LA 2   TVGRATIS</title>
+<title>LA 2   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -695,7 +695,7 @@
 </item>
  
 <item>
-<title>ANTENA 3   TVGRATIS</title>
+<title>ANTENA 3   </title>
 <link>https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/fjr5h4kcb/antena3.png</thumbnail>
@@ -703,7 +703,7 @@
 </item>
  
 <item>
-<title>CUATRO   TVGRATIS</title>
+<title>CUATRO   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -716,7 +716,7 @@
 </item>
  
 <item>
-<title>TELECINCO   TVGRATIS</title>
+<title>TELECINCO   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -729,7 +729,7 @@
 </item>
  
 <item>
-<title>LA SEXTA   TVGRATIS</title>
+<title>LA SEXTA   </title>
 <link>https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_4.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/7fj1c3njv/lasexta.png</thumbnail>
@@ -737,7 +737,7 @@
 </item>
  
 <item>
-<title>DIVINITY   TVGRATIS</title>
+<title>DIVINITY   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -750,7 +750,7 @@
 </item>
  
 <item>
-<title>ENERGY   TVGRATIS</title>
+<title>ENERGY   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -763,7 +763,7 @@
 </item>
  
 <item>
-<title>FDF   TVGRATIS</title>
+<title>FDF   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -776,7 +776,7 @@
 </item>
  
 <item>
-<title>NEOX   TVGRATIS</title>
+<title>NEOX   </title>
 <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/brc8elc23/neox.png</thumbnail>
@@ -784,7 +784,7 @@
 </item>
  
 <item>
-<title>NOVA   TVGRATIS</title>
+<title>NOVA   </title>
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/s12ehu9yz/nova.png</thumbnail>
@@ -792,7 +792,7 @@
 </item>
  
 <item>
-<title>A3SERIES   TVGRATIS</title>
+<title>A3SERIES   </title>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/beku8j43v/a3series.png</thumbnail>
@@ -800,7 +800,7 @@
 </item>
  
 <item>
-<title>TEN *   TVGRATIS</title>
+<title>TEN *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=ten&width=650&height=397&autostart=true</sportsdevil>
 <referer>http://vercanalestv.com/tv/nacionales/ten.html</referer>
 <thumbnail>https://s1.postimg.cc/5pu9mez37z/TEN.png</thumbnail>
@@ -808,7 +808,7 @@
 </item>
  
 <item>
-<title>DKISS *   TVGRATIS</title>
+<title>DKISS *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=dkiss&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://vercanalestv.com/tv/nacionales/dkiss.html</referer>
 <thumbnail>https://s1.postimg.cc/7kst31jyof/DKISS.png</thumbnail>
@@ -816,7 +816,7 @@
 </item>
  
 <item>
-<title>BE MAD   TVGRATIS</title>
+<title>BE MAD   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -829,7 +829,7 @@
 </item>
  
 <item>
-<title>MEGA   TVGRATIS</title>
+<title>MEGA   </title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/oiqelmwa3/mega.png</thumbnail>
@@ -837,7 +837,7 @@
 </item>
  
 <item>
-<title>PARAMOUNT CHANNEL   TVGRATIS</title>
+<title>PARAMOUNT CHANNEL   </title>
 <link>http://paramount.live.flumotion.com/live/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/nuhk2efh7/paramount.png</thumbnail>
@@ -845,7 +845,7 @@
 </item>
  
 <item>
-<title>24H   TVGRATIS</title>
+<title>24H   </title>
 <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/6tyntwa7f/24h.png</thumbnail>
@@ -853,7 +853,7 @@
 </item>
  
 <item>
-<title>INTERECONOMIA   TVGRATIS</title>
+<title>INTERECONOMIA   </title>
 <link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/g6unjxoh7/intereconomia.png</thumbnail>
@@ -861,7 +861,7 @@
 </item>
  
 <item>
-<title>BOING   TVGRATIS</title>
+<title>BOING   </title>
 <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/3s7vjvk6z/boing.png</thumbnail>
@@ -869,7 +869,7 @@
 </item>
  
 <item>
-<title>CLAN TVE   TVGRATIS</title>
+<title>CLAN TVE   </title>
 <sportsdevil>http://livesports.pw/embedna.php?file=clantv&width=650&height=400</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/5ws8l0qzf/clan.png</thumbnail>
@@ -877,7 +877,7 @@
 </item>
  
 <item>
-<title>DISNEY CHANNEL   TVGRATIS</title>
+<title>DISNEY CHANNEL   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -890,7 +890,7 @@
 </item>
  
 <item>
-<title>DISNEY JUNIOR *   TVGRATIS</title>
+<title>DISNEY JUNIOR *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=disneyjr&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/7ft0qed6r3/PLAYDC.png</thumbnail>
@@ -898,7 +898,7 @@
 </item>
  
 <item>
-<title>DISNEY XD *   TVGRATIS</title>
+<title>DISNEY XD *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=disneyxd&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/8lqrlhj5bz/DCHXD.png</thumbnail>
@@ -906,7 +906,7 @@
 </item>
  
 <item>
-<title>MOVISTAR DISNEY   TVGRATIS</title>
+<title>MOVISTAR DISNEY   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -919,7 +919,7 @@
 </item>
  
 <item>
-<title>NICKELODEON *   TVGRATIS</title>
+<title>NICKELODEON *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=nickelones&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/2zp17mq7fz/NICK.png</thumbnail>
@@ -927,7 +927,7 @@
 </item>
  
 <item>
-<title>NICK JR *   TVGRATIS</title>
+<title>NICK JR *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=nickjr&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/840pwwv25b/NICKJR.png</thumbnail>
@@ -935,7 +935,7 @@
 </item>
  
 <item>
-<title>CANAL PANDA *   TVGRATIS</title>
+<title>CANAL PANDA *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=panda=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/7f7gcwee1r/PANDA.png</thumbnail>
@@ -943,7 +943,7 @@
 </item>
  
 <item>
-<title>BABY TV *   TVGRATIS</title>
+<title>BABY TV *   </title>
 <sportsdevil>http://livesports.pw/embed2.php?file=babytv&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/2peysnq27j/BABY.png</thumbnail>
@@ -951,7 +951,7 @@
 </item>
  
 <item>
-<title>TELEMADRID   TVGRATIS</title>
+<title>TELEMADRID   </title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/xzg7rrfzf/telemadrid.png</thumbnail>
@@ -959,7 +959,7 @@
 </item>
  
 <item>
-<title>LAOTRA   TVGRATIS</title>
+<title>LAOTRA   </title>
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/966nr6pa3/laotra.png</thumbnail>
@@ -967,7 +967,7 @@
 </item>
    
 <item>
-<title>CASTILLA LA MANCHA   TVGRATIS</title>
+<title>CASTILLA LA MANCHA   </title>
 <link>http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/rlr4ooqkr/cmm.png</thumbnail>
@@ -975,7 +975,7 @@
 </item>
  
 <item>
-<title>CASTILLA Y LEON   TVGRATIS</title>
+<title>CASTILLA Y LEON   </title>
 <link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/3urr6m0ob/cyl.png</thumbnail>
@@ -983,7 +983,7 @@
 </item>
  
 <item>
-<title>13TV   TVGRATIS</title>
+<title>13TV   </title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/83wh8uw8r/trece.png</thumbnail>
@@ -991,7 +991,7 @@
 </item>
  
 <item>
-<title>3/24   TVGRATIS</title>
+<title>3/24   </title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/4x1xpa1iz/324.png</thumbnail>
@@ -999,7 +999,7 @@
 </item>
  
 <item>
-<title>8 TV   TVGRATIS</title>
+<title>8 TV   </title>
 <link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/104oaomna7/8tv.png</thumbnail>
@@ -1007,7 +1007,7 @@
 </item>
  
 <item>
-<title>CANAL EXTREMADURA   TVGRATIS</title>
+<title>CANAL EXTREMADURA   </title>
 <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/4mz0jmeuj/extremadura.png</thumbnail>
@@ -1015,7 +1015,7 @@
 </item>
  
 <item>
-<title>CANAL SUR ANDALUCIA   TVGRATIS</title>
+<title>CANAL SUR ANDALUCIA   </title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoId]</link>
     <regex>
         <name>getLiveVideoId</name>
@@ -1030,7 +1030,7 @@
 </item>
  
 <item>
-<title>GALICIA TV   TVGRATIS</title>
+<title>GALICIA TV   </title>
 <link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/og6iyipyz/galicia.png</thumbnail>
@@ -1038,7 +1038,7 @@
 </item>
  
 <item>
-<title>ETB   TVGRATIS</title>
+<title>ETB   </title>
 <link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/evmwbuip7/eitb.png</thumbnail>
@@ -1046,7 +1046,7 @@
 </item>
  
 <item>
-<title>TV3   TVGRATIS</title>
+<title>TV3   </title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/sqps7kpi3/tv3.png</thumbnail>
@@ -1054,7 +1054,7 @@
 </item>
    
 <item>
-<title>ARAGON TV   TVGRATIS</title>
+<title>ARAGON TV   </title>
 <link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/cfpobckqz/aragon.png</thumbnail>
@@ -1062,7 +1062,7 @@
 </item>
  
 <item>
-<title>TPA   TVGRATIS</title>
+<title>TPA   </title>
 <link>http://195.10.10.206/rtpa/tv.webm?GKID=0a23b69cb1c611e7a9ec00163ea2c744</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/6erzebnuz/tpa.png</thumbnail>
@@ -1070,7 +1070,7 @@
 </item>
  
 <item>
-<title>TV CANARIA   TVGRATIS</title>
+<title>TV CANARIA   </title>
 <link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/5tvzchw9kf/TVCANARIA.png</thumbnail>
@@ -1078,7 +1078,7 @@
 </item>
  
 <item>
-<title>MALAGA TV   TVGRATIS</title>
+<title>MALAGA TV   </title>
 <link>http://canalmalaga-tv-live.flumotion.com/chunks.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>http://www.ondaazulmalaga.es/img/logo-canal-malaga.jpg</thumbnail>
