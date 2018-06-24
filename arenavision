@@ -1,9 +1,6 @@
 <item>
 <title>[COLOR green] ARENAVISION [/COLOR] [COLOR red]PINCHA AQUI[/COLOR]</title>
 <link>$doregex[makelist]</link>
-<regex><item>
-<title>[COLOR green] ARENAVISION [/COLOR]</title>
-<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
