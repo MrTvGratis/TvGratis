@@ -62,7 +62,7 @@ item>
 </item>
  
 <item>
-<title>#0   TVGRATIS</title>
+<title>#0   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -75,7 +75,7 @@ item>
 </item>
  
 <item>
-<title>Formula 1   TVGRATIS</title>
+<title>Formula 1   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -88,7 +88,7 @@ item>
 </item>
  
 <item>
-<title>Formula 1 OP.1   TVGRATIS</title>
+<title>Formula 1 OP.1   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -101,7 +101,7 @@ item>
 </item>
  
 <item>
-<title>Formula 1 OP.2   TVGRATIS</title>
+<title>Formula 1 OP.2   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -114,7 +114,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR MOTOGP   TVGRATIS</title>
+<title>MOVISTAR MOTOGP   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -127,7 +127,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR DEPORTES 1    TVGRATIS</title>
+<title>MOVISTAR DEPORTES 1    </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -140,7 +140,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR DEPORTES 2   TVGRATIS</title>
+<title>MOVISTAR DEPORTES 2   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -153,7 +153,7 @@ item>
 </item>
  
 <item>
-<title>BEIN SPORTS LA LIGA   TVGRATIS</title>
+<title>BEIN SPORTS LA LIGA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -166,7 +166,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR DISNEY   TVGRATIS</title>
+<title>MOVISTAR DISNEY   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -179,7 +179,7 @@ item>
 </item
  
 <item>
-<title>MOVISTAR MOTOGP OP.1   TVGRATIS</title>
+<title>MOVISTAR MOTOGP OP.1   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -192,7 +192,7 @@ item>
 </item>
  
 <item>
-<title>CALLE 13   TVGRATIS</title>
+<title>CALLE 13   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -205,7 +205,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR ACCION   TVGRATIS</title>
+<title>MOVISTAR ACCION   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -218,7 +218,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR COMEDIA   TVGRATIS</title>
+<title>MOVISTAR COMEDIA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -231,7 +231,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR DCINE   TVGRATIS</title>
+<title>MOVISTAR DCINE   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -244,7 +244,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR ESTRENOS   TVGRATIS</title>
+<title>MOVISTAR ESTRENOS   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -257,7 +257,7 @@ item>
 </item>
  
 <item>
-<title>MOVISTAR SERIES   TVGRATIS</title>
+<title>MOVISTAR SERIES   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -270,7 +270,7 @@ item>
 </item>
  
 <item>
-<title>AXN   TVGRATIS</title>
+<title>AXN   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -283,7 +283,7 @@ item>
 </item>
  
 <item>
-<title>FOX   TVGRATIS</title>
+<title>FOX   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -296,7 +296,7 @@ item>
 </item>
  
 <item>
-<title>FOX LIFE   TVGRATIS</title>
+<title>FOX LIFE   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -309,7 +309,7 @@ item>
 </item>
  
 <item>
-<title>HOLLYWOOD   TVGRATIS</title>
+<title>HOLLYWOOD   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -322,7 +322,7 @@ item>
 </item>
  
 <item>
-<title>MTV   TVGRATIS</title>
+<title>MTV   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -335,7 +335,7 @@ item>
 </item>
  
 <item>
-<title>SYFY   TVGRATIS</title>
+<title>SYFY   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -348,7 +348,7 @@ item>
 </item>
  
 <item>
-<title>TCM   TVGRATIS</title>
+<title>TCM   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -361,7 +361,7 @@ item>
 </item>
  
 <item>
-<title>TNT   TVGRATIS</title>
+<title>TNT   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -374,7 +374,7 @@ item>
 </item>
  
 <item>
-<title>la liga 123   TVGRATIS</title>
+<title>la liga 123   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -387,7 +387,7 @@ item>
 </item>
  
 <item>
-<title>El Partidazo   TVGRATIS</title>
+<title>El Partidazo   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -400,7 +400,7 @@ item>
 </item>
  
 <item>
-<title>Gol Tv   TVGRATIS</title>
+<title>Gol Tv   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -413,7 +413,7 @@ item>
 </item>
  
 <item>
-<title>NBA ONLINE   TVGRATIS</title>
+<title>NBA ONLINE   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -426,7 +426,7 @@ item>
 </item>
  
 <item>
-<title>HISTORIA   TVGRATIS</title>
+<title>HISTORIA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -439,7 +439,7 @@ item>
 </item>
  
 <item>
-<title>NATIONAL GEOGRAFIC   TVGRATIS</title>
+<title>NATIONAL GEOGRAFIC   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -452,7 +452,7 @@ item>
 </item>
  
 <item>
-<title>DISCOVERY CHANNEL   TVGRATIS</title>
+<title>DISCOVERY CHANNEL   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -465,7 +465,7 @@ item>
 </item>
  
 <item>
-<title>ODISEA   TVGRATIS</title>
+<title>ODISEA   </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
