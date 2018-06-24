@@ -1,0 +1,100 @@
+
+#EXTM3U
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/3676..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,A&E.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/443..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,A3 SERIES
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/3236..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/468..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,ANTENA 3
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/467..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,AXN  HD
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/466..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/465..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,Canal 24H
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/1063..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,CANAL COCINA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/438..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,CAZA Y PESCA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/3675..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,CLAN
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/1065..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,Crimen Investigation
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/3712..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,CUATRO
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/456..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,DISCOVERY CHANNEL.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/437..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,DISNEY CHANNEL.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/436..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,DISNEY JUNIOR.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/435..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,DISNEY XD.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/434..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/1064..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,FOX LIFE.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/454..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,FOX.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/455..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/1451..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/453..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,LA 1
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/452..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,LA 2
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/451..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,LA SEXTA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/450..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MEGA.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/449..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR ACCION
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/464..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/463..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/462..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR DEPORTES 1
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/441..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR DEPORTES 2
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/3674..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/461..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/440..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/459..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/458..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/457..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,NAT GEO WILD.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/430..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,NATIONAL GEOGRAPHIC.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/429..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,NEOX
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/448..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,NICK JR.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/428..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,NICKELODEON HD.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/427..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,ODISEA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/426..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,PANDA
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/425..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,PARAMOUNT
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/447..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SYFY.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/446..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,TCM.
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/445..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,TELECINCO
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/444..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/439..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,VIAJAR
+plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/coatl/1234/420..ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
