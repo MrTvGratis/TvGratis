@@ -27,18 +27,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
-<title>Formula 1 OP.1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.playerfs.com/hembedplayer/l80865085/2/650/400</page>
-<referer>http://vercanalestv.com/tv/deportes/formula1-multi.php</referer>
-</regex>
-<thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+
 
 <item>
 <title>Series xtra</title>
@@ -132,18 +121,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
-<title>LA LIGA TV</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/ligatv/</page>
-<referer>http://telefivegb.com/canales/deporte/ligatvbar</referer>
-</regex>
-<thumbnail>http://cdn8.staztic.com/app/a/4766/4766724/la-liga-tv-official-12-b-512x250.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+
 
 <item>
 <title>MOVISTAR DISNEY</title>
@@ -158,34 +136,10 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
-<title>MOVISTAR DISNEY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://ver.movistarplus.es/player/?canal=MDISNE&serviceUid=4445&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</page>
-<referer>http://ver.movistarplus.es/</referer>
-</regex>
-<thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+
 
 <item>
-<title>MOVISTAR MOTOGP OP.1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.playerfs.com/hembedplayer/rterce4d3/2/650/400</page>
-<referer>http://vertelevision.tv/tv/deportes/motos.html</referer>
-</regex>
-<thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR MOTOGP OP.2</title>
+<title>MOVISTAR MOTOGP</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
@@ -431,9 +385,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-1/OpenSport<title>La liga 123 multi 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13571.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="LaLiga 123 TV HD Multi 1/OpenSport" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD Multi 1/OpenSport</link> 
- 
+
 <item>
 <title>El Partidazo</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
@@ -460,18 +412,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
  
-<item>
-<title>NBA ONLINE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.playerfs.com/hembedplayer/dididi/1/650/400</page>
-<referer>http://verdirectotv.com/tv/deportes/plusdeportes.html</referer>
-</regex>
-<thumbnail>https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+
  
 <item>
 <title>HISTORIA</title>
@@ -525,18 +466,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
-<title>NICK JR</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://www.tvxpc.com/play/nick-junior-op4.php</page>
-<referer>http://www.tvxpc.com/tv/general/nick-jr/</referer>
-</regex>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+
 
 <item>
 <title>DISNEY CHANNEL</title>
@@ -564,31 +494,8 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
-<title>NICKELODEON</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/nickelon/</page>
-<referer>http://telefivegb.com/canales/animacion/nickelon</referer>
-</regex>
-<thumbnail>https://clarky7.files.wordpress.com/2013/10/nickelodeon_logo.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
 
-<!--item>
-<title>CABALLEROS DEL ZODIACO 24H</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vaughnlive.tv/embed/video/variedtv?viewers=true&watermark=left&autoplay=true</page>
-<referer>http://www.vidaentv.com/infantil/los-caballeros-del-zodiaco-en-vivo-24-horas/</referer>
-</regex>
-<thumbnail>https://img00.deviantart.net/520e/i/2016/304/d/e/logo_los_caballeros_del_zodiaco_esp_saint_seiya_by_emakcolo-damu5k2.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item-->
+
 
 
 <item>
@@ -631,7 +538,7 @@
 </item>
 
 <item>
-<title>SEXTA</title>
+<title>LA SEXTA</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
