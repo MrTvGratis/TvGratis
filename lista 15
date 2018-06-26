@@ -2,14 +2,14 @@
 #EXTINF:-1,--------MOVISTAR-----------
 ---------------------------------------------------------------------------------------
 
-#EXTINF:-1,M.Estrenos
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV1.png",M.Estrenos
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29059.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,M.Accion
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPACCI.png",M.Accion
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29054.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",syfy
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29004.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,M.Comedia
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOME.png",M.Comedia
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29055.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29000.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
@@ -27,9 +27,9 @@ plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29092.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mgm.jpg",AMC
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30024.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,M.series
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPSER.png",M.series
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29062.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,Series Xtra
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV2.png",Series Xtra
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29058.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg",Hollywood
 plugin://plugin.video.f4mTester/?url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29096.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
