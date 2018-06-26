@@ -1,103 +1,102 @@
-
 #EXTM3U
 
 #EXTINF:-1,#0 HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/2.m3u8
 #EXTINF:-1,ESTRENOS HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/3.m3u8
 #EXTINF:-1,DCINE HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/4.m3u8
 #EXTINF:-1,ACCION HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/5.m3u8
 #EXTINF:-1,COMEDIA HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/6.m3u8
 #EXTINF:-1,XTRA HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/7.m3u8
 #EXTINF:-1,HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/8.m3u8
 #EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/9.m3u8
 #EXTINF:-1,CALLE 13 HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/10.m3u8
 #EXTINF:-1,LA 1 HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/11.m3u8
 #EXTINF:-1,ANTENA 3 HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/12.m3u8
 #EXTINF:-1,CUATRO HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/13.m3u8
 #EXTINF:-1,TELECINCO HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/14.m3u8
 #EXTINF:-1,LA LIGA TV HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/15.m3u8
 #EXTINF:-1,BEIN LA LIGA HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/16.m3u8
 #EXTINF:-1,GOLTV
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/17.m3u8
 #EXTINF:-1,DEPORTES HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/18.m3u8
 #EXTINF:-1,DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/19.m3u8
 #EXTINF:-1,FUTBOL HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/20.m3u8
 #EXTINF:-1,BEIN SPORT ESPAÃ‘A HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/21.m3u8
 #EXTINF:-1,MOTOGP HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/22.m3u8
 #EXTINF:-1,FORMULA 1 HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/23.m3u8
 #EXTINF:-1,TOROS HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/24.m3u8
 #EXTINF:-1,GOLF HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/25.m3u8
 #EXTINF:-1,BARÃ‡A TV
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/26.m3u8
 #EXTINF:-1,EUROSPORT HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/27.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/28.m3u8
 #EXTINF:-1,NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/29.m3u8
 #EXTINF:-1,DMAX
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/30.m3u8
 #EXTINF:-1,HISTORIA HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/31.m3u8
 #EXTINF:-1,IBERALIA
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/32.m3u8
 #EXTINF:-1,CAZA Y PESCA
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/33.m3u8
 #EXTINF:-1,SERIES HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/34.m3u8
 #EXTINF:-1,SERIES XTRA
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/35.m3u8
 #EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/36.m3u8
 #EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/37.m3u8
 #EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/38.m3u8
 #EXTINF:-1,AXN WHITE
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/39.m3u8
 #EXTINF:-1,COSMO HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/40.m3u8
 #EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/41.m3u8
 #EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/42.m3u8
 #EXTINF:-1,DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/43.m3u8
 #EXTINF:-1,NICKELODEON HD
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/44.m3u8
 #EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/51.m3u8
 #EXTINF:-1,XXX 1
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/45.m3u8
 #EXTINF:-1,XXX 2
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/46.m3u8
 #EXTINF:-1,XXX 3
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/47.m3u8
 #EXTINF:-1,XXX 4
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/48.m3u8
 #EXTINF:-1,XXX 5
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/49.m3u8
 #EXTINF:-1,XXX 6
-plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/50.m3u8
