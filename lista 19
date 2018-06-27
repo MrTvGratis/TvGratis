@@ -15,8 +15,6 @@ plugin://plugin.video.f4mTester/?url=http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcp
 plugin://plugin.video.f4mTester/?url=http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/2898.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,ES: 3/24
 plugin://plugin.video.f4mTester/?url=http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,ES: 8Tv
-plugin://plugin.video.f4mTester/?url=http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3644.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,ES: A&E ESPAÑA
 plugin://plugin.video.f4mTester/?url=http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,ES: A3SERIES
