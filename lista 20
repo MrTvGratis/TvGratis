@@ -8,16 +8,12 @@ plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50Cconecti
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5998.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: 3/24
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6070.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: 360 TV
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6071.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: A&E
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6114.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: AMC HD
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5999.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: Andalucia TV
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6072.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Anime TV
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6073.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: ANTENA 3
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5995.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: Antena 3 HD
