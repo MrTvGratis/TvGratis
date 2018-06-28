@@ -1,6 +1,5 @@
-
-
 #EXTM3U
+                                                                                                       
 #EXTINF:-1,SP:  M. COMEDIA HD
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5997.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: #0
@@ -177,6 +176,10 @@ plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50Cconecti
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5989.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: LA LIGA TV BAR HD
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6009.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: LA SEXTA
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6049.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: La Sexta HD
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6050.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: LA1 HD
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6010.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: M. ACCION
@@ -237,6 +240,26 @@ plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50Cconecti
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6055.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: SYFY HD
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6113.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 1
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6100.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 10
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6101.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 2
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6102.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 3
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6103.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 4
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6104.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 5
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6105.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 6
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6106.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 7
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6107.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 8
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6108.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,SP: Taquilla 9
+plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6109.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: TCM
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6056.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: TCM HD
