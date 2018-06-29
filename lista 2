@@ -6,26 +6,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="------- Spanish ---------" tvg-logo="" group-title="",------- Spanish ---------
 plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 1" tvg-logo="" group-title="Spanish",ES:Taquilla 1
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 2" tvg-logo="" group-title="Spanish",ES:Taquilla 2
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 3" tvg-logo="" group-title="Spanish",ES:Taquilla 3
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 4" tvg-logo="" group-title="Spanish",ES:Taquilla 4
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 5" tvg-logo="" group-title="Spanish",ES:Taquilla 5
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 6" tvg-logo="" group-title="Spanish",ES:Taquilla 6
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 7" tvg-logo="" group-title="Spanish",ES:Taquilla 7
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 8" tvg-logo="" group-title="Spanish",ES:Taquilla 8
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 9" tvg-logo="" group-title="Spanish",ES:Taquilla 9
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="ES:Taquilla 10" tvg-logo="" group-title="Spanish",ES:Taquilla 10
-plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Liga" tvg-logo="" group-title="Spanish",ES:Canal+ Liga
 plugin://plugin.video.f4mTester/?url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Deportes HD" tvg-logo="" group-title="Spanish",ES:Canal+ Deportes HD
