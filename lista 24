@@ -1,1 +1,244 @@
+#EXTM3U
 
+#EXTINF:-1,ES:24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19602.ts
+#EXTINF:-1,ES:A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19601.ts
+#EXTINF:-1,ES:Alfa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19600.ts
+#EXTINF:-1,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19599.ts
+#EXTINF:-1,ES:AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19598.ts
+#EXTINF:-1,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19589.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19595.ts
+#EXTINF:-1,ES:ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19594.ts
+#EXTINF:-1,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19593.ts
+#EXTINF:-1,ES:AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19592.ts
+#EXTINF:-1,ES:AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19591.ts
+#EXTINF:-1,ES:AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19590.ts
+#EXTINF:-1,ES:BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19596.ts
+#EXTINF:-1,ES:BarçaTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19504.ts
+#EXTINF:-1,ES:BeIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19610.ts
+#EXTINF:-1,ES:BEIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19609.ts
+#EXTINF:-1,ES:BEIN SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19606.ts
+#EXTINF:-1,ES:BEIN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19605.ts
+#EXTINF:-1,ES:Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19505.ts
+#EXTINF:-1,ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19506.ts
+#EXTINF:-1,ES:CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19507.ts
+#EXTINF:-1,ES:CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19508.ts
+#EXTINF:-1,ES:CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19509.ts
+#EXTINF:-1,ES:CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19510.ts
+#EXTINF:-1,ES:Canal Sur Andalucia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19511.ts
+#EXTINF:-1,ES:CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19512.ts
+#EXTINF:-1,ES:CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19513.ts
+#EXTINF:-1,ES:CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19538.ts
+#EXTINF:-1,ES:COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19514.ts
+#EXTINF:-1,ES:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19515.ts
+#EXTINF:-1,ES:COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19516.ts
+#EXTINF:-1,ES:COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19517.ts
+#EXTINF:-1,ES:Crimen   Investigación
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19518.ts
+#EXTINF:-1,ES:CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19519.ts
+#EXTINF:-1,ES:DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19520.ts
+#EXTINF:-1,ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19579.ts
+#EXTINF:-1,ES:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19521.ts
+#EXTINF:-1,ES:DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19522.ts
+#EXTINF:-1,ES:DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19523.ts
+#EXTINF:-1,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19524.ts
+#EXTINF:-1,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19525.ts
+#EXTINF:-1,ES:EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19526.ts
+#EXTINF:-1,ES:EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19527.ts
+#EXTINF:-1,ES:EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19528.ts
+#EXTINF:-1,ES:ezetrarza
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19584.ts
+#EXTINF:-1,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19588.ts
+#EXTINF:-1,ES:Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19532.ts
+#EXTINF:-1,ES:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19531.ts
+#EXTINF:-1,ES:Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19530.ts
+#EXTINF:-1,ES:FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19533.ts
+#EXTINF:-1,ES:FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19529.ts
+#EXTINF:-1,ES:GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19604.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19534.ts
+#EXTINF:-1,ES:Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19535.ts
+#EXTINF:-1,ES:HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19536.ts
+#EXTINF:-1,ES:IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19537.ts
+#EXTINF:-1,ES:La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19542.ts
+#EXTINF:-1,ES:LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19540.ts
+#EXTINF:-1,ES:La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19541.ts
+#EXTINF:-1,ES:LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19539.ts
+#EXTINF:-1,ES:LALIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19608.ts
+#EXTINF:-1,ES:LALIGA TV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19607.ts
+#EXTINF:-1,ES:M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19547.ts
+#EXTINF:-1,ES:M. ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19548.ts
+#EXTINF:-1,ES:M. Cine Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19545.ts
+#EXTINF:-1,ES:M. COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19550.ts
+#EXTINF:-1,ES:M. COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19549.ts
+#EXTINF:-1,ES:M. DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19552.ts
+#EXTINF:-1,ES:M. DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19551.ts
+#EXTINF:-1,ES:M. DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19554.ts
+#EXTINF:-1,ES:M. DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19553.ts
+#EXTINF:-1,ES:M. DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19503.ts
+#EXTINF:-1,ES:M. ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19555.ts
+#EXTINF:-1,ES:M. ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19556.ts
+#EXTINF:-1,ES:M. FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19557.ts
+#EXTINF:-1,ES:M. FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19558.ts
+#EXTINF:-1,ES:M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19559.ts
+#EXTINF:-1,ES:M. GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19560.ts
+#EXTINF:-1,ES:M. SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19561.ts
+#EXTINF:-1,ES:M. SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19562.ts
+#EXTINF:-1,ES:M. SERIESXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19564.ts
+#EXTINF:-1,ES:M. SeriesXtraHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19563.ts
+#EXTINF:-1,ES:M. XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19565.ts
+#EXTINF:-1,ES:M.eSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19597.ts
+#EXTINF:-1,ES:M.FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19571.ts
+#EXTINF:-1,ES:M.FORMULA F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19572.ts
+#EXTINF:-1,ES:M.MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19569.ts
+#EXTINF:-1,ES:Mezzo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19566.ts
+#EXTINF:-1,ES:Movistar  Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19568.ts
+#EXTINF:-1,ES:Movistar  Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19567.ts
+#EXTINF:-1,ES:Movistar.MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19570.ts
+#EXTINF:-1,ES:MTV ESPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19573.ts
+#EXTINF:-1,ES:NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19575.ts
+#EXTINF:-1,ES:NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19574.ts
+#EXTINF:-1,ES:National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19577.ts
+#EXTINF:-1,ES:National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19576.ts
+#EXTINF:-1,ES:NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19578.ts
+#EXTINF:-1,ES:NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19580.ts
+#EXTINF:-1,ES:NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19581.ts
+#EXTINF:-1,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19582.ts
+#EXTINF:-1,ES:PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19583.ts
+#EXTINF:-1,ES:Partidazo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19603.ts
+#EXTINF:-1,ES:Real Madrid Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19585.ts
+#EXTINF:-1,ES:RT Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19586.ts
+#EXTINF:-1,ES:RTV Ceuta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19587.ts
+#EXTINF:-1,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19546.ts
+#EXTINF:-1,ES:SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19502.ts
+#EXTINF:-1,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19501.ts
+#EXTINF:-1,ES:TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19500.ts
+#EXTINF:-1,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19499.ts
+#EXTINF:-1,ES:TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19498.ts
+#EXTINF:-1,ES:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19497.ts
+#EXTINF:-1,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19496.ts
+#EXTINF:-1,ES:TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19495.ts
+#EXTINF:-1,ES:TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19494.ts
+#EXTINF:-1,ES:TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19493.ts
+#EXTINF:-1,ES:TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19492.ts
+#EXTINF:-1,ES:TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19491.ts
+#EXTINF:-1,ES:VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19490.ts
+#EXTINF:-1,ES:VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19489.ts
+#EXTINF:-1,ES:VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.turksolutions.org:8000/live/1e6jU0VEP9/41LCc0QZsT/19488.ts
