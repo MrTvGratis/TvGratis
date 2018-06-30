@@ -32,17 +32,7 @@ http://tvgratis.zapto.org:8001/1:0:1:77BC:40A:1:C00000:0:0:0
 http://tvgratis.zapto.org:8001/1:0:1:749A:41C:1:C00000:0:0:0
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/ENERGY.png",Energy
 http://tvgratis.zapto.org:8001/1:0:1:749F:41C:1:C00000:0:0:0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MEGA.png",MEGA
-http://85.136.21.23:8001/1:0:1:9B:11:22D4:EEEE0000:0:0:0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DKISS.png",DKISS
-http://85.136.21.23:8001/1:0:1:A029:9C40:22D4:EEEE0000:0:0:0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TEN.png",TEN
-http://85.136.21.23:8001/1:0:1:A033:9C40:22D4:EEEE0000:0:0:0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/ATRESS.png",Atreseries 
-http://85.136.21.23:8001/1:0:1:65:12:22D4:EEEE0000:0:0:0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCRMAX.png",DMAX
-http://85.136.21.23:8001/1:0:1:115:E:22D4:EEEE0000:0:0:0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/BEMAD.png"group-title="LISTA GRUPO 1",BEMAD HD
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/BEMAD.png",BEMAD HD
 http://tvgratis.zapto.org:8001/1:0:1:7600:408:1:C00000:0:0:0
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/TVGAL.png",Galicia tv
 http://tvgratis.zapto.org:8001/1:0:1:7A4A:410:1:C00000:0:0:0
