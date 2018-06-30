@@ -34,24 +34,7 @@ plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50Cconecti
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6058.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: Bein LA LIGA TV 1
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5977.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 1 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5969.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 2 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5970.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 3 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5971.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 4
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5972.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 5
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5973.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 6
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5974.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 7
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5975.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: BEIN MAX 8
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5976.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Blica Dominicana
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6076.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+
 #EXTINF:-1,SP: Boing
 plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6023.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 #EXTINF:-1,SP: CALLE 13
