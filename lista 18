@@ -1,61 +1,69 @@
 #EXTM3U
 
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/612/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/A3.png",Antena 3
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/615/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/615/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/C4.png",Cuatro
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/616/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/616/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/T5.png",Telecinco
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/617/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/617/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SEXTA.png",LaSexta
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/618/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/618/index.m3u8
 #EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NOVA",Nova
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/602/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/602/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV3.png",#0
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/611/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/611/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV2.png", Movistar Series Xtra
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/568/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/568/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXGE.png",Fox
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/608/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/608/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXCR.png",Fox Life
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/601/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/601/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AMC.png",AMC
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/614/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/614/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AXN.png",AXN
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/610/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SET.png",AXN White
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/609/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/610/index.m3u8
+EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SET.png",AXN White
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/609/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png",Comedy Central
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/572/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/572/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png",Comedy Central
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/573/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/COSMO.png",Cosmo
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/570/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/570/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/HOLLYW.png",Hollywood
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/577/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/577/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOME.png", Movistar Comedia
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/606/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/606/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPACCI.png", Movistar Acción
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/576/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/576/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOLE.png", Movistar DCine
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/607/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/607/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",Iberalia
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/603/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/603/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PLAYDC.png",Disney Junior
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/604/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/604/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPFUT.png", Movistar Fútbol
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/575/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/575/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/BELIGA.png",beIN LaLiga
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/574/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/574/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/LIGBAR.png",La Liga TV
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/581/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/581/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png",Movistar MotoGP
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/613/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/613/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png",Movistar F1
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/612/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/612/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/GOLF%2B.png",Movistar Golf
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/569/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/569/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",Iberalia
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/603/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/603/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TLESUR.png",Telesur
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/803/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/803/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/RTESP.png", Russia Today
-http://playlist.onlybest.tv/en/channel/3c7a4fdfb841ea9ac7fd295df9136468/211/index.m3u8
+http://playlist.onlybest.tv/en/channel/f7a9cbf072268e3f561b62f4c56e5324/211/index.m3u8
+
+
+
+
+
