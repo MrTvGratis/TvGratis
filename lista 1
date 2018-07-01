@@ -2,7 +2,6 @@
 
  
  
- 
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA 1 HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
