@@ -1,261 +1,406 @@
 #EXTM3U
-                                                                                                       
-#EXTINF:-1,SP:  M. COMEDIA HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5997.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: #0
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5996.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: #0 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5998.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: 3/24
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6070.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: A&E
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6114.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5999.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Andalucia TV
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6072.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: ANTENA 3
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5995.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Antena 3 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6020.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Atreseries HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6030.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6021.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6063.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: AXN WHITE
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6022.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6000.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Azteca Noticias
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6074.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Barca TV
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6058.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Bein LA LIGA TV 1
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5977.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
 
-#EXTINF:-1,SP: Boing
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6023.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: CALLE 13
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6024.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6001.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  ACCION
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6028.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  Comedia
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6029.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  DCINE
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6068.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  Estrenos
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6026.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  GOLF
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6032.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: CANAL  #0 SD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6033.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  Liga
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6034.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  Series Xtra
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6036.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal  TOROS
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6027.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LOGOS TV
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6079.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: DCine
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6080.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6081.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal Baby
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6082.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: cuatro
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6084.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal Deportes HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6025.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal Musica
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6086.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Canal Sevilla
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6087.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6088.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6038.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: CBN en Espaol
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6089.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Chile La Red
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6090.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6039.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6003.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Cosmo
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6091.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: COSMO HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6004.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: CUATRO
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6040.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6005.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Discovery Channel
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6092.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6042.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6043.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6044.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5994.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Energy
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6045.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Fdf
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6046.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: FOX
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6047.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6069.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Fox Life
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6211.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: FOX LIFE HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6007.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6048.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: History HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6093.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: HWD HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6037.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: ITV HD Chile
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6094.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA 1
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5993.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6059.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6060.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6008.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV 2
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5978.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV 3
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5979.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV 4
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5980.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV 5
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5992.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV 6
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5991.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV 7
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5990.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV 8
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5989.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6009.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA SEXTA
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6049.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: La Sexta HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6050.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: LA1 HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6010.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. ACCION
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5988.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5987.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. CINE ESPANOL
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6041.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. COMEDIA
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5986.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. DCINE
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6210.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6064.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. Deportes
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6031.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. ESTRENOS
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5985.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5984.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. Futbol
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6019.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. FUTBOL HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6065.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. Series
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6066.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. Series HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6035.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. XTRA
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5983.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: M. XTRA HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6067.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: MEGA
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6011.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Movie Star F1
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6095.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Movies Star Moto Gp
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6096.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Nat Geo Wild
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6097.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6051.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: National Geographic HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6012.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: NEOX
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5982.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: NICK JUNIOR
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6052.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: NICKELODEON
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6053.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: NOVA
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6054.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: RCN
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6013.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Real Madrid
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6098.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: SYFY
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6055.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6113.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 1
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6100.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 10
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6101.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 2
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6102.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 3
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6103.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 4
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6104.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 5
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6105.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 6
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6106.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 7
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6107.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 8
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6108.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Taquilla 9
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6109.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TCM
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6056.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6014.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TELECINCO HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6015.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Teledeporte
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6061.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: Teleticino
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6110.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TNT
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6057.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6016.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6017.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TV Galicia
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6111.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: TVN Chile HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6112.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP: VIAJAR HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6018.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP/LA: Caracol HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6002.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
-#EXTINF:-1,SP/La: TELEVISA HD
-plugin://plugin.video.f4mTester/?url=http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6062.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
+#EXTINF:-1,------- Spanish ---------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1072.ts
+#EXTINF:-1,ES: Canal+ Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1012.ts
+#EXTINF:-1,ES: Canal+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2590.ts
+#EXTINF:-1,ES: Canal+ Futpol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1020.ts
+#EXTINF:-1,ES: Canal+ Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1019.ts
+#EXTINF:-1,ES: Canal+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1016.ts
+#EXTINF:-1,ES: Canal+ Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1030.ts
+#EXTINF:-1,ES: Canal+ Dcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1028.ts
+#EXTINF:-1,ES: Canal+ Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1031.ts
+#EXTINF:-1,ES: Canal+ Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1059.ts
+#EXTINF:-1,ES: Canal+ de las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1048.ts
+#EXTINF:-1,ES: Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1058.ts
+#EXTINF:-1,ES: Canal+ Serie Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1004.ts
+#EXTINF:-1,ES: Canal+ Cuatro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1026.ts
+#EXTINF:-1,ES: Canal+ Cine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1033.ts
+#EXTINF:-1,ES: Canal+ Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1024.ts
+#EXTINF:-1,ES: Canal+ AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1054.ts
+#EXTINF:-1,ES: Canal+ Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1049.ts
+#EXTINF:-1,ES: Cine latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1002.ts
+#EXTINF:-1,ES: Canal+ Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1034.ts
+#EXTINF:-1,ES: Canal+ Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1029.ts
+#EXTINF:-1,ES: ECOTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1047.ts
+#EXTINF:-1,ES: Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1041.ts
+#EXTINF:-1,ES: Canal+ Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1039.ts
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1046.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1003.ts
+#EXTINF:-1,ES: Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1037.ts
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1021.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1011.ts
+#EXTINF:-1,ES: Movi Star F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1010.ts
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1042.ts
+#EXTINF:-1,ES: Win Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1050.ts
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1045.ts
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1014.ts
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1013.ts
+#EXTINF:-1,ES: Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1015.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1025.ts
+#EXTINF:-1,ES: TV3 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2591.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2589.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2588.ts
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2585.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2586.ts
+#EXTINF:-1,ES: Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2587.ts
+#EXTINF:-1,ES: VTV +  (URU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1053.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1056.ts
+#EXTINF:-1,ES: 324 Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1005.ts
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1060.ts
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1036.ts
+#EXTINF:-1,ES: Axn White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1023.ts
+#EXTINF:-1,ES: History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1051.ts
+#EXTINF:-1,ES: Concert Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1009.ts
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/999.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1001.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1007.ts
+#EXTINF:-1,ES: Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1027.ts
+#EXTINF:-1,ES: Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1043.ts
+#EXTINF:-1,ES: Teleticino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1008.ts
+#EXTINF:-1,ES: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1057.ts
+#EXTINF:-1,ES: National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1055.ts
+#EXTINF:-1,ES: Disney Chaneel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1040.ts
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1038.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1032.ts
+#EXTINF:-1,ES: TVN Chile HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1006.ts
+#EXTINF:-1,----------Latino----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2701.ts
+#EXTINF:-1,ES: Mundial Futbol Option 1 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2680.ts
+#EXTINF:-1,ES: Mundial Futbol Option 2 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2681.ts
+#EXTINF:-1,ES: Mundial Futbol Option 3 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2682.ts
+#EXTINF:-1,ES: Mundial Futbol Option 4 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2683.ts
+#EXTINF:-1,ES: Mundial Futbol Option 5 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2684.ts
+#EXTINF:-1,ES: Mundial Futbol Option 6 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2685.ts
+#EXTINF:-1,ES: Mundial Futbol Option 7 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2686.ts
+#EXTINF:-1,ES: Mundial Futbol Option 8 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2687.ts
+#EXTINF:-1,ES: Mundial Futbol Option 9 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2688.ts
+#EXTINF:-1,ES: Mundial Futbol Option 10 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2689.ts
+#EXTINF:-1,ES: Azteca trece LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1018.ts
+#EXTINF:-1,ES: Azteca Noticias LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1061.ts
+#EXTINF:-1,ES: Azteca Noticias 16 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2583.ts
+#EXTINF:-1,ES: Azteca 7 Monterrey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1035.ts
+#EXTINF:-1,ES: Antena 3 Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1000.ts
+#EXTINF:-1,ES: Golden LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2567.ts
+#EXTINF:-1,ES: Azteca CLIC LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2571.ts
+#EXTINF:-1,ES: Wow TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2558.ts
+#EXTINF:-1,ES: HD 26 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2561.ts
+#EXTINF:-1,ES: Boomerang LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2597.ts
+#EXTINF:-1,ES: ALL Sports LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2593.ts
+#EXTINF:-1,ES: HB TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2637.ts
+#EXTINF:-1,ES: Azteca Corazon LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2559.ts
+#EXTINF:-1,ES: Warner TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2574.ts
+#EXTINF:-1,ES: Cinecanal LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2562.ts
+#EXTINF:-1,ES: Sony HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2631.ts
+#EXTINF:-1,ES: Discovery TLC LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2635.ts
+#EXTINF:-1,ES: Disny HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2638.ts
+#EXTINF:-1,ES: Animal Planet LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2643.ts
+#EXTINF:-1,ES: Cinemax LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2645.ts
+#EXTINF:-1,ES: Comedy Central HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2633.ts
+#EXTINF:-1,ES: Golden Edge LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2651.ts
+#EXTINF:-1,ES: Discovery Science LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2650.ts
+#EXTINF:-1,ES: Discovery Civilization LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2646.ts
+#EXTINF:-1,ES: National.Geographic LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2647.ts
+#EXTINF:-1,ES: Nickelodeon LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2644.ts
+#EXTINF:-1,ES: Discovery Home & Health LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2652.ts
+#EXTINF:-1,ES: Discovery Home LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2653.ts
+#EXTINF:-1,ES: Discovery Turbo LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2654.ts
+#EXTINF:-1,ES: G Premer LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2655.ts
+#EXTINF:-1,ES: Disney XD One LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2656.ts
+#EXTINF:-1,ES: MAx Prime Este LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2657.ts
+#EXTINF:-1,ES: Fox LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2658.ts
+#EXTINF:-1,ES: FOX 1 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2641.ts
+#EXTINF:-1,ES: Fox Series LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2550.ts
+#EXTINF:-1,ES: Fox Classics LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2661.ts
+#EXTINF:-1,ES: Fox Action LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2659.ts
+#EXTINF:-1,ES: Fox Cinema LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2660.ts
+#EXTINF:-1,ES: Fox Family LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2663.ts
+#EXTINF:-1,ES: True TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2664.ts
+#EXTINF:-1,ES: Fox Movies LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2665.ts
+#EXTINF:-1,ES: Discovery Kids LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2601.ts
+#EXTINF:-1,ES: Esporte Interativo 2 HD BR LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2605.ts
+#EXTINF:-1,ES: Chile CNN LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2662.ts
+#EXTINF:-1,ES: Chile Chilevision LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2666.ts
+#EXTINF:-1,ES: Chile UC13 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2675.ts
+#EXTINF:-1,ES: Chile Portal Foxmix LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2676.ts
+#EXTINF:-1,ES: La Mega Mundial LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2667.ts
+#EXTINF:-1,ES: Chile Pinguino TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2584.ts
+#EXTINF:-1,ES: CHILE VTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1052.ts
+#EXTINF:-1,ES: Chile 18 Carnaval
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1044.ts
+#EXTINF:-1,ES: Chile Bio Bio TV Canal 9 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2632.ts
+#EXTINF:-1,ES: Chile Mega LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2678.ts
+#EXTINF:-1,ES: AMC LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2603.ts
+#EXTINF:-1,ES: FX LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2668.ts
+#EXTINF:-1,ES: H2 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2669.ts
+#EXTINF:-1,ES: Tooncast LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2670.ts
+#EXTINF:-1,ES: Antares TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2671.ts
+#EXTINF:-1,ES: TV Publica LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2673.ts
+#EXTINF:-1,ES: Canal22 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2672.ts
+#EXTINF:-1,ES: Fox Sports Premiun HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2674.ts
+#EXTINF:-1,ES: Space LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2677.ts
+#EXTINF:-1,ES: Universal Channel HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2679.ts
+#EXTINF:-1,ES: TV Music LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2582.ts
+#EXTINF:-1,ES: YLE TV 1 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2639.ts
+#EXTINF:-1,ES: FXM LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2570.ts
+#EXTINF:-1,ES: TV Brasil LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2564.ts
+#EXTINF:-1,ES: El 1 Web TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2569.ts
+#EXTINF:-1,ES:Cinema Dinamita LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2572.ts
+#EXTINF:-1,ES: Religion LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2554.ts
+#EXTINF:-1,ES: Telpin HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2560.ts
+#EXTINF:-1,ES: Noticias ForoTV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2606.ts
+#EXTINF:-1,ES: Mega TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2557.ts
+#EXTINF:-1,ES: America TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2602.ts
+#EXTINF:-1,ES: TR Telero LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2604.ts
+#EXTINF:-1,ES: COS LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2578.ts
+#EXTINF:-1,ES: MIMUSICA HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2598.ts
+#EXTINF:-1,ES: Canal 10 Chetumal LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2565.ts
+#EXTINF:-1,ES: Extrema HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2607.ts
+#EXTINF:-1,ES: Channel 8 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2610.ts
+#EXTINF:-1,ES: Sevilla FC TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2608.ts
+#EXTINF:-1,ES: Aire de Santa Fe LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2609.ts
+#EXTINF:-1,ES: Neox HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2577.ts
+#EXTINF:-1,ES: Multimedios LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2576.ts
+#EXTINF:-1,ES: Echo TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2555.ts
+#EXTINF:-1,ES: CGTN LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2592.ts
+#EXTINF:-1,ES: Atreseries LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2594.ts
+#EXTINF:-1,ES: Tru TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2551.ts
+#EXTINF:-1,ES: Canal Once LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2575.ts
+#EXTINF:-1,ES: Kids TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2547.ts
+#EXTINF:-1,ES: Gong LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2563.ts
+#EXTINF:-1,ES: E! Entertainment  LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2552.ts
+#EXTINF:-1,ES: TNT Sports LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2573.ts
+#EXTINF:-1,ES: TVP MAZATLÿN LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2553.ts
+#EXTINF:-1,ES: TBS LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2556.ts
+#EXTINF:-1,ES: DMX TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2581.ts
+#EXTINF:-1,ES: Atomic LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2580.ts
+#EXTINF:-1,ES: TDN Sports LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2548.ts
+#EXTINF:-1,ES: A3S LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2579.ts
+#EXTINF:-1,ES: Raport LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2546.ts
+#EXTINF:-1,ES: Cartoon tv LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2566.ts
+#EXTINF:-1,ES: 44 Mexico LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2549.ts
+#EXTINF:-1,ES: Fox Sports LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2568.ts
+#EXTINF:-1,ES: TNT Series LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2611.ts
+#EXTINF:-1,ES: Canal Sony HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2618.ts
+#EXTINF:-1,ES: Canal 5 HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2622.ts
+#EXTINF:-1,ES: COSFC LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2612.ts
+#EXTINF:-1,ES: Elgourmet LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2614.ts
+#EXTINF:-1,ES: Claro Sports LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2619.ts
+#EXTINF:-1,ES: Fox Sport 2 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2613.ts
+#EXTINF:-1,ES: Ve Plus TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2623.ts
+#EXTINF:-1,ES: PPV Rock Dog LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2617.ts
+#EXTINF:-1,ES: TyC Sports LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2615.ts
+#EXTINF:-1,ES: Marbella TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2616.ts
+#EXTINF:-1,ES: NEX TV LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2621.ts
+#EXTINF:-1,ES: CDO Sport LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2627.ts
+#EXTINF:-1,ES: Band HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2628.ts
+#EXTINF:-1,ES: Paramount LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2624.ts
+#EXTINF:-1,ES: Tele Uno LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2625.ts
+#EXTINF:-1,ES: Canal Provincial LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2629.ts
+#EXTINF:-1,ES: Tv Senado HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2626.ts
+#EXTINF:-1,ES: Comedy Central LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2630.ts
+#EXTINF:-1,ES: TNT HD LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2634.ts
+#EXTINF:-1,ES: Lilfe TIME LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2636.ts
+#EXTINF:-1,ES: TV Marti LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2640.ts
+#EXTINF:-1,ES: Canal 9 Salta LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2642.ts
+#EXTINF:-1,ES: La Semana LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/2648.ts
