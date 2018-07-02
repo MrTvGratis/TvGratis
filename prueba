@@ -1,1 +1,140 @@
 
+#EXTM3U
+
+
+#EXTINF:-1,Es_24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54139.ts
+#EXTINF:-1,Es_A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54138.ts
+#EXTINF:-1,Es_AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54137.ts
+#EXTINF:-1,Es_Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54136.ts
+#EXTINF:-1,Es_Aragon TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54135.ts
+#EXTINF:-1,Es_AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54134.ts
+#EXTINF:-1,Es_AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54133.ts
+#EXTINF:-1,Es_Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54132.ts
+#EXTINF:-1,Es_Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54131.ts
+#EXTINF:-1,Es_Bein Laliga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54130.ts
+#EXTINF:-1,Es_Bein Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54129.ts
+#EXTINF:-1,Es_Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54128.ts
+#EXTINF:-1,Es_C&I
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54127.ts
+#EXTINF:-1,Es_Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54126.ts
+#EXTINF:-1,Es_Canal Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54125.ts
+#EXTINF:-1,Es_Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54124.ts
+#EXTINF:-1,Es_Canal Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54123.ts
+#EXTINF:-1,Es_Canal Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54122.ts
+#EXTINF:-1,Es_Canal Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54121.ts
+#EXTINF:-1,Es_Canal Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54120.ts
+#EXTINF:-1,Es_Canal Extremadura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54119.ts
+#EXTINF:-1,Es_Canal Ftbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54118.ts
+#EXTINF:-1,Es_Canal Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54117.ts
+#EXTINF:-1,Es_Canal Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54116.ts
+#EXTINF:-1,Es_Canal Odisea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54115.ts
+#EXTINF:-1,Es_Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54114.ts
+#EXTINF:-1,Es_Canal Portada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54113.ts
+#EXTINF:-1,Es_Canal Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54112.ts
+#EXTINF:-1,Es_Canal Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54111.ts
+#EXTINF:-1,Es_Canal Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54110.ts
+#EXTINF:-1,Es_Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54109.ts
+#EXTINF:-1,Es_Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54108.ts
+#EXTINF:-1,Es_Cosmo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54107.ts
+#EXTINF:-1,Es_Cuatro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54080.ts
+#EXTINF:-1,Es_Dcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54106.ts
+#EXTINF:-1,Es_Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54105.ts
+#EXTINF:-1,Es_Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54104.ts
+#EXTINF:-1,Es_Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54103.ts
+#EXTINF:-1,Es_Disney JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54102.ts
+#EXTINF:-1,Es_Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54101.ts
+#EXTINF:-1,Es_Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54100.ts
+#EXTINF:-1,Es_Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54099.ts
+#EXTINF:-1,Es_Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54098.ts
+#EXTINF:-1,Es_Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54097.ts
+#EXTINF:-1,Es_FOX Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54096.ts
+#EXTINF:-1,Es_France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54095.ts
+#EXTINF:-1,Es_Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54094.ts
+#EXTINF:-1,Es_Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54093.ts
+#EXTINF:-1,Es_Iberalia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54092.ts
+#EXTINF:-1,Es_La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54091.ts
+#EXTINF:-1,Es_La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54090.ts
+#EXTINF:-1,Es_Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54088.ts
+#EXTINF:-1,Es_Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54087.ts
+#EXTINF:-1,Es_MTV Espanha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54086.ts
+#EXTINF:-1,Es_Nation Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54085.ts
+#EXTINF:-1,Es_Nation Geograph Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54084.ts
+#EXTINF:-1,Es_Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54083.ts
+#EXTINF:-1,Es_nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54082.ts
+#EXTINF:-1,Es_Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54081.ts
+#EXTINF:-1,Es_Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54079.ts
+#EXTINF:-1,Es_RT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54078.ts
+#EXTINF:-1,Es_SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54077.ts
+#EXTINF:-1,Es_TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54076.ts
+#EXTINF:-1,Es_Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54075.ts
+#EXTINF:-1,Es_Telesur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54074.ts
+#EXTINF:-1,Es_TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54073.ts
+#EXTINF:-1,Es_Toros TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54072.ts
+#EXTINF:-1,Es_Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/54071.ts
