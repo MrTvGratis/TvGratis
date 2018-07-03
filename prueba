@@ -1,419 +1,104 @@
 #EXTM3U
-#EXTINF:-1,LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4613.ts
-#EXTINF:-1,La 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5107.ts
-#EXTINF:-1,LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5.ts
-#EXTINF:-1,La 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7491.ts
-#EXTINF:-1,24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/10.ts
-#EXTINF:-1,Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6.ts
-#EXTINF:-1,Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5108.ts
-#EXTINF:-1,Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7.ts
-#EXTINF:-1,Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4816.ts
-#EXTINF:-1,Telecinco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4615.ts
-#EXTINF:-1,Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5109.ts
-#EXTINF:-1,DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/32.ts
-#EXTINF:-1,DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6317.ts
-#EXTINF:-1,TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4451.ts
-#EXTINF:-1,BE MAD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4682.ts
-#EXTINF:-1,MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1838.ts
-#EXTINF:-1,DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6316.ts
-#EXTINF:-1,ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/31.ts
-#EXTINF:-1,FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/29.ts
-#EXTINF:-1,13TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6304.ts
-#EXTINF:-1,A3Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/974.ts
-#EXTINF:-1,NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/19.ts
-#EXTINF:-1,Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/853.ts
-#EXTINF:-1,Neox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6609.ts
-#EXTINF:-1,Telemadrid HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7492.ts
-#EXTINF:-1,---------- Cine ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6834.ts
-#EXTINF:-1,Movistar Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5097.ts
-#EXTINF:-1,Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2110.ts
-#EXTINF:-1,Movistar Acción
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2111.ts
-#EXTINF:-1,Movistar Acción HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5127.ts
-#EXTINF:-1,Movistar Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2112.ts
-#EXTINF:-1,Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5126.ts
-#EXTINF:-1,Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2113.ts
-#EXTINF:-1,Movistar DCine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5128.ts
-#EXTINF:-1,Movistar Cine Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/38.ts
-#EXTINF:-1,Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1021.ts
-#EXTINF:-1,Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6356.ts
-#EXTINF:-1,Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4685.ts
-#EXTINF:-1,Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6352.ts
-#EXTINF:-1,MoNoLatino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6615.ts
-#EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/14.ts
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6315.ts
-#EXTINF:-1,TNT ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/12.ts
-#EXTINF:-1,TNT HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5104.ts
-#EXTINF:-1,Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/18.ts
-#EXTINF:-1,DE PELICULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5167.ts
-#EXTINF:-1,---------- Entretenimiento ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6899.ts
-#EXTINF:-1,#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/42.ts
-#EXTINF:-1,#0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5103.ts
-#EXTINF:-1,Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/57.ts
-#EXTINF:-1,Movistar Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6354.ts
-#EXTINF:-1,Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/56.ts
-#EXTINF:-1,M. Series xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6353.ts
-#EXTINF:-1,FOX ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4361.ts
-#EXTINF:-1,Fox HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5111.ts
-#EXTINF:-1,FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/632.ts
-#EXTINF:-1,FOX Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6312.ts
-#EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/70.ts
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5105.ts
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1827.ts
-#EXTINF:-1,AXN HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5136.ts
-#EXTINF:-1,AXN White ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/69.ts
-#EXTINF:-1,AXN White HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5137.ts
-#EXTINF:-1,DARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4362.ts
-#EXTINF:-1,XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4452.ts
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/16.ts
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6355.ts
-#EXTINF:-1,CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/53.ts
-#EXTINF:-1,CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5106.ts
-#EXTINF:-1,COMEDY CENTRAL ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/41.ts
-#EXTINF:-1,COMEDY CENTRAL HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1028.ts
-#EXTINF:-1,COSMOPOLITAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/40.ts
-#EXTINF:-1,COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6351.ts
-#EXTINF:-1,Toros TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/55.ts
-#EXTINF:-1,Toros TV HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4809.ts
-#EXTINF:-1,NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/20.ts
-#EXTINF:-1,Telenovelas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5168.ts
-#EXTINF:-1,ONDA CÿDIZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1555.ts
-#EXTINF:-1,CANAL SUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/45.ts
-#EXTINF:-1,---------- Deportes ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6900.ts
-#EXTINF:-1,Eventos Deportivos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6486.ts
-#EXTINF:-1,Movistar Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/61.ts
-#EXTINF:-1,Eventos Deportivos 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6582.ts
-#EXTINF:-1,MOVISTAR DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6319.ts
-#EXTINF:-1,Movistar Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/37.ts
-#EXTINF:-1,Movistar Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6320.ts
-#EXTINF:-1,Movistar Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2249.ts
-#EXTINF:-1,Movistar Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4932.ts
-#EXTINF:-1,Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/13.ts
-#EXTINF:-1,Movistar Partidazo SOLO EN EMISION*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5098.ts
-#EXTINF:-1,Movistar Partidazo HD SOLO EN EMISION*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/613.ts
-#EXTINF:-1,LaLiga TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/25.ts
-#EXTINF:-1,LaLiga TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4806.ts
-#EXTINF:-1,beIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/65.ts
-#EXTINF:-1,beIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4811.ts
-#EXTINF:-1,BeIn Sports LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/66.ts
-#EXTINF:-1,BeIn Sports LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4808.ts
-#EXTINF:-1,BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/67.ts
-#EXTINF:-1,GOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/28.ts
-#EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6358.ts
-#EXTINF:-1,EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/30.ts
-#EXTINF:-1,EUROSPORT  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1801.ts
-#EXTINF:-1,Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1373.ts
-#EXTINF:-1,Movistar Fórmula 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4807.ts
-#EXTINF:-1,M.MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2106.ts
-#EXTINF:-1,Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4810.ts
-#EXTINF:-1,Movistar Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/58.ts
-#EXTINF:-1,MOVISTAR GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6318.ts
-#EXTINF:-1,LaLiga 1|2|3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5099.ts
-#EXTINF:-1,LaLiga 1|2|3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5153.ts
-#EXTINF:-1,LaLiga 123 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6364.ts
-#EXTINF:-1,Bein Sports Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/3317.ts
-#EXTINF:-1,Realmadrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4689.ts
-#EXTINF:-1,BOX NATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1266.ts
-#EXTINF:-1,BOX NATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5798.ts
-#EXTINF:-1,Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4460.ts
-#EXTINF:-1,Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4461.ts
-#EXTINF:-1,Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4462.ts
-#EXTINF:-1,TYC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5169.ts
-#EXTINF:-1,UFC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5962.ts
-#EXTINF:-1,Fight Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5975.ts
-#EXTINF:-1,Fox Sports Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.ts
-#EXTINF:-1,ESPN Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6192.ts
-#EXTINF:-1,7RM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TELESUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1,WWE 24/7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6204.ts
-#EXTINF:-1,NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6525.ts
-#EXTINF:-1,SFRSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6300.ts
-#EXTINF:-1,SFRSport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6301.ts
-#EXTINF:-1,SFRSport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6302.ts
-#EXTINF:-1,SFRSport5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6303.ts
-#EXTINF:-1,---------- Cultura ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6901.ts
-#EXTINF:-1,CANAL ODISEA ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/49.ts
-#EXTINF:-1,Nat Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1027.ts
-#EXTINF:-1,Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6359.ts
-#EXTINF:-1,NAT GEO WILD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4454.ts
-#EXTINF:-1,Nat Geo Wild HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5102.ts
-#EXTINF:-1,Discovery Channel España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/36.ts
-#EXTINF:-1,Crimen e Investigacion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/39.ts
-#EXTINF:-1,HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/27.ts
-#EXTINF:-1,CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/44.ts
-#EXTINF:-1,DCASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6314.ts
-#EXTINF:-1,IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/634.ts
-#EXTINF:-1,VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/11.ts
-#EXTINF:-1,Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6360.ts
-#EXTINF:-1,A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/71.ts
-#EXTINF:-1,CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/51.ts
-#EXTINF:-1,---------- Música ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6902.ts
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/24.ts
-#EXTINF:-1,HIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-#EXTINF:-1,nrj Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2255.ts
-#EXTINF:-1,SOL MUSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4458.ts
-#EXTINF:-1,Mezzo Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1836.ts
-#EXTINF:-1,Classica TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4681.ts
-#EXTINF:-1,Telemusica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4805.ts
-#EXTINF:-1,SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4759.ts
-#EXTINF:-1,TELEHIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6206.ts
-#EXTINF:-1,---------- Infantiles ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6903.ts
-#EXTINF:-1,DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/35.ts
-#EXTINF:-1,DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/33.ts
-#EXTINF:-1,DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/34.ts
-#EXTINF:-1,BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/68.ts
-#EXTINF:-1,BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/64.ts
-#EXTINF:-1,CLAN TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7507.ts
-#EXTINF:-1,NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/973.ts
-#EXTINF:-1,CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/47.ts
-#EXTINF:-1,Nickelodeon ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/971.ts
-#EXTINF:-1,Movistar Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6307.ts
-#EXTINF:-1,---------- Catalunya ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6905.ts
-#EXTINF:-1,CAT:3/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,CAT:8TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://streaming.8tv.cat:1935/8TV/8aldia-directe/chunklist_w536491014.m3u8
-#EXTINF:-1,CAT:Esport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1270.ts
-#EXTINF:-1,CAT:Super 3/33
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1271.ts
-#EXTINF:-1,CAT:TV3cat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1269.ts
-#EXTINF:-1,---------- Eventos ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6904.ts
-#EXTINF:-1,EVENTOS:BEIN LALIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6350.ts
-#EXTINF:-1,EVENTOS:BEIN  LALIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6349.ts
-#EXTINF:-1,EVENTOS: BEIN  LALIGA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6348.ts
-#EXTINF:-1,EVENTOS: BEIN  LALIGA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6347.ts
-#EXTINF:-1,EVENTOS: BEIN LALIGA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6346.ts
-#EXTINF:-1,EVENTOS:BEIN LALIGA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6345.ts
-#EXTINF:-1,EVENTOS:BEIN LALIGA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6344.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 1  España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6343.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 2  España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6342.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 3  España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6341.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 4  España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6340.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 5  España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6339.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 6  España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6338.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 7  España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6337.ts
-#EXTINF:-1,EVENTOS:Bein Sports MAX 8 ESPAÑA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6336.ts
-#EXTINF:-1,EVENTOS:MULTIDEPORTE  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6335.ts
-#EXTINF:-1,EVENTOS:MULTIDEPORTE  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6334.ts
-#EXTINF:-1,EVENTOS:MULTIDEPORTE  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6333.ts
-#EXTINF:-1,EVENTOS:MULTIDEPORTE  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6332.ts
-#EXTINF:-1,EVENTOS:MULTIDEPORTE  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6331.ts
-#EXTINF:-1,EVENTOS:MULTIDEPORTE  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6330.ts
-#EXTINF:-1,EVENTOS:MULTIDEPORTE  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6329.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6328.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6327.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6326.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6325.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6324.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6323.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6322.ts
-#EXTINF:-1,EVENTOS:MULTIFUTBOL  8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6321.ts
-#EXTINF:-1,MULTIDEP.1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5149.ts
-#EXTINF:-1,MULTIDEP.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5150.ts
-#EXTINF:-1,MULTIDEP.3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5151.ts
-#EXTINF:-1,MULTIDEP.4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5152.ts
+
+#EXTINF:-1,-------------- | SPAIN | --------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11042.ts
+#EXTINF:-1,SP | Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17192.ts
+#EXTINF:-1,SP | Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17191.ts
+#EXTINF:-1,SP | Antena Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17190.ts
+#EXTINF:-1,SP | AXN Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17189.ts
+#EXTINF:-1,SP | AXN White Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17188.ts
+#EXTINF:-1,SP | C  ACCIÓN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17187.ts
+#EXTINF:-1,SP | C  COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17186.ts
+#EXTINF:-1,SP | C  DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17185.ts
+#EXTINF:-1,SP | Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17184.ts
+#EXTINF:-1,SP | Canal  Fútbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17183.ts
+#EXTINF:-1,SP | Canal  Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17182.ts
+#EXTINF:-1,SP | Canal  Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17181.ts
+#EXTINF:-1,SP | Canal  Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17180.ts
+#EXTINF:-1,SP | Canal 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17179.ts
+#EXTINF:-1,SP | Canal Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17178.ts
+#EXTINF:-1,SP | Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17177.ts
+#EXTINF:-1,SP | Disney Junior Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17176.ts
+#EXTINF:-1,SP | Factoria de Ficcion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17175.ts
+#EXTINF:-1,SP | Fox Life Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17174.ts
+#EXTINF:-1,SP | Fox Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17173.ts
+#EXTINF:-1,SP | Garage TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17172.ts
+#EXTINF:-1,SP | La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17171.ts
+#EXTINF:-1,SP | La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17170.ts
+#EXTINF:-1,SP | MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17168.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17167.ts
+#EXTINF:-1,SP | NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17166.ts
+#EXTINF:-1,SP | National Geographic Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17165.ts
+#EXTINF:-1,SP | Odisea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17164.ts
+#EXTINF:-1,SP | Sol Música
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17163.ts
+#EXTINF:-1,SP | SyFy Universal Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17162.ts
+#EXTINF:-1,SP | Telecinco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17161.ts
+#EXTINF:-1,SP | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17160.ts
+#EXTINF:-1,SP | TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17159.ts
+#EXTINF:-1,SP | Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11034.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11025.ts
+#EXTINF:-1,SP | CANAL  COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11027.ts
+#EXTINF:-1,SP | CANAL  DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11031.ts
+#EXTINF:-1,SP | CANAL  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11023.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11028.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11037.ts
+#EXTINF:-1,SP | CANAL SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11038.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11029.ts
+#EXTINF:-1,SP | CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11036.ts
+#EXTINF:-1,SP | DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11040.ts
+#EXTINF:-1,SP | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11041.ts
+#EXTINF:-1,SP | ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11035.ts
+#EXTINF:-1,SP | MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11033.ts
+#EXTINF:-1,SP | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11022.ts
+#EXTINF:-1,SP | NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11026.ts
+#EXTINF:-1,SP | TVE LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11024.ts
