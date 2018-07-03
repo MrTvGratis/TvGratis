@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>  
-    <title>                      [COLOR lime]BIENVENIDOS A TVGRATIS [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>	
-<item>   
-    <title>                      [COLOR lime]TODO EL CONTENIDO SE ENCUENTRA   [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>	
-	<item>
-    <title>                      [COLOR lime]GRATIS EN LA RED   [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>
+
     <item>
     <title>                      [COLOR turquoise]SI QUERES COLABORAR SE AGRADECE   [/COLOR]</title>
                                      
