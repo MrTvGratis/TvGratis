@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,------- Spanish ---------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1072.ts
-#EXTINF:-1,ES: Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1022.ts
-#EXTINF:-1,ES: Canal+ Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/nasir/nasir/1012.ts
-#EXTINF:-1,ES: Canal+ Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[CO#EXTM3U
 
 #EXTINF:-1,==== Adult =====
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/16172.ts
