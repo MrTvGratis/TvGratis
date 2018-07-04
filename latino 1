@@ -1,0 +1,262 @@
+#EXTM3U
+
+#EXTINF:-1,===== Latino ======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5865.ts
+#EXTINF:-1,LAT: Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12394.ts
+#EXTINF:-1,LAT: Discovery Civilization
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12395.ts
+#EXTINF:-1,LAT: Discovery ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12396.ts
+#EXTINF:-1,LAT: Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12397.ts
+#EXTINF:-1,LAT: Discovery Teather HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12398.ts
+#EXTINF:-1,LAT: Discovery TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12399.ts
+#EXTINF:-1,LAT: Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12400.ts
+#EXTINF:-1,LAT: NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12417.ts
+#EXTINF:-1,LAT: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12384.ts
+#EXTINF:-1,LAT: Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12385.ts
+#EXTINF:-1,LAT: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12386.ts
+#EXTINF:-1,LAT: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12414.ts
+#EXTINF:-1,LAT: Carton Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12390.ts
+#EXTINF:-1,LAT: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29234.ts
+#EXTINF:-1,LAT: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29235.ts
+#EXTINF:-1,LAT: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29236.ts
+#EXTINF:-1,LAT: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12392.ts
+#EXTINF:-1,LAT: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12405.ts
+#EXTINF:-1,LAT: Fox 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12402.ts
+#EXTINF:-1,LAT: Fox Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12403.ts
+#EXTINF:-1,LAT: Fox Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12404.ts
+#EXTINF:-1,LAT: Fox Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12406.ts
+#EXTINF:-1,LAT: HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/27186.ts
+#EXTINF:-1,LAT: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/27187.ts
+#EXTINF:-1,LAT: HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/27188.ts
+#EXTINF:-1,LAT: Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/27189.ts
+#EXTINF:-1,LAT: Cinecanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12401.ts
+#EXTINF:-1,LAT: Cinecanal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12391.ts
+#EXTINF:-1,LAT: TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12419.ts
+#EXTINF:-1,LAT: Tru Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12420.ts
+#EXTINF:-1,LAT: De Pelicula HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12393.ts
+#EXTINF:-1,LAT: Caracol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/5864.ts
+#EXTINF:-1,LAT: Az Click HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12387.ts
+#EXTINF:-1,LAT: Azteca 7 (Mexico)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4182.ts
+#EXTINF:-1,LAT: Azteca Noticias (Mexico)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4194.ts
+#EXTINF:-1,LAT: Distrito Comedia (Mexico)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4199.ts
+#EXTINF:-1,LAT: Canal 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12388.ts
+#EXTINF:-1,LAT: Canal De Las Estrellas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12389.ts
+#EXTINF:-1,LAT: Tele Novelas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/27587.ts
+#EXTINF:-1,LAT: Gala Tv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12409.ts
+#EXTINF:-1,LAT: Glitz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12410.ts
+#EXTINF:-1,LAT: Golden Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12411.ts
+#EXTINF:-1,LAT: Golden HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12412.ts
+#EXTINF:-1,LAT: Gourmet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12413.ts
+#EXTINF:-1,LAT: Milenio TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12415.ts
+#EXTINF:-1,LAT: Multimedios Monterrey HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12416.ts
+#EXTINF:-1,LAT: Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12418.ts
+#EXTINF:-1,LAT: Unicable HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12421.ts
+#EXTINF:-1,LAT: Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12422.ts
+#EXTINF:-1,LAT: Unimas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12490.ts
+#EXTINF:-1,LAT: Univision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12491.ts
+#EXTINF:-1,LAT: Warner HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12423.ts
+#EXTINF:-1,LAT: Canal Antiestres
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18450.ts
+#EXTINF:-1,LAT: TIIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18451.ts
+#EXTINF:-1,LAT: Canal 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18454.ts
+#EXTINF:-1,LAT: El Penguino (Chile)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18449.ts
+#EXTINF:-1,LAT: Enlace TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18453.ts
+#EXTINF:-1,LAT: SMO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18455.ts
+#EXTINF:-1,LAT: TV Agro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18452.ts
+#EXTINF:-1,LAT: TVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18456.ts
+#EXTINF:-1,LAT: TVX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18457.ts
+#EXTINF:-1,LAT: Wow TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/18458.ts
+#EXTINF:-1,LAT: TVN Chile HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/4177.ts
+#EXTINF:-1,LAT: La Red
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28254.ts
+#EXTINF:-1,LAT: Mundo Auto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28250.ts
+#EXTINF:-1,LAT: Power HD Argentina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28256.ts
+#EXTINF:-1,LAT: Trailer TV KIds
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28253.ts
+#EXTINF:-1,LAT: Cable Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28478.ts
+#EXTINF:-1,LAT: Canal 2 Nicaragua
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28473.ts
+#EXTINF:-1,LAT: Canal 26 Argentina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28477.ts
+#EXTINF:-1,LAT: Canal 4 Argentina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28475.ts
+#EXTINF:-1,LAT: CNN Chile HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28482.ts
+#EXTINF:-1,LAT: TV Mana Argentina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28476.ts
+#EXTINF:-1,LAT: TVX El Salvador
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/28474.ts
+#EXTINF:-1,LAT: Color Vision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29060.ts
+#EXTINF:-1,LAT: Telemicro 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29059.ts
+#EXTINF:-1,LAT: Cantinazo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29424.ts
+#EXTINF:-1,LAT: RCN Colombia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29428.ts
+#EXTINF:-1,LAT: Tele Café
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29423.ts
+#EXTINF:-1,LAT: Teleantioquia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29422.ts
+#EXTINF:-1,LAT: Telemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29426.ts
+#EXTINF:-1,LAT: Lifedesing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/32141.ts
+#EXTINF:-1,LAT: Telesistema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/32142.ts
+#EXTINF:-1,LAT: TV Centro Honduras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/29427.ts
+#EXTINF:-1,LAT: Bonao TV RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37902.ts
+#EXTINF:-1,LAT: Canal 25 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37903.ts
+#EXTINF:-1,LAT: Canal 4 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37900.ts
+#EXTINF:-1,LAT: Cielo TV RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37901.ts
+#EXTINF:-1,LAT: Digital Vision 63 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37907.ts
+#EXTINF:-1,LAT: La Voz De Maria RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37908.ts
+#EXTINF:-1,LAT: Mia TV RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37906.ts
+#EXTINF:-1,LAT: Microvision 10 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37898.ts
+#EXTINF:-1,LAT: Nexxo TV RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37905.ts
+#EXTINF:-1,LAT: Peravia Vision RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37909.ts
+#EXTINF:-1,LAT: RNN TV RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37895.ts
+#EXTINF:-1,LAT: Telefuturo 23 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37894.ts
+#EXTINF:-1,LAT: Teleuniverso 29 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37897.ts
+#EXTINF:-1,LAT: TRA RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37904.ts
+#EXTINF:-1,LAT: Yunavision Bonao RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37896.ts
+#EXTINF:-1,LAT: ZOL TV RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/37899.ts
+#EXTINF:-1,LAT: ADN 40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41511.ts
+#EXTINF:-1,LAT: ALIENTO VISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41497.ts
+#EXTINF:-1,LAT: AZTECA 7 (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41514.ts
+#EXTINF:-1,LAT: AZTECA MAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41513.ts
+#EXTINF:-1,LAT: AZTECA UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41512.ts
+#EXTINF:-1,LAT: CANAL 19 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41517.ts
+#EXTINF:-1,LAT: CHILEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41508.ts
+#EXTINF:-1,LAT: COLOSAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41503.ts
+#EXTINF:-1,LAT: DIGITAL 15 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41519.ts
+#EXTINF:-1,LAT: DIGITAL TV PERU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41505.ts
+#EXTINF:-1,LAT: MULTIMEDIOS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41506.ts
+#EXTINF:-1,LAT: NiuMedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41501.ts
+#EXTINF:-1,LAT: OCHO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41509.ts
+#EXTINF:-1,LAT: RTVIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41499.ts
+#EXTINF:-1,LAT: TELEANTILLAS 2 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41518.ts
+#EXTINF:-1,LAT: TELECENTRO 13 RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41520.ts
+#EXTINF:-1,LAT: TELEMEDELLIN COL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41504.ts
+#EXTINF:-1,LAT: TELESUR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41502.ts
+#EXTINF:-1,LAT: UNCION 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41498.ts
+#EXTINF:-1,LAT: UNICANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41507.ts
+#EXTINF:-1,LAT: VE PLUS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41510.ts
+#EXTINF:-1,LAT: VEGATEVE RD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41515.ts
+#EXTINF:-1,LAT: VIVA CRISTO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/41500.ts
+#EXTINF:-1,LAT: CTV Trinidad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/45662.ts
+#EXTINF:-1,VIP LAT: ESPN Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/12498.ts
+#EXTINF:-1,VIP LAT: ESPN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7925.ts
+#EXTINF:-1,VIP LAT: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7924.ts
+#EXTINF:-1,VIP LAT: ESPN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7923.ts
+#EXTINF:-1,VIP LAT: ESPN+ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/i4iQDL1AVT/8Nx13pdveD/7928.ts
