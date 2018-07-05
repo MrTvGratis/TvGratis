@@ -1,551 +1,209 @@
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title>#0</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plus1.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-1.html</referer>
-</regex>
-<thumbnail>https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>Formula 1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte1.php?file=m_f1&width=650&height=397</page>
-<referer>http://verplusonline.com/movistar-formula-uno/</referer>
-</regex>
-<thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>Series xtra</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarseriesxtra&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-
-<item>
-<title>MOVISTAR DEPORTES 1 </title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes1.php</page>
-<referer>http://verliga.net/live/verliga6.php</referer>
-</regex>
-<thumbnail>http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR DEPORTES 2</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes2.php</page>
-<referer>http://vercanalestv.com/tv/deportes/canal-plus-deportes-2.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/langfr-280px-Movistar_Deportes_2.svg.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>BEIN SPORTS LA LIGA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=beinlaliga&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/deporte/beinlaliga/beinlaligallevar.html</referer>
-</regex>
-<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>BEIN SPORTS LA LIGA OP.1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinliga.php</page>
-<referer>http://vercanalestv.com/tv/deportes/bein-sports-liga.html</referer>
-</regex>
-<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>BEIN SPORTS</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinsport.php</page>
-<referer>http://vertelevisor.com/tv/deportes/bein-sport.html</referer>
-</regex>
-<thumbnail>https://beinmediagroup.com/wp-content/uploads/2015/03/beINSPORTS.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR FUTBOL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/plusfutbol.php</page>
-<referer>http://vertelevisor.com/tv/deportes/canal-plus-futbol.php</referer>
-</regex>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>MOVISTAR DISNEY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusdisney.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/movistar-disney.html</referer>
-</regex>
-<thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>MOVISTAR MOTOGP</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/motogp.php</page>
-<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
-</regex>
-<thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>CALLE 13</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex> 
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/calle13.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/calle-13.html</referer>
-</regex> 
-<thumbnail>http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR ACCION</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusaccion.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/canal-plus-accion.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1575px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR COMEDIA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/comedia.php</page>
-<referer>http://verdirectotv.com/tv/digitales/pluscomedia.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
-</item>
-
-<item>
-<title>MOVISTAR XTRA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=xtremesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/pelis/xtrem</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
-</item>
-
-<item>
-<title>MOVISTAR DCINE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/dcine.php</page>
-<referer>http://verdirectotv.com/tv/digitales/plusdcine.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR ESTRENOS</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusestrenos.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/canal-plus-estrenos.html</referer>
-</regex>
-<thumbnail>https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR SERIES</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusseries.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/canal-plus-series.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>AXN</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/axn.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>	
-</item>
-
-<item>
-<title>FOX</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/fox.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
-</regex>
-<thumbnail>http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>FOX LIFE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/foxlife.php</page>
-<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
-</regex>
-<thumbnail>https://dash.mediaupdate.co.za/story/image/121261/121261_t.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>HOLLYWOOD</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/hollywood.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/canal-hollywood.html</referer>
-</regex>
-<thumbnail>https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MTV</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/mtv.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
-</regex>
-<thumbnail>http://www.disruptivedigitalmarketing.com/wp-content/uploads/2015/07/mtv-logo.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>SYFY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/syfy.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/syfy.html</referer>
-</regex>
-<thumbnail>https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>TCM</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/tcm.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-tcm-online-gratis-24h-por-internet/</referer>
-</regex>
-<thumbnail>http://img.zanda.com/item/93090250000007/1024x768/TCM_logo.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>TNT</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/tnt.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/tnt.html</referer>
-</regex>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>DARK</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=darkesp&width=650&height=397/</page>
-<referer>http://www.vercanalestv.com/tv/nacionales/canal-dark.html</referer>
-</regex>
-<thumbnail>http://adminweb.onlycable.net/img/Canale/small/Buzz/Buzz_.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>AMC</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/amc.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/amc.html</referer>
-</regex>
-<thumbnail>https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>la liga 123</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/liga123.php</page>
-<referer>http://vertelevisor.com/tv/deportes/liga123.php</referer>
-</regex>
-<thumbnail>http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-
-<item>
-<title>El Partidazo</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinliga.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
-</regex>
-<thumbnail>http://vercanalestv.com/imagenes/movistar-partidazo.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>Gol Tv</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/goltv.php</page>
-<referer>http://verdirectotv.com/tv/deportes2/golnuevo.html</referer>
-</regex>
-<thumbnail>http://michaelshuemaker.com/blog/new/gol-tv-online-live-3.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
- 
-
- 
-<item>
-<title>HISTORIA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/historia.php</page>
-<referer>http://vertelevisor.com/tv/documentales/canal-historia.html</referer>
-</regex>
-<thumbnail>http://pmcdeadline2.files.wordpress.com/2014/05/history_channel_logo__140523153130.jpeg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
- 
-<item>
-<title>NATIONAL GEOGRAFIC</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/nationalgeo.php</page>
-<referer>http://vertelevisor.com/tv/documentales/national-geographic.html/referer>
-</regex>
-<thumbnail>http://famouslogos.net/images/national-geographic-logo.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/discovery-channel.php</page>
-<referer>http://vertelevisor.com/tv/documentales/discovery-channel.html</referer>
-</regex>
-<thumbnail>http://mymutual.files.wordpress.com/2010/06/discovery_channel_logo-800w_600h.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>ODISEA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=odiseaesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/documental/odisea</referer>
-</regex>
-<thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2013/07/odisea-nuevo-logo-300x161.jpg</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>DISNEY CHANNEL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=disneychannel&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/animacion/disneychannel</referer>
-</regex>
-<thumbnail>https://img00.deviantart.net/22da/i/2016/343/f/b/disney_channel_logo_redesign_by_megamario99-dar2n4v.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>BOING</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=boing&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/animacion/boing</referer>
-</regex>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
-<title>TELECINCO</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/telecinco.php</page>
-<referer>http://verdirectotv.com/tv/nacionales2/telecinco.html</referer>
-</regex>
-<thumbnail>https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_telecinco.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>CUATRO</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cuatro.php</page>
-<referer>http://verdirectotv.com/tv/nacionales2/cuatro.html</referer>
-</regex>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>ANTENA3</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/antena3.php</page>
-<referer>http://verdirectotv.com/tv/nacionales2/antena3.html</referer>
-</regex>
-<thumbnail>http://www.karlitoway.co.uk/images/logo-antena3.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>LA SEXTA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/lasexta.php</page>
-<referer>http://verdirectotv.com/tv/nacionales/lasexta.html</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+#EXTM3U
+#EXTINF:-1,-----------MOVISTAR ESPAÑA FHD --------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/6768.ts
+#EXTINF:-1,ES: BEIN SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/6000.ts
+#EXTINF:-1,ES: BEIN LA LIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/5999.ts
+#EXTINF:-1,ES: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/755.ts
+#EXTINF:-1,ES: GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/6001.ts
+#EXTINF:-1,ES: MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/494.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/5997.ts
+#EXTINF:-1,ES: MOVISTAR+ DEPORTES 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/288.ts
+#EXTINF:-1,ES: MOVISTAR+ DEPORTES 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/289.ts
+#EXTINF:-1,ES:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/688.ts
+#EXTINF:-1,ES: MOVISTAR+ MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/513.ts
+#EXTINF:-1,ES: MOVISTAR TOROS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/812.ts
+#EXTINF:-1,ES: CAZA Y PESCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/819.ts
+#EXTINF:-1,ES: LA LIGA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/5998.ts
+#EXTINF:-1,ES: LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/341.ts
+#EXTINF:-1,ES: ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/219.ts
+#EXTINF:-1,ES: CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/221.ts
+#EXTINF:-1,ES: TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/314.ts
+#EXTINF:-1,ES: LA SEXTA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1429.ts
+#EXTINF:-1,ES: #0 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/325.ts
+#EXTINF:-1,ES: MOVISTAR+ ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1527.ts
+#EXTINF:-1,ES: MOVISTAR+  COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1526.ts
+#EXTINF:-1,ES: MOVISTAR+ DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1525.ts
+#EXTINF:-1,ES: MOVISTAR+ ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1523.ts
+#EXTINF:-1,ES: MOVISTAR + SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1524.ts
+#EXTINF:-1,ES: MOVISTAR+ SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1528.ts
+#EXTINF:-1,ES: MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1600.ts
+#EXTINF:-1,ES: CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/324.ts
+#EXTINF:-1,ES: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/327.ts
+#EXTINF:-1,ES: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/984.ts
+#EXTINF:-1,ES: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/419.ts
+#EXTINF:-1,ES: AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/261.ts
+#EXTINF:-1,ES: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1541.ts
+#EXTINF:-1,ES: TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1380.ts
+#EXTINF:-1,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1529.ts
+#EXTINF:-1,ES: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/575.ts
+#EXTINF:-1,ES: TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/996.ts
+#EXTINF:-1,ES: COSMO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/272.ts
+#EXTINF:-1,ES: VIAJAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/117.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/609.ts
+#EXTINF:-1,ES: HISTORIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/564.ts
+#EXTINF:-1,ES: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/510.ts
+#EXTINF:-1,ES: NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1545.ts
+#EXTINF:-1,ES: DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/308.ts
+#EXTINF:-1,ES: NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/470.ts
+#EXTINF:-1,ES: MOVISTAR+ FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/284.ts
+#EXTINF:-1,ES: CANAL LA LIGA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/518.ts
+#EXTINF:-1,ES: MOVISTAR+ DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/613.ts
+#EXTINF:-1,ES: MOVISTAR+ DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/532.ts
+#EXTINF:-1,ES: MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/368.ts
+#EXTINF:-1,ES: MOVISTAR+ GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/290.ts
+#EXTINF:-1,ES: MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/366.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/367.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/220.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/217.ts
+#EXTINF:-1,ES: MOVISTAR+ PARTIDAZO (solo partidos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/279.ts
+#EXTINF:-1,ES: MOVISTAR+ PARTIDAZO FHD (solo partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/278.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/756.ts
+#EXTINF:-1,REAL MADRID TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/135.ts
+#EXTINF:-1,ES: TELEDEPORTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/286.ts
+#EXTINF:-1,ES: CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/222.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/253.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/259.ts
+#EXTINF:-1,ES: A3SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/229.ts
+#EXTINF:-1,ES: MOVISTAR+ ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/235.ts
+#EXTINF:-1,ES: MOVISTAR+ COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/237.ts
+#EXTINF:-1,ES: MOVISTAR+ DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/239.ts
+#EXTINF:-1,ES: MOVISTAR+ ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/242.ts
+#EXTINF:-1,ES: MOVISTAR+ SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/246.ts
+#EXTINF:-1,ES: MOVISTAR+ SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/244.ts
+#EXTINF:-1,ES: MOVISTAR+  XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/248.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/263.ts
+#EXTINF:-1,ES: FOX LIFE HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/265.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/251.ts
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/249.ts
+#EXTINF:-1,ES: SYFY HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/267.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/255.ts
+#EXTINF:-1,ES: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/257.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/309.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/310.ts
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/304.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1004.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/293.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/311.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/291.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1012.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/231.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/294.ts
+#EXTINF:-1,ES: HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/296.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/300.ts
+#EXTINF:-1,ES: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/302.ts
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/295.ts
+#EXTINF:-1,ES: #O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/233.ts
+#EXTINF:-1,ES: CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/269.ts
+#EXTINF:-1,ES: 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/545.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/321.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/230.ts
+#EXTINF:-1,ES: LA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/218.ts
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/227.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/228.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1431.ts
+#EXTINF:-1,ES: ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/297.ts
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/224.ts
+#EXTINF:-1,ES: VIRGIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/319.ts
