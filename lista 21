@@ -9,22 +9,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/931.ts
 #EXTINF:-1,[ES] A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/875.ts
-#EXTINF:-1,[ES] ALQUILER 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/876.ts
-#EXTINF:-1,[ES] ALQUILER 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/877.ts
-#EXTINF:-1,[ES] ALQUILER 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/878.ts
-#EXTINF:-1,[ES] ALQUILER 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/879.ts
-#EXTINF:-1,[ES] ALQUILER 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/880.ts
-#EXTINF:-1,[ES] ALQUILER 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/881.ts
-#EXTINF:-1,[ES] ALQUILER 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/882.ts
-#EXTINF:-1,[ES] ALQUILER 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/883.ts
 #EXTINF:-1,[ES] AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/952.ts
 #EXTINF:-1,[ES] ANTENA 3 HD
