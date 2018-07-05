@@ -10,7 +10,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-1.php</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/4vabhtjqx/cero.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -23,7 +23,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-accion.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/hy72w8y9r/accion.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -36,7 +36,7 @@
 <referer>http://telefivegb.com/canales/pelis/dcinees</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/n9lzh0a2n/cine.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -49,7 +49,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-comedia.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/kfiu3jd1b/comedia.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>		
+<fanart></fanart>		
 </item>
 
 <item>
@@ -62,7 +62,7 @@
 <referer>http://verdirectotv.com/tv/digitales/plusdcine.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/4ha4dey8v/dcine.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -75,7 +75,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/dcaynz51r/estrenos.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -88,7 +88,7 @@
 <referer>http://telefivegb.com/tv-spain/ver-canal-movistar-series-1-online-gratis-vivo</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/qt7x6ya9b/series.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -101,7 +101,7 @@
 <referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/u1cejjee7/seriesxtra.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item>
 
 <item>
@@ -114,7 +114,7 @@
 <referer>http://telefivegb.com/canales/pelis/xtrem</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/yzzwy2xmn/xtra.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item>
 
 <item>
@@ -127,7 +127,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/amc.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/6ad11wbrj/amc.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>		
+<fanart></fanart>		
 </item>
 
 <item>
@@ -140,7 +140,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/5xlmvij5b/axn.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item>
 
 <!-- <item>
@@ -148,7 +148,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=axnesp&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/envivo/axnwhite.htm</referer>
 <thumbnail>https://s1.postimg.cc/1i1pthy4n3/SET.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item> -->
 
 <item>
@@ -161,7 +161,7 @@
 <referer>http://telefivegb.com/canales/documental/aande</referer>
 </regex> 
 <thumbnail>https://s15.postimg.cc/rsx9hh3qz/blaze.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item>
 
 <item>
@@ -174,7 +174,7 @@
 <referer>http://telefivegb.com/canales/pelis/calle13</referer>
 </regex> 
 <thumbnail>https://s9.postimg.cc/vqyv191lb/calle13.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>		
+<fanart></fanart>		
 </item>
 
 <item>
@@ -187,7 +187,7 @@
 <referer>http://telefivegb.com/canales/pelis/paramountcomady</referer>
 </regex> 
 <thumbnail>https://s9.postimg.cc/nmqqwpa33/comedycentral.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item>
 
 <!-- <item>
@@ -195,7 +195,7 @@
 <sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
 <referer>http://cinestrenostv.tv/canales/envivo/cosmo.html</referer>
 <thumbnail>https://s9.postimg.cc/fxtwko4cv/cosmo.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item> -->
 
 <item>
@@ -208,7 +208,7 @@
 <referer>http://telefivegb.com/canales/pelis/dark</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/82jd5w50v/dark.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>	
+<fanart></fanart>	
 </item>
 
 <item>
@@ -221,7 +221,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/peob588i7/fox.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -234,7 +234,7 @@
 <referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/46f81igu7/foxlife.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -247,7 +247,7 @@
 <referer>http://telefivegb.com/canales/pelis/hollywood</referer>
 </regex> 
 <thumbnail>https://s9.postimg.cc/zej7kvren/hollywood.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -260,7 +260,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/s3samgq3j/mtv.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -273,7 +273,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/mj6mkrclb/syfy.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -286,7 +286,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/tcm.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/gxte81t73/tcm.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -299,7 +299,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/tnt.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/8i3tqinr3/tnt.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -307,7 +307,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=viajar&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://vercanalestv.com/tv/documentales/viajar.html</referer>
 <thumbnail>https://s1.postimg.cc/2uvhgi5lbj/VJR.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -320,14 +320,14 @@
 <referer>http://vercanalestv.com/tv/nacionales/canal-cocina.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/8w9r3ox6n/cocina.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
 <title>DECASA *</title>
 <link>http://flus0.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8</link>
 <thumbnail>https://s1.postimg.cc/7rzf5n7p9r/DECASA.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -340,7 +340,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/canal-plus-toros.html</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/bhfbr3c8v/toros.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -353,7 +353,7 @@
 <referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/7zr7u37jz/cazaypesca.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -366,7 +366,7 @@
 <referer>http://konectas.es</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/5wa9edmufz/IBERAL.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -379,7 +379,7 @@
 <referer>http://telefivegb.com/canales/documental/ci</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/do6pczte7/citv.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -392,7 +392,7 @@
 <referer>http://verdirectotv.com/tv/documentales/discovery.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/92gilx3l7/discoverychannel.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -405,7 +405,7 @@
 <referer>http://vercanalestv.com/tv/documentales/discovery-max.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/c9b25nqmz/dmax.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -418,7 +418,7 @@
 <referer>http://verdirectotv.com/tv/documentales2/historia.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/s7jrvxxrf/historia.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -431,7 +431,7 @@
 <referer>http://vercanalestv.com/tv/documentales/national-geographic.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/xvq2mx24r/natgeo.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -444,7 +444,7 @@
 <referer>http://vercanalestv.com/tv/documentales/nat-geo-wild.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/uovj3e4uz/natgeowild.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>		
+<fanart></fanart>		
 </item>
 	
 <item>
@@ -457,7 +457,7 @@
 <referer>http://telefivegb.com/canales/documental/odisea</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/3ytubqcsr/odisea.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -470,7 +470,7 @@
 <referer>http://www.vercanalestv.com/ver-canal-plus-futbol-online-las-24-en-vivo/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/ii0zdb5zf/futbol.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -483,7 +483,7 @@
 <referer>http://www.vercanalestv.com/tv/deportes/plus-partidazo.html/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -496,7 +496,7 @@
 <referer>http://telefivegb.com/deporte/ver-canal-movistar-f1-online-gratis-y-en-vivo-por-internet/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/bg31qrmuj/formula1.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -509,7 +509,7 @@
 <referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/y4s8qlrgb/motogp.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -522,7 +522,7 @@
 <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/7l0tctyax/deportes1.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -535,7 +535,7 @@
 <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/tq74xh4kp/deportes2.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -548,7 +548,7 @@
 <referer>http://www.vercanalestv.com/ver-canal-plus-golf-online-en-directo-gratis/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/ngupcz095/golf.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -561,7 +561,7 @@
 <referer>http://telefivegb.com/canales/deporte/ligatvbar</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/n7e1zdta3/laligatv.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -574,7 +574,7 @@
 <referer>http://telefivegb.com/canales/deporte/deporte2</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/krc8l55y3/beinsports.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -587,7 +587,7 @@
 <referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 	
 <item>
@@ -600,7 +600,7 @@
 <referer>http://telefivegb.com/canales/latino/beinsportlat</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/guywp9va3/beinsports.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -613,7 +613,7 @@
 <referer>http://verdirectotv.com/tv/deportes/eurosport.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/imrvkimgb/eurosport1.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -626,14 +626,14 @@
 <referer>http://vercanalestv.com/tv/deportes/eurosport-2.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/a5sd9aryj/eurosport2.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
 <title>GARAGE TV</title>
 <link>http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8</link>
 <thumbnail>https://s15.postimg.cc/4u6klv8zf/garagetv.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -646,7 +646,7 @@
 <referer>http://verdirectotv.com/tv/deportes/goltv2.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/4udgonqh7/gol.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -659,7 +659,7 @@
 <referer>http://verdirectotv.com/tv/deportes/teledeporte.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/jdklq547f/tdp.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -667,14 +667,14 @@
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/al3n21ydn/realmadrid.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
 <title>BARCA TV</title>
 <link></link>
 <thumbnail>https://s1.postimg.cc/3wmywyl1rj/BARNA.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -687,7 +687,7 @@
 <referer>http://telefivegb.com/canales/tdt/tv1</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/i12wo5jln/la1.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -700,7 +700,7 @@
 <referer>http://telefivegb.com/canales/tdt/tv2</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/47ejz8oh7/la2.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -708,7 +708,7 @@
 <link>https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/fjr5h4kcb/antena3.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -721,7 +721,7 @@
 <referer>http://verdirectotv.com/tv/nacionales2/cuatro.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/pv3i999bf/cuatro.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -734,7 +734,7 @@
 <referer>http://vercanalestv.com/tv/multicanal/telecinco.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/a9m6pectn/telecinco.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -742,7 +742,7 @@
 <link>https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_4.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/7fj1c3njv/lasexta.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -755,7 +755,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/divinity.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/llys7fdvf/divinity.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -768,7 +768,7 @@
 <referer>http://verdirectotv.com/tv/nacionales/energy.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/hplgbm8d7/energy.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -781,7 +781,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/fdf.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/vkoc7da17/fdf.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -789,7 +789,7 @@
 <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/brc8elc23/neox.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -797,7 +797,7 @@
 <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/s12ehu9yz/nova.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -805,7 +805,7 @@
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/beku8j43v/a3series.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -818,7 +818,7 @@
 <referer>http://www.vertelevisor.com/ver-dkiss-en-directo-online-gratis-por-internet</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/5pu9mez37z/TEN.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <!-- <item>
@@ -831,7 +831,7 @@
 <referer>http://vercanalestv.com/tv/nacionales/dkiss.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/7kst31jyof/DKISS.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -844,7 +844,7 @@
 <referer>http://verdirectotv.com/tv/nacionales/bemad.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/4o4czaz0b/bemad.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -852,7 +852,7 @@
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/oiqelmwa3/mega.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -860,7 +860,7 @@
 <link>http://paramount.live.flumotion.com/live/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/nuhk2efh7/paramount.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -868,7 +868,7 @@
 <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/6tyntwa7f/24h.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -876,7 +876,7 @@
 <link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/g6unjxoh7/intereconomia.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -884,7 +884,7 @@
 <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/3s7vjvk6z/boing.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -892,7 +892,7 @@
 <sportsdevil>http://livesports.pw/embedna.php?file=clantv&width=650&height=400</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/5ws8l0qzf/clan.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -905,7 +905,7 @@
 <referer>http://www.vertelevisor.com/ver-disney-channel-online-gratis-en-directo/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/r7pspclzf/disneychannel.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -913,7 +913,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=disneyjr&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/7ft0qed6r3/PLAYDC.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <!-- <item>
@@ -921,7 +921,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=disneyxd&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/8lqrlhj5bz/DCHXD.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -934,7 +934,7 @@
 <referer>http://www.vertelevisor.com/ver-movistar-disney-online-gratis-24h-por-internet/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/df6nt1fm1/disney.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <!-- <item>
@@ -942,7 +942,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=nickelones&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/2zp17mq7fz/NICK.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -950,7 +950,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=nickjr&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/840pwwv25b/NICKJR.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -958,7 +958,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=panda=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/7f7gcwee1r/PANDA.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <!-- <item>
@@ -966,7 +966,7 @@
 <sportsdevil>http://livesports.pw/embed2.php?file=babytv&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/2peysnq27j/BABY.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item> -->
 
 <item>
@@ -974,7 +974,7 @@
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/xzg7rrfzf/telemadrid.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -982,7 +982,7 @@
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/966nr6pa3/laotra.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>	
 	
 <item>
@@ -990,7 +990,7 @@
 <link>http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/rlr4ooqkr/cmm.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -998,7 +998,7 @@
 <link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/3urr6m0ob/cyl.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>	
 
 <item>
@@ -1006,7 +1006,7 @@
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/83wh8uw8r/trece.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1014,7 +1014,7 @@
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/4x1xpa1iz/324.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1022,7 +1022,7 @@
 <link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/104oaomna7/8tv.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>	
 
 <item>
@@ -1030,7 +1030,7 @@
 <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/4mz0jmeuj/extremadura.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>	
 
 <item>
@@ -1045,7 +1045,7 @@
 	</regex>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/3yq60c8bf/andalucia.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1053,7 +1053,7 @@
 <link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/og6iyipyz/galicia.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1061,7 +1061,7 @@
 <link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/evmwbuip7/eitb.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1069,7 +1069,7 @@
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/sqps7kpi3/tv3.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>	
 	
 <item>
@@ -1077,7 +1077,7 @@
 <link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/cfpobckqz/aragon.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1085,7 +1085,7 @@
 <link>http://195.10.10.206/rtpa/tv.webm?GKID=0a23b69cb1c611e7a9ec00163ea2c744</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s7.postimg.cc/6erzebnuz/tpa.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>	
 
 <item>
@@ -1093,7 +1093,7 @@
 <link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.cc/5tvzchw9kf/TVCANARIA.png</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1101,5 +1101,5 @@
 <link>http://canalmalaga-tv-live.flumotion.com/chunks.m3u8</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>http://www.ondaazulmalaga.es/img/logo-canal-malaga.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
+<fanart></fanart>
 </item>
