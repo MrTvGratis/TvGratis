@@ -1,0 +1,130 @@
+#EXTM3U
+
+#EXTINF:-1,------- Spanish ---------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1072.ts
+#EXTINF:-1,ES: Canal+ Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1012.ts
+#EXTINF:-1,ES: Canal+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2590.ts
+#EXTINF:-1,ES: Canal+ Futpol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1020.ts
+#EXTINF:-1,ES: Canal+ Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1019.ts
+#EXTINF:-1,ES: Canal+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1016.ts
+#EXTINF:-1,ES: Canal+ Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1030.ts
+#EXTINF:-1,ES: Canal+ Dcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1028.ts
+#EXTINF:-1,ES: Canal+ Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1031.ts
+#EXTINF:-1,ES: Canal+ Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1059.ts
+#EXTINF:-1,ES: Canal+ de las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1048.ts
+#EXTINF:-1,ES: Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1058.ts
+#EXTINF:-1,ES: Canal+ Serie Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1004.ts
+#EXTINF:-1,ES: Canal+ Cuatro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1026.ts
+#EXTINF:-1,ES: Canal+ Cine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1033.ts
+#EXTINF:-1,ES: Canal+ Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1024.ts
+#EXTINF:-1,ES: Canal+ AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1054.ts
+#EXTINF:-1,ES: Canal+ Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1049.ts
+#EXTINF:-1,ES: Cine latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1002.ts
+#EXTINF:-1,ES: Canal+ Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1034.ts
+#EXTINF:-1,ES: Canal+ Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1029.ts
+#EXTINF:-1,ES: ECOTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1047.ts
+#EXTINF:-1,ES: Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1041.ts
+#EXTINF:-1,ES: Canal+ Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1039.ts
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1046.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1003.ts
+#EXTINF:-1,ES: Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1037.ts
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1021.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1011.ts
+#EXTINF:-1,ES: Movi Star F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1010.ts
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1042.ts
+#EXTINF:-1,ES: Win Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1050.ts
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1045.ts
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1014.ts
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1013.ts
+#EXTINF:-1,ES: Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1015.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1025.ts
+#EXTINF:-1,ES: TV3 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2591.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2589.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2588.ts
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2585.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2586.ts
+#EXTINF:-1,ES: Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2587.ts
+#EXTINF:-1,ES: VTV +  (URU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1053.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1056.ts
+#EXTINF:-1,ES: 324 Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1005.ts
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1060.ts
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1036.ts
+#EXTINF:-1,ES: Axn White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1023.ts
+#EXTINF:-1,ES: History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1051.ts
+#EXTINF:-1,ES: Concert Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1009.ts
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/999.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1001.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1007.ts
+#EXTINF:-1,ES: Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1027.ts
+#EXTINF:-1,ES: Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1043.ts
+#EXTINF:-1,ES: Teleticino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1008.ts
+#EXTINF:-1,ES: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1057.ts
+#EXTINF:-1,ES: National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1055.ts
+#EXTINF:-1,ES: Disney Chaneel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1040.ts
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1038.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1032.ts
+#EXTINF:-1,ES: TVN Chile HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1006.ts
