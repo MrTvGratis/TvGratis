@@ -183,3 +183,285 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6138.ts
+#EXTINF:-1,Esporte Interativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6960.ts
+#EXTINF:-1,Esporte Interativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6123.ts
+#EXTINF:-1,Esporte Interativo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/9145.ts
+#EXTINF:-1,Esporte Interativo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/4378.ts
+#EXTINF:-1,Esporte Interativo 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6125.ts
+#EXTINF:-1,Esporte Interativo BR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/10281.ts
+#EXTINF:-1,Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/4373.ts
+#EXTINF:-1,Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6118.ts
+#EXTINF:-1,Fox Sport FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/8150.ts
+#EXTINF:-1,Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/4372.ts
+#EXTINF:-1,FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6117.ts
+#EXTINF:-1,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/8151.ts
+#EXTINF:-1,SporTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/4327.ts
+#EXTINF:-1,SporTV  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6082.ts
+#EXTINF:-1,Sport TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/8147.ts
+#EXTINF:-1,SporTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/4326.ts
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6084.ts
+#EXTINF:-1,Sport TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/8148.ts
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.139.236:25461/live/adriano10/adriano10/6083.ts
+#EXTINF:-1,BAND SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38680.ts
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38679.ts
+#EXTINF:-1,Esporte Interativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38627.ts
+#EXTINF:-1,Esporte Interativo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38625.ts
+#EXTINF:-1,Esporte Interativo 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38624.ts
+#EXTINF:-1,ESPORTE INTERATIVO BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38623.ts
+#EXTINF:-1,ESPORTE INTERATIVO BR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38622.ts
+#EXTINF:-1,Esporte Interativo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38626.ts
+#EXTINF:-1,FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38609.ts
+#EXTINF:-1,FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38607.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38606.ts
+#EXTINF:-1,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38608.ts
+#EXTINF:-1,SPORTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38481.ts
+#EXTINF:-1,SPORTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38480.ts
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38479.ts
+#EXTINF:-1,SPORTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38478.ts
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38477.ts
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38476.ts
+#EXTINF:-1,ESPORTE INTERATIVO 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45395.ts
+#EXTINF:-1,ESPORTE INTERATIVO BR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45461.ts
+#EXTINF:-1,ESPORTE INTERATIVO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45394.ts
+#EXTINF:-1,FOX SPORTS 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45393.ts
+#EXTINF:-1,Fox Sports 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45425.ts
+#EXTINF:-1,FOX SPORTS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45407.ts
+#EXTINF:-1,SPORTV 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45390.ts
+#EXTINF:-1,SPORTV 3 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45389.ts
+#EXTINF:-1,SPORTV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45414.ts
+#EXTINF:-1,All Sports BR -@
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/movie/6193462259/Pw4qlLDvEY/52897.mp4
+#EXTINF:-1,SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/47713.ts
+
+#EXTINF:-1,S Sport  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11.ts
+#EXTINF:-1,D-Smart NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/12.ts
+#EXTINF:-1,Filbox EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/67.ts
+#EXTINF:-1,D-Smart EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/29.ts
+#EXTINF:-1,TRT 3 - TRT Spor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/1353.ts
+#EXTINF:-1,TRT Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/58.ts
+#EXTINF:-1,TAY  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/208.ts
+#EXTINF:-1,TJK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17210.ts
+#EXTINF:-1,GS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/117.ts
+#EXTINF:-1,BJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/158.ts
+#EXTINF:-1,FB TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/1709.ts
+#EXTINF:-1,A Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/75.ts
+#EXTINF:-1,Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/86.ts
+
+#EXTINF:-1,[TR] BURSA SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/2501.ts
+#EXTINF:-1,[TR] TJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/4953.ts
+#EXTINF:-1,[DE] EUROSPORT 2 HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/2645.ts
+#EXTINF:-1,[DE] EUROSPORT 2XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5507.ts
+#EXTINF:-1,[DE] EUROSPORT 2XTRA HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5506.ts
+#EXTINF:-1,[DE] AUTO MOTOR SPORT HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/4998.ts
+#EXTINF:-1,[DE] MOTORVISON TV HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/531.ts
+#EXTINF:-1,[DE] SKY SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/529.ts
+#EXTINF:-1,[DE] SKY SPORT 1 HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/520.ts
+#EXTINF:-1,[DE] SKY SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/528.ts
+#EXTINF:-1,[DE] SKY SPORT 2 HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/521.ts
+#EXTINF:-1,[DE] SKY SPORT 3 HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/8194.ts
+#EXTINF:-1,[DE] SPORT 1 HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/523.ts
+#EXTINF:-1,[DE] SPORT 1+ HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/7950.ts
+#EXTINF:-1,[DE] SPORT DIGITAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1551.ts
+#EXTINF:-1,[DE] SKY SPORT AUSTRIA [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/526.ts
+#EXTINF:-1,[DE] SKY SPORT NEWS HD [L]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/522.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 1 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1040.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 2 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1041.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 2 (SRB)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1099.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 3 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1042.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 5 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1044.ts
+#EXTINF:-1,[EX-YU] ARENA SPORT 5 (SRB)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5202.ts
+#EXTINF:-1,[NL] FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1267.ts
+#EXTINF:-1,[NL] FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1266.ts
+#EXTINF:-1,[NL] ZIGGO SPORT EXTRA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1261.ts
+#EXTINF:-1,[NL] ZIGGO SPORT GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1259.ts
+#EXTINF:-1,[NL] ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1258.ts
+#EXTINF:-1,[NL] ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1257.ts
+#EXTINF:-1,[NL] ZIGGO SPORT VOETBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1554.ts
+#EXTINF:-1,[FR] BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/826.ts
+#EXTINF:-1,[FR] BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/827.ts
+#EXTINF:-1,[FR] BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/828.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5403.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5404.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5405.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5408.ts
+#EXTINF:-1,[FR] BFM SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5433.ts
+#EXTINF:-1,[FR] EQUIDIA LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5432.ts
+#EXTINF:-1,[FR] EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5400.ts
+
+#EXTINF:-1,[IT] PREMIUM EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/645.ts
+
+#EXTINF:-1,[IT] PREMIUM SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1176.ts
+#EXTINF:-1,[IT] PREMIUM SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/2743.ts
+#EXTINF:-1,[IT] RAI SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/615.ts
+#EXTINF:-1,[IT] RAI SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/3015.ts
+#EXTINF:-1,[IT] SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/591.ts
+#EXTINF:-1,[IT] SKY SPORT 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/595.ts
+#EXTINF:-1,[IT] SKY SPORT F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/594.ts
+#EXTINF:-1,[PT] SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5337.ts
+#EXTINF:-1,[PT] SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1912.ts
+#EXTINF:-1,[PT] SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5338.ts
+#EXTINF:-1,[PT] SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1913.ts
+#EXTINF:-1,[PT] SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5339.ts
+#EXTINF:-1,[PT] SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1915.ts
+#EXTINF:-1,[PT] SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5340.ts
+#EXTINF:-1,[PT] SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1916.ts
+#EXTINF:-1,[PT] SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5341.ts
+#EXTINF:-1,[PT] SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1914.ts
+#EXTINF:-1,[PT] SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5342.ts
+#EXTINF:-1,[PT] SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1928.ts
+#EXTINF:-1,[RO] DIGI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/2016.ts
+#EXTINF:-1,[RO] DIGI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/2017.ts
+#EXTINF:-1,[RO] DIGI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/2018.ts
+#EXTINF:-1,[RO] DIGI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/2019.ts
+#EXTINF:-1,[US] FOX SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/7559.ts
+#EXTINF:-1,[US] FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/4432.ts
+#EXTINF:-1,[US] FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/4433.ts
+#EXTINF:-1,[UK] BT SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/766.ts
+#EXTINF:-1,[UK] BT SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/767.ts
+#EXTINF:-1,[UK] BT SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1324.ts
+#EXTINF:-1,[UK] BT SPORT EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1327.ts
+#EXTINF:-1,[UK] BT SPORT EXTRA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/4336.ts
+#EXTINF:-1,[UK] BT SPORT EXTRA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/4338.ts
+#EXTINF:-1,[UK] BT SPORTS ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/773.ts
+#EXTINF:-1,[AR] BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1854.ts
+#EXTINF:-1,[AR] BEINSPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1856.ts
+#EXTINF:-1,[AR] BEINSPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/3599.ts
