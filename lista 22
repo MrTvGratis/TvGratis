@@ -1,104 +1,155 @@
 #EXTM3U
 
-#EXTINF:-1,-------------- | SPAIN | --------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11042.ts
-#EXTINF:-1,SP | Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17192.ts
-#EXTINF:-1,SP | Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17191.ts
-#EXTINF:-1,SP | Antena Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17190.ts
-#EXTINF:-1,SP | AXN Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17189.ts
-#EXTINF:-1,SP | AXN White Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17188.ts
-#EXTINF:-1,SP | C  ACCIÓN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17187.ts
-#EXTINF:-1,SP | C  COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17186.ts
-#EXTINF:-1,SP | C  DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17185.ts
-#EXTINF:-1,SP | Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17184.ts
-#EXTINF:-1,SP | Canal  Fútbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17183.ts
-#EXTINF:-1,SP | Canal  Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17182.ts
-#EXTINF:-1,SP | Canal  Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17181.ts
-#EXTINF:-1,SP | Canal  Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17180.ts
-#EXTINF:-1,SP | Canal 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17179.ts
-#EXTINF:-1,SP | Canal Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17178.ts
-#EXTINF:-1,SP | Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17177.ts
-#EXTINF:-1,SP | Disney Junior Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17176.ts
-#EXTINF:-1,SP | Factoria de Ficcion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17175.ts
-#EXTINF:-1,SP | Fox Life Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17174.ts
-#EXTINF:-1,SP | Fox Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17173.ts
-#EXTINF:-1,SP | Garage TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17172.ts
-#EXTINF:-1,SP | La 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17171.ts
-#EXTINF:-1,SP | La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17170.ts
-#EXTINF:-1,SP | MOVISTAR F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17168.ts
-#EXTINF:-1,SP | MOVISTAR MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17167.ts
-#EXTINF:-1,SP | NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17166.ts
-#EXTINF:-1,SP | National Geographic Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17165.ts
-#EXTINF:-1,SP | Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17164.ts
-#EXTINF:-1,SP | Sol Música
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17163.ts
-#EXTINF:-1,SP | SyFy Universal Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17162.ts
-#EXTINF:-1,SP | Telecinco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17161.ts
-#EXTINF:-1,SP | TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17160.ts
-#EXTINF:-1,SP | TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/17159.ts
-#EXTINF:-1,SP | Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11034.ts
-#EXTINF:-1,SP | BEIN SPORT ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11025.ts
-#EXTINF:-1,SP | CANAL  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11027.ts
-#EXTINF:-1,SP | CANAL  DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11031.ts
-#EXTINF:-1,SP | CANAL  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11023.ts
-#EXTINF:-1,SP | CANAL ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11028.ts
-#EXTINF:-1,SP | CANAL HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11037.ts
-#EXTINF:-1,SP | CANAL SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11038.ts
-#EXTINF:-1,SP | CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11029.ts
-#EXTINF:-1,SP | CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11036.ts
-#EXTINF:-1,SP | DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11040.ts
-#EXTINF:-1,SP | DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11041.ts
-#EXTINF:-1,SP | ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11035.ts
-#EXTINF:-1,SP | MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11033.ts
-#EXTINF:-1,SP | NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11022.ts
-#EXTINF:-1,SP | NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11026.ts
-#EXTINF:-1,SP | TVE LA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/sam001/sam001/11024.ts
+
+#EXTINF:-1,ES:VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2722.ts
+#EXTINF:-1,ES:TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2723.ts
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2695.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2726.ts
+#EXTINF:-1,ES: NICK Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2707.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2702.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2701.ts
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2724.ts
+#EXTINF:-1,ES:LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2699.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2725.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2728.ts
+#EXTINF:-1,ES:FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2696.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2697.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2709.ts
+#EXTINF:-1,ES:DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2710.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2708.ts
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2704.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2703.ts
+#EXTINF:-1,ES: CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2713.ts
+#EXTINF:-1,ES: Movistar XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2715.ts
+#EXTINF:-1,ES:Canal  TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2717.ts
+#EXTINF:-1,ES: Canal SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2712.ts
+#EXTINF:-1,ES:Canal  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2690.ts
+#EXTINF:-1,ES:Canal  GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2716.ts
+#EXTINF:-1,ES:Canal  FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2692.ts
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2718.ts
+#EXTINF:-1,ES:Canal  DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2693.ts
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2694.ts
+#EXTINF:-1,ES: Canal DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2719.ts
+#EXTINF:-1,ES: M COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2720.ts
+#EXTINF:-1,ES: Movistar Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2688.ts
+#EXTINF:-1,ES: CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2714.ts
+#EXTINF:-1,ES: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2706.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2721.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5416.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5417.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5428.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5409.ts
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5419.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5408.ts
+#EXTINF:-1,ES: La Liga BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5424.ts
+#EXTINF:-1,ES: LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2700.ts
+#EXTINF:-1,ES: IBERALIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5427.ts
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5421.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5411.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5410.ts
+#EXTINF:-1,ES: COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5412.ts
+#EXTINF:-1,ES: Clan Tve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5418.ts
+#EXTINF:-1,ES: Caza y pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5413.ts
+#EXTINF:-1,ES: Canal SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2711.ts
+#EXTINF:-1,ES: CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5426.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5425.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5420.ts
+#EXTINF:-1,ES: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5422.ts
+#EXTINF:-1,ES: Bein Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5423.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2705.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5415.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/5414.ts
+#EXTINF:-1,ES: #0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/2729.ts
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6696.ts
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6694.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6695.ts
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6721.ts
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6720.ts
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6718.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6719.ts
+#EXTINF:-1,ES: Nonstop People
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6722.ts
+#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6724.ts
+#EXTINF:-1,ES: Canal De Las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6792.ts
+#EXTINF:-1,ES: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6968.ts
+#EXTINF:-1,ES: Crimen Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6984.ts
+#EXTINF:-1,ES: MTV ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/6985.ts
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3066.ts
+#EXTINF:-1,ES: Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3068.ts
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3067.ts
+#EXTINF:-1,ES : MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3065.ts
