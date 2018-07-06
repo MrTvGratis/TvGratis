@@ -8,22 +8,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5053.ts
 #EXTINF:-1,[ES] A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5212.ts
-#EXTINF:-1,[ES] ALQUILER 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5261.ts
-#EXTINF:-1,[ES] ALQUILER 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5263.ts
-#EXTINF:-1,[ES] ALQUILER 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5266.ts
-#EXTINF:-1,[ES] ALQUILER 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5267.ts
-#EXTINF:-1,[ES] ALQUILER 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5268.ts
-#EXTINF:-1,[ES] ALQUILER 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5269.ts
-#EXTINF:-1,[ES] ALQUILER 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5270.ts
-#EXTINF:-1,[ES] ALQUILER 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5271.ts
 #EXTINF:-1,[ES] AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1542.ts
 #EXTINF:-1,[ES] ANTENA 3 HD
