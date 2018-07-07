@@ -29,24 +29,5 @@ http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?yo.ac=true%26yo.br
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HqKYZvm.png" group-title="CHILE", Canal 13 | SD
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (1)
-http://147.135.128.132:8000/live/tohotv/youtube/2447.m3u8
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (2)
-http://147.135.128.132:8000/live/tohotv/youtube/753.m3u8
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (3)
-http://147.135.128.132:8000/live/tohotv/youtube/1801.m3u8
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (4)
-http://147.135.128.132:8000/live/tohotv/youtube/1799.m3u8
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/2447.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/753.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1800.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1799.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (5)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/1801.ts
-#EXTINF:-1,COPA MUNDIAL RUSIA 2018 (6)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://147.135.128.132:8000/live/zbvcxxzbvxc/12345678/5635.ts
+
 
