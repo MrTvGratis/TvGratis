@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR green] ARENAVISION [/COLOR] [COLOR red]PINCHA AQUI[/COLOR]</title>
+<title>[COLOR green] ARENAVISION con Agenda [/COLOR] [COLOR red]PINCHA AQUI[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -32,4 +32,31 @@
  </regex>
 
 			<thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green] ARENAVISION 2 [/COLOR] [COLOR red]PINCHA AQUI[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR green] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR green]TvGratis[/COLOR]+[makelist.param2]</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>[makelist.param1]</page>
+			<referer>http://cdn.arenavision.co.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
+</item>
+]]></listrepeat>
+<expres><![CDATA[leaf\"><a\shref=\"(http.*?)\"\stitle=\"\">(.*?)<]]></expres>
+<page>http://arenavision.us</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.tk</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
