@@ -160,50 +160,13 @@ http://adrivan.zapto.org:8001/1:0:1:769C:41E:1:C00000:0:0:0:
 http://adrivan.zapto.org:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
 #EXTINF:0,BEIN SPORTS
 http://adrivan.zapto.org:8001/1:0:1:757B:412:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 1
-http://adrivan.zapto.org:8001/1:0:19:7861:41A:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 1
-http://adrivan.zapto.org:8001/1:0:1:769F:41E:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 2
-http://adrivan.zapto.org:8001/1:0:19:7864:41A:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 2
-http://adrivan.zapto.org:8001/1:0:1:757A:412:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 3
-http://adrivan.zapto.org:8001/1:0:1:757F:412:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 4
-http://adrivan.zapto.org:8001/1:0:1:757C:412:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 5
-http://adrivan.zapto.org:8001/1:0:1:757D:412:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 6
-http://adrivan.zapto.org:8001/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 7
-http://adrivan.zapto.org:8001/1:0:1:769E:41E:1:C00000:0:0:0:
-#EXTINF:0,BEIN MAX 8
-http://adrivan.zapto.org:8001/1:0:1:7576:412:1:C00000:0:0:0:
+
 #EXTINF:0,BEIN LALIGA
 http://adrivan.zapto.org:8001/1:0:19:750F:420:1:C00000:0:0:0:
 #EXTINF:0,BEIN LALIGA
 http://adrivan.zapto.org:8001/1:0:1:7797:424:1:C00000:0:0:0:
 #EXTINF:0,BEINLALIGA1
 http://adrivan.zapto.org:8001/1:0:19:7853:41A:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA1
-http://adrivan.zapto.org:8001/1:0:1:756B:412:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA2
-http://adrivan.zapto.org:8001/1:0:19:7855:41A:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA2
-http://adrivan.zapto.org:8001/1:0:1:7580:412:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA3
-http://adrivan.zapto.org:8001/1:0:1:7581:412:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA4
-http://adrivan.zapto.org:8001/1:0:1:769B:41E:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA5
-http://adrivan.zapto.org:8001/1:0:1:7579:412:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA6
-http://adrivan.zapto.org:8001/1:0:1:757E:412:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA7
-http://adrivan.zapto.org:8001/1:0:1:756E:412:1:C00000:0:0:0:
-#EXTINF:0,BEINLALIGA8
-http://adrivan.zapto.org:8001/1:0:1:7690:41E:1:C00000:0:0:0:
 #EXTINF:0,LALIGATV BAR
 http://adrivan.zapto.org:8001/1:0:19:7859:41A:1:C00000:0:0:0:
 #EXTINF:0,LALIGATV BAR
@@ -222,28 +185,7 @@ http://adrivan.zapto.org:8001/1:0:19:7826:428:1:C00000:0:0:0:
 http://adrivan.zapto.org:8001/1:0:1:74A1:41C:1:C00000:0:0:0:
 #EXTINF:0,EUROSPORT 2
 http://adrivan.zapto.org:8001/1:0:1:760E:408:1:C00000:0:0:0:
-#EXTINF:0,MULTIFUT. 1
-http://adrivan.zapto.org:8001/1:0:1:76A7:41E:1:C00000:0:0:0:
-#EXTINF:0,MULTIFUT. 2
-http://adrivan.zapto.org:8001/1:0:1:7577:412:1:C00000:0:0:0:
-#EXTINF:0,MULTIFUT. 3
-http://adrivan.zapto.org:8001/1:0:1:7578:412:1:C00000:0:0:0:
-#EXTINF:0,MULTIFUT. 4
-http://adrivan.zapto.org:8001/1:0:1:76A6:41E:1:C00000:0:0:0:
-#EXTINF:0,MULTIDEPORTE
-http://adrivan.zapto.org:8001/1:0:1:7692:41E:1:C00000:0:0:0:
-#EXTINF:0,MULTIDEP.1
-http://adrivan.zapto.org:8001/1:0:1:756C:412:1:C00000:0:0:0:
-#EXTINF:0,MULTIDEP.2
-http://adrivan.zapto.org:8001/1:0:1:756D:412:1:C00000:0:0:0:
-#EXTINF:0,MULTIDEP.3
-http://adrivan.zapto.org:8001/1:0:1:7573:412:1:C00000:0:0:0:
-#EXTINF:0,MULTIDEP.4
-http://adrivan.zapto.org:8001/1:0:1:7575:412:1:C00000:0:0:0:
-#EXTINF:0,MULTIDEP.5
-http://adrivan.zapto.org:8001/1:0:1:7693:41E:1:C00000:0:0:0:
-#EXTINF:0,MULTIDEP. 6
-http://adrivan.zapto.org:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
+
 #EXTINF:0,M. eSports
 http://adrivan.zapto.org:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
 #EXTINF:0,M.FORMULA1HD
