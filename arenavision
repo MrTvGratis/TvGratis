@@ -34,7 +34,7 @@
 			<thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR green] ARENAVISION 2 [/COLOR] [COLOR red]PINCHA AQUI[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
