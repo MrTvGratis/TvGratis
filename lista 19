@@ -1,190 +1,66 @@
 #EXTM3U
 
-#EXTINF:-1,₪₪₪[ SPAIN ]₪₪₪
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1462.ts
-#EXTINF:-1,[ES] #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1484.ts
-#EXTINF:-1,[ES] 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5053.ts
-#EXTINF:-1,[ES] A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5212.ts
-#EXTINF:-1,[ES] AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1542.ts
-#EXTINF:-1,[ES] ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1509.ts
-#EXTINF:-1,[ES] ASTRESSERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5050.ts
-#EXTINF:-1,[ES] AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1541.ts
-#EXTINF:-1,[ES] AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1540.ts
-#EXTINF:-1,[ES] BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5059.ts
-#EXTINF:-1,[ES] BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1503.ts
-#EXTINF:-1,[ES] BEAMAD TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5237.ts
-#EXTINF:-1,[ES] BEIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1482.ts
-#EXTINF:-1,[ES] BEIN SPORTS LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5060.ts
-#EXTINF:-1,[ES] BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5058.ts
-#EXTINF:-1,[ES] CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1539.ts
-#EXTINF:-1,[ES] CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1487.ts
-#EXTINF:-1,[ES] CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5274.ts
-#EXTINF:-1,[ES] CANAL EXTREMADURA SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5272.ts
-#EXTINF:-1,[ES] CANAL SUR ANDALUCIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5273.ts
-#EXTINF:-1,[ES] CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1537.ts
-#EXTINF:-1,[ES] CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1513.ts
-#EXTINF:-1,[ES] COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5057.ts
-#EXTINF:-1,[ES] COSMO TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5241.ts
-#EXTINF:-1,[ES] CRIMEN INVESTI GACION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5220.ts
-#EXTINF:-1,[ES] CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1535.ts
-#EXTINF:-1,[ES] DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5219.ts
-#EXTINF:-1,[ES] DISCOVERY MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5218.ts
-#EXTINF:-1,[ES] DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1534.ts
-#EXTINF:-1,[ES] DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5253.ts
-#EXTINF:-1,[ES] DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1532.ts
-#EXTINF:-1,[ES] DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1486.ts
-#EXTINF:-1,[ES] ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5052.ts
-#EXTINF:-1,[ES] EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5242.ts
-#EXTINF:-1,[ES] EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5243.ts
-#EXTINF:-1,[ES] FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5275.ts
-#EXTINF:-1,[ES] FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1530.ts
-#EXTINF:-1,[ES] FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1531.ts
-#EXTINF:-1,[ES] GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5254.ts
-#EXTINF:-1,[ES] HEAR TV MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5244.ts
-#EXTINF:-1,[ES] HEI TV MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5245.ts
-#EXTINF:-1,[ES] HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1529.ts
-#EXTINF:-1,[ES] HIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5248.ts
-#EXTINF:-1,[ES] HITS NRJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5247.ts
-#EXTINF:-1,[ES] HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1538.ts
-#EXTINF:-1,[ES] IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5223.ts
-#EXTINF:-1,[ES] LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1520.ts
-#EXTINF:-1,[ES] LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1519.ts
-#EXTINF:-1,[ES] LaLiga TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1477.ts
-#EXTINF:-1,[ES] LEVANTE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5252.ts
-#EXTINF:-1,[ES] LIGA 123 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5061.ts
-#EXTINF:-1,[ES] M ESPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5062.ts
-#EXTINF:-1,[ES] MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5051.ts
-#EXTINF:-1,[ES] MIMUSICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5255.ts
-#EXTINF:-1,[ES] MOVISTAR + ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1474.ts
-#EXTINF:-1,[ES] MOVISTAR + XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1473.ts
-#EXTINF:-1,[ES] MOVISTAR FORMULA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1500.ts
-#EXTINF:-1,[ES] MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1480.ts
-#EXTINF:-1,[ES] MOVISTAR GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1479.ts
-#EXTINF:-1,[ES] MOVISTAR MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1499.ts
-#EXTINF:-1,[ES] MOVISTAR+ ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1467.ts
-#EXTINF:-1,[ES] MOVISTAR+ COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1468.ts
-#EXTINF:-1,[ES] MOVISTAR+ DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1471.ts
-#EXTINF:-1,[ES] MOVISTAR+ DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1475.ts
-#EXTINF:-1,[ES] MOVISTAR+ DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5054.ts
-#EXTINF:-1,[ES] MOVISTAR+ SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1472.ts
-#EXTINF:-1,[ES] MOVISTAR+ SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5055.ts
-#EXTINF:-1,[ES] MOVISTAR+ XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1469.ts
-#EXTINF:-1,[ES] MTV ESPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5246.ts
-#EXTINF:-1,[ES] NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1528.ts
-#EXTINF:-1,[ES] NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1527.ts
-#EXTINF:-1,[ES] NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5049.ts
-#EXTINF:-1,[ES] NICK JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5210.ts
-#EXTINF:-1,[ES] NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5211.ts
-#EXTINF:-1,[ES] NONSTOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5250.ts
-#EXTINF:-1,[ES] NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1524.ts
-#EXTINF:-1,[ES] ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5217.ts
-#EXTINF:-1,[ES] PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5209.ts
-#EXTINF:-1,[ES] PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5056.ts
-#EXTINF:-1,[ES] REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1505.ts
-#EXTINF:-1,[ES] SUDANCE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5251.ts
-#EXTINF:-1,[ES] SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1523.ts
-#EXTINF:-1,[ES] TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1522.ts
-#EXTINF:-1,[ES] TELE MUSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5279.ts
-#EXTINF:-1,[ES] TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1497.ts
-#EXTINF:-1,[ES] TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5277.ts
-#EXTINF:-1,[ES] TELEMADRID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5276.ts
-#EXTINF:-1,[ES] TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5208.ts
-#EXTINF:-1,[ES] TOP LATINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5249.ts
-#EXTINF:-1,[ES] TOROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5239.ts
-#EXTINF:-1,[ES] TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1525.ts
-#EXTINF:-1,[ES] VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/1533.ts
-#EXTINF:-1,[ES] WIN SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5063.ts
-#EXTINF:-1,[ES] XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://145.239.1.103:8000/live/Dogan4/Dogan4/5207.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/A3.png",Antena 3
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/615/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/C4.png",Cuatro
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/616/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/T5.png",Telecinco
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/617/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SEXTA.png",LaSexta
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/618/index.m3u8
+#EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NOVA",Nova
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/602/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV3.png",#0
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/611/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV2.png", Movistar Series Xtra
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/568/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXGE.png",Fox
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/608/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXCR.png",Fox Life
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/601/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AMC.png",AMC
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/614/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AXN.png",AXN
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/610/index.m3u8
+EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SET.png",AXN White
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/609/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png",Comedy Central
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/572/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png",Comedy Central
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/573/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/COSMO.png",Cosmo
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/570/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/HOLLYW.png",Hollywood
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/577/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOME.png", Movistar Comedia
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/606/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPACCI.png", Movistar Acción
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/576/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOLE.png", Movistar DCine
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/607/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",Iberalia
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/603/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PLAYDC.png",Disney Junior
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/604/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPFUT.png", Movistar Fútbol
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/575/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/BELIGA.png",beIN LaLiga
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/574/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/LIGBAR.png",La Liga TV
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/581/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png",Movistar MotoGP
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/613/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png",Movistar F1
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/612/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/GOLF%2B.png",Movistar Golf
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/569/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",Iberalia
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/603/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TLESUR.png",Telesur
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/803/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/RTESP.png", Russia Today
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/211/index.m3u8
+
