@@ -1,130 +1,326 @@
 #EXTM3U
 
-#EXTINF:-1,------- Spanish ---------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1072.ts
-#EXTINF:-1,ES: Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1022.ts
-#EXTINF:-1,ES: Canal+ Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1012.ts
-#EXTINF:-1,ES: Canal+ Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2590.ts
-#EXTINF:-1,ES: Canal+ Futpol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1020.ts
-#EXTINF:-1,ES: Canal+ Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1019.ts
-#EXTINF:-1,ES: Canal+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1016.ts
-#EXTINF:-1,ES: Canal+ Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1030.ts
-#EXTINF:-1,ES: Canal+ Dcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1028.ts
-#EXTINF:-1,ES: Canal+ Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1031.ts
-#EXTINF:-1,ES: Canal+ Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1059.ts
-#EXTINF:-1,ES: Canal+ de las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1048.ts
-#EXTINF:-1,ES: Canal+ Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1058.ts
-#EXTINF:-1,ES: Canal+ Serie Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1004.ts
-#EXTINF:-1,ES: Canal+ Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1026.ts
-#EXTINF:-1,ES: Canal+ Cine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1033.ts
-#EXTINF:-1,ES: Canal+ Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1024.ts
-#EXTINF:-1,ES: Canal+ AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1054.ts
-#EXTINF:-1,ES: Canal+ Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1049.ts
-#EXTINF:-1,ES: Cine latino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1002.ts
-#EXTINF:-1,ES: Canal+ Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1034.ts
-#EXTINF:-1,ES: Canal+ Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1029.ts
-#EXTINF:-1,ES: ECOTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1047.ts
-#EXTINF:-1,ES: Canal Sony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1041.ts
-#EXTINF:-1,ES: Canal+ Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1039.ts
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1046.ts
-#EXTINF:-1,ES: Bein Sport ES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1003.ts
-#EXTINF:-1,ES: Real Madrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1037.ts
+#EXTINF:-1,|ES|++++MOVISTAR++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4931.ts
+#EXTINF:-1,|ES| TVE LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5010.ts
+#EXTINF:-1,|ES| TVE LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5009.ts
+#EXTINF:-1,|ES| ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5007.ts
+#EXTINF:-1,|ES| CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5006.ts
+#EXTINF:-1,|ES| TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5005.ts
+#EXTINF:-1,|ES| CANAL SUR ANDALUCIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5004.ts
+#EXTINF:-1,|ES| TV3 CATALUNYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5003.ts
+#EXTINF:-1,|ES| TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5002.ts
+#EXTINF:-1,|ES| NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5001.ts
+#EXTINF:-1,|ES| MEGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5000.ts
+#EXTINF:-1,|ES|++++NOTICIAS++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4919.ts
+#EXTINF:-1,|ES| 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4998.ts
+#EXTINF:-1,ES 3/24 NOTICIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4999.ts
+#EXTINF:-1,|ES| TPA ASTURIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4997.ts
+#EXTINF:-1,|ES| TELEMADRID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4996.ts
+#EXTINF:-1,|ES|++++DEPORTES+++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4914.ts
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4992.ts
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4991.ts
+#EXTINF:-1,|ES| GOL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4981.ts
+#EXTINF:-1,|ES| M FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4990.ts
+#EXTINF:-1,|ES| M FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4989.ts
+#EXTINF:-1,|ES| TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4980.ts
+#EXTINF:-1,|ES| M beINSPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4993.ts
+#EXTINF:-1,|ES| M beINSPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4994.ts
+#EXTINF:-1,|ES| M BEINLALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4995.ts
+#EXTINF:-1,|ES| LALIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4984.ts
+#EXTINF:-1,|ES| LALIGA 123 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4985.ts
+#EXTINF:-1,|ES| BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4988.ts
+#EXTINF:-1,|ES| REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4983.ts
+#EXTINF:-1,|ES| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4987.ts
+#EXTINF:-1,|ES| EUROSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4986.ts
+#EXTINF:-1,|ES|++++CINE++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4896.ts
+#EXTINF:-1,|ES| M ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4973.ts
+#EXTINF:-1,|ES| M XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4972.ts
+#EXTINF:-1,|ES| M ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4978.ts
+#EXTINF:-1,|ES| M ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4977.ts
+#EXTINF:-1,|ES| M COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4975.ts
+#EXTINF:-1,|ES| M DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4974.ts
+#EXTINF:-1,|ES| M CINE ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4976.ts
+#EXTINF:-1,|ES| PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4971.ts
+#EXTINF:-1,|ES| HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4970.ts
+#EXTINF:-1,|ES|++++ENTRETENIMIENTO++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4886.ts
+#EXTINF:-1,|ES| M #0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4969.ts
+#EXTINF:-1,|ES| M SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4968.ts
+#EXTINF:-1,|ES| M SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4967.ts
+#EXTINF:-1,|ES| M SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4966.ts
+#EXTINF:-1,|ES| COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4965.ts
+#EXTINF:-1,|ES| A3 SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4964.ts
+#EXTINF:-1,|ES| CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4963.ts
+#EXTINF:-1,|ES| AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4962.ts
+#EXTINF:-1,|ES| AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4960.ts
+#EXTINF:-1,|ES| AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4961.ts
+#EXTINF:-1,|ES| TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4955.ts
+#EXTINF:-1,|ES| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4957.ts
+#EXTINF:-1,|ES| TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4956.ts
+#EXTINF:-1,|ES| FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4959.ts
+#EXTINF:-1,|ES| FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4958.ts
+#EXTINF:-1,|ES|++++CULTURA ++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4870.ts
+#EXTINF:-1,|ES| DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4950.ts
+#EXTINF:-1,|ES| NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4954.ts
+#EXTINF:-1,|ES| NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4953.ts
+#EXTINF:-1,|ES| NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4952.ts
+#EXTINF:-1,|ES| NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4951.ts
+#EXTINF:-1,|ES| CRIMEN INVESTIGACION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/5011.ts
+#EXTINF:-1,|ES| A E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4947.ts
+#EXTINF:-1,|ES| CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4949.ts
+#EXTINF:-1,|ES| CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4948.ts
+#EXTINF:-1,|ES| HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4946.ts
+#EXTINF:-1,|ES| VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4934.ts
+#EXTINF:-1,|ES| CANAL COCINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4938.ts
+#EXTINF:-1,|ES| CANAL DECASA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4944.ts
+#EXTINF:-1,|ES| ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4945.ts
+#EXTINF:-1,|ES|++++NINOS++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4855.ts
+#EXTINF:-1,|ES| DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4940.ts
+#EXTINF:-1,|ES| DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4943.ts
+#EXTINF:-1,|ES| DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4941.ts
+#EXTINF:-1,|ES| NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4936.ts
+#EXTINF:-1,|ES| NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4935.ts
+#EXTINF:-1,|ES| CANAL PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4937.ts
+#EXTINF:-1,|ES| BOING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4939.ts
+#EXTINF:-1,|ES| BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4942.ts
+#EXTINF:-1,|ES|+++MUSICA+++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4846.ts
+#EXTINF:-1,|ES| MIMUSICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4933.ts
+#EXTINF:-1,|ES| MTV SPAIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4932.ts
+#EXTINF:-1,|ES| 0#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1405.ts
+#EXTINF:-1,|ES|M.ACCION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1410.ts
+#EXTINF:-1,|ES|M.ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1984.ts
+#EXTINF:-1,|ES|M.COMEDIA.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1983.ts
+#EXTINF:-1,|ES|M.DCINE.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1982.ts
+#EXTINF:-1,|ES|M.ESTRENOS.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1981.ts
+#EXTINF:-1,|ES|M.SERIES.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1980.ts
+#EXTINF:-1,|ES| DISCOVERY.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1409.ts
+#EXTINF:-1,|ES|M.SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1408.ts
+#EXTINF:-1,|ES|CANAL+SERIES_Xtra.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1979.ts
+#EXTINF:-1,|ES|CANAL+SERIES_Xtra.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1978.ts
+#EXTINF:-1,|ES| Hollywood.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1413.ts
+#EXTINF:-1,|ES|M.ESTRENOS.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1407.ts
+#EXTINF:-1,|ES| M PARTIDAZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/4979.ts
+#EXTINF:-1,|ES| Neox Tv.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/3866.ts
+#EXTINF:-1,|ES| Fox_Life.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2234.ts
+#EXTINF:-1,|ES|AXN.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1971.ts
+#EXTINF:-1,(ES)_AXN_White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1970.ts
+#EXTINF:-1,(ES)_HOLLYWOOD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2232.ts
+#EXTINF:-1,(ES)_SYFY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2231.ts
+#EXTINF:-1,(ES)_TCM_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2230.ts
+#EXTINF:-1,(ES)_AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2227.ts
+#EXTINF:-1,|ES|TNT.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2229.ts
+#EXTINF:-1,ES|LA.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1990.ts
+#EXTINF:-1,|ES|LA.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1989.ts
+#EXTINF:-1,|ES|CAZA_Y_PESCA.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2004.ts
+#EXTINF:-1,|ES|CALLE13.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1975.ts
+#EXTINF:-1,|ES|CANAL_COCINA.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1974.ts
+#EXTINF:-1,|ES|Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1973.ts
+#EXTINF:-1,(ES)_Canal_panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1972.ts
+#EXTINF:-1,(ES)_Comedy_Central_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1977.ts
+#EXTINF:-1,(ES)_Antena_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1988.ts
+#EXTINF:-1,(ES)_COSMO_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1976.ts
+#EXTINF:-1,(ES)_Cuatro_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1987.ts
+#EXTINF:-1,ES: Asturias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/74.ts
+#EXTINF:-1,ES: Canal 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/123.ts
+#EXTINF:-1,ES: ElCorreoTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/77.ts
+#EXTINF:-1,ES: ETB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/76.ts
+#EXTINF:-1,(ES)_DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2244.ts
+#EXTINF:-1,[ES]_Nat_Geo_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2243.ts
+#EXTINF:-1,[ES]_Nat_Geo_Wild_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2242.ts
+#EXTINF:-1,(ES)_Disney_Channel_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2238.ts
+#EXTINF:-1,[ES]_Disney_Channel_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2239.ts
+#EXTINF:-1,[ES]_Nickelodeon_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2240.ts
+#EXTINF:-1,|ES|CANAL_LIGA.H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1421.ts
+#EXTINF:-1,ES:TeleticinoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1411.ts
+#EXTINF:-1,(ES)_M_Deportes_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2010.ts
+#EXTINF:-1,(ES)_M_deportes_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2011.ts
+#EXTINF:-1,(ES)_EUROSPORT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2013.ts
+#EXTINF:-1,(ES)_Eurosport_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2012.ts
+#EXTINF:-1,(ES)_GOLF_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2016.ts
+#EXTINF:-1,(ES)_Bar_la_liga_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2017.ts
+#EXTINF:-1,[ES]_M_Futbol_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2018.ts
+#EXTINF:-1,Canal_FutBol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1406.ts
+#EXTINF:-1,(ES)_Barca_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2015.ts
 #EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1021.ts
-#EXTINF:-1,ES: Movis Star Moto Gp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1011.ts
-#EXTINF:-1,ES: Movi Star F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1010.ts
-#EXTINF:-1,ES: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1042.ts
-#EXTINF:-1,ES: Win Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1050.ts
-#EXTINF:-1,ES: Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1045.ts
-#EXTINF:-1,ES: La 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1014.ts
-#EXTINF:-1,ES: La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1013.ts
-#EXTINF:-1,ES: Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1015.ts
-#EXTINF:-1,ES: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1025.ts
-#EXTINF:-1,ES: TV3 LT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2591.ts
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2589.ts
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2588.ts
-#EXTINF:-1,ES: GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2585.ts
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2586.ts
-#EXTINF:-1,ES: Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/2587.ts
-#EXTINF:-1,ES: VTV +  (URU)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1053.ts
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1056.ts
-#EXTINF:-1,ES: 324 Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1005.ts
-#EXTINF:-1,ES: Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1060.ts
-#EXTINF:-1,ES: Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1036.ts
-#EXTINF:-1,ES: Axn White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1023.ts
-#EXTINF:-1,ES: History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1051.ts
-#EXTINF:-1,ES: Concert Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1009.ts
-#EXTINF:-1,ES: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/999.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1001.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1007.ts
-#EXTINF:-1,ES: Caza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1027.ts
-#EXTINF:-1,ES: Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1043.ts
-#EXTINF:-1,ES: Teleticino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1008.ts
-#EXTINF:-1,ES: National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1057.ts
-#EXTINF:-1,ES: National Geographic Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1055.ts
-#EXTINF:-1,ES: Disney Chaneel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1040.ts
-#EXTINF:-1,ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1038.ts
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1032.ts
-#EXTINF:-1,ES: TVN Chile HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/Majda/Majda/1006.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1415.ts
+#EXTINF:-1,ES: Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1416.ts
+#EXTINF:-1,(ES)_Real_Madrid_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2014.ts
+#EXTINF:-1,(ES)_M_Toros_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2005.ts
+#EXTINF:-1,(ES)_M_Golf_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2009.ts
+#EXTINF:-1,(ES)_MotoGP_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2008.ts
+#EXTINF:-1,(ES)_Movistar_F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2007.ts
+#EXTINF:-1,(ES)_Telecinco_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1986.ts
+#EXTINF:-1,(ES)_Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2006.ts
+#EXTINF:-1,|ES|Bein_Sport _ES.H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1414.ts
+#EXTINF:-1,BEIN_LIGA_HD_ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2003.ts
+#EXTINF:-1,beIN_LaLIga_1__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2002.ts
+#EXTINF:-1,beIN_LaLIga_2__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2001.ts
+#EXTINF:-1,beIN_LaLIga_3__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/2000.ts
+#EXTINF:-1,BEIN_MAX_1__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1999.ts
+#EXTINF:-1,BEIN_MAX_2__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1998.ts
+#EXTINF:-1,BEIN_MAX_3__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1997.ts
+#EXTINF:-1,BEIN_MAX_4__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1996.ts
+#EXTINF:-1,BEIN_MAX_5__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1995.ts
+#EXTINF:-1,BEIN_MAX_6__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1994.ts
+#EXTINF:-1,BEIN_MAX_7__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1993.ts
+#EXTINF:-1,BEIN_MAX_8__ES_(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leon-iptv.ddns.net:1155/live/123456/123456/1992.ts
