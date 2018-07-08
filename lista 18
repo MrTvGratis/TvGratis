@@ -41,8 +41,6 @@ http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/606/inde
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/576/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOLE.png", Movistar DCine
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/607/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",Iberalia
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/603/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PLAYDC.png",Disney Junior
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/604/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPFUT.png", Movistar Fútbol
