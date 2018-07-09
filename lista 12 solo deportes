@@ -530,3 +530,401 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11312.ts
 #EXTINF:-1,SPORTS:_USA:WWE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11311.ts
+#EXTINF:-1,SPORTS1:_AF:Gtv Sports Plus (Ghana)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29366.ts
+#EXTINF:-1,SPORTS1:_AL:K Sport 1 (Shqip)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29365.ts
+#EXTINF:-1,SPORTS1:_AL:K Sport 2 (Shqip)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29364.ts
+#EXTINF:-1,SPORTS1:_AL:Rtsh Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29363.ts
+#EXTINF:-1,SPORTS1:_AL:Super Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29362.ts
+#EXTINF:-1,SPORTS1:_AL:Super Sport Kosova 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29361.ts
+#EXTINF:-1,SPORTS1:_AL:Super Sport Kosova 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29360.ts
+#EXTINF:-1,SPORTS1:_AL:SuperSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29359.ts
+#EXTINF:-1,SPORTS1:_AL:Supersport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29358.ts
+#EXTINF:-1,SPORTS1:_AL:Supersport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29357.ts
+#EXTINF:-1,SPORTS1:_AL:SuperSport4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29356.ts
+#EXTINF:-1,SPORTS1:_AL:Tele Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29355.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29354.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29353.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29352.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29351.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29350.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29349.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29348.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29347.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29346.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29345.ts
+#EXTINF:-1,SPORTS1:_AR:AL Sharjah SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29344.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29343.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29342.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29341.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29340.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29339.ts
+#EXTINF:-1,SPORTS1:_AR:DMC Sport HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29338.ts
+#EXTINF:-1,SPORTS1:_AR:Kuwait Sport PLUS *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29337.ts
+#EXTINF:-1,SPORTS1:_AR:Kuwait Sport TV *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29336.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29335.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29334.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29333.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29332.ts
+#EXTINF:-1,SPORTS1:_AR:NILE SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29331.ts
+#EXTINF:-1,SPORTS1:_AR:Oman Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29330.ts
+#EXTINF:-1,SPORTS1:_AR:ON Sport HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29329.ts
+#EXTINF:-1,SPORTS1:_AR:SAUDI SPORT *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29328.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29327.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29326.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29325.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT WORLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29324.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29323.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29322.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29321.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29320.ts
+#EXTINF:-1,SPORTS1:_DE:Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29319.ts
+#EXTINF:-1,SPORTS1:_DE:Sport-Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29318.ts
+#EXTINF:-1,SPORTS1:_EX-YU_BIH: A1 SPORT (BiH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29317.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 1 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29316.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 2 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29315.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 3 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29314.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 4 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29313.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 5 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29312.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Sport Klub 1 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29311.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Sport Klub 2 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29310.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Sport Klub 3 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29309.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29308.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29307.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29306.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29305.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29304.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29303.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29302.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29301.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 5 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29300.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: EUROSPORT 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29299.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: EUROSPORT 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29298.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29297.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29296.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29295.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29294.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport news (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29293.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Super Sport 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29292.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Super Sport 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29291.ts
+#EXTINF:-1,SPORTS1:_GR:EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29274.ts
+#EXTINF:-1,SPORTS1:_GR:Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29273.ts
+#EXTINF:-1,SPORTS1:_GR:TILESPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29272.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29271.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29270.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29269.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29268.ts
+#EXTINF:-1,SPORTS1:_IND:TEN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29267.ts
+#EXTINF:-1,SPORTS1:_IT:FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29266.ts
+#EXTINF:-1,SPORTS1:_IT:Premium EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29265.ts
+#EXTINF:-1,SPORTS1:_IT:Premium EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29264.ts
+#EXTINF:-1,SPORTS1:_IT:Premium Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29263.ts
+#EXTINF:-1,SPORTS1:_IT:Premium Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29262.ts
+#EXTINF:-1,SPORTS1:_IT:Rai Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29261.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29260.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29259.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29258.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29257.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29256.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29255.ts
+#EXTINF:-1,SPORTS1:_NL:Fox_Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29254.ts
+#EXTINF:-1,SPORTS1:_NL:fox_Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29253.ts
+#EXTINF:-1,SPORTS1:_NL:fox_Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29252.ts
+#EXTINF:-1,SPORTS1:_NL:fox_Sport.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29251.ts
+#EXTINF:-1,SPORTS1:_NL:Fox_Sport.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29250.ts
+#EXTINF:-1,SPORTS1:_NL:Fox_Sport.6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29249.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29248.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_extra_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29247.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_extra_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29246.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29245.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29244.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29243.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29242.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29241.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29240.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29239.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29238.ts
+#EXTINF:-1,SPORTS1:_PT:Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29237.ts
+#EXTINF:-1,SPORTS1:_PT:Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29236.ts
+#EXTINF:-1,SPORTS1:_PT:Eurosport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29235.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29234.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29233.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29232.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29231.ts
+#EXTINF:-1,SPORTS1:_RO:Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29230.ts
+#EXTINF:-1,SPORTS1:_RO:Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29229.ts
+#EXTINF:-1,SPORTS1:_RO:Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29228.ts
+#EXTINF:-1,SPORTS1:_RO:Fishing & Hunting
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29227.ts
+#EXTINF:-1,SPORTS1:_RO:Sport.ro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29226.ts
+#EXTINF:-1,SPORTS1:_SC_DK:Eurosport DK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29225.ts
+#EXTINF:-1,SPORTS1:_SC_DK:TV 2 SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29224.ts
+#EXTINF:-1,SPORTS1:_SC_DK:TV 3 SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29223.ts
+#EXTINF:-1,SPORTS1:_SC_DK:TV 3 SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29222.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29221.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Norge HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29220.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29219.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29218.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29217.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29216.ts
+#EXTINF:-1,SPORTS1:_SC_NO:TV 2 Sport Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29215.ts
+#EXTINF:-1,SPORTS1:_SC_NO:TV 2 Sport Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29214.ts
+#EXTINF:-1,SPORTS1:_SC_NO:TV 2 Sport Premium 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29213.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Fotball HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29212.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29211.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29210.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Sport Baltic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29209.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Sport Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29208.ts
+#EXTINF:-1,SPORTS1:_TR:A SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29207.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29206.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29205.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29204.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29203.ts
+#EXTINF:-1,SPORTS1:_TR:SPORTS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29202.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29201.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29200.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29199.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29198.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29197.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29196.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29195.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29194.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29193.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29192.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29191.ts
+#EXTINF:-1,SPORTS1:_UK:EIR SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29190.ts
+#EXTINF:-1,SPORTS1:_UK:EIR SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29189.ts
+#EXTINF:-1,SPORTS1:_UK:Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29188.ts
+#EXTINF:-1,SPORTS1:_UK:Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29187.ts
+#EXTINF:-1,SPORTS1:_UK:Fight Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29186.ts
+#EXTINF:-1,SPORTS1:_UK:Premiere Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29185.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29184.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29183.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29182.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29181.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29180.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29179.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29178.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29177.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29176.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD THE OPEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29175.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29174.ts
+#EXTINF:-1,SPORTS1:_UK:Sports Tonight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29173.ts
+#EXTINF:-1,SPORTS1:_USA:AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29172.ts
+#EXTINF:-1,SPORTS1:_USA:AFN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29171.ts
+#EXTINF:-1,SPORTS1:_USA:Bein Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29170.ts
+#EXTINF:-1,SPORTS1:_USA:FIGHT Network SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29169.ts
+#EXTINF:-1,SPORTS1:_USA:Fox Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29168.ts
+#EXTINF:-1,SPORTS1:_USA:Fox Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29167.ts
+#EXTINF:-1,SPORTS1:_USA:Fox Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29166.ts
+#EXTINF:-1,SPORTS1:_USA:NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29165.ts
+#EXTINF:-1,SPORTS1:_USA:NBC SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29164.ts
+#EXTINF:-1,SPORTS1:_USA:NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29163.ts
+#EXTINF:-1,SPORTS1:_USA:NFL Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29162.ts
+#EXTINF:-1,SPORTS1:_USA:NHL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29161.ts
+#EXTINF:-1,SPORTS1:_USA:Sports NET 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29160.ts
+#EXTINF:-1,SPORTS1:_USA:Sports Net 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29159.ts
+#EXTINF:-1,SPORTS1:_USA:Sports Net Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29158.ts
+#EXTINF:-1,SPORTS1:_USA:Sports Net World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29157.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29156.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29155.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29154.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29153.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29152.ts
