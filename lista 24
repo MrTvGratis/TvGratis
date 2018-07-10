@@ -1,250 +1,120 @@
 #EXTM3U
 
-
-
-#EXTINF:-1,?????? ESPANHA ??????
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/11410.ts
-#EXTINF:-1,ES: Hollywood [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20465.ts
-#EXTINF:-1,ES: Movistar Accion [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20472.ts
-#EXTINF:-1,ES: Movistar Comedia [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20473.ts
-#EXTINF:-1,ES: Movistar DCine [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20474.ts
-#EXTINF:-1,ES: Movistar Estrenos [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20476.ts
-#EXTINF:-1,ES: Movistar Series [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20483.ts
-#EXTINF:-1,ES: Movistar Series Xtra [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20484.ts
-#EXTINF:-1,ES: Movistar Xtra [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20485.ts
-#EXTINF:-1,ES: Caza Y Pesca [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20447.ts
-#EXTINF:-1,ES: AXN [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20404.ts
-#EXTINF:-1,ES: AXN White [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20406.ts
-#EXTINF:-1,ES: Fox [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20462.ts
-#EXTINF:-1,ES: Fox Life [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20464.ts
-#EXTINF:-1,ES: Syfy [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20498.ts
-#EXTINF:-1,ES: TCM [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20499.ts
-#EXTINF:-1,ES: TNT [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20501.ts
-#EXTINF:-1,ES: Comedy Central [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20449.ts
-#EXTINF:-1,ES: Viajar FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20503.ts
-#EXTINF:-1,ES: Cosmo Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20452.ts
-#EXTINF:-1,ES: Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20455.ts
-#EXTINF:-1,ES: BeMad tv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23556.ts
-#EXTINF:-1,ES: Calle 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23557.ts
-#EXTINF:-1,ES: National Geographic [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20487.ts
-#EXTINF:-1,ES: National Geographic Wild [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20488.ts
-#EXTINF:-1,ES: SUNDANCE [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20496.ts
-#EXTINF:-1,ES - DARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/15200.ts
-#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20575.ts
-#EXTINF:-1,ES: Movistar Partidazo HD (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20482.ts
-#EXTINF:-1,ES: Bein Sports ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/20432.ts
-#EXTINF:-1,ES:Canal  TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23657.ts
-#EXTINF:-1,ES: Bein Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23586.ts
-#EXTINF:-1,ES:Canal  DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23651.ts
-#EXTINF:-1,ES:Canal  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23650.ts
-#EXTINF:-1,ES: Bein Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23580.ts
-#EXTINF:-1,ES:Canal  FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23652.ts
-#EXTINF:-1,ES:Canal  GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23653.ts
-#EXTINF:-1,ES:Canal  LIGA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23654.ts
-#EXTINF:-1,ES:Canal  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23655.ts
-#EXTINF:-1,ES:TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23671.ts
-#EXTINF:-1,ES: La Liga BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23623.ts
-#EXTINF:-1,ES : MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23558.ts
-#EXTINF:-1,ES: Canal  ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23599.ts
-#EXTINF:-1,ES: Canal DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23601.ts
-#EXTINF:-1,ES:Canal  SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23656.ts
-#EXTINF:-1,ES:Canal  XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23658.ts
-#EXTINF:-1,ES: Canal SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23604.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23607.ts
-#EXTINF:-1,ES: ODISEA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23639.ts
-#EXTINF:-1,ES:ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23646.ts
-#EXTINF:-1,ES:AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23647.ts
-#EXTINF:-1,ES:CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23648.ts
-#EXTINF:-1,ES:CANAL  ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23649.ts
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23567.ts
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23618.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23620.ts
-#EXTINF:-1,ES: LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23673.ts
-#EXTINF:-1,ES: LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23622.ts
-#EXTINF:-1,ES:CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23659.ts
-#EXTINF:-1,ES:DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23660.ts
-#EXTINF:-1,ES:FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23662.ts
-#EXTINF:-1,ES:LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23674.ts
-#EXTINF:-1,ES:LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23664.ts
-#EXTINF:-1,ES:M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23665.ts
-#EXTINF:-1,ES:NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23666.ts
-#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23667.ts
-#EXTINF:-1,ES:TCM [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23669.ts
-#EXTINF:-1,ES:TELECINCO [1080]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23670.ts
-#EXTINF:-1,ES: COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23608.ts
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23611.ts
-#EXTINF:-1,ES: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23636.ts
-#EXTINF:-1,ES:VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23672.ts
-#EXTINF:-1,ES: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23569.ts
-#EXTINF:-1,ES: BeiN La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23570.ts
-#EXTINF:-1,ES: Multideporte 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23627.ts
-#EXTINF:-1,ES: Multideporte 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23628.ts
-#EXTINF:-1,ES: Multideporte 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23629.ts
-#EXTINF:-1,ES: Multideporte 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23630.ts
-#EXTINF:-1,ES: Multideporte 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23631.ts
-#EXTINF:-1,ES: MULTIFUTBOOL 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23632.ts
-#EXTINF:-1,ES: MULTIFUTBOOL 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23633.ts
-#EXTINF:-1,ES: MULTIFUTBOOL 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23634.ts
-#EXTINF:-1,ES: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23562.ts
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23563.ts
-#EXTINF:-1,ES : movistar Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23560.ts
-#EXTINF:-1,ES: Bein Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23597.ts
-#EXTINF:-1,ES : MOVISTAR MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23561.ts
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23559.ts
-#EXTINF:-1,ES: 40 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23564.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23565.ts
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23566.ts
-#EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23615.ts
-#EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23616.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23617.ts
-#EXTINF:-1,ES: GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23619.ts
-#EXTINF:-1,ES: IBERALIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23621.ts
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23624.ts
-#EXTINF:-1,ES: MOVISTAR DISNEY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23625.ts
-#EXTINF:-1,ES: MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23626.ts
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23568.ts
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23598.ts
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23600.ts
-#EXTINF:-1,ES: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23602.ts
+#EXTINF:-1,ES: Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1728.ts
+#EXTINF:-1,ES: Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1910.ts
+#EXTINF:-1,ES: Nick Jr Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2707.ts
 #EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23635.ts
-#EXTINF:-1,ES: Nonstop People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23637.ts
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23638.ts
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23640.ts
-#EXTINF:-1,ES: Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23641.ts
-#EXTINF:-1,ES: Real Madrid Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23642.ts
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/968.ts
+#EXTINF:-1,ES: Galicia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1619.ts
+#EXTINF:-1,ES: DISNEY Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/730.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1727.ts
+#EXTINF:-1,ES: Bein Sports Espanga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2210.ts
+#EXTINF:-1,ES: Barca tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/922.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2104.ts
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/770.ts
+#EXTINF:-1,ES: Viajar HD Dual II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2182.ts
+#EXTINF:-1,ES: TV3 HD Cat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2390.ts
 #EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23644.ts
-#EXTINF:-1,ES: XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23645.ts
-#EXTINF:-1,ES:DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23661.ts
-#EXTINF:-1,ES:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23663.ts
-#EXTINF:-1,ES:NICK Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23668.ts
-#EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23603.ts
-#EXTINF:-1,ES: Caza y pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23605.ts
-#EXTINF:-1,ES: Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23606.ts
-#EXTINF:-1,ES: Crimen Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23609.ts
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23610.ts
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23612.ts
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23613.ts
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:8000/live/carmen/carmen/23614.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1730.ts
+#EXTINF:-1,ES: Telecinco HD++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/610.ts
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2005.ts
+#EXTINF:-1,ES: Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2185.ts
+#EXTINF:-1,ES: Mega Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2281.ts
+#EXTINF:-1,ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/719.ts
+#EXTINF:-1,ES: La sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/773.ts
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/528.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2108.ts
+#EXTINF:-1,ES: Iberalia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2229.ts
+#EXTINF:-1,ES: History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/845.ts
+#EXTINF:-1,ES: Gol tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2928.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/846.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2102.ts
+#EXTINF:-1,ES: Fdf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1459.ts
+#EXTINF:-1,ES: Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1618.ts
+#EXTINF:-1,ES: Esperanza TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/698.ts
+#EXTINF:-1,ES: Energy Dual II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1469.ts
+#EXTINF:-1,ES: DIVINITY Dual II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/877.ts
+#EXTINF:-1,ES: Disney XD Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2283.ts
+#EXTINF:-1,ES: Cuatro HD Dual
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/771.ts
+#EXTINF:-1,ES: Cosmo HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1465.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2109.ts
+#EXTINF:-1,ES: CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/923.ts
+#EXTINF:-1,ES: Movistar+ Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1525.ts
+#EXTINF:-1,ES: Movistar+ Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/803.ts
+#EXTINF:-1,ES: Movistar+ Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/776.ts
+#EXTINF:-1,ES: Nonstop People
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1535.ts
+#EXTINF:-1,ES: Movistar+ Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2826.ts
+#EXTINF:-1,ES: Movistar+ Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/526.ts
+#EXTINF:-1,ES: Movistar+ Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1460.ts
+#EXTINF:-1,ES: Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/967.ts
+#EXTINF:-1,ES: Movistar+ Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2330.ts
+#EXTINF:-1,ES: Canal 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1726.ts
+#EXTINF:-1,ES: Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2179.ts
+#EXTINF:-1,ES: Amc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/847.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/804.ts
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2332.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/611.ts
+#EXTINF:-1,ES: Movistar + DCine HD Dual II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/4150.ts
+#EXTINF:-1,ES: Movistar + Estrenos HD +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/4149.ts
+#EXTINF:-1,ES: Movistar + Series HD Dual II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/4147.ts
+#EXTINF:-1,ES: Movistar + Series Xtra HD Dual II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/4148.ts
+#EXTINF:-1,ES: TCM HD Dual II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/2201.ts
+#EXTINF:-1,ES: Toros TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/1446.ts
+#EXTINF:-1,ES: Viajar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://canalestv.rapidodns.com:8000/live/cardak007H2o/jinbox732s5a/4152.ts
