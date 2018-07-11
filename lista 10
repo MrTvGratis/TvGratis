@@ -1,212 +1,421 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/2886.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3145.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3319.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4228.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4155.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",La Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1761.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/11204.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4232.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3375.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4198.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4202.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4208.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4229.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4239.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4180.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1492.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4219.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4241.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4210.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mtvespana.jpg",MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4159.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg",Factoria de Ficcion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5961.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/neox.jpg",Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5959.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg",Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4223.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4238.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3328.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4235.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",Movistar Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3376.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4227.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4209.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg" ,Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1991.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg",Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4220.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",Movistar Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7861.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png",Bein LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/6318.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",beIN SPORTS  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7870.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png",Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3123.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png",Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4207.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",Movistar Deportes 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7862.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",Movistar Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7863.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",Movistar Formula 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4176.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7867.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",Movistar Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/7864.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1493.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4206.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/goltv.jpg",GOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/6716.ts
-
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",La Liga TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3312.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",Tele Deporte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4197.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png",Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4230.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png",Iberalia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4178.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png",Toros TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/14.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4215.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/14453.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4218.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg",Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4179.ts
-
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg",Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4216.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg",Crimen + Investigacion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/22412.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4186.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png",De Casa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/3146.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4236.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nova.jpg",Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4183.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg",Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/5960.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg",Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4225.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg",Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1473.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickjr.jpg",NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4214.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4213.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg",Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4224.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4226.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/boing.jpg",Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4240.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg",Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/1476.ts
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve_24h.jpg",24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4203.ts
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-rDdOja6DYDk/VYGoJw1-DOI/AAAAAAAAL7Y/bZfghOSgWx8/s1600/NSP.png",Non Stop People
-http://wavo-iptv.com:8000/live/nash19/nash19/6375.m3u8
+#EXTINF:-1,â–? â–‚ â–„ â–… â–†â˜† SPANISH CHANNELS â˜†â–† â–… â–„ â–‚ â–?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://
+#EXTINF:-1,ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28847.ts
+#EXTINF:-1,ES:LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28846.ts
+#EXTINF:-1,ES:LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28845.ts
+#EXTINF:-1,ES:La 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28844.ts
+#EXTINF:-1,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28843.ts
+#EXTINF:-1,ES:ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28842.ts
+#EXTINF:-1,ES:CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28841.ts
+#EXTINF:-1,ES:CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28840.ts
+#EXTINF:-1,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28839.ts
+#EXTINF:-1,ES:TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28838.ts
+#EXTINF:-1,ES:CLAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28765.ts
+#EXTINF:-1,ES:CLAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28638.ts
+#EXTINF:-1,ES:24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28739.ts
+#EXTINF:-1,ES:NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28803.ts
+#EXTINF:-1,ES:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28678.ts
+#EXTINF:-1,ES:TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28715.ts
+#EXTINF:-1,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28826.ts
+#EXTINF:-1,ES:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28825.ts
+#EXTINF:-1,ES:FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28824.ts
+#EXTINF:-1,ES:FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28823.ts
+#EXTINF:-1,ES:FOX LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28822.ts
+#EXTINF:-1,ES:FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28821.ts
+#EXTINF:-1,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28835.ts
+#EXTINF:-1,ES:AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28834.ts
+#EXTINF:-1,ES:AXN  WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28832.ts
+#EXTINF:-1,ES:AXN  WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28830.ts
+#EXTINF:-1,ES:AXN  WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28831.ts
+#EXTINF:-1,ES:AXN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28833.ts
+#EXTINF:-1,ES:TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28807.ts
+#EXTINF:-1,ES:TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28819.ts
+#EXTINF:-1,ES:CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28815.ts
+#EXTINF:-1,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28817.ts
+#EXTINF:-1,ES:A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28804.ts
+#EXTINF:-1,ES:SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28813.ts
+#EXTINF:-1,ES:MOVISTAR 0# FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28791.ts
+#EXTINF:-1,ES:MOVISTAR 0# HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28792.ts
+#EXTINF:-1,ES:MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28787.ts
+#EXTINF:-1,ES:MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28786.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28785.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28784.ts
+#EXTINF:-1,ES:MOVISTAR DCINE  Ã‘
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28781.ts
+#EXTINF:-1,ES:MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28783.ts
+#EXTINF:-1,ES:MOVISTAR DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28782.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28789.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28788.ts
+#EXTINF:-1,ES:MOVISTAR SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28777.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28775.ts
+#EXTINF:-1,ES:MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28779.ts
+#EXTINF:-1,ES:CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28749.ts
+#EXTINF:-1,ES:NAT GEO  WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28757.ts
+#EXTINF:-1,ES:NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28759.ts
+#EXTINF:-1,ES:NAT GEO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28760.ts
+#EXTINF:-1,ES:NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28758.ts
+#EXTINF:-1,ES:VIAJAR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28751.ts
+#EXTINF:-1,ES:BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28772.ts
+#EXTINF:-1,ES:REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28679.ts
+#EXTINF:-1,ES:TELEDEPORTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28677.ts
+#EXTINF:-1,ES:LIGATV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28694.ts
+#EXTINF:-1,ES:LAFTV BAR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28695.ts
+#EXTINF:-1,ES:Liga 123 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28693.ts
+#EXTINF:-1,ES:LIGATV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28639.ts
+#EXTINF:-1,ES:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28692.ts
+#EXTINF:-1,ES:BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28699.ts
+#EXTINF:-1,ES:BEIN SPORT ESPAÃ‘A FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28696.ts
+#EXTINF:-1,ES:BEIN SPORT ESPAÃ‘A HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28697.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28702.ts
+#EXTINF:-1,ES:PARTIDAZOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28711.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28708.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28705.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28707.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28706.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28710.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28709.ts
+#EXTINF:-1,ES:MOVISTAR ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28730.ts
+#EXTINF:-1,ES:MOVISTAR  F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28691.ts
+#EXTINF:-1,ES:MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28690.ts
+#EXTINF:-1,ES:MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28689.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOLL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28701.ts
+#EXTINF:-1,ES:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28684.ts
+#EXTINF:-1,ES:MOVISTAR  MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28688.ts
+#EXTINF:-1,ES:MOVISTAR MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28687.ts
+#EXTINF:-1,ES:MOVISTAR MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28686.ts
+#EXTINF:-1,ES:BEIN LALIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28675.ts
+#EXTINF:-1,ES:BEIN LALIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28676.ts
+#EXTINF:-1,ES:BEIN LALIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28673.ts
+#EXTINF:-1,ES:BEIN  LALIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28674.ts
+#EXTINF:-1,ES:BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28700.ts
+#EXTINF:-1,ES:BEIN LALIGA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28669.ts
+#EXTINF:-1,ES:BEIN LALIGA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28668.ts
+#EXTINF:-1,ES:BEIN LALIGA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28667.ts
+#EXTINF:-1,ES:BEIN MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28666.ts
+#EXTINF:-1,ES:BEIN MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28664.ts
+#EXTINF:-1,ES:Bein Sports MAX 1  EspaÃ±a
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28665.ts
+#EXTINF:-1,ES:Bein Sports MAX 2  EspaÃ±a
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28663.ts
+#EXTINF:-1,ES:Bein Sports MAX 3  EspaÃ±a
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28662.ts
+#EXTINF:-1,ES:Bein Sports MAX 4  EspaÃ±a
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28661.ts
+#EXTINF:-1,ES:Bein Sports MAX 5  EspaÃ±a
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28660.ts
+#EXTINF:-1,ES:Bein Sports MAX 6  EspaÃ±a
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28659.ts
+#EXTINF:-1,ES:Bein Sports MAX 7  EspaÃ±a
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28658.ts
+#EXTINF:-1,ES:Bein Sports MAX 8 ESPAÃ‘A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28657.ts
+#EXTINF:-1,ES: BEIN  LALIGA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28672.ts
+#EXTINF:-1,ES: BEIN  LALIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28671.ts
+#EXTINF:-1,ES: BEIN LALIGA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28670.ts
+#EXTINF:-1,ES:Bein Sport ESPAÃ‘A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28698.ts
+#EXTINF:-1,ES:MULTI DEPORTE  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28655.ts
+#EXTINF:-1,ES:MULTI FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28649.ts
+#EXTINF:-1,ES:MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28704.ts
+#EXTINF:-1,ES:MULTIDEPORTE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28656.ts
+#EXTINF:-1,ES:MULTIDEPORTE  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28654.ts
+#EXTINF:-1,ES:MULTIDEPORTE  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28653.ts
+#EXTINF:-1,ES:MULTIDEPORTE  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28652.ts
+#EXTINF:-1,ES:MULTIDEPORTE  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28651.ts
+#EXTINF:-1,ES:MULTIDEPORTE  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28650.ts
+#EXTINF:-1,ES:MULTIFUTBOL  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28648.ts
+#EXTINF:-1,ES:MULTIFUTBOL  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28647.ts
+#EXTINF:-1,ES:MULTIFUTBOL  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28646.ts
+#EXTINF:-1,ES:MULTIFUTBOL  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28645.ts
+#EXTINF:-1,ES:MULTIFUTBOL  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28644.ts
+#EXTINF:-1,ES:MULTIFUTBOL  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28643.ts
+#EXTINF:-1,ES:MULTIFUTBOL  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28642.ts
+#EXTINF:-1,ES:MULTIFUTBOL  8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28641.ts
+#EXTINF:-1,ES:EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28682.ts
+#EXTINF:-1,ES:Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28681.ts
+#EXTINF:-1,ES:EUROSPORT  ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28683.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28770.ts
+#EXTINF:-1,ES:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28761.ts
+#EXTINF:-1,ES:NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28762.ts
+#EXTINF:-1,ES:NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28763.ts
+#EXTINF:-1,ES:DISNEY  JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28768.ts
+#EXTINF:-1,ES:DISNEY  XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28769.ts
+#EXTINF:-1,ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28766.ts
+#EXTINF:-1,ES:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28767.ts
+#EXTINF:-1,ES:BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28764.ts
+#EXTINF:-1,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28771.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28802.ts
+#EXTINF:-1,ES:13 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28724.ts
+#EXTINF:-1,ES:24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28723.ts
+#EXTINF:-1,ES:3/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28729.ts
+#EXTINF:-1,ES:7RM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28722.ts
+#EXTINF:-1,ES:8Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28738.ts
+#EXTINF:-1,ES:A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28754.ts
+#EXTINF:-1,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28829.ts
+#EXTINF:-1,ES:AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28827.ts
+#EXTINF:-1,ES:AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28828.ts
+#EXTINF:-1,ES:ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28737.ts
+#EXTINF:-1,ES:ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28736.ts
+#EXTINF:-1,ES:BE MAD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28742.ts
+#EXTINF:-1,ES:BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28725.ts
+#EXTINF:-1,ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28816.ts
+#EXTINF:-1,ES:CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28726.ts
+#EXTINF:-1,ES:CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28721.ts
+#EXTINF:-1,ES:CAZA  Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28750.ts
+#EXTINF:-1,ES:CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28753.ts
+#EXTINF:-1,ES:CMM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28720.ts
+#EXTINF:-1,ES:COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28746.ts
+#EXTINF:-1,ES:COMEDY  CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28810.ts
+#EXTINF:-1,ES:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28809.ts
+#EXTINF:-1,ES:COSMOPOLITAN  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28811.ts
+#EXTINF:-1,ES:COSMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28812.ts
+#EXTINF:-1,ES:DARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28797.ts
+#EXTINF:-1,ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28745.ts
+#EXTINF:-1,ES:DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28748.ts
+#EXTINF:-1,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28805.ts
+#EXTINF:-1,ES:DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28735.ts
+#EXTINF:-1,ES:DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28741.ts
+#EXTINF:-1,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28799.ts
+#EXTINF:-1,ES:ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28637.ts
+#EXTINF:-1,ES:ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28640.ts
+#EXTINF:-1,ES:ETB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28719.ts
+#EXTINF:-1,ES:EXTREMADURA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28718.ts
+#EXTINF:-1,ES:Extreme EMEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28636.ts
+#EXTINF:-1,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28800.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28756.ts
+#EXTINF:-1,ES:HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28755.ts
+#EXTINF:-1,ES:HIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28743.ts
+#EXTINF:-1,ES:HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28818.ts
+#EXTINF:-1,ES:Iberalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28680.ts
+#EXTINF:-1,ES:INTERECONOMIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28717.ts
+#EXTINF:-1,ES:LA OTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28716.ts
+#EXTINF:-1,ES:MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28798.ts
+#EXTINF:-1,ES:MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28732.ts
+#EXTINF:-1,ES:MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28731.ts
+#EXTINF:-1,ES:MOVISTAR  0#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28793.ts
+#EXTINF:-1,ES:MOVISTAR  DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28790.ts
+#EXTINF:-1,ES:MOVISTAR  FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28703.ts
+#EXTINF:-1,ES:MOVISTAR  TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28774.ts
+#EXTINF:-1,ES:MOVISTAR FAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28794.ts
+#EXTINF:-1,ES:MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28685.ts
+#EXTINF:-1,ES:MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28778.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28776.ts
+#EXTINF:-1,ES:MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28773.ts
+#EXTINF:-1,ES:MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28780.ts
+#EXTINF:-1,ES:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28744.ts
+#EXTINF:-1,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28747.ts
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28808.ts
+#EXTINF:-1,ES:Partidazo 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28712.ts
+#EXTINF:-1,ES:PARTIDAZOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28713.ts
+#EXTINF:-1,ES:SOL Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28734.ts
+#EXTINF:-1,ES:SOMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28795.ts
+#EXTINF:-1,ES:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28733.ts
+#EXTINF:-1,ES:Super 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28728.ts
+#EXTINF:-1,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28814.ts
+#EXTINF:-1,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28806.ts
+#EXTINF:-1,ES:TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28740.ts
+#EXTINF:-1,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28820.ts
+#EXTINF:-1,ES:TV 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28801.ts
+#EXTINF:-1,ES:TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28727.ts
+#EXTINF:-1,ES:Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28752.ts
+#EXTINF:-1,ES:XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28796.ts
