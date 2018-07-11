@@ -1,5 +1,948 @@
 #EXTM3U
 
+#EXTINF:0,ADULT 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dunav007.hopto.org:8000/live/Nikolinsin/oot63ep0AV/619.ts
+#EXTINF:0,ADULT 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dunav007.hopto.org:8000/live/Nikolinsin/oot63ep0AV/276.ts
+#EXTINF:0,ADULT 5 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dunav007.hopto.org:8000/live/Nikolinsin/oot63ep0AV/269.ts
+#EXTINF:0,ADULT HOTCLUB 1 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1695.ts
+#EXTINF:0,ADULT HOTCLUB 10 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1704.ts
+#EXTINF:0,ADULT HOTCLUB 11 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1705.ts
+#EXTINF:0,ADULT HOTCLUB 12 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1706.ts
+#EXTINF:0,ADULT HOTCLUB 14 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1708.ts
+#EXTINF:0,ADULT HOTCLUB 15 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1709.ts
+#EXTINF:0,ADULT HOTCLUB 16 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1710.ts
+#EXTINF:0,ADULT HOTCLUB 17 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1711.ts
+#EXTINF:0,ADULT HOTCLUB 18 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1712.ts
+#EXTINF:0,ADULT HOTCLUB 19 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1713.ts
+#EXTINF:0,ADULT HOTCLUB 2 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1696.ts
+#EXTINF:0,ADULT HOTCLUB 20 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1714.ts
+#EXTINF:0,ADULT HOTCLUB 21 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1715.ts
+#EXTINF:0,ADULT HOTCLUB 22 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1716.ts
+#EXTINF:0,ADULT HOTCLUB 23 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1717.ts
+#EXTINF:0,ADULT HOTCLUB 24 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1718.ts
+#EXTINF:0,ADULT HOTCLUB 3 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1697.ts
+#EXTINF:0,ADULT HOTCLUB 4 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1698.ts
+#EXTINF:0,ADULT HOTCLUB 5 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1699.ts
+#EXTINF:0,ADULT HOTCLUB 6 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1700.ts
+#EXTINF:0,ADULT HOTCLUB 7 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1701.ts
+#EXTINF:0,ADULT HOTCLUB 9 18 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1703.ts
+#EXTINF:0,ADULT SWIM ANIMATION | SD
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:0,BABESTATION | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0,BRAZZERS | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4440.ts
+#EXTINF:0,BRAZZERS EUROPE TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
+#EXTINF:0,EXOTICA TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4438.ts
+#EXTINF:0,HUSTLER | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dunav007.hopto.org:8000/live/Nikolinsin/oot63ep0AV/272.ts
+#EXTINF:0,HUSTLER | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4437.ts
+#EXTINF:0,HUSTLER TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
+#EXTINF:0,JASMIN TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,JASMIN TV 18 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,LA SEXTA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-stream.tv:8000/live/fracacafive/r4-d-32ER-JW/22931.ts
+#EXTINF:0,LA SEXTA | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4315.ts
+#EXTINF:0,LA SEXTA | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-stream.tv:8000/live/fracacafive/r4-d-32ER-JW/22932.ts
+#EXTINF:0,MIAMI TV MEXICO | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:0,MIAMI TV SPAIN | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+#EXTINF:0,MIAMI TV USA | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,PASSIE XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/1514.ts
+#EXTINF:0,PENTHOUSE | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/1922.ts
+#EXTINF:0,PLAYBOY | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23530.ts
+#EXTINF:0,PLAYBOY | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4435.ts
+#EXTINF:0,SEXTREME LA6 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23554.ts
+#EXTINF:0,STUDIO 66 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
+#EXTINF:0,STUDIO 66 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
+#EXTINF:0,STUDIO 66 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8
+#EXTINF:0,STUDIO 66 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
+#EXTINF:0,STUDIO 66 TV 18 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
+#EXTINF:0,STUDIO 66 TV 2 18 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8
+#EXTINF:0,VISIT-X TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:0,VISIT-X TV 18 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23451.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/193.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/198.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/199.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/200.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23451.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/193.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/199.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/200.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/193.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/198.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/199.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/200.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23451.ts
+#EXTINF:0,XXX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23451.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23462.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23463.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23466.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23467.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23469.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23470.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23473.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23474.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23476.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23477.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23478.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23480.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23484.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23490.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23491.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23497.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23504.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23510.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23512.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23516.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23519.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23523.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23538.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23539.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23542.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23543.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23545.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23547.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23548.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23550.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23551.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23552.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/696/iptv/23554.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23454.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23457.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23460.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23462.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23463.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23464.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23465.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23466.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23467.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23468.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23469.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23470.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23471.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23472.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23473.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23474.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23475.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23476.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23477.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23478.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23479.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23480.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23481.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23482.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23483.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23484.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23485.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23486.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23487.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23488.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23489.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23490.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23491.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23493.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23494.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23495.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23496.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23497.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23498.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23499.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23500.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23501.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23502.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23503.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23504.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23505.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23506.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23507.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23508.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23509.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23510.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23511.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23512.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23513.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23514.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23516.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23517.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23518.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23519.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23520.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23521.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23522.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23523.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23524.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23525.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23528.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23529.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23531.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23532.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23533.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23534.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23535.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23536.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23537.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23539.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23540.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23541.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23542.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23543.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23544.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23545.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23546.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23547.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23548.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23549.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23550.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23551.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23552.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23553.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23556.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23557.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23558.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/23559.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23487.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23488.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23492.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23500.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23503.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23505.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23509.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23511.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23512.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23514.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23516.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23521.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23533.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23534.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23542.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23544.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23546.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23547.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23551.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23552.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23557.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/23559.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/169.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23454.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23457.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23460.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23461.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23462.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23466.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23467.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23468.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23470.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23471.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23472.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23473.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23474.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23475.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23476.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23478.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23479.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23480.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23481.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23483.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23484.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23485.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23486.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23487.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23489.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23490.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23491.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23492.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23493.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23494.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23495.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23496.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23497.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23498.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23499.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23500.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23502.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23503.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23504.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23505.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23507.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23508.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23510.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23511.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23512.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23513.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23517.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23519.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23520.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23521.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23522.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23523.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23524.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23525.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23526.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23528.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23529.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23530.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23531.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23532.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23533.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23534.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23535.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23536.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23537.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23539.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23540.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23541.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23542.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23543.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23544.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23545.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23548.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23550.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23551.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23552.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23554.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23556.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23557.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23558.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/693102/iptv/23559.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/13448.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/13451.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/13453.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/carl/carl/13455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/169.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/13448.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/13451.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/13453.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/13454.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/pedro/pedro/13455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/13448.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/13451.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/13453.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/13454.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://izgemma.ddns.net:8000/live/shaun/shaun/13455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23454.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23457.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23460.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23462.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23463.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23464.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23465.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23466.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23467.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23468.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23469.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23470.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23471.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23472.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23473.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23474.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23475.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23476.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23477.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23478.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23479.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23480.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23481.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23482.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23483.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23484.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23485.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23486.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23487.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23488.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23489.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23490.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23491.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23492.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23493.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23494.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23495.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23496.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23497.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23498.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23499.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23500.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23501.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23502.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23503.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23504.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23505.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23506.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23507.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23508.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/eduardo1/eduardo1/23509.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4108.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4109.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4110.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4111.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4115.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4116.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4117.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4118.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4119.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23454.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23455.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23457.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23460.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23461.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23462.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23463.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23464.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23466.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23467.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23468.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23469.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23470.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23471.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23472.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23473.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23474.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23475.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23476.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23477.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23478.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23479.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23480.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23481.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23482.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23483.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23484.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23485.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23486.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23488.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23489.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23490.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23491.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23492.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23493.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23494.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23496.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23497.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23498.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23499.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23500.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23501.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23502.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23503.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23504.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23505.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23506.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23507.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23508.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23509.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23510.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23512.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23513.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23514.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23515.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23516.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23517.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23518.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23519.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23520.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23521.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23522.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23523.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23524.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23525.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23526.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23528.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23529.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23530.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23531.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23533.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23534.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23535.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23536.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23537.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23538.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23539.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23541.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23542.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23543.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23544.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23545.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23546.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23547.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23548.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23550.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23551.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23552.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23554.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23556.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23557.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23558.ts
+#EXTINF:0,XXX | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Rodriguez/Rodriguez/23559.ts
+
 
 #EXTINF:-1,MOM XXX
 http://cdn.momxxx.org/momxxx_mp4/mom_kathy_sybil_RU031417_720p_2600.mp4
