@@ -467,7 +467,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live3/plusfutbol.php</page>                                 
-<referer>http://www.vercanalestv.com/ver-canal-plus-futbol-online-las-24-en-vivo/</referer>
+<referer>http://vertelevisor.com/tv/deportes/canal-plus-futbol.php</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/ii0zdb5zf/futbol.png</thumbnail>
 <fanart></fanart>
@@ -486,7 +486,7 @@
 <fanart></fanart>
 </item> -->
 
-<item>
+<!-- <item>
 <title>MOVISTAR F1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -497,20 +497,20 @@
 </regex>
 <thumbnail>https://s7.postimg.cc/bg31qrmuj/formula1.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
-<item>
+<!-- <item>
 <title>MOVISTAR MOTOGP</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live3/motogp.php</page>
-<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
+<referer>http://vertelevision.tv/tv/deportes/motos.html</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/y4s8qlrgb/motogp.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>MOVISTAR DEPORTES 1</title>
@@ -519,7 +519,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/plusdeportes1.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
+<referer>http://vertelevisor.com/tv/deportes/deportes1.php</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/7l0tctyax/deportes1.png</thumbnail>
 <fanart></fanart>
@@ -532,7 +532,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/plusdeportes2.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
+<referer>http://vertelevisor.com/tv/deportes/deportes2.php</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/tq74xh4kp/deportes2.png</thumbnail>
 <fanart></fanart>
@@ -545,7 +545,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/golf.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-golf-online-en-directo-gratis/</referer>
+<referer>http://vertelevisor.com/tv/deportes/golf.php</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/ngupcz095/golf.png</thumbnail>
 <fanart></fanart>
@@ -739,7 +739,7 @@
 
 <item>
 <title>LA SEXTA</title>
-<link>https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_4.m3u8</link>
+<link>https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/7fj1c3njv/lasexta.png</thumbnail>
 <fanart></fanart>
@@ -786,7 +786,7 @@
 
 <item>
 <title>NEOX</title>
-<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on</link>
+<link>https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_4.m3u8</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/brc8elc23/neox.png</thumbnail>
 <fanart></fanart>
@@ -961,13 +961,13 @@
 <fanart></fanart>
 </item> -->
 
-<item>
+<!-- <item>
 <title>BABY TV *</title>
 <sportsdevil>http://livesports.pw/embed2.php?file=babytv&width=650&height=400&autostart=true</sportsdevil>
 <referer></referer>
 <thumbnail>https://s1.postimg.cc/2peysnq27j/BABY.png</thumbnail>
 <fanart></fanart>
-</item> 
+</item> -->
 
 <item>
 <title>TELEMADRID</title>
@@ -985,3 +985,121 @@
 <fanart></fanart>
 </item>	
 	
+<item>
+<title>CASTILLA LA MANCHA</title>
+<link>http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8</link>
+<referer>http://www.cmmedia.es/en-directo/tv/</referer>
+<thumbnail>https://s7.postimg.cc/rlr4ooqkr/cmm.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CASTILLA Y LEON</title>
+<link>http://cdn.s2.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8</link>
+<referer>http://www.rtvcyl.es/DirectoCylTV</referer>
+<thumbnail>https://s7.postimg.cc/3urr6m0ob/cyl.png</thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>
+<title>13TV</title>
+<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/83wh8uw8r/trece.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>3/24</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/4x1xpa1iz/324.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>8 TV</title>
+<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
+<referer></referer>
+<thumbnail>https://s1.postimg.cc/104oaomna7/8tv.png</thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>
+<title>CANAL EXTREMADURA</title>
+<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/4mz0jmeuj/extremadura.png</thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>
+<title>CANAL SUR ANDALUCIA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoId]</link>
+	<regex>
+		<name>getLiveVideoId</name>
+		<expres>watch\?v=(.*?)"</expres>
+		<page>https://www.youtube.com/embed/live_stream?channel=UCqwjtgaJflHga2aPWphG5PQ&rel=0&modestbranding</page>
+		<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
+		<cookieJar></cookieJar>
+	</regex>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/3yq60c8bf/andalucia.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>GALICIA TV</title>
+<link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/og6iyipyz/galicia.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ETB</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/evmwbuip7/eitb.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/sqps7kpi3/tv3.png</thumbnail>
+<fanart></fanart>
+</item>	
+	
+<item>
+<title>ARAGON TV</title>
+<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/cfpobckqz/aragon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TPA</title>
+<link>http://195.10.10.206/rtpa/tv.webm?GKID=0a23b69cb1c611e7a9ec00163ea2c744</link>
+<referer></referer>
+<thumbnail>https://s7.postimg.cc/6erzebnuz/tpa.png</thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>
+<title>TV CANARIA</title>
+<link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
+<referer></referer>
+<thumbnail>https://s1.postimg.cc/5tvzchw9kf/TVCANARIA.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MALAGA TV</title>
+<link>http://canalmalaga-tv-live.flumotion.com/chunks.m3u8</link>
+<referer></referer>
+<thumbnail>http://www.ondaazulmalaga.es/img/logo-canal-malaga.jpg</thumbnail>
+<fanart></fanart>
+</item>
