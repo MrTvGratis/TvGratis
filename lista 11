@@ -1,212 +1,212 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",TVGRATIS  LA 1 HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA 1 HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",TVGRATIS  LA 2
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",TVGRATIS  Antena 3 HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",Antena 3 HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",TVGRATIS  Cuatro HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",Cuatro HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",TVGRATIS  Telecinco HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",Telecinco HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",TVGRATIS  La Sexta HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",La Sexta HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",TVGRATIS  #0
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",#0
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",TVGRATIS  Movistar Series
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",Movistar Series
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",TVGRATIS  Movistar Series Xtra
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",Movistar Series Xtra
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",TVGRATIS  Fox HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",TVGRATIS  AXN HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TVGRATIS  TNT HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",TVGRATIS  Comedy Central HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",Comedy Central HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",TVGRATIS  Calle 13
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",TVGRATIS   COSMO
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png", COSMO
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",TVGRATIS  AMC
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",AMC
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",TVGRATIS  Fox Life HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",Fox Life HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",TVGRATIS  AXN White HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",AXN White HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",TVGRATIS  SYFY
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",SYFY
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mtvespana.jpg",TVGRATIS  MTV
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mtvespana.jpg",MTV
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg",TVGRATIS  Factoria de Ficcion
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg",Factoria de Ficcion
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/neox.jpg",TVGRATIS  Neox
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/neox.jpg",Neox
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg",TVGRATIS  Energy
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg",Energy
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",TVGRATIS  Movistar Estrenos
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",Movistar Estrenos
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",TVGRATIS  Movistar Xtra HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",Movistar Xtra HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",TVGRATIS  Movistar Accion
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",Movistar Accion
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",TVGRATIS  Movistar Comedia
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",Movistar Comedia
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",TVGRATIS  Movistar DCine
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",Movistar DCine
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TVGRATIS  TCM
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TCM
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg",TVGRATIS  Paramount Channel
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg",Paramount Channel
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",TVGRATIS  Movistar Futbol HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",Movistar Futbol HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png",TVGRATIS   Bein LaLiga HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png", Bein LaLiga HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",TVGRATIS  beIN SPORTS  HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",beIN SPORTS  HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png",TVGRATIS   Real Madrid TV
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png",TVGRATIS   Barca TV
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png", Barca TV
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",TVGRATIS  Movistar Deportes 1 HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",Movistar Deportes 1 HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",TVGRATIS  Movistar Deportes 2 HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",Movistar Deportes 2 HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",TVGRATIS  Movistar Formula 1 HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",Movistar Formula 1 HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",TVGRATIS  Movistar Moto GP HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",Movistar Moto GP HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",TVGRATIS  Movistar Golf HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",Movistar Golf HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",TVGRATIS  Eurosport 1 HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport 1 HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg",TVGRATIS  Eurosport 2
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg",Eurosport 2
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/goltv.jpg",TVGRATIS  GOL
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/goltv.jpg",GOL
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",TVGRATIS   La Liga TV
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png", La Liga TV
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",TVGRATIS  Tele Deporte HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",Tele Deporte HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png",TVGRATIS   Caza y Pesca
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png", Caza y Pesca
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png",TVGRATIS   Iberalia TV
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png", Iberalia TV
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png",TVGRATIS   Toros TV HD
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png", Toros TV HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",TVGRATIS  National Geographic HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",National Geographic HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",TVGRATIS  Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo Wild HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",TVGRATIS  Historia
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",Historia
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg",TVGRATIS  Discovery
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg",Discovery
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/blaze.png",TVGRATIS   Blaze
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/blaze.png", Blaze
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg",TVGRATIS  Viajar HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg",Viajar HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg",TVGRATIS  Crimen + Investigacion
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg",Crimen + Investigacion
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",TVGRATIS  Canal Cocina
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",Canal Cocina
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png",TVGRATIS   De Casa
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png", De Casa
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",TVGRATIS   Divinity
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png", Divinity
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nova.jpg",TVGRATIS  Nova
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nova.jpg",Nova
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg",TVGRATIS  Mega
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg",Mega
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg",TVGRATIS  Disney Junior
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg",Disney Junior
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg",TVGRATIS  Canal Panda
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg",Canal Panda
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickjr.jpg",TVGRATIS  NICK JR
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickjr.jpg",NICK JR
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg",TVGRATIS  Nickelodeon HD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg",Nickelodeon HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg",TVGRATIS  Disney XD
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg",Disney XD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",TVGRATIS   Disney Channel HD
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",Disney Channel HD
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/boing.jpg",TVGRATIS  Boing
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/boing.jpg",Boing
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg",TVGRATIS  Clan TVE
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg",Clan TVE
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve_24h.jpg",TVGRATIS  24 Horas
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve_24h.jpg",24 Horas
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
  
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-rDdOja6DYDk/VYGoJw1-DOI/AAAAAAAAL7Y/bZfghOSgWx8/s1600/NSP.png",TVGRATIS   Non Stop People
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-rDdOja6DYDk/VYGoJw1-DOI/AAAAAAAAL7Y/bZfghOSgWx8/s1600/NSP.png", Non Stop People
 plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos1/amos1/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR]
