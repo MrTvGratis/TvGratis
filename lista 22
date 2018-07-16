@@ -1,1 +1,120 @@
+#EXTM3U
 
+#EXTINF:-1,****_Espana_****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1686.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1800.ts
+#EXTINF:-1,ES: Nicke lodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1799.ts
+#EXTINF:-1,ES: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/640.ts
+#EXTINF:-1,ES: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1798.ts
+#EXTINF:-1,ES: M SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/637.ts
+#EXTINF:-1,ES: M FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1797.ts
+#EXTINF:-1,ES: M DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/641.ts
+#EXTINF:-1,ES: M Xtra SERIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/632.ts
+#EXTINF:-1,ES: M Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/635.ts
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2354.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2349.ts
+#EXTINF:-1,ES: Tele Deporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2359.ts
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2344.ts
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2340.ts
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2352.ts
+#EXTINF:-1,ES: ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2357.ts
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2336.ts
+#EXTINF:-1,ES: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2356.ts
+#EXTINF:-1,ES: LaLiga 123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2339.ts
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2351.ts
+#EXTINF:-1,ES: GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2355.ts
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2347.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2335.ts
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2334.ts
+#EXTINF:-1,ES: Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2360.ts
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2358.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2338.ts
+#EXTINF:-1,ES: beIN SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2341.ts
+#EXTINF:-1,ES: Barca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2342.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2353.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2337.ts
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2350.ts
+#EXTINF:-1,ES: TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2345.ts
+#EXTINF:-1,ES: TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2343.ts
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2346.ts
+#EXTINF:-1,ES: M FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/644.ts
+#EXTINF:-1,ES: M Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/636.ts
+#EXTINF:-1,ES: M Deporte 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/645.ts
+#EXTINF:-1,ES: M Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/639.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1796.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1795.ts
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1794.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1793.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1792.ts
+#EXTINF:-1,ES: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1791.ts
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1790.ts
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1789.ts
+#EXTINF:-1,ES: Crimen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1788.ts
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1787.ts
+#EXTINF:-1,ES: Comedy CentralL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1786.ts
+#EXTINF:-1,ES: Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/630.ts
+#EXTINF:-1,ES: Canal Liga tv bar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/642.ts
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1785.ts
+#EXTINF:-1,ES: Bein Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/647.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1784.ts
+#EXTINF:-1,ES: REAL MADRID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1696.ts
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1783.ts
+#EXTINF:-1,EC: M Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/638.ts
