@@ -1,694 +1,186 @@
 #EXTM3U
-#EXTINF:-1,â–? â–‚ â–„ â–… â–†â˜† SPANISH CHANNELS â˜†â–† â–… â–„ â–‚ â–?
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://
-#EXTINF:-1,ES:LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28847.ts
-#EXTINF:-1,ES:LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28846.ts
-#EXTINF:-1,ES:LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28845.ts
-#EXTINF:-1,ES:La 2 FHD#EXTM3U
-
-#EXTINF:-1,ES: #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4368.ts
-#EXTINF:-1,ES: #0 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4367.ts
-#EXTINF:-1,ES: 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4333.ts
-#EXTINF:-1,ES: 3/24 CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4302.ts
-#EXTINF:-1,ES: 33 CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4301.ts
-#EXTINF:-1,ES: 7 TV Murcia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4332.ts
-#EXTINF:-1,ES: A3series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4331.ts
-#EXTINF:-1,ES: AE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4353.ts
-#EXTINF:-1,ES: Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4299.ts
-#EXTINF:-1,ES: Antena 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4330.ts
-#EXTINF:-1,ES: Aragon TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4298.ts
-#EXTINF:-1,ES: AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4366.ts
-#EXTINF:-1,ES: AXN White SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4365.ts
-#EXTINF:-1,ES: Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4341.ts
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4398.ts
-#EXTINF:-1,ES: Bein Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4070.ts
-#EXTINF:-1,ES: Bein Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4069.ts
-#EXTINF:-1,ES: Bein Sports LaLiga SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4393.ts
-#EXTINF:-1,ES: Bein Sports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4078.ts
-#EXTINF:-1,ES: Betis TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4392.ts
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4329.ts
-#EXTINF:-1,ES: Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4364.ts
-#EXTINF:-1,ES: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4346.ts
-#EXTINF:-1,ES: Canal Costa TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4328.ts
-#EXTINF:-1,ES: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4297.ts
-#EXTINF:-1,ES: Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4340.ts
-#EXTINF:-1,ES: Canal Parlamento
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4327.ts
-#EXTINF:-1,ES: Canal Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4296.ts
-#EXTINF:-1,ES: Canal Sur Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4295.ts
-#EXTINF:-1,ES: Canal Sur Turismo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4293.ts
-#EXTINF:-1,ES: Castilla La Mancha Media
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4292.ts
-#EXTINF:-1,ES: Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4326.ts
-#EXTINF:-1,ES: Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4363.ts
-#EXTINF:-1,ES: Cosmo TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4362.ts
-#EXTINF:-1,ES: Crime & Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4345.ts
-#EXTINF:-1,ES: Cuatro SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4325.ts
-#EXTINF:-1,ES: Dark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4379.ts
-#EXTINF:-1,ES: Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4344.ts
-#EXTINF:-1,ES: Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4352.ts
-#EXTINF:-1,ES: Discovery Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4324.ts
-#EXTINF:-1,ES: Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4339.ts
-#EXTINF:-1,ES: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4338.ts
-#EXTINF:-1,ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4337.ts
-#EXTINF:-1,ES: Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4323.ts
-#EXTINF:-1,ES: Dkiss
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4343.ts
-#EXTINF:-1,ES: DW en Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4291.ts
-#EXTINF:-1,ES: El Garaje TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4342.ts
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4322.ts
-#EXTINF:-1,ES: Esport 3 CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4391.ts
-#EXTINF:-1,ES: ETB Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4290.ts
-#EXTINF:-1,ES: Euro Sport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4068.ts
-#EXTINF:-1,ES: Euro Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4067.ts
-#EXTINF:-1,ES: Euronews HD en Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4289.ts
-#EXTINF:-1,ES: Eurosport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4385.ts
-#EXTINF:-1,ES: Extremadura TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4288.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4321.ts
-#EXTINF:-1,ES: Fox Life SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4360.ts
-#EXTINF:-1,ES: Fox SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4361.ts
-#EXTINF:-1,ES: Galicia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4287.ts
-#EXTINF:-1,ES: Gol SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4320.ts
-#EXTINF:-1,ES: Granada Channel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4319.ts
-#EXTINF:-1,ES: Hispan TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4286.ts
-#EXTINF:-1,ES: Historia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4351.ts
-#EXTINF:-1,ES: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4378.ts
-#EXTINF:-1,ES: IB3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4285.ts
-#EXTINF:-1,ES: Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4395.ts
-#EXTINF:-1,ES: LA 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4317.ts
-#EXTINF:-1,ES: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4316.ts
-#EXTINF:-1,ES: La 8 Mediterráneo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4284.ts
-#EXTINF:-1,ES: La Liga BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4066.ts
-#EXTINF:-1,ES: La Liga TV BAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4390.ts
-#EXTINF:-1,ES: La Otra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4283.ts
-#EXTINF:-1,ES: La Sexta SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4315.ts
-#EXTINF:-1,ES: LaLiga 123 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4065.ts
-#EXTINF:-1,ES: Lancelot TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4282.ts
-#EXTINF:-1,ES: Levante TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4281.ts
-#EXTINF:-1,ES: Libertad Digital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4314.ts
-#EXTINF:-1,ES: Mega SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4312.ts
-#EXTINF:-1,ES: Mezzo Live FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4275.ts
-#EXTINF:-1,ES: Movistar Accion SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4377.ts
-#EXTINF:-1,ES: Movistar Cine N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4376.ts
-#EXTINF:-1,ES: Movistar Comedia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4375.ts
-#EXTINF:-1,ES: Movistar Dcine SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4374.ts
-#EXTINF:-1,ES: Movistar Deportes 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4384.ts
-#EXTINF:-1,ES: Movistar Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4064.ts
-#EXTINF:-1,ES: Movistar Deportes 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4383.ts
-#EXTINF:-1,ES: Movistar Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4373.ts
-#EXTINF:-1,ES: Movistar Estrenos SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4372.ts
-#EXTINF:-1,ES: Movistar Formula 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4382.ts
-#EXTINF:-1,ES: Movistar Futbol SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4389.ts
-#EXTINF:-1,ES: Movistar Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4381.ts
-#EXTINF:-1,ES: MOVISTAR+ MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.megaseedbox.com:8000/live/adrian1/adrian1/513.ts
-#EXTINF:-1,ES: Movistar Moto GP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4380.ts
-#EXTINF:-1,ES: Movistar Series SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4359.ts
-#EXTINF:-1,ES: Movistar Series Xtra SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4358.ts
-#EXTINF:-1,ES: Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4371.ts
-#EXTINF:-1,ES: Movistar Deportes 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4063.ts
-#EXTINF:-1,ES: Movistar F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4062.ts
-#EXTINF:-1,ES: Movistar Futbol FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4061.ts
-#EXTINF:-1,ES: Movistar Golf FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4060.ts
-#EXTINF:-1,ES: MOVISTAR+ MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.megaseedbox.com:8000/live/adrian1/adrian1/513.ts
-#EXTINF:-1,ES: Movistar Moto GP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4059.ts
-#EXTINF:-1,ES: MTV Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4357.ts
-#EXTINF:-1,ES: Nat Geo Wild SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4350.ts
-#EXTINF:-1,ES: National Geoghraphic SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4349.ts
-#EXTINF:-1,ES: Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4311.ts
-#EXTINF:-1,ES: Nick JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4336.ts
-#EXTINF:-1,ES: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4335.ts
-#EXTINF:-1,ES: Nonstopeople
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4356.ts
-#EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4310.ts
-#EXTINF:-1,ES: Odisea SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4348.ts
-#EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4309.ts
-#EXTINF:-1,ES: Real Madrid SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4388.ts
-#EXTINF:-1,ES: Real Madrid TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4057.ts
-#EXTINF:-1,ES: RT HD en Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4279.ts
-#EXTINF:-1,ES: Sevilla FC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4387.ts
-#EXTINF:-1,ES: Sundance TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4370.ts
-#EXTINF:-1,ES: Super3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4334.ts
-#EXTINF:-1,ES: SyFy SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4355.ts
-#EXTINF:-1,ES: TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4369.ts
-#EXTINF:-1,ES: Telecinco SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4308.ts
-#EXTINF:-1,ES: Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4307.ts
-#EXTINF:-1,ES: TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4056.ts
-#EXTINF:-1,ES: Teledeporte SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4306.ts
-#EXTINF:-1,ES: TeleMadrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4278.ts
-#EXTINF:-1,ES: TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4305.ts
-#EXTINF:-1,ES: TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4354.ts
-#EXTINF:-1,ES: Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4394.ts
-#EXTINF:-1,ES: TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4055.ts
-#EXTINF:-1,ES: Trece
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4304.ts
-#EXTINF:-1,ES: TV Canaria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4303.ts
-#EXTINF:-1,ES: TV3. CAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4277.ts
-#EXTINF:-1,ES: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4273.ts
-#EXTINF:-1,ES: VH1 Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4272.ts
-#EXTINF:-1,ES: Viajar SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4347.ts
-#EXTINF:-1,ES: XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.102.156:25461/live/tomasin/tomasin1/4276.ts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28844.ts
-#EXTINF:-1,ES:ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28843.ts
-#EXTINF:-1,ES:ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28842.ts
-#EXTINF:-1,ES:CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28841.ts
-#EXTINF:-1,ES:CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28840.ts
-#EXTINF:-1,ES:TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28839.ts
-#EXTINF:-1,ES:TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28838.ts
-#EXTINF:-1,ES:CLAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28765.ts
-#EXTINF:-1,ES:CLAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28638.ts
-#EXTINF:-1,ES:24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28739.ts
-#EXTINF:-1,ES:NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28803.ts
-#EXTINF:-1,ES:TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28678.ts
-#EXTINF:-1,ES:TELEMADRID FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28715.ts
-#EXTINF:-1,ES:FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28826.ts
-#EXTINF:-1,ES:FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28825.ts
-#EXTINF:-1,ES:FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28824.ts
-#EXTINF:-1,ES:FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28823.ts
-#EXTINF:-1,ES:FOX LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28822.ts
-#EXTINF:-1,ES:FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28821.ts
-#EXTINF:-1,ES:AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28835.ts
-#EXTINF:-1,ES:AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28834.ts
-#EXTINF:-1,ES:AXN  WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28832.ts
-#EXTINF:-1,ES:AXN  WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28830.ts
-#EXTINF:-1,ES:AXN  WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28831.ts
-#EXTINF:-1,ES:AXN FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28833.ts
-#EXTINF:-1,ES:TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28807.ts
-#EXTINF:-1,ES:TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28819.ts
-#EXTINF:-1,ES:CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28815.ts
-#EXTINF:-1,ES: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28817.ts
-#EXTINF:-1,ES:A3SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28804.ts
-#EXTINF:-1,ES:SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28813.ts
-#EXTINF:-1,ES:MOVISTAR 0# FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28791.ts
-#EXTINF:-1,ES:MOVISTAR 0# HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28792.ts
-#EXTINF:-1,ES:MOVISTAR  ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28787.ts
-#EXTINF:-1,ES:MOVISTAR ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28786.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28785.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28784.ts
-#EXTINF:-1,ES:MOVISTAR DCINE  Ã‘
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28781.ts
-#EXTINF:-1,ES:MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28783.ts
-#EXTINF:-1,ES:MOVISTAR DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28782.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28789.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28788.ts
-#EXTINF:-1,ES:MOVISTAR SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28777.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28775.ts
-#EXTINF:-1,ES:MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28779.ts
-#EXTINF:-1,ES:CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28749.ts
-#EXTINF:-1,ES:NAT GEO  WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28757.ts
-#EXTINF:-1,ES:NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28759.ts
-#EXTINF:-1,ES:NAT GEO FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28760.ts
-#EXTINF:-1,ES:NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28758.ts
-#EXTINF:-1,ES:VIAJAR FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28751.ts
-#EXTINF:-1,ES:BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28772.ts
-#EXTINF:-1,ES:REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28679.ts
-#EXTINF:-1,ES:TELEDEPORTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28677.ts
-#EXTINF:-1,ES:LIGATV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28694.ts
-#EXTINF:-1,ES:LAFTV BAR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28695.ts
-#EXTINF:-1,ES:Liga 123 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28693.ts
-#EXTINF:-1,ES:LIGATV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28639.ts
-#EXTINF:-1,ES:GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28692.ts
-#EXTINF:-1,ES:BEIN LALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28699.ts
-#EXTINF:-1,ES:BEIN SPORT ESPAÃ‘A FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28696.ts
-#EXTINF:-1,ES:BEIN SPORT ESPAÃ‘A HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28697.ts
-#EXTINF:-1,ES:MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28702.ts
-#EXTINF:-1,ES:PARTIDAZOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28711.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28708.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28705.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28707.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28706.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28710.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28709.ts
-#EXTINF:-1,ES:MOVISTAR ESPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28730.ts
-#EXTINF:-1,ES:MOVISTAR  F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28691.ts
-#EXTINF:-1,ES:MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28690.ts
-#EXTINF:-1,ES:MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28689.ts
-#EXTINF:-1,ES:MOVISTAR FUTBOLL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28701.ts
-#EXTINF:-1,ES:MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28684.ts
-#EXTINF:-1,ES:MOVISTAR  MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28688.ts
-#EXTINF:-1,ES:MOVISTAR MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28687.ts
-#EXTINF:-1,ES:MOVISTAR MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28686.ts
-#EXTINF:-1,ES:BEIN LALIGA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28675.ts
-#EXTINF:-1,ES:BEIN LALIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28676.ts
-#EXTINF:-1,ES:BEIN LALIGA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28673.ts
-#EXTINF:-1,ES:BEIN  LALIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28674.ts
-#EXTINF:-1,ES:BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28700.ts
-#EXTINF:-1,ES:BEIN LALIGA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28669.ts
-#EXTINF:-1,ES:BEIN LALIGA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28668.ts
-#EXTINF:-1,ES:BEIN LALIGA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28667.ts
-#EXTINF:-1,ES:BEIN MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28666.ts
-#EXTINF:-1,ES:BEIN MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28664.ts
-#EXTINF:-1,ES:Bein Sports MAX 1  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28665.ts
-#EXTINF:-1,ES:Bein Sports MAX 2  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28663.ts
-#EXTINF:-1,ES:Bein Sports MAX 3  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28662.ts
-#EXTINF:-1,ES:Bein Sports MAX 4  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28661.ts
-#EXTINF:-1,ES:Bein Sports MAX 5  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28660.ts
-#EXTINF:-1,ES:Bein Sports MAX 6  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28659.ts
-#EXTINF:-1,ES:Bein Sports MAX 7  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28658.ts
-#EXTINF:-1,ES:Bein Sports MAX 8 ESPAÃ‘A
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28657.ts
-#EXTINF:-1,ES: BEIN  LALIGA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28672.ts
-#EXTINF:-1,ES: BEIN  LALIGA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28671.ts
-#EXTINF:-1,ES: BEIN LALIGA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28670.ts
-#EXTINF:-1,ES:Bein Sport ESPAÃ‘A
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28698.ts
-#EXTINF:-1,ES:MULTI DEPORTE  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28655.ts
-#EXTINF:-1,ES:MULTI FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28649.ts
-#EXTINF:-1,ES:MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28704.ts
-#EXTINF:-1,ES:MULTIDEPORTE  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28656.ts
-#EXTINF:-1,ES:MULTIDEPORTE  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28654.ts
-#EXTINF:-1,ES:MULTIDEPORTE  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28653.ts
-#EXTINF:-1,ES:MULTIDEPORTE  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28652.ts
-#EXTINF:-1,ES:MULTIDEPORTE  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28651.ts
-#EXTINF:-1,ES:MULTIDEPORTE  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28650.ts
-#EXTINF:-1,ES:MULTIFUTBOL  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28648.ts
-#EXTINF:-1,ES:MULTIFUTBOL  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28647.ts
-#EXTINF:-1,ES:MULTIFUTBOL  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28646.ts
-#EXTINF:-1,ES:MULTIFUTBOL  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28645.ts
-#EXTINF:-1,ES:MULTIFUTBOL  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28644.ts
-#EXTINF:-1,ES:MULTIFUTBOL  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28643.ts
-#EXTINF:-1,ES:MULTIFUTBOL  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28642.ts
-#EXTINF:-1,ES:MULTIFUTBOL  8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28641.ts
-#EXTINF:-1,ES:EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28682.ts
-#EXTINF:-1,ES:Eurosport  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28681.ts
-#EXTINF:-1,ES:EUROSPORT  ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28683.ts
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28770.ts
-#EXTINF:-1,ES:NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28761.ts
-#EXTINF:-1,ES:NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28762.ts
-#EXTINF:-1,ES:NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28763.ts
-#EXTINF:-1,ES:DISNEY  JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28768.ts
-#EXTINF:-1,ES:DISNEY  XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28769.ts
-#EXTINF:-1,ES:DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28766.ts
-#EXTINF:-1,ES:DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28767.ts
-#EXTINF:-1,ES:BABY  TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28764.ts
-#EXTINF:-1,ES:PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28771.ts
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28802.ts
-#EXTINF:-1,ES:13 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28724.ts
-#EXTINF:-1,ES:24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28723.ts
-#EXTINF:-1,ES:3/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28729.ts
-#EXTINF:-1,ES:7RM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28722.ts
-#EXTINF:-1,ES:8Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28738.ts
-#EXTINF:-1,ES:A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28754.ts
-#EXTINF:-1,ES:AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28829.ts
-#EXTINF:-1,ES:AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28827.ts
-#EXTINF:-1,ES:AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28828.ts
-#EXTINF:-1,ES:ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28737.ts
-#EXTINF:-1,ES:ARAGON TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28736.ts
-#EXTINF:-1,ES:BE MAD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28742.ts
-#EXTINF:-1,ES:BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28725.ts
-#EXTINF:-1,ES:CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28816.ts
-#EXTINF:-1,ES:CANAL ORBE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28726.ts
-#EXTINF:-1,ES:CANAL SUR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28721.ts
-#EXTINF:-1,ES:CAZA  Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28750.ts
-#EXTINF:-1,ES:CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28753.ts
-#EXTINF:-1,ES:CMM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28720.ts
-#EXTINF:-1,ES:COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28746.ts
-#EXTINF:-1,ES:COMEDY  CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28810.ts
-#EXTINF:-1,ES:COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28809.ts
-#EXTINF:-1,ES:COSMOPOLITAN  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28811.ts
-#EXTINF:-1,ES:COSMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28812.ts
-#EXTINF:-1,ES:DARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28797.ts
-#EXTINF:-1,ES:DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28745.ts
-#EXTINF:-1,ES:DISCOVERY  CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28748.ts
-#EXTINF:-1,ES:DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28805.ts
-#EXTINF:-1,ES:DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28735.ts
-#EXTINF:-1,ES:DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28741.ts
-#EXTINF:-1,ES:ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28799.ts
-#EXTINF:-1,ES:ESPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28637.ts
-#EXTINF:-1,ES:ESPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28640.ts
-#EXTINF:-1,ES:ETB 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28719.ts
-#EXTINF:-1,ES:EXTREMADURA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28718.ts
-#EXTINF:-1,ES:Extreme EMEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28636.ts
-#EXTINF:-1,ES:FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28800.ts
-#EXTINF:-1,ES:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28756.ts
-#EXTINF:-1,ES:HISTORIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28755.ts
-#EXTINF:-1,ES:HIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28743.ts
-#EXTINF:-1,ES:HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28818.ts
-#EXTINF:-1,ES:Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28680.ts
-#EXTINF:-1,ES:INTERECONOMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28717.ts
-#EXTINF:-1,ES:LA OTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28716.ts
-#EXTINF:-1,ES:MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28798.ts
-#EXTINF:-1,ES:MEZZO LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28732.ts
-#EXTINF:-1,ES:MEZZO LIVE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28731.ts
-#EXTINF:-1,ES:MOVISTAR  0#
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28793.ts
-#EXTINF:-1,ES:MOVISTAR  DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28790.ts
-#EXTINF:-1,ES:MOVISTAR  FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28703.ts
-#EXTINF:-1,ES:MOVISTAR  TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28774.ts
-#EXTINF:-1,ES:MOVISTAR FAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28794.ts
-#EXTINF:-1,ES:MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28685.ts
-#EXTINF:-1,ES:MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28778.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28776.ts
-#EXTINF:-1,ES:MOVISTAR TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28773.ts
-#EXTINF:-1,ES:MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28780.ts
-#EXTINF:-1,ES:MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28744.ts
-#EXTINF:-1,ES:ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28747.ts
-#EXTINF:-1,ES:PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28808.ts
-#EXTINF:-1,ES:Partidazo 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28712.ts
-#EXTINF:-1,ES:PARTIDAZOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28713.ts
-#EXTINF:-1,ES:SOL Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28734.ts
-#EXTINF:-1,ES:SOMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28795.ts
-#EXTINF:-1,ES:SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28733.ts
-#EXTINF:-1,ES:Super 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28728.ts
-#EXTINF:-1,ES:SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28814.ts
-#EXTINF:-1,ES:TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28806.ts
-#EXTINF:-1,ES:TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28740.ts
-#EXTINF:-1,ES:TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28820.ts
-#EXTINF:-1,ES:TV 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28801.ts
-#EXTINF:-1,ES:TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28727.ts
-#EXTINF:-1,ES:Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28752.ts
-#EXTINF:-1,ES:XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvtool.es:9977/live/Oscar/Oscar/28796.ts
+ 
+#EXTINF:0,LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2822.ts
+#EXTINF:0,LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2823.ts
+#EXTINF:0,ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2824.ts
+#EXTINF:0,CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2825.ts
+#EXTINF:0,Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/8.ts
+#EXTINF:0,LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/113.ts
+#EXTINF:0,#0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2835.ts
+#EXTINF:0,Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3279.ts
+#EXTINF:0,Bemad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3278.ts
+#EXTINF:0,M. SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2836.ts
+#EXTINF:0,COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2844.ts
+#EXTINF:0,SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2837.ts
+#EXTINF:0,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2838.ts
+#EXTINF:0,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2841.ts
+#EXTINF:0,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2950.ts
+#EXTINF:0,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2876.ts
+#EXTINF:0,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2833.ts
+#EXTINF:0,CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2842.ts
+#EXTINF:0,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/30.ts
+#EXTINF:0,COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2843.ts
+#EXTINF:0,FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2839.ts
+#EXTINF:0,FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2845.ts
+#EXTINF:0,Neox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/454.ts
+#EXTINF:0,Garage tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3079.ts
+#EXTINF:0,Canal 24 horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3078.ts
+#EXTINF:0,MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3301.ts
+#EXTINF:0,MTV Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/1734.ts
+#EXTINF:0,ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2847.ts
+#EXTINF:0,M. ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2826.ts
+#EXTINF:0,M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2828.ts
+#EXTINF:0,M. COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2829.ts
+#EXTINF:0,M. DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2830.ts
+#EXTINF:0,TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2832.ts
+#EXTINF:0,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2831.ts
+#EXTINF:0,PARAMOUNT CH.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2834.ts
+#EXTINF:0,NAT. GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2858.ts
+#EXTINF:0,NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2859.ts
+#EXTINF:0,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2862.ts
+#EXTINF:0,DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3291.ts
+#EXTINF:0,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2860.ts
+#EXTINF:0,Crimen e Investigacion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2874.ts
+#EXTINF:0,A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2864.ts
+#EXTINF:0,Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/1402.ts
+#EXTINF:0,DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2846.ts
+#EXTINF:0,MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/114.ts
+#EXTINF:0,Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2873.ts
+#EXTINF:0,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2872.ts
+#EXTINF:0,DISNEY Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2866.ts
+#EXTINF:0,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2867.ts
+#EXTINF:0,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3300.ts
+#EXTINF:0,CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3296.ts
+#EXTINF:0,M.Partidazo(SOLO PARTIDOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/49.ts
+#EXTINF:0,Bein Liga Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3077.ts
+#EXTINF:0,La Liga TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2875.ts
+#EXTINF:0,beIN LaLIga 1 (Solo Partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/53.ts
+#EXTINF:0,beIN LaLIga 2 (Solo Partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/54.ts
+#EXTINF:0,beIN LaLIga 3 (Solo Partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/55.ts
+#EXTINF:0,BEIN Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/50.ts
+#EXTINF:0,BEIN MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/56.ts
+#EXTINF:0,BEIN MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/57.ts
+#EXTINF:0,BEIN MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/58.ts
+#EXTINF:0,BEIN MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/59.ts
+#EXTINF:0,GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/39.ts
+#EXTINF:0,M. FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2851.ts
+#EXTINF:0,M. MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2855.ts
+#EXTINF:0,M. FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2854.ts
+#EXTINF:0,M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2857.ts
+#EXTINF:0,TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2848.ts
+#EXTINF:0,CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2865.ts
+#EXTINF:0,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2856.ts
+#EXTINF:0,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3071.ts
+#EXTINF:0,M. DEP. 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2849.ts
+#EXTINF:0,M. DEP. 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2850.ts
+#EXTINF:0,BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2853.ts
+#EXTINF:0,Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/100.ts
+#EXTINF:0,Sevilla FC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2028.ts
+#EXTINF:0,CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3294.ts
+#EXTINF:0,VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3299.ts
+#EXTINF:0,NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3298.ts
+#EXTINF:0,MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3288.ts
+#EXTINF:0,ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3292.ts
+#EXTINF:0,odisea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3280.ts
+#EXTINF:0,rcn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2376.ts
+#EXTINF:0,TV3*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2042.ts
+#EXTINF:0,3/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/1949.ts
+#EXTINF:0,Vaughan Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3253.ts
+#EXTINF:0,rock fm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3242.ts
+#EXTINF:0,RMF FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3276.ts
+#EXTINF:0,ondacero
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3263.ts
+#EXTINF:0,m80
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3243.ts
+#EXTINF:0,i love fm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3251.ts
+#EXTINF:0,cadena ser
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3259.ts
