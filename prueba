@@ -10,9 +10,9 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Seleciona una Lista ', ['http://bit.ly/chilenostv', 'http://bit.ly/tvariados', 'http://bit.ly/varIPTV', 'http://bit.ly/Cineip', 'http://bit.ly/tvclubiptv', 'http://bit.ly/Iptvtuxtla', 'http://bit.ly/regioflixtv', 'http://bit.ly/iptvespña', 'http://bit.ly/pelisclub', 'http://bit.ly/4000pelis', 'http://bit.ly/deportvs', 'http://bit.ly/tvtecno', 'http://bit.ly/nibblettv', 'http://bit.ly/nibblepelis', 'http://bit.ly/musicatv', 'http://bit.ly/latinostv'
+   ret = dialog.select('Seleciona una Lista ', ['http://bit.ly/chilenostv', 'http://bit.ly/tvariados', 'http://bit.ly/varIPTV', 'http://bit.ly/Cineip', 'http://bit.ly/tvclubiptv', 'http://bit.ly/Iptvtuxtla',  'http://bit.ly/iptvespña',  'http://bit.ly/deportvs', 'http://bit.ly/tvtecno', 'http://bit.ly/nibblettv',  'http://bit.ly/musicatv', 'http://bit.ly/latinostv'
 ])
-   lists = ['http://bit.ly/chilenostv', 'http://bit.ly/tvariados', 'http://bit.ly/varIPTV', 'http://bit.ly/Cineip', 'http://bit.ly/tvclubiptv', 'http://bit.ly/Iptvtuxtla', 'http://bit.ly/regioflixtv', 'http://bit.ly/iptvespña', 'http://bit.ly/pelisclub', 'http://bit.ly/4000pelis', 'http://bit.ly/deportvs', 'http://bit.ly/tvtecno', 'http://bit.ly/nibblettv', 'http://bit.ly/nibblepelis', 'http://bit.ly/musicatv', 'http://bit.ly/latinostv'
+   lists = ['http://bit.ly/chilenostv', 'http://bit.ly/tvariados', 'http://bit.ly/varIPTV', 'http://bit.ly/Cineip', 'http://bit.ly/tvclubiptv', 'http://bit.ly/Iptvtuxtla',  'http://bit.ly/iptvespña',  'http://bit.ly/deportvs', 'http://bit.ly/tvtecno', 'http://bit.ly/nibblettv',  'http://bit.ly/musicatv', 'http://bit.ly/latinostv'
 ]
    return lists[ret]
 ]]></expres>
