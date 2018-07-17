@@ -1,6 +1,6 @@
 
 <item>
-<title>[B]Selecciona una lista CECEGEEK[/B]</title>
+<title>[COLOR green]SELECCIONA UNA OPCION[/COLOR]</title>
 
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
