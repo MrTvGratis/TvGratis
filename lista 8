@@ -1,128 +1,138 @@
 #EXTM3U
 
-#EXTINF:-1,ES: Canal DeCasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3216.ts
+#EXTINF:-1,=====SPAIN=====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1597.ts
 #EXTINF:-1,ES: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3217.ts
-#EXTINF:-1,ES: Canal Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3218.ts
-#EXTINF:-1,ES: Canal+ Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3220.ts
-#EXTINF:-1,ES: NEOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3221.ts
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3057.ts
-#EXTINF:-1,ES: TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3071.ts
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3067.ts
-#EXTINF:-1,ES: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3049.ts
-#EXTINF:-1,ES: REAL MADRID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2723.ts
-#EXTINF:-1,ES: Canal Odissea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3072.ts
-#EXTINF:-1,ES: MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3063.ts
-#EXTINF:-1,ES: MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3055.ts
-#EXTINF:-1,ES: MOVISTAR DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3064.ts
-#EXTINF:-1,ES: MOVISTAR  ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3061.ts
-#EXTINF:-1,ES: MOVISTAR COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3065.ts
-#EXTINF:-1,ES: MOVISTAR ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3062.ts
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3050.ts
-#EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3058.ts
-#EXTINF:-1,ES: Moviestar Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3059.ts
-#EXTINF:-1,ES: DISCOVERY Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3048.ts
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3047.ts
-#EXTINF:-1,ES: COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3051.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3070.ts
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3053.ts
-#EXTINF:-1,ES: Moviestar DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3060.ts
-#EXTINF:-1,ES: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3052.ts
-#EXTINF:-1,ES: Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2036.ts
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3069.ts
-#EXTINF:-1,ES: A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3066.ts
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3054.ts
-#EXTINF:-1,ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/3068.ts
-#EXTINF:-1,ES: TVE LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2033.ts
-#EXTINF:-1,ES: TVE LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2034.ts
-#EXTINF:-1,ES: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2045.ts
-#EXTINF:-1,ES: Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2056.ts
-#EXTINF:-1,ES: Movistar Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2049.ts
-#EXTINF:-1,ES: Movistar FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2048.ts
-#EXTINF:-1,ES: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1845.ts
-#EXTINF:-1,ES: EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2722.ts
-#EXTINF:-1,ES: BEIN LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2724.ts
-#EXTINF:-1,ES: BEIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1842.ts
-#EXTINF:-1,ES: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2050.ts
-#EXTINF:-1,ES: Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2053.ts
-#EXTINF:-1,ES: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2044.ts
-#EXTINF:-1,ES: Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2035.ts
-#EXTINF:-1,ES: Caza & Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2054.ts
-#EXTINF:-1,ES: Canal Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2046.ts
-#EXTINF:-1,ES: Canal Liga 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2038.ts
-#EXTINF:-1,ES: Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2037.ts
-#EXTINF:-1,ES: Canal Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2040.ts
-#EXTINF:-1,ES: Canal+  Futbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2039.ts
-#EXTINF:-1,ES: Canal Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2041.ts
-#EXTINF:-1,ES: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2047.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1596.ts
+#EXTINF:-1,ES: 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1562.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1563.ts
+#EXTINF:-1,ES: Alfa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1556.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1577.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1595.ts
 #EXTINF:-1,ES: AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2052.ts
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/2051.ts
-#EXTINF:-1,ES: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1850.ts
-#EXTINF:-1,ES: NAT GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1811.ts
-#EXTINF:-1,ES: MOVISTAR GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1817.ts
-#EXTINF:-1,ES: MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1813.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1594.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1589.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1565.ts
+#EXTINF:-1,ES: CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1566.ts
+#EXTINF:-1,ES: CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1568.ts
+#EXTINF:-1,ES: Canal Sur Andalucia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1569.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1570.ts
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1571.ts
+#EXTINF:-1,ES: Crimen   Investigación
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1574.ts
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1576.ts
+#EXTINF:-1,ES: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1580.ts
 #EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1812.ts
-#EXTINF:-1,ES: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1814.ts
-#EXTINF:-1,ES: M FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://super1.ideaiptv.com:8000/live/Mp1/166484/1818.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1590.ts
+#EXTINF:-1,ES: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1573.ts
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1572.ts
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1582.ts
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1583.ts
+#EXTINF:-1,ES: IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1584.ts
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1555.ts
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1554.ts
+#EXTINF:-1,ES: M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1551.ts
+#EXTINF:-1,ES: M. Cine Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1575.ts
+#EXTINF:-1,ES: M. COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1552.ts
+#EXTINF:-1,ES: M. DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1553.ts
+#EXTINF:-1,ES: NAT GEOGRAPH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1591.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1592.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1587.ts
+#EXTINF:-1,ES: RT Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1559.ts
+#EXTINF:-1,ES: RTV Ceuta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1560.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1593.ts
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1588.ts
+#EXTINF:-1,ES: TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1579.ts
+#EXTINF:-1,------|ES|-Sports-Espagnole-|ES|------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1677.ts
+#EXTINF:-1,ES_REALMADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1598.ts
+#EXTINF:-1,ES: Barca-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1665.ts
+#EXTINF:-1,ES: BeIN España HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1668.ts
+#EXTINF:-1,ES: BeIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1669.ts
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1676.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1675.ts
+#EXTINF:-1,ES: GOLF-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1664.ts
+#EXTINF:-1,ES: LA LIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1667.ts
+#EXTINF:-1,ES: MOVISTAR  F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1671.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1674.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1673.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1672.ts
+#EXTINF:-1,ES: MOVISTAR-MOTO-GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1670.ts
+#EXTINF:-1,ES: REAL MADRID TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1666.ts
+#EXTINF:-1,ES: BEIN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1578.ts
+#EXTINF:-1,ES: EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1581.ts
+#EXTINF:-1,ES: M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1564.ts
+#EXTINF:-1,ES: M.FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1586.ts
+#EXTINF:-1,ES: Movistar.MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1557.ts
+#EXTINF:-1,ES: Real Madrid Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1558.ts
+#EXTINF:-1,ES: TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1561.ts
+#EXTINF:-1,ES : Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1691.ts
+#EXTINF:-1,ES : MOVISTAR COMEDIA CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1686.ts
+#EXTINF:-1,ES : Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1693.ts
+#EXTINF:-1,ES : MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1688.ts
+#EXTINF:-1,ES : MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1687.ts
+#EXTINF:-1,ES : TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1692.ts
+#EXTINF:-1,ES : NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1738.ts
+#EXTINF:-1,ES_MOVISTAR CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logicpro.us:8000/live/Hassan/K26XLzFymL/1685.ts
