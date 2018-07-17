@@ -39,7 +39,28 @@
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
+<item>
+<title>[COLOR green]SELECCIONA UNA OPCION[/COLOR]</title>
 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona una Lista ', ['http://bit.ly/chilenostv', 'http://bit.ly/tvariados', 'http://bit.ly/varIPTV', 'http://bit.ly/Cineip', 'http://bit.ly/tvclubiptv', 'http://bit.ly/Iptvtuxtla',  'http://bit.ly/iptvespña',  'http://bit.ly/deportvs', 'http://bit.ly/tvtecno', 'http://bit.ly/nibblettv',  'http://bit.ly/musicatv', 'http://bit.ly/latinostv'
+])
+   lists = ['http://bit.ly/chilenostv', 'http://bit.ly/tvariados', 'http://bit.ly/varIPTV', 'http://bit.ly/Cineip', 'http://bit.ly/tvclubiptv', 'http://bit.ly/Iptvtuxtla',  'http://bit.ly/iptvespña',  'http://bit.ly/deportvs', 'http://bit.ly/tvtecno', 'http://bit.ly/nibblettv',  'http://bit.ly/musicatv', 'http://bit.ly/latinostv'
+]
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.pnghttps://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+<fanarthttps://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png></fanart>
+</item>
 
 
 
