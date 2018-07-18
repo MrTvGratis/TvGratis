@@ -1,6 +1,50 @@
 #EXTM3U
 
 
+#EXTINF:-1,2500 ES: Barca TV  SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/676.ts
+#EXTINF:-1,2504 ES: BEIN La Liga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/680.ts
+#EXTINF:-1,2502 ES: BEIN Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/678.ts
+#EXTINF:-1,2501 ES: BEIN Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/677.ts
+#EXTINF:-1,2503 ES: BEIN Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/679.ts
+#EXTINF:-1,2505 ES: Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/681.ts
+#EXTINF:-1,2507 ES: Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/683.ts
+#EXTINF:-1,2506 ES: Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/682.ts
+#EXTINF:-1,2508 ES: Euro Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/684.ts
+#EXTINF:-1,2509 ES: Euro Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/685.ts
+#EXTINF:-1,2510 ES: Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/686.ts
+#EXTINF:-1,2512 ES: GOL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/688.ts
+#EXTINF:-1,2511 ES: Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/687.ts
+#EXTINF:-1,2515 ES: Iberalia Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/691.ts
+#EXTINF:-1,2513 ES: LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/689.ts
+#EXTINF:-1,2418 ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/664.ts
+#EXTINF:-1,2516 ES: Movistar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/692.ts
+#EXTINF:-1,2517 ES: Movistar Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/693.ts
+#EXTINF:-1,2518 ES: Movistar Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/694.ts
+#EXTINF:-1,2519 ES: Tele Deporte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/695.ts
+#EXTINF:-1,2520 ES: Toros HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/696.ts
+
+
 
 #EXTINF:-1,------------------------- SPORTS INTERNATIONAL -------------------------
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/661.ts
