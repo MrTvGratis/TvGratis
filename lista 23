@@ -1,1 +1,91 @@
 
+#EXTM3U
+
+#EXTINF:-1,▼▼▼ SPAIN ▼▼▼
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2192.ts
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8528.ts
+#EXTINF:-1,LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8552.ts
+#EXTINF:-1,LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8539.ts
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2145.ts
+#EXTINF:-1,M  Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2151.ts
+#EXTINF:-1,M. XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8550.ts
+#EXTINF:-1,M. SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8558.ts
+#EXTINF:-1,M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8546.ts
+#EXTINF:-1,M. F.TBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8543.ts
+#EXTINF:-1,M. DEP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8529.ts
+#EXTINF:-1,M. DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8530.ts
+#EXTINF:-1,M. COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8548.ts
+#EXTINF:-1,M. ACCI©N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8556.ts
+#EXTINF:-1,Disney XD (ES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2161.ts
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2169.ts
+#EXTINF:-1,Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2176.ts
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2177.ts
+#EXTINF:-1,Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2178.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2923.ts
+#EXTINF:-1,M Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/1813.ts
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/1814.ts
+#EXTINF:-1,Canal  Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/1817.ts
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8540.ts
+#EXTINF:-1,SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8533.ts
+#EXTINF:-1,NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8541.ts
+#EXTINF:-1,NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8555.ts
+#EXTINF:-1,NAT GEOGRAPH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8544.ts
+#EXTINF:-1,MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8536.ts
+#EXTINF:-1,MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8554.ts
+#EXTINF:-1,LALIGATV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8545.ts
+#EXTINF:-1,IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8537.ts
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8547.ts
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8542.ts
+#EXTINF:-1,DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8560.ts
+#EXTINF:-1,CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8549.ts
+#EXTINF:-1,CLAN  TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8535.ts
+#EXTINF:-1,CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8538.ts
+#EXTINF:-1,CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8551.ts
+#EXTINF:-1,CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8557.ts
+#EXTINF:-1,CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8532.ts
+#EXTINF:-1,BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8531.ts
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8559.ts
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8534.ts
