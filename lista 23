@@ -9,7 +9,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8552.ts
 #EXTINF:-1,LA 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/8539.ts
-#EXTINF:-1,Fox Life
+#EXTINF:-1,M Futbol
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2145.ts
 #EXTINF:-1,M  Accion
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dmania.loginto.me:8000/live/yours2serve/skype/2151.ts
