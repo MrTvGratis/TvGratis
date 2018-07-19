@@ -20,8 +20,6 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/609/ind
 #EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/bein-laliga-hd.jpg",beIN LaLiga HD
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/574/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/box-tv.jpg",Box TV
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/316/index.m3u8
 
 #EXTINF:-1 group-title="Erotica: 18+" tvg-logo="https://onlybest.tv/images/logo/brazzers-tv.jpg",Brazzers TV CZ
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/755/index.m3u8
@@ -41,8 +39,6 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/616/ind
 #EXTINF:-1 group-title="Erotica: 18+" tvg-logo="https://onlybest.tv/images/logo/Dorcel-TV-HD.jpg",Dorcel TV HD
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/852/index.m3u8
 
-#EXTINF:-1 group-title="Erotica: 18+" tvg-logo="https://onlybest.tv/images/logo/Dorcel-TV-HD.jpg",Dorcel TV HD
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/853/index.m3u8
 
 #EXTINF:-1 group-title="Erotica: 18+" tvg-logo="https://onlybest.tv/images/logo/dusk.jpg",DUSK
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/359/index.m3u8
@@ -50,11 +46,6 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/359/ind
 #EXTINF:-1 group-title="Erotica: 18+" tvg-logo="https://onlybest.tv/images/logo/EROX-HD.jpg",EROX HD
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/866/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/47/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/FightBox.jpg",FightBox HD
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/900/index.m3u8
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/fox-espana.jpg",Fox España
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/608/index.m3u8
