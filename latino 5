@@ -1,0 +1,952 @@
+#EXTM3U
+
+#EXTINF:-1,LA_FHD: Canal 5 HD MEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22801.ts
+#EXTINF:-1,LA_HD_MEX:A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22551.ts
+#EXTINF:-1,LA_HD_MEX:A3 SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22550.ts
+#EXTINF:-1,LA_HD_MEX:ADN40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22549.ts
+#EXTINF:-1,LA_HD_MEX:AFORE AZTECA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22548.ts
+#EXTINF:-1,LA_HD_MEX:ALJAZZERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22547.ts
+#EXTINF:-1,LA_HD_MEX:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22546.ts
+#EXTINF:-1,LA_HD_MEX:AMC_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22545.ts
+#EXTINF:-1,LA_HD_MEX:ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22544.ts
+#EXTINF:-1,LA_HD_MEX:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22542.ts
+#EXTINF:-1,LA_HD_MEX:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22541.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22540.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22539.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22538.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA CLICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22537.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA CORAZON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22536.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22535.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA UNO_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22534.ts
+#EXTINF:-1,LA_HD_MEX:AZTECA_UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22533.ts
+#EXTINF:-1,LA_HD_MEX:BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22532.ts
+#EXTINF:-1,LA_HD_MEX:BANDAMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22531.ts
+#EXTINF:-1,LA_HD_MEX:BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22530.ts
+#EXTINF:-1,LA_HD_MEX:BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22529.ts
+#EXTINF:-1,LA_HD_MEX:BLOOMBERG.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22528.ts
+#EXTINF:-1,LA_HD_MEX:BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22527.ts
+#EXTINF:-1,LA_HD_MEX:CADEND TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22526.ts
+#EXTINF:-1,LA_HD_MEX:CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22406.ts
+#EXTINF:-1,LA_HD_MEX:CANAL 2 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22525.ts
+#EXTINF:-1,LA_HD_MEX:CANAL 26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22524.ts
+#EXTINF:-1,LA_HD_MEX:CANAL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22523.ts
+#EXTINF:-1,LA_HD_MEX:CANAL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22522.ts
+#EXTINF:-1,LA_HD_MEX:CANAL 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22521.ts
+#EXTINF:-1,LA_HD_MEX:CANAL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22520.ts
+#EXTINF:-1,LA_HD_MEX:CANAL DE LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22519.ts
+#EXTINF:-1,LA_HD_MEX:Canal del congreso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22390.ts
+#EXTINF:-1,LA_HD_MEX:CANAL JUDICIAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22518.ts
+#EXTINF:-1,LA_HD_MEX:CANAL_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22402.ts
+#EXTINF:-1,LA_HD_MEX:CANAL_7 -1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22401.ts
+#EXTINF:-1,LA_HD_MEX:CANAL_7 -2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22398.ts
+#EXTINF:-1,LA_HD_MEX:CANAL109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22407.ts
+#EXTINF:-1,LA_HD_MEX:CANAL1873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22403.ts
+#EXTINF:-1,LA_HD_MEX:CANAL1935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22400.ts
+#EXTINF:-1,LA_HD_MEX:CANAL1938
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22399.ts
+#EXTINF:-1,LA_HD_MEX:CANAL1952
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22397.ts
+#EXTINF:-1,LA_HD_MEX:CANAL1989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22396.ts
+#EXTINF:-1,LA_HD_MEX:CANAL2130
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22392.ts
+#EXTINF:-1,LA_HD_MEX:CANAL2316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22391.ts
+#EXTINF:-1,LA_HD_MEX:CANAL2355
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22389.ts
+#EXTINF:-1,LA_HD_MEX:CANAL269
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22388.ts
+#EXTINF:-1,LA_HD_MEX:CANAL470
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22385.ts
+#EXTINF:-1,LA_HD_MEX:CANAL7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22516.ts
+#EXTINF:-1,LA_HD_MEX:CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22515.ts
+#EXTINF:-1,LA_HD_MEX:CINECANAL_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22514.ts
+#EXTINF:-1,LA_HD_MEX:CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22513.ts
+#EXTINF:-1,LA_HD_MEX:CNN ESP_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22512.ts
+#EXTINF:-1,LA_HD_MEX:CNN INT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22511.ts
+#EXTINF:-1,LA_HD_MEX:CNN_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22510.ts
+#EXTINF:-1,LA_HD_MEX:COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22509.ts
+#EXTINF:-1,LA_HD_MEX:COMEDY CENTRAL_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22508.ts
+#EXTINF:-1,LA_HD_MEX:DE PELICULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22507.ts
+#EXTINF:-1,LA_HD_MEX:DE PELICULA_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22506.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22505.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22504.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY HH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22503.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22502.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22501.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY SCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22500.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY TH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22499.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY TURBO.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22498.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22497.ts
+#EXTINF:-1,LA_HD_MEX:DISCOVERY WORLD_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22496.ts
+#EXTINF:-1,LA_HD_MEX:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22495.ts
+#EXTINF:-1,LA_HD_MEX:DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22494.ts
+#EXTINF:-1,LA_HD_MEX:DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22493.ts
+#EXTINF:-1,LA_HD_MEX:DISTRITO COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22492.ts
+#EXTINF:-1,LA_HD_MEX:DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22491.ts
+#EXTINF:-1,LA_HD_MEX:E TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22404.ts
+#EXTINF:-1,LA_HD_MEX:E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22490.ts
+#EXTINF:-1,LA_HD_MEX:ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22489.ts
+#EXTINF:-1,LA_HD_MEX:ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22488.ts
+#EXTINF:-1,LA_HD_MEX:ESPN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22487.ts
+#EXTINF:-1,LA_HD_MEX:ESPN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22486.ts
+#EXTINF:-1,LA_HD_MEX:ESPN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22485.ts
+#EXTINF:-1,LA_HD_MEX:ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22484.ts
+#EXTINF:-1,LA_HD_MEX:Europa Europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22405.ts
+#EXTINF:-1,LA_HD_MEX:FILM & ART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22483.ts
+#EXTINF:-1,LA_HD_MEX:FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22482.ts
+#EXTINF:-1,LA_HD_MEX:FORMULA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22481.ts
+#EXTINF:-1,LA_HD_MEX:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22480.ts
+#EXTINF:-1,LA_HD_MEX:FOX ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22479.ts
+#EXTINF:-1,LA_HD_MEX:FOX CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22478.ts
+#EXTINF:-1,LA_HD_MEX:FOX CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22477.ts
+#EXTINF:-1,LA_HD_MEX:FOX CLASSICS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22476.ts
+#EXTINF:-1,LA_HD_MEX:FOX MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22475.ts
+#EXTINF:-1,LA_HD_MEX:FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22474.ts
+#EXTINF:-1,LA_HD_MEX:FOX SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22473.ts
+#EXTINF:-1,LA_HD_MEX:FOX SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22472.ts
+#EXTINF:-1,LA_HD_MEX:FOX SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22471.ts
+#EXTINF:-1,LA_HD_MEX:FOX SPORT2_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22470.ts
+#EXTINF:-1,LA_HD_MEX:FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22469.ts
+#EXTINF:-1,LA_HD_MEX:FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22468.ts
+#EXTINF:-1,LA_HD_MEX:FOX SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22467.ts
+#EXTINF:-1,LA_HD_MEX:FOXLIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22387.ts
+#EXTINF:-1,LA_HD_MEX:FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22466.ts
+#EXTINF:-1,LA_HD_MEX:GALA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22395.ts
+#EXTINF:-1,LA_HD_MEX:GLITZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22465.ts
+#EXTINF:-1,LA_HD_MEX:GOLDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22464.ts
+#EXTINF:-1,LA_HD_MEX:GOLDEN EDG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22463.ts
+#EXTINF:-1,LA_HD_MEX:GOLDEN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22462.ts
+#EXTINF:-1,LA_HD_MEX:GOLF CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22461.ts
+#EXTINF:-1,LA_HD_MEX:HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22460.ts
+#EXTINF:-1,LA_HD_MEX:HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22459.ts
+#EXTINF:-1,LA_HD_MEX:HOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22458.ts
+#EXTINF:-1,LA_HD_MEX:i CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22457.ts
+#EXTINF:-1,LA_HD_MEX:IMAGEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22456.ts
+#EXTINF:-1,LA_HD_MEX:IMAGEN TV.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22455.ts
+#EXTINF:-1,LA_HD_MEX:INGENION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22386.ts
+#EXTINF:-1,LA_HD_MEX:ISAT_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22454.ts
+#EXTINF:-1,LA_HD_MEX:ITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22393.ts
+#EXTINF:-1,LA_HD_MEX:LAS ESTRELLA_.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22451.ts
+#EXTINF:-1,LA_HD_MEX:LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22453.ts
+#EXTINF:-1,LA_HD_MEX:LAS ESTRELLAS -2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22384.ts
+#EXTINF:-1,LA_HD_MEX:LAS ESTRELLAS._
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22452.ts
+#EXTINF:-1,LA_HD_MEX:LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22450.ts
+#EXTINF:-1,LA_HD_MEX:MAS CHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22449.ts
+#EXTINF:-1,LA_HD_MEX:MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22448.ts
+#EXTINF:-1,LA_HD_MEX:MTV NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22447.ts
+#EXTINF:-1,LA_HD_MEX:MTV_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22446.ts
+#EXTINF:-1,LA_HD_MEX:MULTIMEDIOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22445.ts
+#EXTINF:-1,LA_HD_MEX:MULTIMEDIOS P.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22444.ts
+#EXTINF:-1,LA_HD_MEX:NAT GEO KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22443.ts
+#EXTINF:-1,LA_HD_MEX:NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22442.ts
+#EXTINF:-1,LA_HD_MEX:NATGEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22441.ts
+#EXTINF:-1,LA_HD_MEX:NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22440.ts
+#EXTINF:-1,LA_HD_MEX:NICK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22439.ts
+#EXTINF:-1,LA_HD_MEX:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22438.ts
+#EXTINF:-1,LA_HD_MEX:NICK_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22436.ts
+#EXTINF:-1,LA_HD_MEX:NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22437.ts
+#EXTINF:-1,LA_HD_MEX:NTN24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22435.ts
+#EXTINF:-1,LA_HD_MEX:OCHO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22394.ts
+#EXTINF:-1,LA_HD_MEX:PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22434.ts
+#EXTINF:-1,LA_HD_MEX:PX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22433.ts
+#EXTINF:-1,LA_HD_MEX:Q PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22517.ts
+#EXTINF:-1,LA_HD_MEX:RMS_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22432.ts
+#EXTINF:-1,LA_HD_MEX:RT RUSIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22431.ts
+#EXTINF:-1,LA_HD_MEX:SENDERO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22430.ts
+#EXTINF:-1,LA_HD_MEX:SHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22429.ts
+#EXTINF:-1,LA_HD_MEX:SONY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22428.ts
+#EXTINF:-1,LA_HD_MEX:SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22427.ts
+#EXTINF:-1,LA_HD_MEX:SPACE_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22426.ts
+#EXTINF:-1,LA_HD_MEX:STAR TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22425.ts
+#EXTINF:-1,LA_HD_MEX:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22424.ts
+#EXTINF:-1,LA_HD_MEX:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22423.ts
+#EXTINF:-1,LA_HD_MEX:TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22422.ts
+#EXTINF:-1,LA_HD_MEX:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22421.ts
+#EXTINF:-1,LA_HD_MEX:TELEHIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22420.ts
+#EXTINF:-1,LA_HD_MEX:TELENOVELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22419.ts
+#EXTINF:-1,LA_HD_MEX:TELEVISA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22418.ts
+#EXTINF:-1,LA_HD_MEX:TELEVISA.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22417.ts
+#EXTINF:-1,LA_HD_MEX:TIIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22416.ts
+#EXTINF:-1,LA_HD_MEX:TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22415.ts
+#EXTINF:-1,LA_HD_MEX:TLC.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22414.ts
+#EXTINF:-1,LA_HD_MEX:TLR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22413.ts
+#EXTINF:-1,LA_HD_MEX:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22412.ts
+#EXTINF:-1,LA_HD_MEX:TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22411.ts
+#EXTINF:-1,LA_HD_MEX:TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22410.ts
+#EXTINF:-1,LA_HD_MEX:TP AZTECA_UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22409.ts
+#EXTINF:-1,LA_HD_MEX:TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22383.ts
+#EXTINF:-1,LA_HD_MEX:TV MAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22382.ts
+#EXTINF:-1,LA_HD_MEX:TV UNAME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22408.ts
+#EXTINF:-1,LA_HD_MEX:TV5 FRANCIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22381.ts
+#EXTINF:-1,LA_HD_MEX:TVCD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22380.ts
+#EXTINF:-1,LA_HD_MEX:TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22379.ts
+#EXTINF:-1,LA_HD_MEX:TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22378.ts
+#EXTINF:-1,LA_HD_MEX:UNICABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22377.ts
+#EXTINF:-1,LA_HD_MEX:UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22376.ts
+#EXTINF:-1,LA_HD_MEX:VH1 P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22375.ts
+#EXTINF:-1,LA_HD_MEX:VH1_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22374.ts
+#EXTINF:-1,LA_HD_MEX:VTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22373.ts
+#EXTINF:-1,LA_HD_MEX:WARNER CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22372.ts
+#EXTINF:-1,LA_HD_MEX:WOBI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22371.ts
+#EXTINF:-1,LA_SD_MEX: MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22370.ts
+#EXTINF:-1,LA_SD_MEX:A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22369.ts
+#EXTINF:-1,LA_SD_MEX:A3 SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22368.ts
+#EXTINF:-1,LA_SD_MEX:ADN40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22367.ts
+#EXTINF:-1,LA_SD_MEX:AL JAZZERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22366.ts
+#EXTINF:-1,LA_SD_MEX:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22218.ts
+#EXTINF:-1,LA_SD_MEX:AMC.-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22213.ts
+#EXTINF:-1,LA_SD_MEX:ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22365.ts
+#EXTINF:-1,LA_SD_MEX:ANIMAL PLANET._
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22543.ts
+#EXTINF:-1,LA_SD_MEX:ANTENA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22364.ts
+#EXTINF:-1,LA_SD_MEX:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22363.ts
+#EXTINF:-1,LA_SD_MEX:Az uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22234.ts
+#EXTINF:-1,LA_SD_MEX:AZ_UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22230.ts
+#EXTINF:-1,LA_SD_MEX:AZT UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22231.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22362.ts
+#EXTINF:-1,LA_SD_MEX:Azteca 7 -1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22212.ts
+#EXTINF:-1,LA_SD_MEX:Azteca 7 -2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22214.ts
+#EXTINF:-1,LA_SD_MEX:azteca 7_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22216.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22361.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA CLICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22360.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA CORAZON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22359.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA CORAZON_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22358.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22357.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA UNO_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22356.ts
+#EXTINF:-1,LA_SD_MEX:AZTECA7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22355.ts
+#EXTINF:-1,LA_SD_MEX:BABY FIRST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22354.ts
+#EXTINF:-1,LA_SD_MEX:BANDAMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22353.ts
+#EXTINF:-1,LA_SD_MEX:BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22352.ts
+#EXTINF:-1,LA_SD_MEX:BLOMMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22351.ts
+#EXTINF:-1,LA_SD_MEX:BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22350.ts
+#EXTINF:-1,LA_SD_MEX:BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22349.ts
+#EXTINF:-1,LA_SD_MEX:CADEND TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22348.ts
+#EXTINF:-1,LA_SD_MEX:CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22235.ts
+#EXTINF:-1,LA_SD_MEX:Canal 2 Mx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22215.ts
+#EXTINF:-1,LA_SD_MEX:CANAL 26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22347.ts
+#EXTINF:-1,LA_SD_MEX:CANAL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22346.ts
+#EXTINF:-1,LA_SD_MEX:CANAL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22345.ts
+#EXTINF:-1,LA_SD_MEX:CANAL 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22344.ts
+#EXTINF:-1,LA_SD_MEX:CANAL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22343.ts
+#EXTINF:-1,LA_SD_MEX:CANAL B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22223.ts
+#EXTINF:-1,LA_SD_MEX:CANAL DE LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22342.ts
+#EXTINF:-1,LA_SD_MEX:Canal del congreso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22224.ts
+#EXTINF:-1,LA_SD_MEX:CANAL JUDICIAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22341.ts
+#EXTINF:-1,LA_SD_MEX:CANAL556
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22217.ts
+#EXTINF:-1,LA_SD_MEX:CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22340.ts
+#EXTINF:-1,LA_SD_MEX:CINECANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22339.ts
+#EXTINF:-1,LA_SD_MEX:CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22219.ts
+#EXTINF:-1,LA_SD_MEX:CNN ESP_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22338.ts
+#EXTINF:-1,LA_SD_MEX:CNN INT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22337.ts
+#EXTINF:-1,LA_SD_MEX:CNN_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22336.ts
+#EXTINF:-1,LA_SD_MEX:COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22335.ts
+#EXTINF:-1,LA_SD_MEX:COMEDY CENTRAL_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22334.ts
+#EXTINF:-1,LA_SD_MEX:DE PELICULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22333.ts
+#EXTINF:-1,LA_SD_MEX:DE PELICULA_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22332.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22331.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22330.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY H&H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22329.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22328.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22327.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY SCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22326.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY TH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22325.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22324.ts
+#EXTINF:-1,LA_SD_MEX:DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22323.ts
+#EXTINF:-1,LA_SD_MEX:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22322.ts
+#EXTINF:-1,LA_SD_MEX:DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22321.ts
+#EXTINF:-1,LA_SD_MEX:DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22320.ts
+#EXTINF:-1,LA_SD_MEX:DISTRITO COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22319.ts
+#EXTINF:-1,LA_SD_MEX:DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22318.ts
+#EXTINF:-1,LA_SD_MEX:E TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22232.ts
+#EXTINF:-1,LA_SD_MEX:E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22317.ts
+#EXTINF:-1,LA_SD_MEX:ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22316.ts
+#EXTINF:-1,LA_SD_MEX:ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22315.ts
+#EXTINF:-1,LA_SD_MEX:ESPN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22314.ts
+#EXTINF:-1,LA_SD_MEX:ESPN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22313.ts
+#EXTINF:-1,LA_SD_MEX:ESPN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22312.ts
+#EXTINF:-1,LA_SD_MEX:ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22311.ts
+#EXTINF:-1,LA_SD_MEX:Europa Europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22233.ts
+#EXTINF:-1,LA_SD_MEX:FILM & ART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22310.ts
+#EXTINF:-1,LA_SD_MEX:FOOD NETWORK.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22225.ts
+#EXTINF:-1,LA_SD_MEX:FORMULA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22308.ts
+#EXTINF:-1,LA_SD_MEX:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22307.ts
+#EXTINF:-1,LA_SD_MEX:FOX ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22306.ts
+#EXTINF:-1,LA_SD_MEX:FOX CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22305.ts
+#EXTINF:-1,LA_SD_MEX:FOX CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22304.ts
+#EXTINF:-1,LA_SD_MEX:FOX CLASSICS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22303.ts
+#EXTINF:-1,LA_SD_MEX:FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22302.ts
+#EXTINF:-1,LA_SD_MEX:FOX MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22301.ts
+#EXTINF:-1,LA_SD_MEX:FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22300.ts
+#EXTINF:-1,LA_SD_MEX:FOX SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22299.ts
+#EXTINF:-1,LA_SD_MEX:FOX SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22298.ts
+#EXTINF:-1,LA_SD_MEX:FOX SPORT2_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22297.ts
+#EXTINF:-1,LA_SD_MEX:FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22296.ts
+#EXTINF:-1,LA_SD_MEX:FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22295.ts
+#EXTINF:-1,LA_SD_MEX:FOX SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22294.ts
+#EXTINF:-1,LA_SD_MEX:FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22293.ts
+#EXTINF:-1,LA_SD_MEX:FXM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22292.ts
+#EXTINF:-1,LA_SD_MEX:GALA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22229.ts
+#EXTINF:-1,LA_SD_MEX:GALA TV.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22226.ts
+#EXTINF:-1,LA_SD_MEX:GALA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22228.ts
+#EXTINF:-1,LA_SD_MEX:GLITZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22222.ts
+#EXTINF:-1,LA_SD_MEX:GLITZ.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22221.ts
+#EXTINF:-1,LA_SD_MEX:GOLDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22291.ts
+#EXTINF:-1,LA_SD_MEX:GOLDEN EDGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22290.ts
+#EXTINF:-1,LA_SD_MEX:GOLDEN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22289.ts
+#EXTINF:-1,LA_SD_MEX:GOLF CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22288.ts
+#EXTINF:-1,LA_SD_MEX:HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22287.ts
+#EXTINF:-1,LA_SD_MEX:HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22286.ts
+#EXTINF:-1,LA_SD_MEX:HOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22285.ts
+#EXTINF:-1,LA_SD_MEX:i CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22284.ts
+#EXTINF:-1,LA_SD_MEX:I SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22283.ts
+#EXTINF:-1,LA_SD_MEX:IMAGEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22282.ts
+#EXTINF:-1,LA_SD_MEX:INGENIO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22281.ts
+#EXTINF:-1,LA_SD_MEX:ITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22280.ts
+#EXTINF:-1,LA_SD_MEX:iTV_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22227.ts
+#EXTINF:-1,LA_SD_MEX:LA BUTACA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22279.ts
+#EXTINF:-1,LA_SD_MEX:LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22278.ts
+#EXTINF:-1,LA_SD_MEX:LAS ESTRELLAS_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22277.ts
+#EXTINF:-1,LA_SD_MEX:LIFE TIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22309.ts
+#EXTINF:-1,LA_SD_MEX:MAS CHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22276.ts
+#EXTINF:-1,LA_SD_MEX:MEQUIQUENSE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22220.ts
+#EXTINF:-1,LA_SD_MEX:Milenio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22211.ts
+#EXTINF:-1,LA_SD_MEX:MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22275.ts
+#EXTINF:-1,LA_SD_MEX:MULTIMEDIOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22274.ts
+#EXTINF:-1,LA_SD_MEX:MULTIMEDIOS P.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22273.ts
+#EXTINF:-1,LA_SD_MEX:NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22272.ts
+#EXTINF:-1,LA_SD_MEX:NAT GEO KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22271.ts
+#EXTINF:-1,LA_SD_MEX:NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22270.ts
+#EXTINF:-1,LA_SD_MEX:NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22269.ts
+#EXTINF:-1,LA_SD_MEX:NICK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22268.ts
+#EXTINF:-1,LA_SD_MEX:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22267.ts
+#EXTINF:-1,LA_SD_MEX:NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22266.ts
+#EXTINF:-1,LA_SD_MEX:NTN24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22265.ts
+#EXTINF:-1,LA_SD_MEX:PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22264.ts
+#EXTINF:-1,LA_SD_MEX:PX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22263.ts
+#EXTINF:-1,LA_SD_MEX:PX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22262.ts
+#EXTINF:-1,LA_SD_MEX:Q TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22261.ts
+#EXTINF:-1,LA_SD_MEX:RMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22260.ts
+#EXTINF:-1,LA_SD_MEX:RMS_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22259.ts
+#EXTINF:-1,LA_SD_MEX:RT RUSSIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22258.ts
+#EXTINF:-1,LA_SD_MEX:SHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22257.ts
+#EXTINF:-1,LA_SD_MEX:SONY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22256.ts
+#EXTINF:-1,LA_SD_MEX:SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22255.ts
+#EXTINF:-1,LA_SD_MEX:SPACE__
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22254.ts
+#EXTINF:-1,LA_SD_MEX:STAR TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22253.ts
+#EXTINF:-1,LA_SD_MEX:STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22252.ts
+#EXTINF:-1,LA_SD_MEX:SUNDNCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22251.ts
+#EXTINF:-1,LA_SD_MEX:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22250.ts
+#EXTINF:-1,LA_SD_MEX:TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22249.ts
+#EXTINF:-1,LA_SD_MEX:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22248.ts
+#EXTINF:-1,LA_SD_MEX:TELEHIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22247.ts
+#EXTINF:-1,LA_SD_MEX:TELENOVELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22246.ts
+#EXTINF:-1,LA_SD_MEX:TELERITMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22245.ts
+#EXTINF:-1,LA_SD_MEX:TELEVISA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22244.ts
+#EXTINF:-1,LA_SD_MEX:TELEVISA_
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22243.ts
+#EXTINF:-1,LA_SD_MEX:TIIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22242.ts
+#EXTINF:-1,LA_SD_MEX:TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22241.ts
+#EXTINF:-1,LA_SD_MEX:TLR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22240.ts
+#EXTINF:-1,LA_SD_MEX:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22239.ts
+#EXTINF:-1,LA_SD_MEX:TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22238.ts
+#EXTINF:-1,LA_SD_MEX:TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22237.ts
+#EXTINF:-1,LA_SD_MEX:TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22210.ts
+#EXTINF:-1,LA_SD_MEX:TV MAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22209.ts
+#EXTINF:-1,LA_SD_MEX:TV UNAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22236.ts
+#EXTINF:-1,LA_SD_MEX:TV5 FRANCIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22208.ts
+#EXTINF:-1,LA_SD_MEX:TVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22207.ts
+#EXTINF:-1,LA_SD_MEX:TVCD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22206.ts
+#EXTINF:-1,LA_SD_MEX:TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22205.ts
+#EXTINF:-1,LA_SD_MEX:UNICABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22204.ts
+#EXTINF:-1,LA_SD_MEX:UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22203.ts
+#EXTINF:-1,LA_SD_MEX:VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22202.ts
+#EXTINF:-1,LA_SD_MEX:VH1 P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22201.ts
+#EXTINF:-1,LA_SD_MEX:WARNER CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22200.ts
+#EXTINF:-1,LA_SD_MEX:WOBI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22199.ts
+#EXTINF:-1,LA_SD:CANAL8 MEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23083.ts
+#EXTINF:-1,LA_SD:CANALl 5 MEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23099.ts
+#EXTINF:-1,LA_SD:Las Estrellas MEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23287.ts
+#EXTINF:-1,LA_SD:MEX_Azteca 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23019.ts
+#EXTINF:-1,LA_SD:MEX_AZTECA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23166.ts
+#EXTINF:-1,LA_SD:MEX_AZTECA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23018.ts
+#EXTINF:-1,LA_SD:MEX_Azteca Corazon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23041.ts
+#EXTINF:-1,LA_SD:MEX_AZTECA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23103.ts
+#EXTINF:-1,LA_SD:MEX_IMAGEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22988.ts
+#EXTINF:-1,Mex77| Azteca 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22897.ts
+#EXTINF:-1,Mex77| Azteca 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22896.ts
+#EXTINF:-1,Mex77| Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22895.ts
+#EXTINF:-1,Mex77| Canal 11 Once
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22894.ts
+#EXTINF:-1,Mex77| Canal 2 Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22893.ts
+#EXTINF:-1,Mex77| Canal 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22892.ts
+#EXTINF:-1,Mex77| Canal Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22891.ts
+#EXTINF:-1,Mex77| Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22890.ts
+#EXTINF:-1,Mex77| Cinecanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22889.ts
+#EXTINF:-1,Mex77| Cinelatino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22888.ts
+#EXTINF:-1,Mex77| Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22887.ts
+#EXTINF:-1,Mex77| CNN Inter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22886.ts
+#EXTINF:-1,Mex77| Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22885.ts
+#EXTINF:-1,Mex77| Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22884.ts
+#EXTINF:-1,Mex77| Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22883.ts
+#EXTINF:-1,Mex77| Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22882.ts
+#EXTINF:-1,Mex77| ESPN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22881.ts
+#EXTINF:-1,Mex77| ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22880.ts
+#EXTINF:-1,Mex77| ESPN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22879.ts
+#EXTINF:-1,Mex77| Filmzone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22878.ts
+#EXTINF:-1,Mex77| Fox Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22877.ts
+#EXTINF:-1,Mex77| Fox Sports 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22876.ts
+#EXTINF:-1,Mex77| Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22875.ts
+#EXTINF:-1,Mex77| Fox Sports 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22874.ts
+#EXTINF:-1,Mex77| Foxlife
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22873.ts
+#EXTINF:-1,Mex77| FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22872.ts
+#EXTINF:-1,Mex77| HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22871.ts
+#EXTINF:-1,Mex77| HBO2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22870.ts
+#EXTINF:-1,Mex77| History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22869.ts
+#EXTINF:-1,Mex77| Home And Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22868.ts
+#EXTINF:-1,Mex77| Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22867.ts
+#EXTINF:-1,Mex77| Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22866.ts
+#EXTINF:-1,Mex77| MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22865.ts
+#EXTINF:-1,Mex77| NatGeo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22864.ts
+#EXTINF:-1,Mex77| Natgeo Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22863.ts
+#EXTINF:-1,Mex77| Nick 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22862.ts
+#EXTINF:-1,Mex77| Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22861.ts
+#EXTINF:-1,Mex77| Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22860.ts
+#EXTINF:-1,Mex77| Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22859.ts
+#EXTINF:-1,Mex77| Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22858.ts
+#EXTINF:-1,Mex77| Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22857.ts
+#EXTINF:-1,Mex77| TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22856.ts
+#EXTINF:-1,Mex77| TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22855.ts
+#EXTINF:-1,Mex77| Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22854.ts
+#EXTINF:-1,LA_SD:PE_AMERICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23203.ts
+#EXTINF:-1,LA_SD:PE_ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23202.ts
+#EXTINF:-1,LA_SD:PE_CANAL N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23201.ts
+#EXTINF:-1,LA_SD:PE_CMD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23049.ts
+#EXTINF:-1,LA_SD:PE_LATINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23200.ts
+#EXTINF:-1,LA_SD:PE_PANAMERICANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23199.ts
+#EXTINF:-1,LA_SD:PE_PERU MAGICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23198.ts
+#EXTINF:-1,LA_SD:PE_PLUS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23197.ts
+#EXTINF:-1,LA_SD:PE_TNP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23196.ts
+#EXTINF:-1,LA_FHD:ECUAVISA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22665.ts
+#EXTINF:-1,LA_FHD:RTS ECUADOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22664.ts
+#EXTINF:-1,LA_FHD:TC ECUADOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22674.ts
+#EXTINF:-1,LA_SD:CANAL UNO ECUADOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23022.ts
+#EXTINF:-1,LA_SD:EC_ECUADOR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23215.ts
+#EXTINF:-1,LA_SD:EC_ECUAVISA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23214.ts
+#EXTINF:-1,LA_SD:EC_ETC TV ECUADOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23051.ts
+#EXTINF:-1,LA_SD:SUR_Canal Uno TV Ecua
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22976.ts
+#EXTINF:-1,LA_SD:SUR_Ecuador TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22957.ts
+#EXTINF:-1,LA_SD:SUR_Ecuavisa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22956.ts
+#EXTINF:-1,LA_FHD:CANAL 13 Chile HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22727.ts
+#EXTINF:-1,LA_FHD:CNN ESPANOL CHILE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22802.ts
+#EXTINF:-1,LA_FHD:FOX CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22566.ts
+#EXTINF:-1,LA_FHD:FX CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22564.ts
+#EXTINF:-1,LA_FHD:FX Movies CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22563.ts
+#EXTINF:-1,LA_FHD:MEGA CHILE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22818.ts
+#EXTINF:-1,LA_FHD:NAT GEO CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22562.ts
+#EXTINF:-1,LA_FHD:TVN HD CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22814.ts
+#EXTINF:-1,LA_SD:13_C CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23071.ts
+#EXTINF:-1,LA_SD:CDO PREMIUM CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23152.ts
+#EXTINF:-1,LA_SD:Chile_TVN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23045.ts
+#EXTINF:-1,LA_SD:CHV CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23058.ts
+#EXTINF:-1,LA_SD:CNN Espanol_Chile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23097.ts
+#EXTINF:-1,LA_SD:FOX SPORTS CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23076.ts
+#EXTINF:-1,LA_SD:HBO CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23075.ts
+#EXTINF:-1,LA_SD:REC TV CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23072.ts
+#EXTINF:-1,LA_SD:SUR_CNN Chile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/22964.ts
+#EXTINF:-1,LA_SD:TV CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23172.ts
+#EXTINF:-1,LA_SD:UCV CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/23057.ts
+#EXTINF:-1,---------------------- BRASIL 70W ------------------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/30284.ts
+#EXTINF:-1,BR Band
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35191.ts
+#EXTINF:-1,BR Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35193.ts
+#EXTINF:-1,BR Discovery Home and Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35189.ts
+#EXTINF:-1,BR Discovery.Civilization
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35190.ts
+#EXTINF:-1,BR Discovery.Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35188.ts
+#EXTINF:-1,BR Discovery.Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35187.ts
+#EXTINF:-1,BR Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35186.ts
+#EXTINF:-1,BR Disney .Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35185.ts
+#EXTINF:-1,BR Disney .XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35184.ts
+#EXTINF:-1,BR Food .Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35183.ts
+#EXTINF:-1,BR Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35182.ts
+#EXTINF:-1,BR Fox Premium Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35181.ts
+#EXTINF:-1,BR Fx Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35194.ts
+#EXTINF:-1,BR FX Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35180.ts
+#EXTINF:-1,BR HBO Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35179.ts
+#EXTINF:-1,BR HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35178.ts
+#EXTINF:-1,BR History.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35177.ts
+#EXTINF:-1,BR National .Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35176.ts
+#EXTINF:-1,BR Nick .Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35175.ts
+#EXTINF:-1,BR Novo Tempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35174.ts
+#EXTINF:-1,BR Prime Box Brazil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35173.ts
+#EXTINF:-1,BR Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35172.ts
+#EXTINF:-1,BR Studio_Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35171.ts
+#EXTINF:-1,BR Telecine Pipoca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35170.ts
+#EXTINF:-1,BR Telecine Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35169.ts
+#EXTINF:-1,BR Telecine Touch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35168.ts
+#EXTINF:-1,BR TV Globo Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35167.ts
+#EXTINF:-1,BR Universal_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35166.ts
+#EXTINF:-1,BR Warner
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/jf/iptv/35165.ts
