@@ -36,6 +36,9 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/603/ind
 #EXTINF:-1 group-title="Entertainment TV channels" tvg-logo="https://onlybest.tv/images/logo/cuatro-hd.jpg",Cuatro HD
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/616/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/COSMO.png",Cosmo
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/570/index.m3u8
+
 #EXTINF:-1 group-title="Erotica: 18+" tvg-logo="https://onlybest.tv/images/logo/Dorcel-TV-HD.jpg",Dorcel TV HD
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/852/index.m3u8
 
@@ -89,6 +92,12 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/575/ind
 #EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/movistargolf.jpg",Movistar+ Golf HD
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/569/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png",Movistar MotoGP
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/613/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png",Movistar F1
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/612/index.m3u8
+
 #EXTINF:-1 group-title="Teleshopping" tvg-logo="https://onlybest.tv/images/logo/nova.jpg",Nova
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/602/index.m3u8
 
@@ -131,3 +140,9 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/500/ind
 
 #EXTINF:-1 group-title="Erotica: 18+" tvg-logo="https://onlybest.tv/images/logo/zest-tv.jpg",Zest TV
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/855/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PLAYDC.png",Disney Junior
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/604/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/RTESP.png", Russia Today
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/211/index.m3u8
