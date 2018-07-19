@@ -31,8 +31,7 @@ http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/616/inde
 #EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/47/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/FightBox.jpg",FightBox HD
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/900/index.m3u8
+
 
 #EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/fox-espana.jpg",Fox España
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/608/index.m3u8
@@ -76,23 +75,7 @@ http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/569/inde
 #EXTINF:-1 group-title="Teleshopping" tvg-logo="https://onlybest.tv/images/logo/nova.jpg",Nova
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/602/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/rai-sport.jpg",Rai Sport
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/528/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-hd-2-deutschland.jpg",Sky Sport 2 HD Deutschland
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/733/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria.jpg",Sky Sport Austria
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/746/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria-hd.jpg",Sky Sport Austria HD
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/475/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-bundesliga-1.jpg",Sky Sport Bundesliga 1
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/725/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sport-1-deutschland.jpg",Sport 1 Deutschland
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/774/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment TV channels" tvg-logo="https://onlybest.tv/images/logo/telecinco-hd.jpg",Telecinco HD
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/617/index.m3u8
