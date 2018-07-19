@@ -1,68 +1,101 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/A3.png",Antena 3
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/615/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/C4.png",Cuatro
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/616/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/T5.png",Telecinco
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/617/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SEXTA.png",LaSexta
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/618/index.m3u8
-#EXTINF:-1 tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/NOVA",Nova
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/602/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV3.png",#0
+#EXTINF:-1 group-title="Public" tvg-logo="https://onlybest.tv/images/logo/0-spain.jpg",0 Spain
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/611/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MV2.png", Movistar Series Xtra
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/568/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXGE.png",Fox
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/608/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/FOXCR.png",Fox Life
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/601/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AMC.png",AMC
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/amc-espana-hd.jpg",AMC España HD
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/614/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/AXN.png",AXN
+
+#EXTINF:-1 group-title="Entertainment TV channels" tvg-logo="https://onlybest.tv/images/logo/antena-3-hd.jpg",Antena 3 HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/615/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/axn-espana.jpg",AXN España
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/610/index.m3u8
-EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/SET.png",AXN White
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/axn-espana-hd.jpg",AXN España HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/579/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/axn-white-espana.jpg",AXN White España
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/609/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png",Comedy Central
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/572/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png",Comedy Central
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/573/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/COSMO.png",Cosmo
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/570/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/HOLLYW.png",Hollywood
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/577/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOME.png", Movistar Comedia
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/606/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPACCI.png", Movistar Acción
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/576/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOLE.png", Movistar DCine
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/607/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/PLAYDC.png",Disney Junior
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/604/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/CPFUT.png", Movistar Fútbol
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/575/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/BELIGA.png",beIN LaLiga
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/bein-laliga-hd.jpg",beIN LaLiga HD
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/574/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guianeo/LIGBAR.png",La Liga TV
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/581/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png",Movistar MotoGP
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/613/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png",Movistar F1
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/612/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/GOLF%2B.png",Movistar Golf
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/569/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha/IBERAL.png",Iberalia
+
+#EXTINF:-1 group-title="Public" tvg-logo="https://onlybest.tv/images/logo/canal-iberalia.jpg",Canal Iberalia
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/603/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TLESUR.png",Telesur
+
+#EXTINF:-1 group-title="Entertainment TV channels" tvg-logo="https://onlybest.tv/images/logo/cuatro-hd.jpg",Cuatro HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/616/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/47/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/FightBox.jpg",FightBox HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/900/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/fox-espana.jpg",Fox España
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/608/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/fox-life-espana.jpg",Fox Life España
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/601/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/fox-life-hd-espana.jpg",Fox Life HD España
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/567/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/hollywood-hd.jpg",Hollywood HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/577/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV channels" tvg-logo="https://onlybest.tv/images/logo/la-sexta-hd.jpg",La Sexta HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/618/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/laliga.jpg",LaLiga TV Bar HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/581/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/m-accion.jpg",M. Acción
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/605/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/m-accion-hd.jpg",M. Acción HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/576/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/movistar-comedia.jpg",M. Comedia
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/606/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/movistar-comedia-hd.jpg",M. Comedia HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/580/index.m3u8
+
+#EXTINF:-1 group-title="Films" tvg-logo="https://onlybest.tv/images/logo/m.-series-xtra-hd.jpg",M. Series Xtra HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/568/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/m.-futbol-hd.jpg",Movistar+ Futbol
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/575/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/movistargolf.jpg",Movistar+ Golf HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/569/index.m3u8
+
+#EXTINF:-1 group-title="Teleshopping" tvg-logo="https://onlybest.tv/images/logo/nova.jpg",Nova
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/602/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/rai-sport.jpg",Rai Sport
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/528/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-hd-2-deutschland.jpg",Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/733/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria.jpg",Sky Sport Austria
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/746/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria-hd.jpg",Sky Sport Austria HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/475/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-bundesliga-1.jpg",Sky Sport Bundesliga 1
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/725/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sport-1-deutschland.jpg",Sport 1 Deutschland
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/774/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV channels" tvg-logo="https://onlybest.tv/images/logo/telecinco-hd.jpg",Telecinco HD
+http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/617/index.m3u8
+
+#EXTINF:-1 group-title="Informational" tvg-logo="https://onlybest.tv/images/logo/telesur-hd.jpg",Telesur HD
 http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/803/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/RTESP.png", Russia Today
-http://playlist.onlybest.tv/en/channel/608e92d779aaa2c03deb75be41dc0ac1/211/index.m3u8
-
-
-
-
-
