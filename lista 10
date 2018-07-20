@@ -1,186 +1,286 @@
 #EXTM3U
- 
-#EXTINF:0,LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2822.ts
-#EXTINF:0,LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2823.ts
-#EXTINF:0,ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2824.ts
-#EXTINF:0,CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2825.ts
-#EXTINF:0,Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/8.ts
-#EXTINF:0,LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/113.ts
-#EXTINF:0,#0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2835.ts
-#EXTINF:0,Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3279.ts
-#EXTINF:0,Bemad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3278.ts
-#EXTINF:0,M. SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2836.ts
-#EXTINF:0,COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2844.ts
-#EXTINF:0,SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2837.ts
-#EXTINF:0,FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2838.ts
-#EXTINF:0,AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2841.ts
-#EXTINF:0,AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2950.ts
-#EXTINF:0,SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2876.ts
-#EXTINF:0,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2833.ts
-#EXTINF:0,CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2842.ts
-#EXTINF:0,AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/30.ts
-#EXTINF:0,COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2843.ts
-#EXTINF:0,FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2839.ts
-#EXTINF:0,FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2845.ts
-#EXTINF:0,Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/454.ts
-#EXTINF:0,Garage tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3079.ts
-#EXTINF:0,Canal 24 horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3078.ts
-#EXTINF:0,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3301.ts
-#EXTINF:0,MTV Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/1734.ts
-#EXTINF:0,ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2847.ts
-#EXTINF:0,M. ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2826.ts
-#EXTINF:0,M. ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2828.ts
-#EXTINF:0,M. COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2829.ts
-#EXTINF:0,M. DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2830.ts
-#EXTINF:0,TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2832.ts
-#EXTINF:0,HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2831.ts
-#EXTINF:0,PARAMOUNT CH.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2834.ts
-#EXTINF:0,NAT. GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2858.ts
-#EXTINF:0,NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2859.ts
-#EXTINF:0,HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2862.ts
-#EXTINF:0,DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3291.ts
-#EXTINF:0,DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2860.ts
-#EXTINF:0,Crimen e Investigacion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2874.ts
-#EXTINF:0,A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2864.ts
-#EXTINF:0,Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/1402.ts
-#EXTINF:0,DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2846.ts
-#EXTINF:0,MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/114.ts
-#EXTINF:0,Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2873.ts
-#EXTINF:0,BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2872.ts
-#EXTINF:0,DISNEY Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2866.ts
-#EXTINF:0,DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2867.ts
-#EXTINF:0,NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3300.ts
-#EXTINF:0,CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3296.ts
-#EXTINF:0,M.Partidazo(SOLO PARTIDOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/49.ts
-#EXTINF:0,Bein Liga Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3077.ts
-#EXTINF:0,La Liga TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2875.ts
-#EXTINF:0,beIN LaLIga 1 (Solo Partidos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/53.ts
-#EXTINF:0,beIN LaLIga 2 (Solo Partidos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/54.ts
-#EXTINF:0,beIN LaLIga 3 (Solo Partidos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/55.ts
-#EXTINF:0,BEIN Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/50.ts
-#EXTINF:0,BEIN MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/56.ts
-#EXTINF:0,BEIN MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/57.ts
-#EXTINF:0,BEIN MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/58.ts
-#EXTINF:0,BEIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/59.ts
-#EXTINF:0,GOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/39.ts
-#EXTINF:0,M. FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2851.ts
-#EXTINF:0,M. MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2855.ts
-#EXTINF:0,M. FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2854.ts
-#EXTINF:0,M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2857.ts
-#EXTINF:0,TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2848.ts
-#EXTINF:0,CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2865.ts
-#EXTINF:0,EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2856.ts
-#EXTINF:0,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3071.ts
-#EXTINF:0,M. DEP. 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2849.ts
-#EXTINF:0,M. DEP. 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2850.ts
-#EXTINF:0,BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2853.ts
-#EXTINF:0,Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/100.ts
-#EXTINF:0,Sevilla FC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2028.ts
-#EXTINF:0,CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3294.ts
-#EXTINF:0,VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3299.ts
-#EXTINF:0,NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3298.ts
-#EXTINF:0,MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3288.ts
-#EXTINF:0,ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3292.ts
-#EXTINF:0,odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3280.ts
-#EXTINF:0,rcn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2376.ts
-#EXTINF:0,TV3*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/2042.ts
-#EXTINF:0,3/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/1949.ts
-#EXTINF:0,Vaughan Radio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3253.ts
-#EXTINF:0,rock fm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3242.ts
-#EXTINF:0,RMF FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3276.ts
-#EXTINF:0,ondacero
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3263.ts
-#EXTINF:0,m80
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3243.ts
-#EXTINF:0,i love fm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3251.ts
-#EXTINF:0,cadena ser
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d4life.dtdns.net:8000/live/melo/melo/3259.ts
+
+#EXTINF:-1,===== Spain =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1197.ts
+#EXTINF:-1,ES: LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3364.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/622.ts
+#EXTINF:-1,ES: ANTENA3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3383.ts
+#EXTINF:-1,ES: CUATRO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3391.ts
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3384.ts
+#EXTINF:-1,ES: #O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2401.ts
+#EXTINF:-1,ES: TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3374.ts
+#EXTINF:-1,ES: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6491.ts
+#EXTINF:-1,ES: Bein Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2409.ts
+#EXTINF:-1,ES: La Liga BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/7180.ts
+#EXTINF:-1,ES: beIN LaLIga 1 (event only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/7181.ts
+#EXTINF:-1,ES: beIN LaLIga 2 (event only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/7182.ts
+#EXTINF:-1,ES: beIN LaLIga 3 (event only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/7183.ts
+#EXTINF:-1,ES: M. Partidazo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8200.ts
+#EXTINF:-1,ES: M. Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2408.ts
+#EXTINF:-1,ES: M. Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2407.ts
+#EXTINF:-1,ES: M. DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3372.ts
+#EXTINF:-1,ES: M.Golf  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3373.ts
+#EXTINF:-1,ES: TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6816.ts
+#EXTINF:-1,ES: MoviStar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2570.ts
+#EXTINF:-1,ES: Movistar GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2836.ts
+#EXTINF:-1,ES: M. Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2405.ts
+#EXTINF:-1,ES: GOL T HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12640.ts
+#EXTINF:-1,ES: M.  XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3388.ts
+#EXTINF:-1,ES: M. Dcine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2404.ts
+#EXTINF:-1,ES: M. Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2403.ts
+#EXTINF:-1,ES: M. Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2402.ts
+#EXTINF:-1,ES: M.  SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2406.ts
+#EXTINF:-1,ES: M. SERIES Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3365.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3367.ts
+#EXTINF:-1,ES: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6815.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3369.ts
+#EXTINF:-1,ES: COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3387.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3386.ts
+#EXTINF:-1,ES: CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3368.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3385.ts
+#EXTINF:-1,ES: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3366.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3371.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6814.ts
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/6817.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3370.ts
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3390.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3389.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3375.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3376.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3382.ts
+#EXTINF:-1,ES: CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8206.ts
+#EXTINF:-1,ES: EUROSPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8204.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8208.ts
+#EXTINF:-1,ES: MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8205.ts
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/635.ts
+#EXTINF:-1,ES: 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2630.ts
+#EXTINF:-1,ES: 3/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1441.ts
+#EXTINF:-1,ES: 8TV Madrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1090.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2643.ts
+#EXTINF:-1,ES: A3 Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12630.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2638.ts
+#EXTINF:-1,ES: Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1440.ts
+#EXTINF:-1,ES: Antena3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1097.ts
+#EXTINF:-1,ES: Aragon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8211.ts
+#EXTINF:-1,ES: Axn Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/641.ts
+#EXTINF:-1,ES: Axn White Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/640.ts
+#EXTINF:-1,ES: Barca tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/639.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2211.ts
+#EXTINF:-1,ES: C&I
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8209.ts
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1096.ts
+#EXTINF:-1,ES: Canal  Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/638.ts
+#EXTINF:-1,ES: Canal  Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/637.ts
+#EXTINF:-1,ES: Canal  Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/636.ts
+#EXTINF:-1,ES: Canal Coccina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1103.ts
+#EXTINF:-1,ES: Canal Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2632.ts
+#EXTINF:-1,ES: Canal Deportes2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1085.ts
+#EXTINF:-1,ES: Canal Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1094.ts
+#EXTINF:-1,ES: XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8210.ts
+#EXTINF:-1,ES: Canal Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/656.ts
+#EXTINF:-1,ES: Canal Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1086.ts
+#EXTINF:-1,ES: Canal Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1093.ts
+#EXTINF:-1,ES: Canal Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1095.ts
+#EXTINF:-1,ES: Canal Torros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1092.ts
+#EXTINF:-1,ES: Canal Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1091.ts
+#EXTINF:-1,ES: Caza y pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1102.ts
+#EXTINF:-1,ES: Clan Tve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1100.ts
+#EXTINF:-1,ES: Classica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2637.ts
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2633.ts
+#EXTINF:-1,ES: Dcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/634.ts
+#EXTINF:-1,ES: Disney Channel Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/633.ts
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12631.ts
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12632.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2218.ts
+#EXTINF:-1,ES: DKiss
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12633.ts
+#EXTINF:-1,ES: Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2641.ts
+#EXTINF:-1,ES: DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12634.ts
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1099.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1098.ts
+#EXTINF:-1,ES: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/631.ts
+#EXTINF:-1,ES: GOL T
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1084.ts
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/630.ts
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/629.ts
+#EXTINF:-1,ES: Iberlia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2629.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/623.ts
+#EXTINF:-1,ES: Levante TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2640.ts
+#EXTINF:-1,ES: Mega HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2217.ts
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1087.ts
+#EXTINF:-1,ES: Movistar GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1088.ts
+#EXTINF:-1,ES: MTV Spana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2213.ts
+#EXTINF:-1,ES: Multideporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12629.ts
+#EXTINF:-1,ES: Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1101.ts
+#EXTINF:-1,ES: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/626.ts
+#EXTINF:-1,ES: National Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/625.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2216.ts
+#EXTINF:-1,ES: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12635.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8207.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2214.ts
+#EXTINF:-1,ES: Odisea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2631.ts
+#EXTINF:-1,ES: Onda Azul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12636.ts
+#EXTINF:-1,ES: Ondaluz Sierra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12637.ts
+#EXTINF:-1,ES: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2642.ts
+#EXTINF:-1,ES: RealMadrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/632.ts
+#EXTINF:-1,ES: La Liga 123 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12638.ts
+#EXTINF:-1,ES: M. Dcine Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/17207.ts
+#EXTINF:-1,ES: RTVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/17206.ts
+#EXTINF:-1,ES: Sevilla FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12628.ts
+#EXTINF:-1,ES: Sundance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12641.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2639.ts
+#EXTINF:-1,ES: Telecinco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/624.ts
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1089.ts
+#EXTINF:-1,ES: Ten
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12639.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2634.ts
+#EXTINF:-1,ES: Orbe 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2215.ts
+#EXTINF:-1,ES: TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1429.ts
+#EXTINF:-1,ES: TV3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2210.ts
+#EXTINF:-1,ES: Alquiler 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12642.ts
+#EXTINF:-1,ES: Alquiler 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12644.ts
+#EXTINF:-1,ES: Alquiler 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12645.ts
+#EXTINF:-1,ES: Alquiler 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12646.ts
+#EXTINF:-1,ES: Alquiler 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12647.ts
+#EXTINF:-1,ES: Alquiler 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12648.ts
+#EXTINF:-1,ES: Alquiler 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12649.ts
+#EXTINF:-1,ES: Alquiler 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12650.ts
+#EXTINF:-1,ES: Alquiler 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12651.ts
+#EXTINF:-1,ES: Alquiler 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12643.ts
