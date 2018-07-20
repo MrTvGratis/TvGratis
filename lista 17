@@ -1,222 +1,222 @@
 #EXTM3U
 
 #EXTINF:-1,------------------------- ESPANA MVSTR+ -------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3710.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3710.m3u8
 #EXTINF:-1,ES:_Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29089.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29089.m3u8
 #EXTINF:-1,ES:_AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29033.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29033.m3u8
 #EXTINF:-1,ES:_AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29090.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29090.m3u8
 #EXTINF:-1,ES:_Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29032.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29032.m3u8
 #EXTINF:-1,ES:_Bein LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29031.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29031.m3u8
 #EXTINF:-1,ES:_Bein Sportpana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29030.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29030.m3u8
 #EXTINF:-1,ES:_bein SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29091.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29091.m3u8
 #EXTINF:-1,ES:_bein SPORTS LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29037.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29037.m3u8
 #EXTINF:-1,ES:_BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29029.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29029.m3u8
 #EXTINF:-1,ES:_Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29092.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29092.m3u8
 #EXTINF:-1,ES:_Canal  DeportSP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29028.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29028.m3u8
 #EXTINF:-1,ES:_Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29027.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29027.m3u8
 #EXTINF:-1,ES:_Canal DeCasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29026.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29026.m3u8
 #EXTINF:-1,ES:_Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29052.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29052.m3u8
 #EXTINF:-1,ES:_Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29025.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29025.m3u8
 #EXTINF:-1,ES:_Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29093.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29093.m3u8
 #EXTINF:-1,ES:_Crimen y Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29069.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29069.m3u8
 #EXTINF:-1,ES:_Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29023.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29023.m3u8
 #EXTINF:-1,ES:_Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29053.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29053.m3u8
 #EXTINF:-1,ES:_Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29022.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29022.m3u8
 #EXTINF:-1,ES:_Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29021.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29021.m3u8
 #EXTINF:-1,ES:_Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29020.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29020.m3u8
 #EXTINF:-1,ES:_EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29087.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29087.m3u8
 #EXTINF:-1,ES:_FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29094.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29094.m3u8
 #EXTINF:-1,ES:_FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29018.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29018.m3u8
 #EXTINF:-1,ES:_FOX Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29095.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29095.m3u8
 #EXTINF:-1,ES:_GOL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29034.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29034.m3u8
 #EXTINF:-1,ES:_Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29017.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29017.m3u8
 #EXTINF:-1,ES:_Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29096.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29096.m3u8
 #EXTINF:-1,ES:_LA LIGA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29035.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29035.m3u8
 #EXTINF:-1,ES:_M DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29040.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29040.m3u8
 #EXTINF:-1,ES:_M DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29041.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29041.m3u8
 #EXTINF:-1,ES:_M FORMULA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29044.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29044.m3u8
 #EXTINF:-1,ES:_M FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29038.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29038.m3u8
 #EXTINF:-1,ES:_M GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29042.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29042.m3u8
 #EXTINF:-1,ES:_M MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29043.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29043.m3u8
 #EXTINF:-1,ES:_Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29067.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29067.m3u8
 #EXTINF:-1,ES:_Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29054.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29054.m3u8
 #EXTINF:-1,ES:_Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29055.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29055.m3u8
 #EXTINF:-1,ES:_Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29056.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29056.m3u8
 #EXTINF:-1,ES:_Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29059.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29059.m3u8
 #EXTINF:-1,ES:_Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29075.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29075.m3u8
 #EXTINF:-1,ES:_Movistar MotoGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29070.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29070.m3u8
 #EXTINF:-1,ES:_Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29062.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29062.m3u8
 #EXTINF:-1,ES:_Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29058.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29058.m3u8
 #EXTINF:-1,ES:_Movistar SeriSP Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29011.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29011.m3u8
 #EXTINF:-1,ES:_Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29057.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29057.m3u8
 #EXTINF:-1,ES:_Movistartrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29013.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29013.m3u8
 #EXTINF:-1,ES:_MTV espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29068.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29068.m3u8
 #EXTINF:-1,ES:_MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29010.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29010.m3u8
 #EXTINF:-1,ES:_Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29009.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29009.m3u8
 #EXTINF:-1,ES:_National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29008.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29008.m3u8
 #EXTINF:-1,ES:_Neox TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29065.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29065.m3u8
 #EXTINF:-1,ES:_Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29007.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29007.m3u8
 #EXTINF:-1,ES:_Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29006.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29006.m3u8
 #EXTINF:-1,ES:_Odisea TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29066.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29066.m3u8
 #EXTINF:-1,ES:_Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29061.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29061.m3u8
 #EXTINF:-1,ES:_REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29098.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29098.m3u8
 #EXTINF:-1,ES:_RTVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29051.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29051.m3u8
 #EXTINF:-1,ES:_SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29004.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29004.m3u8
 #EXTINF:-1,ES:_Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29099.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29099.m3u8
 #EXTINF:-1,ES:_TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29000.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29000.m3u8
 #EXTINF:-1,ES:_Toros Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/28999.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/28999.m3u8
 #EXTINF:-1,ES:_TV3 Catalynia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29047.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29047.m3u8
 #EXTINF:-1,ES:_TVE Clan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29064.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29064.m3u8
 #EXTINF:-1,ES:_TVE LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29045.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29045.m3u8
 #EXTINF:-1,ES:_TVE LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29046.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29046.m3u8
 #EXTINF:-1,ES:_Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29100.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/29100.m3u8
 #EXTINF:-1,ES:_AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30024.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30024.m3u8
 #EXTINF:-1,ES:_Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30027.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30027.m3u8
 #EXTINF:-1,ES:_Real Madrid  tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30023.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30023.m3u8
 #EXTINF:-1,ES:_DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30022.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30022.m3u8
 #EXTINF:-1,ES:_FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30026.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30026.m3u8
 #EXTINF:-1,ES:_GALICIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30021.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30021.m3u8
 #EXTINF:-1,ES:_IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30020.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30020.m3u8
 #EXTINF:-1,ES:_TVE LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30028.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30028.m3u8
 #EXTINF:-1,ES | beIN Max 1 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30230.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30230.m3u8
 #EXTINF:-1,ES | beIN Max 2 HD {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30228.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30228.m3u8
 #EXTINF:-1,ES | beIN Max 2 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30229.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30229.m3u8
 #EXTINF:-1,ES | beIN Max 3 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30227.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30227.m3u8
 #EXTINF:-1,ES | beIN Max 4 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30226.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30226.m3u8
 #EXTINF:-1,ES | beIN Max 5 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30225.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30225.m3u8
 #EXTINF:-1,ES | beIN Max 6 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30224.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30224.m3u8
 #EXTINF:-1,ES | beIN Max 7 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30223.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30223.m3u8
 #EXTINF:-1,ES | beIN Max 8 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30222.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30222.m3u8
 #EXTINF:-1,ES:_ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30283.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30283.m3u8
 #EXTINF:-1,ES:_BEIN LA LIGA TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30292.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30292.m3u8
 #EXTINF:-1,ES:_BEIN LA LIGA TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30293.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30293.m3u8
 #EXTINF:-1,ES:_BEIN LA LIGA TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30294.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30294.m3u8
 #EXTINF:-1,ES:_BEIN MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30295.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30295.m3u8
 #EXTINF:-1,ES:_BEIN MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30296.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30296.m3u8
 #EXTINF:-1,ES:_CANAL ORBE 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30291.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30291.m3u8
 #EXTINF:-1,ES:_CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30286.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30286.m3u8
 #EXTINF:-1,ES:_CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30285.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30285.m3u8
 #EXTINF:-1,ES:_LA LIGA TV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30287.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30287.m3u8
 #EXTINF:-1,ES:_LA1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30280.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30280.m3u8
 #EXTINF:-1,ES:_LA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30281.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30281.m3u8
 #EXTINF:-1,ES:_MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30289.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30289.m3u8
 #EXTINF:-1,ES:_MULTIDEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30297.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30297.m3u8
 #EXTINF:-1,ES:_MULTIDEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30298.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30298.m3u8
 #EXTINF:-1,ES:_MULTIDEPORTES 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30299.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30299.m3u8
 #EXTINF:-1,ES:_MULTIFUTBOLL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30300.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30300.m3u8
 #EXTINF:-1,ES:_MULTIFUTBOLL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30301.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30301.m3u8
 #EXTINF:-1,ES:_MULTIFUTBOLL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30302.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30302.m3u8
 #EXTINF:-1,ES:_NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30288.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30288.m3u8
 #EXTINF:-1,ES:_TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30284.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30284.m3u8
 #EXTINF:-1,ES:_TELEDEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30279.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30279.m3u8
 #EXTINF:-1,ES:_TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30282.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30282.m3u8
 #EXTINF:-1,ES:_VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30290.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/30290.m3u8
