@@ -1,560 +1,391 @@
-
-#EXTM3U
-#EXTINF:-1,*****MOVISTAR*****
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/97795.ts
-#EXTINF:-1,VIP: LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76376.ts
-#EXTINF:-1,VIP: LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76567.ts
-#EXTINF:-1,VIP: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76375.ts
-#EXTINF:-1,VIP: La 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103192.ts
-#EXTINF:-1,VIP: ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76374.ts
-#EXTINF:-1,VIP: ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76564.ts
-#EXTINF:-1,VIP: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76373.ts
-#EXTINF:-1,VIP: CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76562.ts
-#EXTINF:-1,VIP: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76372.ts
-#EXTINF:-1,VIP: TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76560.ts
-#EXTINF:-1,VIP: LA SEXTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76371.ts
-#EXTINF:-1,VIP: LA SEXTA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76558.ts
-#EXTINF:-1,VIP: CLAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76281.ts
-#EXTINF:-1,VIP: CLAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/102990.ts
-#EXTINF:-1,VIP: ANDALUCIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/81894.ts
-#EXTINF:-1,VIP: ANDALUCIA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103886.ts
-#EXTINF:-1,VIP: COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76532.ts
-#EXTINF:-1,VIP: COSMOPOLITAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/80310.ts
-#EXTINF:-1,VIP: COSMOPOLITAN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76531.ts
-#EXTINF:-1,VIP:CRIMEN + INVESTIGACION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76331.ts
-#EXTINF:-1,VIP: DARCK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76264.ts
-#EXTINF:-1,VIP: HISTORIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90247.ts
-#EXTINF:-1,VIP: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76337.ts
-#EXTINF:-1,VIP: DISCOVERY MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76338.ts
-#EXTINF:-1,VIP: DISNEY CHANEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76273.ts
-#EXTINF:-1,VIP: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76490.ts
-#EXTINF:-1,VIP: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76274.ts
-#EXTINF:-1,VIP: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76275.ts
-#EXTINF:-1,VIP: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76365.ts
-#EXTINF:-1,VIP: DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76366.ts
-#EXTINF:-1,VIP: EITB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90259.ts
-#EXTINF:-1,VIP: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76362.ts
-#EXTINF:-1,VIP: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76290.ts
-#EXTINF:-1,VIP: Eurosport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76508.ts
-#EXTINF:-1,VIP: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76289.ts
-#EXTINF:-1,VIP: Eurosport 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90250.ts
-#EXTINF:-1,VIP: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76367.ts
-#EXTINF:-1,VIP: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76348.ts
-#EXTINF:-1,VIP: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76540.ts
-#EXTINF:-1,VIP: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76347.ts
-#EXTINF:-1,VIP: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76539.ts
-#EXTINF:-1,VIP: GALICIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90260.ts
-#EXTINF:-1,VIP: GOL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90265.ts
-#EXTINF:-1,VIP: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76323.ts
-#EXTINF:-1,VIP: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76333.ts
-#EXTINF:-1,VIP: HIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90261.ts
-#EXTINF:-1,VIP: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76340.ts
-#EXTINF:-1,VIP: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76545.ts
-#EXTINF:-1,VIP:IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76330.ts
-#EXTINF:-1,VIP: LA LIGATV BAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76518.ts
-#EXTINF:-1,VIP: LALIGATV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76321.ts
-#EXTINF:-1,VIP: M2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/91491.ts
-#EXTINF:-1,VIP: MEGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/80304.ts
-#EXTINF:-1,VIP: MOVISTAR  ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76358.ts
-#EXTINF:-1,VIP: MOVISTAR  FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76284.ts
-#EXTINF:-1,VIP: Movistar  PARTIDAZO HD  ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76520.ts
-#EXTINF:-1,VIP:MOVISTAR  PARTIDAZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76325.ts
-#EXTINF:-1,VIP: MOVISTAR ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76549.ts
-#EXTINF:-1,VIP: MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76357.ts
-#EXTINF:-1,VIP: MOVISTAR COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76548.ts
-#EXTINF:-1,VIP: MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76356.ts
-#EXTINF:-1,VIP: MOVISTAR DCine Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76355.ts
-#EXTINF:-1,VIP: MOVISTAR DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76286.ts
-#EXTINF:-1,VIP: MOVISTAR DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76285.ts
-#EXTINF:-1,VIP: Movistar Deportes 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76521.ts
-#EXTINF:-1,VIP: Movistar Deportes1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76522.ts
-#EXTINF:-1,VIP:  Movistar Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/92453.ts
-#EXTINF:-1,VIP: MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76359.ts
-#EXTINF:-1,VIP: MOVISTAR ESTRENOS fHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76551.ts
-#EXTINF:-1,VIP: MOVISTAR F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76288.ts
-#EXTINF:-1,VIP: MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76506.ts
-#EXTINF:-1,VIP Movistar Futbol FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76519.ts
-#EXTINF:-1,VIP: MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76283.ts
-#EXTINF:-1,VIP: Movistar Golf FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76507.ts
-#EXTINF:-1,VIP: MOVISTAR MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76287.ts
-#EXTINF:-1,VIP: MOVISTAR MOTOGP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76505.ts
-#EXTINF:-1,VIP: MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76542.ts
-#EXTINF:-1,VIP: MOVISTAR SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76541.ts
-#EXTINF:-1,VIP: MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/80302.ts
-#EXTINF:-1,VIP: MOVISTAR SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76550.ts
-#EXTINF:-1,VIP: MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76360.ts
-#EXTINF:-1,VIP: Movistar XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76544.ts
-#EXTINF:-1,VIP: #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76361.ts
-#EXTINF:-1,VIP: #0 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76547.ts
-#EXTINF:-1,VIP: 8Tv CATALUYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/80319.ts
-#EXTINF:-1,VIP:A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76332.ts
-#EXTINF:-1,VIP: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76341.ts
-#EXTINF:-1,VIP: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76537.ts
-#EXTINF:-1,VIP: ARAGON TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90255.ts
-#EXTINF:-1,VIP: ASTRESSERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/83053.ts
-#EXTINF:-1,VIP: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76343.ts
-#EXTINF:-1,VIP: AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76536.ts
-#EXTINF:-1,VIP: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76342.ts
-#EXTINF:-1,VIP: AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76535.ts
-#EXTINF:-1,VIP: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76276.ts
-#EXTINF:-1,VIP: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76292.ts
-#EXTINF:-1,VIP: BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76324.ts
-#EXTINF:-1,VIP: BEIN SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76311.ts
-#EXTINF:-1,VIP: BEIN SPORT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76514.ts
-#EXTINF:-1,VIP: BEIN LALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76516.ts
-#EXTINF:-1,VIP: Movistar DCine FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76546.ts
-#EXTINF:-1,VIP: BEIN SPORT ESPAÑA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103049.ts
-#EXTINF:-1,VIP: EUROSPORT1  ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103035.ts
-#EXTINF:-1,VIP: Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103032.ts
-#EXTINF:-1,VIP: LIGA TV  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103046.ts
-#EXTINF:-1,VIP: MOVISTAR DEPORTE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103058.ts
-#EXTINF:-1,VIP: MOVISTAR DEPORTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103061.ts
-#EXTINF:-1,VIP: MOVISTAR FUTBOL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103054.ts
-#EXTINF:-1,VIP: MOVISTAR MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103039.ts
-#EXTINF:-1,VIP: RTV Andorra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/94968.ts
-#EXTINF:-1,VIP: Sevilla FCTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/91490.ts
-#EXTINF:-1,VIP: BeMad tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76364.ts
-#EXTINF:-1,VIP: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76277.ts
-#EXTINF:-1,VIP: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76344.ts
-#EXTINF:-1,VIP: CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76483.ts
-#EXTINF:-1,VIP:CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76326.ts
-#EXTINF:-1,VIP: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76327.ts
-#EXTINF:-1,VIP: CANAL EXTREMADURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90258.ts
-#EXTINF:-1,VIP: CANAL SUR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90254.ts
-#EXTINF:-1,VIP: CASTILLA LA MANCHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90256.ts
-#EXTINF:-1,VIP: CAZA  Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/81895.ts
-#EXTINF:-1,VIP: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76345.ts
-#EXTINF:-1,VIP: NatGeo Wild Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76335.ts
-#EXTINF:-1,VIP: NATIONAL  GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76336.ts
-#EXTINF:-1,VIP: National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76503.ts
-#EXTINF:-1,VIP: NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76370.ts
-#EXTINF:-1,VIP: NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76278.ts
-#EXTINF:-1,VIP: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76279.ts
-#EXTINF:-1,VIP: NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76377.ts
-#EXTINF:-1,VIP: Non Stop People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/80294.ts
-#EXTINF:-1,VIP: NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/91488.ts
-#EXTINF:-1,VIP: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76260.ts
-#EXTINF:-1,VIP: ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/80293.ts
-#EXTINF:-1,VIP: ODISSEA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90248.ts
-#EXTINF:-1,VIP: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76280.ts
-#EXTINF:-1,VIP: PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76349.ts
-#EXTINF:-1,VIP: Real Betis Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/91489.ts
-#EXTINF:-1,VIP: REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/80292.ts
-#EXTINF:-1,VIP:  SOMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90253.ts
-#EXTINF:-1,VIP: SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76339.ts
-#EXTINF:-1,VIP: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76350.ts
-#EXTINF:-1,VIP: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76534.ts
-#EXTINF:-1,VIP: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76351.ts
-#EXTINF:-1,VIP: TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76353.ts
-#EXTINF:-1,VIP: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76282.ts
-#EXTINF:-1,VIP: TELEDEPORTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90252.ts
-#EXTINF:-1,VIP: TELEMADADRID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90257.ts
-#EXTINF:-1,VIP: TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76368.ts
-#EXTINF:-1,VIP:  TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76352.ts
-#EXTINF:-1,VIP: TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76486.ts
-#EXTINF:-1,VIP: TOP LATINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90264.ts
-#EXTINF:-1,VIP: TOROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90266.ts
-#EXTINF:-1,VIP:TOROS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76329.ts
-#EXTINF:-1,VIP: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76369.ts
-#EXTINF:-1,VIP: VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76495.ts
-#EXTINF:-1,VIP: Caza y Pesca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76501.ts
-#EXTINF:-1,VIP: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106449.ts
-#EXTINF:-1,VIP: Bein LaLiga 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106510.ts
-#EXTINF:-1,VIP: Bein LaLiga 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106509.ts
-#EXTINF:-1,VIP: Bein LaLiga 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106508.ts
-#EXTINF:-1,VIP: Bein LaLiga 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106507.ts
-#EXTINF:-1,VIP: Bein LaLiga 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106506.ts
-#EXTINF:-1,VIP: Bein LaLiga 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106505.ts
-#EXTINF:-1,VIP: Bein LaLiga 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106504.ts
-#EXTINF:-1,VIP: Bein LaLiga 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106503.ts
-#EXTINF:-1,VIP: Bein LaLiga 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106502.ts
-#EXTINF:-1,VIP: Bein Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106474.ts
-#EXTINF:-1,VIP: Bein Sports MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106501.ts
-#EXTINF:-1,VIP: Bein Sports MAX 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106500.ts
-#EXTINF:-1,VIP: Bein Sports MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106499.ts
-#EXTINF:-1,VIP: Bein Sports MAX 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106498.ts
-#EXTINF:-1,VIP: Bein Sports MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106497.ts
-#EXTINF:-1,VIP: Bein Sports MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106496.ts
-#EXTINF:-1,VIP: Bein Sports MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106495.ts
-#EXTINF:-1,VIP: Bein Sports MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106494.ts
-#EXTINF:-1,VIP: Bein Sports MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106493.ts
-#EXTINF:-1,VIP: Bein Sports MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106492.ts
-#EXTINF:-1,VIP: BEIN MAX 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106539.ts
-#EXTINF:-1,VIP: BEIN MAX LA LIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106581.ts
-#EXTINF:-1,VIP: Bein Sport  Laliga 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106582.ts
-#EXTINF:-1,VIP: Bein Sport  Laliga 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106579.ts
-#EXTINF:-1,VIP: Bein Sport  Laliga 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106580.ts
-#EXTINF:-1,VIP: Bein Sport  Laliga 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106578.ts
-#EXTINF:-1,VIP: Bein Sport  Laliga 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106577.ts
-#EXTINF:-1,VIP: Bein Sport  Laliga 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106576.ts
-#EXTINF:-1,VIP: Bein Sport  Laliga 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106575.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106574.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106565.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106573.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106572.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106571.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106570.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106569.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106568.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106567.ts
-#EXTINF:-1,VIP: BEIN SPORT MAX 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106566.ts
-#EXTINF:-1,VIP: BLACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106588.ts
-#EXTINF:-1,VIP: CANAL SUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106550.ts
-#EXTINF:-1,VIP: CANAL SUR 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106549.ts
-#EXTINF:-1,VIP: CRIMEN Y INVES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106587.ts
-#EXTINF:-1,VIP: DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106554.ts
-#EXTINF:-1,VIP: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106553.ts
-#EXTINF:-1,VIP: HISTORIA  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106534.ts
-#EXTINF:-1,VIP: LA LIGA 123
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106540.ts
-#EXTINF:-1,VIP: LALIGA TV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106584.ts
-#EXTINF:-1,VIP: LALIGA TV BAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106538.ts
-#EXTINF:-1,VIP: Laliga TV M1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106583.ts
-#EXTINF:-1,VIP: M. eSports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106536.ts
-#EXTINF:-1,VIP: M. SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106547.ts
-#EXTINF:-1,VIP: MOVISTAR  PARTIDAZO FHD LIVE SESSION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106541.ts
-#EXTINF:-1,VIP: MOVISTAR  SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106545.ts
-#EXTINF:-1,VIP: MOVISTAR  Series Xtra FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106546.ts
-#EXTINF:-1,VIP: MOVISTAR DEPORTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106537.ts
-#EXTINF:-1,VIP: MOVISTAR DEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106555.ts
-#EXTINF:-1,VIP: MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106542.ts
-#EXTINF:-1,VIP: MTV ESPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106552.ts
-#EXTINF:-1,VIP: Multideporte 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106560.ts
-#EXTINF:-1,VIP: Multideporte 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106559.ts
-#EXTINF:-1,VIP: Multideporte 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106558.ts
-#EXTINF:-1,VIP: Multideporte 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106557.ts
-#EXTINF:-1,VIP: Multideporte 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106556.ts
-#EXTINF:-1,VIP: MULTIFUTBOOL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106563.ts
-#EXTINF:-1,VIP: MULTIFUTBOOL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106562.ts
-#EXTINF:-1,VIP: MULTIFUTBOOL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106561.ts
-#EXTINF:-1,VIP: NICKELODEONFHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106531.ts
-#EXTINF:-1,VIP: ODISSEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106589.ts
-#EXTINF:-1,VIP: SOMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106544.ts
-#EXTINF:-1,VIP: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106535.ts
-#EXTINF:-1,VIP: TELEMUSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106548.ts
-#EXTINF:-1,VIP: VH1 MOVISTAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106551.ts
-#EXTINF:-1,VIP: VIAJAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106533.ts
-#EXTINF:-1,VIP: XTREM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106543.ts
-#EXTINF:-1,VIP: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106465.ts
-#EXTINF:-1,VIP: Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106463.ts
-#EXTINF:-1,VIP: MEGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106462.ts
-#EXTINF:-1,VIP: Mezzo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106461.ts
-#EXTINF:-1,VIP: Movistar  Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106473.ts
-#EXTINF:-1,VIP: Movistar  Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106472.ts
-#EXTINF:-1,VIP: Movistar  F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106471.ts
-#EXTINF:-1,VIP: Movistar  Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106470.ts
-#EXTINF:-1,VIP: Movistar  Golf FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106476.ts
-#EXTINF:-1,VIP: Movistar  GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106469.ts
-#EXTINF:-1,VIP: Movistar  Partidazo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106475.ts
-#EXTINF:-1,VIP: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106457.ts
-#EXTINF:-1,VIP: MultiDeportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106491.ts
-#EXTINF:-1,VIP: MultiDeportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106490.ts
-#EXTINF:-1,VIP: MultiDeportes 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106489.ts
-#EXTINF:-1,VIP: MultiDeportes 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106488.ts
-#EXTINF:-1,VIP: MultiDeportes 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106487.ts
-#EXTINF:-1,VIP: MultiDeportes 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106486.ts
-#EXTINF:-1,VIP: MultiDeportes 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106485.ts
-#EXTINF:-1,VIP: MultiFutbol 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106484.ts
-#EXTINF:-1,VIP: MultiFutbol 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106483.ts
-#EXTINF:-1,VIP: MultiFutbol 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106482.ts
-#EXTINF:-1,VIP: MultiFutbol 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106481.ts
-#EXTINF:-1,VIP: MultiFutbol 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106480.ts
-#EXTINF:-1,VIP: MultiFutbol 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106479.ts
-#EXTINF:-1,VIP: MultiFutbol 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106478.ts
-#EXTINF:-1,VIP: MultiFutbol 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106477.ts
-#EXTINF:-1,VIP: National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106460.ts
-#EXTINF:-1,VIP: National Geographic Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106459.ts
-#EXTINF:-1,VIP: National Geographic Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106466.ts
-#EXTINF:-1,VIP: ETB Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/108403.ts
-#EXTINF:-1,VIP: Nick Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/106458.ts
-#EXTINF:-1,VIP:  NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103150.ts
-#EXTINF:-1,VIP: MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103146.ts
-#EXTINF:-1,VIP: La Otra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/94975.ts
-#EXTINF:-1,VIP: LEVANTE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/94966.ts
-#EXTINF:-1,VIP: IB3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/94954.ts
-#EXTINF:-1,VIP: A7 Asturias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/94970.ts
-#EXTINF:-1,VIP: 8Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103088.ts
-#EXTINF:-1,VIP: EXTREMADURA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103070.ts
-#EXTINF:-1,VIP: AXN  WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103179.ts
-#EXTINF:-1,VIP: FOX LIVE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103170.ts
-#EXTINF:-1,VIP: ODISEA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103096.ts
-#EXTINF:-1,VIP: DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/90246.ts
-#EXTINF:-1,VIP: MOVISTAR 0# FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/103141.ts
-#EXTINF:-1,VIP: NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nl.setv.ma:8000/live/moukhtar/123456/76502.ts
+#EXTM3U 
+#EXTINF:-1 ---- Spain ----
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19118.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19119.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA1 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19120.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19121.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19122.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19123.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",Antena 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19124.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",Antena 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19125.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",Antena 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19126.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",Cuatro 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19127.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",Cuatro HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19128.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",Cuatro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19129.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",TeleCinco 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19130.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",TeleCinco HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19131.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",TeleCinco
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19132.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",La Sexta 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19133.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",La Sexta HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19134.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",La Sexta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19135.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/neox.jpg",Neox
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19136.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nova.jpg",Nova
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19137.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg",Mega
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19138.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg",FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19139.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",Divinity HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19140.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png",Divinity
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19141.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg",Energy HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19142.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalsur.jpg",Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19143.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/ARAGON-TV-44x36.jpg",Aragon TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19164.m3u8
+#EXTINF:-1 tvg-logo="https://teamblue65.000webhostapp.com/LOGO/BEMAD.png",BeMad
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19144.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",#0 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19145.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",#0 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19146.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",#0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19147.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",M. Estrenos 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19148.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",M. Estrenos HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19149.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",M. Estrenos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19150.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",M. Accion 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19151.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",M. Accion HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19152.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",M. Accion
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19153.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",M. Comedia 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19154.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",M. Comedia HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19155.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",M. Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19156.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",M. Dcine 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19157.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",M. Dcine HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19158.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",M. Dcine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19159.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",M. Xtra 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19160.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",M. Xtra HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19161.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",M. Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19162.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.mypanel.tv/Logo/es/DCineEspanol.es.png",M. Cine Espanol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19163.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",M. Series 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19165.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",M. Series HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19166.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",M. Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19167.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",M. Series Xtra 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19168.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",M. Series Xtra HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19169.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",M. Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19170.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",Comedy Central 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19171.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",Comedy Central HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19172.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19173.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg",Hollywood 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19174.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg",Hollywood HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19175.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg",Hollywood
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19176.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg",Paramount
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19177.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Channel 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19178.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19179.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19180.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",Fox Life 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19181.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",Fox Life HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19182.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",Fox Life
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19183.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",AMC 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19184.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",AMC HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19185.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19186.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19187.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19188.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19189.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",AXN White 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19190.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",AXN White HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19191.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",AXN White
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19192.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",SYFY 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19193.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",SYFY HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19194.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19195.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19196.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19197.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19198.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TCM 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19199.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TCM HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19200.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19201.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19203.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19204.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19205.m3u8
+#EXTINF:-1 tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png",Sundance
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19202.m3u8
+#EXTINF:-1 tvg-logo="http://s03.s3c.es/imag/_v0/770x420/6/7/8/blaze-canal.jpg",Blaze
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19206.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2011/02/canal-toros.png",Toros 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19207.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2011/02/canal-toros.png",Toros HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19208.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2011/02/canal-toros.png",Toros
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19209.m3u8
+#EXTINF:-1 tvg-logo="https://www.diariodeberrocalejo.es/wp-content/uploads/2016/09/canal-caza-y-pesca-destacado.png",Caza Y Pesca 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19210.m3u8
+#EXTINF:-1 tvg-logo="https://www.diariodeberrocalejo.es/wp-content/uploads/2016/09/canal-caza-y-pesca-destacado.png",Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19211.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/iberalia.jpg",Iberalia TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19212.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",National Geographic 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19213.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",National Geographic HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19214.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",National Geographic
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19215.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo Wild 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19216.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo Wild HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19217.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19218.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg",Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19219.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg",Crime & Investigation
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19220.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",Historia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19221.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-rDdOja6DYDk/VYGoJw1-DOI/AAAAAAAAL7Y/bZfghOSgWx8/s1600/NSP.png",Non Stop People
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19224.m3u8
+#EXTINF:-1 tvg-logo="http://verdirectotv.tv/logos/odisea.jpg",Canal Odisea
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19222.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg",Viajar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19223.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2017/12/movistar-disney-3.jpg",Movistar Disney
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19225.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mtvespana.jpg",MTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19228.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3783753/logo_mezzo%20live.png",Mezzo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19226.m3u8
+#EXTINF:-1 tvg-logo="http://arena.rtp.pt/wp-content/uploads/2017/01/f9da744be918b8dab17933f0fb77b1a3.png",M. Esport
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19227.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2014/05/CLASSICA_logo.jpg",Classica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19229.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",Cosmo 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19230.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",Cosmo HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19231.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png",Cosmo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19232.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",Canal Cocina HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19233.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19234.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png",Canal Decasa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19235.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png",Canal Decasa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19236.m3u8
+#EXTINF:-1 ES: Canal Orbe 21
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19237.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve_24h.jpg",24 Horas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19238.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg",Disney XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19239.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19240.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg",Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19241.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2017/12/movistar-disney-3.jpg",M.Disney
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19245.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg",Nickelodeon 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19242.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19243.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickjr.jpg",Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19244.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg",Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19246.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/boing.jpg",Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19247.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png",Baby TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19248.m3u8
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Canal-Panda.jpg",Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19249.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Sport 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19250.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Sport HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19251.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Sport
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19252.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Sport Ñ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19310.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png",Bein La Liga 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19253.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png",Bein La Liga HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19254.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png",Bein La Liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19255.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",La Liga TV BAR 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19256.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",LA Liga TV BAR HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19257.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",LA Liga TV BAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19258.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/goltv.jpg",GOL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19259.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",M. Futbol 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19260.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",M. Futbol HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19261.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",M. Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19262.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",M. Deportes 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19263.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",M. Deportes 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19264.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",M. Deprotes 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19265.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",M. Deportes 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19266.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",M. Deportes 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19267.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",M. Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19268.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",M. Formula 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19272.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",M. Formula 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19273.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",M. Formula 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19274.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",M. Moto GP 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19275.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",M. Moto GP HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19276.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",M. Moto GP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19277.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",M. Golf 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19269.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",M. Golf HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19270.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",M. Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19271.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",Multideportes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19278.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",Multideportes 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19279.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",Multideportes 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19280.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",Multideportes 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19281.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",Multideportes 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19282.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",Multideportes 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19283.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",Multideportes 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19284.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",MultiFutboll 1 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19285.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",MultiFutboll 2 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19286.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",MultiFutboll 3 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19287.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-partidazo.jpg",MultiFutboll 4 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19288.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 1 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19289.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 2 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19290.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 3 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19291.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 4 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19292.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 5 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19293.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 6 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19294.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 7 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19295.m3u8
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png",Bein La Liga TV 8 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19296.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 1 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19297.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 2 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19298.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 3 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19299.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 4 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19300.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 5 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19301.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 6 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19302.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 7 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19303.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",Bein Max 8 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19304.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19305.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19306.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19307.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg",Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19308.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19309.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png",Real Madird TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19311.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png",Barca TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://123iptv.nl:88/live/aBQQQ4AklY/NXtoxjCLAo/19312.m3u8
