@@ -1,120 +1,248 @@
 #EXTM3U
 
-#EXTINF:-1,****_Espana_****
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1686.ts
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1800.ts
-#EXTINF:-1,ES: Nicke lodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1799.ts
-#EXTINF:-1,ES: Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/640.ts
-#EXTINF:-1,ES: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1798.ts
-#EXTINF:-1,ES: M SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/637.ts
-#EXTINF:-1,ES: M FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1797.ts
-#EXTINF:-1,ES: M DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/641.ts
-#EXTINF:-1,ES: M Xtra SERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/632.ts
-#EXTINF:-1,ES: M Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/635.ts
-#EXTINF:-1,ES: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2354.ts
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2349.ts
-#EXTINF:-1,ES: Tele Deporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2359.ts
-#EXTINF:-1,ES: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2344.ts
-#EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2340.ts
-#EXTINF:-1,ES: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2352.ts
-#EXTINF:-1,ES: ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2357.ts
-#EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2336.ts
-#EXTINF:-1,ES: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2356.ts
-#EXTINF:-1,ES: LaLiga 123
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2339.ts
-#EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2351.ts
-#EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2355.ts
-#EXTINF:-1,ES: Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2347.ts
-#EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2335.ts
-#EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2334.ts
-#EXTINF:-1,ES: Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2360.ts
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2358.ts
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2338.ts
-#EXTINF:-1,ES: beIN SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2341.ts
-#EXTINF:-1,ES: Barca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2342.ts
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2353.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2337.ts
-#EXTINF:-1,ES: #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2350.ts
-#EXTINF:-1,ES: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2345.ts
-#EXTINF:-1,ES: TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2343.ts
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2346.ts
-#EXTINF:-1,ES: M FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/644.ts
-#EXTINF:-1,ES: M Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/636.ts
-#EXTINF:-1,ES: M Deporte 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/645.ts
-#EXTINF:-1,ES: M Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/639.ts
-#EXTINF:-1,ES: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1796.ts
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1795.ts
-#EXTINF:-1,ES: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1794.ts
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1793.ts
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1792.ts
-#EXTINF:-1,ES: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1791.ts
-#EXTINF:-1,ES: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1790.ts
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1789.ts
-#EXTINF:-1,ES: Crimen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1788.ts
-#EXTINF:-1,ES: COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1787.ts
-#EXTINF:-1,ES: Comedy CentralL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1786.ts
-#EXTINF:-1,ES: Caza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/630.ts
-#EXTINF:-1,ES: Canal Liga tv bar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/642.ts
-#EXTINF:-1,ES: Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1785.ts
-#EXTINF:-1,ES: Bein Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/647.ts
-#EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1784.ts
-#EXTINF:-1,ES: REAL MADRID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1696.ts
-#EXTINF:-1,ES: Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1783.ts
-#EXTINF:-1,EC: M Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/638.ts
+#EXTINF:-1,*ES- beINSport LaLiga HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31586.ts
+#EXTINF:-1,*ES- Boing ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31728.ts
+#EXTINF:-1,*ES- C  Dep 2 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31724.ts
+#EXTINF:-1,*ES- C  Estrellas ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31723.ts
+#EXTINF:-1,*ES- C  Xtra FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31721.ts
+#EXTINF:-1,*ES- Calle 13 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31720.ts
+#EXTINF:-1,*ES- Calle 13 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31719.ts
+#EXTINF:-1,*ES- Canal Cocina ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31718.ts
+#EXTINF:-1,*ES- Canal Decasa ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31717.ts
+#EXTINF:-1,*ES- Canal Orbe 21 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31716.ts
+#EXTINF:-1,*ES- Canal Panda ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31715.ts
+#EXTINF:-1,*ES- Canal SUR ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31714.ts
+#EXTINF:-1,*ES- Caza Y Pesca ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31713.ts
+#EXTINF:-1,*ES- Caza Y Pesca FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31712.ts
+#EXTINF:-1,*ES- Clan TVE ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31711.ts
+#EXTINF:-1,*ES- Classica ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31710.ts
+#EXTINF:-1,*ES- Comedy Central FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31709.ts
+#EXTINF:-1,*ES- Comedy Central HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31708.ts
+#EXTINF:-1,*ES- Cosmo FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31707.ts
+#EXTINF:-1,*ES- Cosmo HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31706.ts
+#EXTINF:-1,*ES- Crimen e Investigacion ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31705.ts
+#EXTINF:-1,*ES- Cuatro ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31704.ts
+#EXTINF:-1,*ES- Cuatro FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31703.ts
+#EXTINF:-1,*ES- Discovery Channel FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31701.ts
+#EXTINF:-1,*ES- Discovery HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31700.ts
+#EXTINF:-1,*ES- Disney Channel FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31699.ts
+#EXTINF:-1,*ES- Disney Channel HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31698.ts
+#EXTINF:-1,*ES- Disney Junior ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31697.ts
+#EXTINF:-1,*ES- Disney XD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31696.ts
+#EXTINF:-1,*ES- DKiss TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31702.ts
+#EXTINF:-1,*ES- Energy ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31695.ts
+#EXTINF:-1,*ES- Esperanza TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31694.ts
+#EXTINF:-1,*ES- EuroNews ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31693.ts
+#EXTINF:-1,*ES- Eurosport 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31691.ts
+#EXTINF:-1,*ES- EuroSport 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31692.ts
+#EXTINF:-1,*ES- Eurosport 2 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31690.ts
+#EXTINF:-1,*ES- Extremadura TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31689.ts
+#EXTINF:-1,*ES- FDF ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31688.ts
+#EXTINF:-1,*ES- Fox FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31686.ts
+#EXTINF:-1,*ES- Fox HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31685.ts
+#EXTINF:-1,*ES- FOX Life FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31687.ts
+#EXTINF:-1,*ES- Fox Life HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31684.ts
+#EXTINF:-1,*ES- Fox News ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31683.ts
+#EXTINF:-1,*ES- Galicia TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31682.ts
+#EXTINF:-1,*ES- Gol TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31681.ts
+#EXTINF:-1,*ES- Gol TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31680.ts
+#EXTINF:-1,*ES- Historia ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31679.ts
+#EXTINF:-1,*ES- Historia FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31678.ts
+#EXTINF:-1,*ES- Hollywood ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31677.ts
+#EXTINF:-1,*ES- Hollywood FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31676.ts
+#EXTINF:-1,*ES- Iberalia TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31675.ts
+#EXTINF:-1,*ES- La 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31671.ts
+#EXTINF:-1,*ES- LA 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31674.ts
+#EXTINF:-1,*ES- LaLiga 123 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31590.ts
+#EXTINF:-1,*ES- LaLiga TV Bar ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31668.ts
+#EXTINF:-1,*ES- LaLigaTV FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31667.ts
+#EXTINF:-1,*ES- Levante TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31666.ts
+#EXTINF:-1,*ES- LTC ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31672.ts
+#EXTINF:-1,*ES- Mega HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31659.ts
+#EXTINF:-1,*ES- Mezzo Live FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31658.ts
+#EXTINF:-1,*ES- MovieStar  Accion ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31656.ts
+#EXTINF:-1,*ES- MovieStar  Series FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31727.ts
+#EXTINF:-1,*ES- MovieStar Comedia ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31655.ts
+#EXTINF:-1,*ES- MovieStar DCine ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31654.ts
+#EXTINF:-1,*ES- MovieStar Deportes 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31653.ts
+#EXTINF:-1,*ES- MovieStar Deportes 2 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31652.ts
+#EXTINF:-1,*ES- MovieStar Estrenos ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31651.ts
+#EXTINF:-1,*ES- MovieStar F1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31650.ts
+#EXTINF:-1,*ES- MovieStar Futbol ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31649.ts
+#EXTINF:-1,*ES- MovieStar Golf ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31648.ts
+#EXTINF:-1,*ES- MovieStar MotoGP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31647.ts
+#EXTINF:-1,*ES- MovieStar Series HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31646.ts
+#EXTINF:-1,*ES- MovieStar Series Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31645.ts
+#EXTINF:-1,*ES- MovieStar Toros HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31644.ts
+#EXTINF:-1,*ES- MovieStar Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31643.ts
+#EXTINF:-1,*ES- MoviStar  Accion FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31726.ts
+#EXTINF:-1,*ES- Movistar  Comedia FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31641.ts
+#EXTINF:-1,*ES- MoviStar  DCine FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31725.ts
+#EXTINF:-1,*ES- Movistar  Deportes 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31642.ts
+#EXTINF:-1,*ES- MoviStar  Futbol FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31662.ts
+#EXTINF:-1,*ES- Movistar  Partidazo ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31640.ts
+#EXTINF:-1,*ES- Movistar  Partidazo FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31639.ts
+#EXTINF:-1,*ES- Movistar  Partidazo HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31638.ts
+#EXTINF:-1,*ES- Movistar  Series Xtra FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31637.ts
+#EXTINF:-1,*ES- MoviStar Estrenos FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31722.ts
+#EXTINF:-1,*ES- MoviStar F1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31657.ts
+#EXTINF:-1,*ES- MoviStar Formula 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31665.ts
+#EXTINF:-1,*ES- MoviStar Golf  FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31664.ts
+#EXTINF:-1,*ES- MoviStar MotoGP FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31663.ts
+#EXTINF:-1,*ES- MTV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31661.ts
+#EXTINF:-1,*ES- MTV Rocks ES ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31660.ts
+#EXTINF:-1,*ES- Nat Geo ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31636.ts
+#EXTINF:-1,*ES- Nat Geo FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31635.ts
+#EXTINF:-1,*ES- Nat Geo Wild FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31634.ts
+#EXTINF:-1,*ES- Nat Geo Wild HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31633.ts
+#EXTINF:-1,*ES- Neox ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31632.ts
+#EXTINF:-1,*ES- Nick Junior ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31631.ts
+#EXTINF:-1,*ES- Nickelodeon FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31630.ts
+#EXTINF:-1,*ES- Nickelodeon HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31629.ts
+#EXTINF:-1,*ES- Non Stop People ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31628.ts
+#EXTINF:-1,*ES- Nova ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31627.ts
+#EXTINF:-1,*ES- Odisea HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31626.ts
+#EXTINF:-1,*ES- Olympic Channel HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31625.ts
+#EXTINF:-1,*ES- Real Madrid TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31624.ts
+#EXTINF:-1,*ES- Sundance TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31623.ts
+#EXTINF:-1,*ES- SyFy FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31622.ts
+#EXTINF:-1,*ES- SyFy HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31621.ts
+#EXTINF:-1,*ES- TCM ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31620.ts
+#EXTINF:-1,*ES- TCM FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31619.ts
+#EXTINF:-1,*ES- Telecinco ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31599.ts
+#EXTINF:-1,*ES- Telecinco FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31598.ts
+#EXTINF:-1,*ES- Telecinco HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31597.ts
+#EXTINF:-1,*ES- TNT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31618.ts
+#EXTINF:-1,*ES- TNT FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31617.ts
+#EXTINF:-1,*ES- Toros TV FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31596.ts
+#EXTINF:-1,*ES- TV3 24H ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31616.ts
+#EXTINF:-1,*ES- TV3 Cat ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31615.ts
+#EXTINF:-1,*ES- TVE Internacional ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31613.ts
+#EXTINF:-1,*ES- TVE LA 2 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31614.ts
+#EXTINF:-1,*ES- VH1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31595.ts
+#EXTINF:-1,*ES- Viajar FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31594.ts
+#EXTINF:-1,*ES- Viajar HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31593.ts
+#EXTINF:-1,*ES- XTRM ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv9211.hopto.me:8000/live/nazim2/nazim2/31592.ts
