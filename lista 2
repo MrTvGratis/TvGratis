@@ -5,133 +5,133 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="------- Spanish ---------" tvg-logo="" group-title="",------- Spanish ---------
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1072.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1072.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Liga" tvg-logo="" group-title="Spanish",ES:Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1022.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1022.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Deportes HD" tvg-logo="" group-title="Spanish",ES:Canal+ Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1012.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1012.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Deportes 2 HD" tvg-logo="" group-title="Spanish",ES:Canal+ Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2590.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2590.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Futpol" tvg-logo="" group-title="Spanish",ES:Canal+ Futpol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1020.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1020.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Golf" tvg-logo="" group-title="Spanish",ES:Canal+ Golf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1019.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1019.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ HD" tvg-logo="" group-title="Spanish",ES:Canal+ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1016.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1016.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Accion" tvg-logo="" group-title="Spanish",ES:Canal+ Accion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1030.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1030.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Dcine" tvg-logo="" group-title="Spanish",ES:Canal+ Dcine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1028.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1028.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Comedia" tvg-logo="" group-title="Spanish",ES:Canal+ Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1031.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1031.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Estrenos HD" tvg-logo="" group-title="Spanish",ES:Canal+ Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1059.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1059.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ de las Estrellas" tvg-logo="" group-title="Spanish",ES:Canal+ de las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1048.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1048.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Series" tvg-logo="" group-title="Spanish",ES:Canal+ Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1058.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1058.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Serie Xtra" tvg-logo="" group-title="Spanish",ES:Canal+ Serie Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1004.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1004.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Cuatro" tvg-logo="" group-title="Spanish",ES:Canal+ Cuatro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1026.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1026.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Cine" tvg-logo="" group-title="Spanish",ES:Canal+ Cine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1033.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1033.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Cocina" tvg-logo="" group-title="Spanish",ES:Canal+ Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1024.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1024.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ AXN HD" tvg-logo="" group-title="Spanish",ES:Canal+ AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1054.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1054.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Toros" tvg-logo="" group-title="Spanish",ES:Canal+ Toros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1049.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1049.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Cine latino" tvg-logo="" group-title="Spanish",ES:Cine latino
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1002.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1002.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Nova" tvg-logo="" group-title="Spanish",ES:Canal+ Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1034.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1034.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Fox HD" tvg-logo="" group-title="Spanish",ES:Canal+ Fox HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1029.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1029.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal T HD" tvg-logo="" group-title="Spanish",ES:Canal T HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1047.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1047.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal Sony" tvg-logo="" group-title="Spanish",ES:Canal Sony
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1041.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1041.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Canal+ Divinity" tvg-logo="" group-title="Spanish",ES:Canal+ Divinity
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1039.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1039.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:24 Horas" tvg-logo="" group-title="Spanish",ES:24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1046.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1046.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Bein Sport ES HD" tvg-logo="" group-title="Spanish",ES:Bein Sport ES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1003.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1003.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Real Madrid" tvg-logo="" group-title="Spanish",ES:Real Madrid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1037.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1037.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Barca TV" tvg-logo="" group-title="Spanish",ES:Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1021.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1021.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Movis Star Moto Gp" tvg-logo="" group-title="Spanish",ES:Movis Star Moto Gp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1011.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1011.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Movi Star F1" tvg-logo="" group-title="Spanish",ES:Movi Star F1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1010.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1010.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Comedy Central" tvg-logo="" group-title="Spanish",ES:Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1042.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1042.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:TVP Mochis" tvg-logo="" group-title="Spanish",ES:TVP Mochis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1050.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1050.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Clan TVE" tvg-logo="" group-title="Spanish",ES:Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1045.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1045.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:La 1" tvg-logo="" group-title="Spanish",ES:La 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1014.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1014.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:La 2" tvg-logo="" group-title="Spanish",ES:La 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1013.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1013.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:La  Sexta HD" tvg-logo="" group-title="Spanish",ES:La  Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1017.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1017.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Warner HD" tvg-logo="" group-title="Spanish",ES:Warner HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1015.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1015.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:SYFY HD" tvg-logo="" group-title="Spanish",ES:SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1025.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1025.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:TV3" tvg-logo="" group-title="Spanish",ES:TV3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2591.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2591.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:AMC HD" tvg-logo="" group-title="Spanish",ES:AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2589.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2589.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:AXN HD" tvg-logo="" group-title="Spanish",ES:AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2588.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2588.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:GOL Tv" tvg-logo="" group-title="Spanish",ES:GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2585.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2585.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Boing" tvg-logo="" group-title="Spanish",ES:Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2586.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2586.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Cosmo HD" tvg-logo="" group-title="Spanish",ES:Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2587.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2587.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:News DW" tvg-logo="" group-title="Spanish",ES:News DW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1053.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1053.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:TCM HD" tvg-logo="" group-title="Spanish",ES:TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1056.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1056.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:324 Entertainment" tvg-logo="" group-title="Spanish",ES:324 Entertainment
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1005.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1005.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Fox Life" tvg-logo="" group-title="Spanish",ES:Fox Life
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1060.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1060.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Hollywood" tvg-logo="" group-title="Spanish",ES:Hollywood
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1036.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1036.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Axn White HD" tvg-logo="" group-title="Spanish",ES:Axn White HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1023.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1023.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:History" tvg-logo="" group-title="Spanish",ES:History
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1051.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1051.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Concert Channel" tvg-logo="" group-title="Spanish",ES:Concert Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1009.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1009.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Anime" tvg-logo="" group-title="Spanish",ES:Anime
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/999.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/999.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:A&E" tvg-logo="" group-title="Spanish",ES:A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1001.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1001.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:FDF" tvg-logo="" group-title="Spanish",ES:FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1007.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1007.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Caza Y Pesca" tvg-logo="" group-title="Spanish",ES:Caza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1027.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1027.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Viajar" tvg-logo="" group-title="Spanish",ES:Viajar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1043.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1043.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Teleticino" tvg-logo="" group-title="Spanish",ES:Teleticino
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1008.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1008.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:National Geographic" tvg-logo="" group-title="Spanish",ES:National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1057.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1057.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:National Geographic Wild" tvg-logo="" group-title="Spanish",ES:National Geographic Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1055.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1055.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Disney Chaneel" tvg-logo="" group-title="Spanish",ES:Disney Chaneel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1040.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1040.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:Disney XD" tvg-logo="" group-title="Spanish",ES:Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1038.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1038.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:TNT" tvg-logo="" group-title="Spanish",ES:TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1032.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1032.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:TVN Chile HD" tvg-logo="" group-title="Spanish",ES:TVN Chile HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1006.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1006.ts
