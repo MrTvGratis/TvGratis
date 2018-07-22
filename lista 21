@@ -4,104 +4,104 @@
 
 
 #EXTINF:-1,-------------- | SPAIN | --------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11042.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11042.m3u8
 #EXTINF:-1,SP | Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17192.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17192.m3u8
 #EXTINF:-1,SP | Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17191.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17191.m3u8
 #EXTINF:-1,SP | Antena Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17190.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17190.m3u8
 #EXTINF:-1,SP | AXN Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17189.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17189.m3u8
 #EXTINF:-1,SP | AXN White Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17188.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17188.m3u8
 #EXTINF:-1,SP | C  ACCIÃ“N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17187.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17187.m3u8
 #EXTINF:-1,SP | C  COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17186.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17186.m3u8
 #EXTINF:-1,SP | C  DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17185.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17185.m3u8
 #EXTINF:-1,SP | Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17184.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17184.m3u8
 #EXTINF:-1,SP | Canal  FÃºtbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17183.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17183.m3u8
 #EXTINF:-1,SP | Canal  Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17182.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17182.m3u8
 #EXTINF:-1,SP | Canal  Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17181.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17181.m3u8
 #EXTINF:-1,SP | Canal  Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17180.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17180.m3u8
 #EXTINF:-1,SP | Canal 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17179.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17179.m3u8
 #EXTINF:-1,SP | Canal Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17178.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17178.m3u8
 #EXTINF:-1,SP | Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17177.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17177.m3u8
 #EXTINF:-1,SP | Disney Junior Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17176.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17176.m3u8
 #EXTINF:-1,SP | Factoria de Ficcion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17175.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17175.m3u8
 #EXTINF:-1,SP | Fox Life Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17174.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17174.m3u8
 #EXTINF:-1,SP | Fox Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17173.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17173.m3u8
 #EXTINF:-1,SP | Garage TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17172.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17172.m3u8
 #EXTINF:-1,SP | La 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17171.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17171.m3u8
 #EXTINF:-1,SP | La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17170.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17170.m3u8
 #EXTINF:-1,SP | MOVISTAR F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17168.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17168.m3u8
 #EXTINF:-1,SP | MOVISTAR MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17167.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17167.m3u8
 #EXTINF:-1,SP | NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17166.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17166.m3u8
 #EXTINF:-1,SP | National Geographic Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17165.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17165.m3u8
 #EXTINF:-1,SP | Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17164.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17164.m3u8
 #EXTINF:-1,SP | Sol MÃºsica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17163.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17163.m3u8
 #EXTINF:-1,SP | SyFy Universal Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17162.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17162.m3u8
 #EXTINF:-1,SP | Telecinco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17161.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17161.m3u8
 #EXTINF:-1,SP | TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17160.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17160.m3u8
 #EXTINF:-1,SP | TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17159.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/17159.m3u8
 #EXTINF:-1,SP | Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11034.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11034.m3u8
 #EXTINF:-1,SP | BEIN SPORT ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11025.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11025.m3u8
 #EXTINF:-1,SP | CANAL  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11027.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11027.m3u8
 #EXTINF:-1,SP | CANAL  DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11031.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11031.m3u8
 #EXTINF:-1,SP | CANAL  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11023.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11023.m3u8
 #EXTINF:-1,SP | CANAL ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11028.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11028.m3u8
 #EXTINF:-1,SP | CANAL HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11037.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11037.m3u8
 #EXTINF:-1,SP | CANAL SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11038.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11038.m3u8
 #EXTINF:-1,SP | CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11029.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11029.m3u8
 #EXTINF:-1,SP | CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11036.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11036.m3u8
 #EXTINF:-1,SP | DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11040.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11040.m3u8
 #EXTINF:-1,SP | DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11041.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11041.m3u8
 #EXTINF:-1,SP | ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11035.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11035.m3u8
 #EXTINF:-1,SP | MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11033.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11033.m3u8
 #EXTINF:-1,SP | NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11022.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11022.m3u8
 #EXTINF:-1,SP | NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11026.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11026.m3u8
 #EXTINF:-1,SP | TVE LA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11024.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/eylul11/eylul11/11024.m3u8
