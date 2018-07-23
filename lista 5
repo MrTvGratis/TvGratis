@@ -157,8 +157,8 @@
 <regex> 
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=anadetelefive&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/documental/aande</referer>
+<page>http://vergol.com/live/blaze.php</page>
+<referer>http://vertelevisor.com/tv/documentales/blaze.html</referer>
 </regex> 
 <thumbnail>https://s15.postimg.cc/rsx9hh3qz/blaze.png</thumbnail>
 <fanart></fanart>	
@@ -230,8 +230,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/foxlife.php</page>
-<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
+<page>http://livesports.pw/embedna.php?file=foxlive&width=650&height=397</page>
+<referer>http://telefivegb.com/canales/series/foxlive</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/46f81igu7/foxlife.png</thumbnail>
 <fanart></fanart>
@@ -479,8 +479,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinliga.php</page>
-<referer>http://www.vercanalestv.com/tv/deportes/plus-partidazo.html/</referer>
+<page>http://verliga1.net/tv/verliga.php</page>
+<referer>http://vercanalestv1.com/tv/deportes/canal-plus-partidazo.html</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
 <fanart></fanart>
@@ -551,7 +551,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>LA LIGA TV</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -562,9 +562,9 @@
 </regex>
 <thumbnail>https://s7.postimg.cc/n7e1zdta3/laligatv.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
-<item>
+<!-- <item>
 <title>BEIN SPORTS</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -575,9 +575,9 @@
 </regex>
 <thumbnail>https://s7.postimg.cc/krc8l55y3/beinsports.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
-<item>
+<!-- <item>
 <title>BEIN LA LIGA</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -588,7 +588,7 @@
 </regex>
 <thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 	
 <item>
 <title>BEIN SPORTS Ñ</title>
@@ -670,12 +670,18 @@
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>BARCA TV</title>
-<link></link>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/barca.php</page>
+<referer>http://verdirectotv.com/tv/deportes/goltv2.html</referer>
+</regex>
 <thumbnail>https://s1.postimg.cc/3wmywyl1rj/BARNA.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <item>
 <title>LA 1</title>
@@ -705,8 +711,13 @@
 
 <item>
 <title>ANTENA 3</title>
-<link>https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8</link>
-<referer></referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/antena3.php</page>
+<referer>http://vercanalestv1.com/tv/nacionales/antena-3.html</referer>
+</regex>
 <thumbnail>https://s7.postimg.cc/fjr5h4kcb/antena3.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -739,8 +750,13 @@
 
 <item>
 <title>LA SEXTA</title>
-<link>https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8</link>
-<referer></referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/lasexta.php</page>
+<referer>http://vercanalestv1.com/tv/nacionales/la-sexta.html</referer>
+</regex>
 <thumbnail>https://s7.postimg.cc/7fj1c3njv/lasexta.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -794,45 +810,55 @@
 
 <item>
 <title>NOVA</title>
-<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on</link>
-<referer></referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/nova.php</page>
+<referer>http://vercanalestv1.com/tv/nacionales/nova.html</referer>
+</regex>
 <thumbnail>https://s7.postimg.cc/s12ehu9yz/nova.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>A3SERIES</title>
-<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</link>
-<referer></referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/atreseries.php</page>
+<referer>http://vercanalestv1.com/tv/nacionales/atreseries.html</referer>
+</regex>
 <thumbnail>https://s7.postimg.cc/beku8j43v/a3series.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>TEN</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=dkiss&width=650&height=397</page>
-<referer>http://www.vertelevisor.com/ver-dkiss-en-directo-online-gratis-por-internet</referer>
+<page>http://livesports.pw/embedna.php?file=ten&width=650&height=397</page>
+<referer>http://vercanalestv1.com/tv/nacionales/ten.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/5pu9mez37z/TEN.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
-<!-- <item>
+<item>
 <title>DKISS</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedna.php?file=dkiss&width=650&height=397</page>
-<referer>http://vercanalestv.com/tv/nacionales/dkiss.html</referer>
+<referer>http://vercanalestv1.com/tv/nacionales/dkiss.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/7kst31jyof/DKISS.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <item>
 <title>BE MAD</title>
@@ -847,13 +873,13 @@
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>MEGA</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&rebase=on</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/oiqelmwa3/mega.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>PARAMOUNT CHANNEL</title>
@@ -863,21 +889,21 @@
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>24H</title>
 <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/6tyntwa7f/24h.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
-<item>
+<!-- <item>
 <title>INTERECONOMIA</title>
 <link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/g6unjxoh7/intereconomia.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>BOING</title>
@@ -969,21 +995,21 @@
 <fanart></fanart>
 </item> -->
 
-<item>
+<!-- <item>
 <title>TELEMADRID</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/xzg7rrfzf/telemadrid.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
-<item>
+<!-- <item>
 <title>LAOTRA</title>
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/966nr6pa3/laotra.png</thumbnail>
 <fanart></fanart>
-</item>	
+</item>	 -->
 	
 <item>
 <title>CASTILLA LA MANCHA</title>
@@ -1017,13 +1043,13 @@
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>8 TV</title>
 <link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
 <referer></referer>
 <thumbnail>https://s1.postimg.cc/104oaomna7/8tv.png</thumbnail>
 <fanart></fanart>
-</item>	
+</item> -->	
 
 <item>
 <title>CANAL EXTREMADURA</title>
@@ -1033,7 +1059,7 @@
 <fanart></fanart>
 </item>	
 
-<item>
+<!-- <item>
 <title>CANAL SUR ANDALUCIA</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoId]</link>
 	<regex>
@@ -1046,7 +1072,7 @@
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/3yq60c8bf/andalucia.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>GALICIA TV</title>
@@ -1080,13 +1106,13 @@
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>TPA</title>
 <link>http://195.10.10.206/rtpa/tv.webm?GKID=0a23b69cb1c611e7a9ec00163ea2c744</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/6erzebnuz/tpa.png</thumbnail>
 <fanart></fanart>
-</item>	
+</item>	 -->
 
 <item>
 <title>TV CANARIA</title>
@@ -1100,6 +1126,6 @@
 <title>MALAGA TV</title>
 <link>http://canalmalaga-tv-live.flumotion.com/chunks.m3u8</link>
 <referer></referer>
-<thumbnail>http://www.ondaazulmalaga.es/img/logo-canal-malaga.jpg</thumbnail>
+<thumbnail>https://s15.postimg.cc/42auj5sy3/malaga.png</thumbnail>
 <fanart></fanart>
 </item>
