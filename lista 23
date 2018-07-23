@@ -1,90 +1,181 @@
 #EXTM3U
-
-#EXTINF:-1,▼▼▼ SPAIN ▼▼▼
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2192.m3u8
-#EXTINF:-1,#0
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8528.m3u8
-#EXTINF:-1,LA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8552.m3u8
-#EXTINF:-1,LA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8539.m3u8
-#EXTINF:-1,M Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2145.m3u8
-#EXTINF:-1,M  Accion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2151.m3u8
-#EXTINF:-1,M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8550.m3u8
-#EXTINF:-1,M. SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8558.m3u8
-#EXTINF:-1,M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8546.m3u8
-#EXTINF:-1,M. F.TBOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8543.m3u8
-#EXTINF:-1,M. DEP 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8529.m3u8
-#EXTINF:-1,M. DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8530.m3u8
-#EXTINF:-1,M. COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8548.m3u8
-#EXTINF:-1,M. ACCI©N
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8556.m3u8
-#EXTINF:-1,Disney XD (ES)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2161.m3u8
-#EXTINF:-1,Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2169.m3u8
-#EXTINF:-1,Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2176.m3u8
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2177.m3u8
-#EXTINF:-1,Antena 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2178.m3u8
+#EXTINF:-1,###  SPAIN  ###
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1982.m3u8
+#EXTINF:-1,ES: LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2088.m3u8
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2744.m3u8
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2089.m3u8
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2372.m3u8
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2743.m3u8
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2745.m3u8
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2280.m3u8
+#EXTINF:-1,ES: Canal 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2235.m3u8
+#EXTINF:-1,ES: MI MUSICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2179.m3u8
+#EXTINF:-1,ES: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2183.m3u8
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3190.m3u8
+#EXTINF:-1,ES: Disney Jr.
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2106.m3u8
+#EXTINF:-1,ES: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3790.m3u8
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2186.m3u8
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2502.m3u8
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2503.m3u8
+#EXTINF:-1,ES: Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2506.m3u8
+#EXTINF:-1,ES: Odisea
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2495.m3u8
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2492.m3u8
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2191.m3u8
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2185.m3u8
+#EXTINF:-1,ES: CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2091.m3u8
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2452.m3u8
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2582.m3u8
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2448.m3u8
+#EXTINF:-1,ES: DCINE ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2447.m3u8
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2450.m3u8
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2451.m3u8
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2090.m3u8
+#EXTINF:-1,ES: A & E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2636.m3u8
+#EXTINF:-1,ES: C & I
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2496.m3u8
+#EXTINF:-1,ES: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3256.m3u8
+#EXTINF:-1,ES: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1023.m3u8
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1674.m3u8
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2449.m3u8
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2092.m3u8
+#EXTINF:-1,ES: Divinity
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4109.m3u8
+#EXTINF:-1,ES: Calle 13 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1676.m3u8
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1032.m3u8
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2180.m3u8
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1669.m3u8
+#EXTINF:-1,ES: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2454.m3u8
+#EXTINF:-1,ES: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1024.m3u8
 #EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/2923.m3u8
-#EXTINF:-1,M Toros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/1813.m3u8
-#EXTINF:-1,FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/1814.m3u8
-#EXTINF:-1,Canal  Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/1817.m3u8
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8540.m3u8
-#EXTINF:-1,SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8533.m3u8
-#EXTINF:-1,NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8541.m3u8
-#EXTINF:-1,NICK JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8555.m3u8
-#EXTINF:-1,NAT GEOGRAPH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8544.m3u8
-#EXTINF:-1,MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8536.m3u8
-#EXTINF:-1,MEZZO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8554.m3u8
-#EXTINF:-1,LALIGATV BAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8545.m3u8
-#EXTINF:-1,IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8537.m3u8
-#EXTINF:-1,HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8547.m3u8
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8542.m3u8
-#EXTINF:-1,DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8560.m3u8
-#EXTINF:-1,CUATRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8549.m3u8
-#EXTINF:-1,CLAN  TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8535.m3u8
-#EXTINF:-1,CANAL ORBE21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8538.m3u8
-#EXTINF:-1,CANAL ODISEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8551.m3u8
-#EXTINF:-1,CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8557.m3u8
-#EXTINF:-1,CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8532.m3u8
-#EXTINF:-1,BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8531.m3u8
-#EXTINF:-1,AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8559.m3u8
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url;url=http://dmania.loginto.me:8000/live/yours2serve/skype/8534.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2742.m3u8
+#EXTINF:-1,ES: Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2104.m3u8
+#EXTINF:-1,ES: #0 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2566.m3u8
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2105.m3u8
+#EXTINF:-1,ES: M XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2176.m3u8
+#EXTINF:-1,ES: M XTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2494.m3u8
+#EXTINF:-1,ES: M Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2175.m3u8
+#EXTINF:-1,ES: M Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2491.m3u8
+#EXTINF:-1,ES: M Accion
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3257.m3u8
+#EXTINF:-1,ES: M Accion HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1675.m3u8
+#EXTINF:-1,ES: M Series HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2453.m3u8
+#EXTINF:-1,ES: M Series XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1671.m3u8
+#EXTINF:-1,ES: M Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1672.m3u8
+#EXTINF:-1,ES: M Estrenos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2493.m3u8
+#EXTINF:-1,ES: M Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2504.m3u8
+#EXTINF:-1,ES: M Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1072.m3u8
+#EXTINF:-1,ES: M Dcine HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/889.m3u8
+#EXTINF:-1,ES: M Dcine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2490.m3u8
+#EXTINF:-1,ES: M LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/890.m3u8
+#EXTINF:-1,ES: M LIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2456.m3u8
+#EXTINF:-1,ES: M Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/710.m3u8
+#EXTINF:-1,ES: M Toros
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/709.m3u8
+#EXTINF:-1,ES: M DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2178.m3u8
+#EXTINF:-1,ES: M DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2177.m3u8
+#EXTINF:-1,ES: M. DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2692.m3u8
+#EXTINF:-1,ES: Movistar MotoGP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2182.m3u8
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2181.m3u8
+#EXTINF:-1,ES: LA LIGA 123
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4409.m3u8
+#EXTINF:-1,ES: LaLiga Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3154.m3u8
+#EXTINF:-1,ES: GOL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3930.m3u8
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1673.m3u8
+#EXTINF:-1,ES: Bein Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2184.m3u8
+#EXTINF:-1,ES: Bein La Liga FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4337.m3u8
+#EXTINF:-1,ES: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3189.m3u8
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4338.m3u8
+#EXTINF:-1,ES: REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3191.m3u8
+#EXTINF:-1,ES: ANTENNA 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1117.m3u8
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/971.m3u8
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2622.m3u8
+#EXTINF:-1,ES: AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/970.m3u8
+#EXTINF:-1,ES: AXN White
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2567.m3u8
+#EXTINF:-1,ES: MEGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2873.m3u8
+#EXTINF:-1,ES: A3S Atreseries HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3787.m3u8
+#EXTINF:-1,ES: BETIS TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4274.m3u8
+#EXTINF:-1,ES: CBN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3789.m3u8
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3188.m3u8
