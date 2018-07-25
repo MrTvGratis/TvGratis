@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/TvGratiskodi[/COLOR]
+http://paypal.me/TvGratiskodi
 #EXTINF:-1,LA 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4613.m3u8
 #EXTINF:-1,La 1 HD
