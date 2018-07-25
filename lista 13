@@ -1,3 +1,12 @@
+
+
+
+  <item>
+<title>paypal.me/TvGratiskodi</title>
+<link>_</link><thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
+  </item>
+
+
 <item><title>Canal #0</title><link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-1.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://vergol.com/live/plus1.php</page><referer>http://vercanalestv.com/tv/nacionales/canal-plus-1.html</referer></regex><thumbnail>http://www.movistarplus.es/assets/images/logo-cero-desk.png</thumbnail><fanart></fanart></item>
 
 <item><title>Movistar Series</title><link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/canal-plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://vergol.com/live1/plusseries.php</page><referer>http://vercanalestv.com/tv/nacionales/canal-plus-series.html</referer></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/150px-Movistar_Series.svg.png</thumbnail><fanart></fanart></item>
