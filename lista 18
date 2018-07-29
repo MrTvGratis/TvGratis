@@ -1,598 +1,117 @@
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/TvGratiskodi[/COLOR]
 http://paypal.me/TvGratiskodi
-#EXTINF:-1,-------------- | SPAIN | --------------
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11042.m3u8
-#EXTINF:-1,SP | Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17192.m3u8
-#EXTINF:-1,SP | Antena 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17191.m3u8
-#EXTINF:-1,SP | Antena Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17190.m3u8
-#EXTINF:-1,SP | AXN Spain
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17189.m3u8
-#EXTINF:-1,SP | AXN White Spain
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17188.m3u8
-#EXTINF:-1,SP | C  ACCIÓN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17187.m3u8
-#EXTINF:-1,SP | C  COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17186.m3u8
-#EXTINF:-1,SP | C  DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17185.m3u8
-#EXTINF:-1,SP | Calle 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17184.m3u8
-#EXTINF:-1,SP | Canal  Fútbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17183.m3u8
-#EXTINF:-1,SP | Canal  Golf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17182.m3u8
-#EXTINF:-1,SP | Canal  Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17181.m3u8
-#EXTINF:-1,SP | Canal  Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17180.m3u8
-#EXTINF:-1,SP | Canal 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17179.m3u8
-#EXTINF:-1,SP | Canal Decasa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17178.m3u8
-#EXTINF:-1,SP | Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17177.m3u8
-#EXTINF:-1,SP | Disney Junior Spain
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17176.m3u8
-#EXTINF:-1,SP | Factoria de Ficcion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17175.m3u8
-#EXTINF:-1,SP | Fox Life Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17174.m3u8
-#EXTINF:-1,SP | Fox Spain
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17173.m3u8
-#EXTINF:-1,SP | Garage TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17172.m3u8
-#EXTINF:-1,SP | La 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17171.m3u8
-#EXTINF:-1,SP | La 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17170.m3u8
-#EXTINF:-1,SP | La Sexta
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17169.m3u8
-#EXTINF:-1,SP | MOVISTAR F1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17168.m3u8
-#EXTINF:-1,SP | MOVISTAR MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17167.m3u8
-#EXTINF:-1,SP | NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17166.m3u8
-#EXTINF:-1,SP | National Geographic Spain
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17165.m3u8
-#EXTINF:-1,SP | Odisea
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17164.m3u8
-#EXTINF:-1,SP | Sol Música
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17163.m3u8
-#EXTINF:-1,SP | SyFy Universal Spain
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17162.m3u8
-#EXTINF:-1,SP | Telecinco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17161.m3u8
-#EXTINF:-1,SP | TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17160.m3u8
-#EXTINF:-1,SP | TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17159.m3u8
-#EXTINF:-1,SP | Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11034.m3u8
-#EXTINF:-1,SP | BEIN SPORT ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11025.m3u8
-#EXTINF:-1,SP | CANAL  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11027.m3u8
-#EXTINF:-1,SP | CANAL  DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11031.m3u8
-#EXTINF:-1,SP | CANAL  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11023.m3u8
-#EXTINF:-1,SP | CANAL ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11028.m3u8
-#EXTINF:-1,SP | CANAL HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11037.m3u8
-#EXTINF:-1,SP | CANAL SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11038.m3u8
-#EXTINF:-1,SP | CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11029.m3u8
-#EXTINF:-1,SP | CUATRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11036.m3u8
-#EXTINF:-1,SP | DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11040.m3u8
-#EXTINF:-1,SP | DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11041.m3u8
-#EXTINF:-1,SP | ENERGY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11035.m3u8
-#EXTINF:-1,SP | MEGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11033.m3u8
-#EXTINF:-1,SP | NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11022.m3u8
-#EXTINF:-1,SP | NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11026.m3u8
-#EXTINF:-1,SP | Taquilla1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11030.m3u8
-#EXTINF:-1,SP | Taquilla2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11032.m3u8
-#EXTINF:-1,SP | Taquilla3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11039.m3u8
-#EXTINF:-1,SP | Taquilla4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11021.m3u8
-#EXTINF:-1,SP | TVE LA1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11024.m3u8
-#EXTINF:-1,?????? ESPANHA ??????
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/11410.m3u8
-#EXTINF:-1,ES: Hollywood [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20465.m3u8
-#EXTINF:-1,ES: Movistar Accion [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20472.m3u8
-#EXTINF:-1,ES: Movistar Comedia [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20473.m3u8
-#EXTINF:-1,ES: Movistar DCine [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20474.m3u8
-#EXTINF:-1,ES: Movistar Estrenos [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20476.m3u8
-#EXTINF:-1,ES: Movistar Series [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20483.m3u8
-#EXTINF:-1,ES: Movistar Series Xtra [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20484.m3u8
-#EXTINF:-1,ES: Movistar Xtra [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20485.m3u8
-#EXTINF:-1,ES: Caza Y Pesca [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20447.m3u8
-#EXTINF:-1,ES: AXN [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20404.m3u8
-#EXTINF:-1,ES: AXN White [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20406.m3u8
-#EXTINF:-1,ES: Fox [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20462.m3u8
-#EXTINF:-1,ES: Fox Life [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20464.m3u8
-#EXTINF:-1,ES: Syfy [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20498.m3u8
-#EXTINF:-1,ES: TCM [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20499.m3u8
-#EXTINF:-1,ES: TNT [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20501.m3u8
-#EXTINF:-1,ES: Comedy Central [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20449.m3u8
-#EXTINF:-1,ES: Viajar FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20503.m3u8
-#EXTINF:-1,ES: Cosmo Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20452.m3u8
-#EXTINF:-1,ES: Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20455.m3u8
-#EXTINF:-1,ES: BeMad tv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23556.m3u8
-#EXTINF:-1,ES: Calle 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23557.m3u8
-#EXTINF:-1,ES: National Geographic [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20487.m3u8
-#EXTINF:-1,ES: National Geographic Wild [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20488.m3u8
-#EXTINF:-1,ES: SUNDANCE [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20496.m3u8
-#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20575.m3u8
-#EXTINF:-1,ES: Movistar Partidazo HD (event only)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20482.m3u8
-#EXTINF:-1,ES: Bein Sports ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20432.m3u8
-#EXTINF:-1,ES:Canal  TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23657.m3u8
-#EXTINF:-1,ES: Bein Sport HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23586.m3u8
-#EXTINF:-1,ES:Canal  DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23651.m3u8
-#EXTINF:-1,ES:Canal  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23650.m3u8
-#EXTINF:-1,ES: Bein Liga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23580.m3u8
-#EXTINF:-1,ES:Canal  FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23652.m3u8
-#EXTINF:-1,ES:Canal  GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23653.m3u8
-#EXTINF:-1,ES:Canal  LIGA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23654.m3u8
-#EXTINF:-1,ES:Canal  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23655.m3u8
-#EXTINF:-1,ES:TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23671.m3u8
-#EXTINF:-1,ES: La Liga BAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23623.m3u8
-#EXTINF:-1,ES : MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23558.m3u8
-#EXTINF:-1,ES: Canal  ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23599.m3u8
-#EXTINF:-1,ES: Canal DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23601.m3u8
-#EXTINF:-1,ES:Canal  SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23656.m3u8
-#EXTINF:-1,ES:Canal  XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23658.m3u8
-#EXTINF:-1,ES: Canal SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23604.m3u8
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23607.m3u8
-#EXTINF:-1,ES: ODISEA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23639.m3u8
-#EXTINF:-1,ES:ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23646.m3u8
-#EXTINF:-1,ES:AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23647.m3u8
-#EXTINF:-1,ES:CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23648.m3u8
-#EXTINF:-1,ES:CANAL  ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23649.m3u8
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23567.m3u8
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23618.m3u8
-#EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23620.m3u8
-#EXTINF:-1,ES: LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23673.m3u8
-#EXTINF:-1,ES: LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23622.m3u8
-#EXTINF:-1,ES:CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23659.m3u8
-#EXTINF:-1,ES:DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23660.m3u8
-#EXTINF:-1,ES:FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23662.m3u8
-#EXTINF:-1,ES:LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23674.m3u8
-#EXTINF:-1,ES:LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23664.m3u8
-#EXTINF:-1,ES:M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23665.m3u8
-#EXTINF:-1,ES:NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23666.m3u8
-#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23667.m3u8
-#EXTINF:-1,ES:TCM [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23669.m3u8
-#EXTINF:-1,ES:TELECINCO [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23670.m3u8
-#EXTINF:-1,ES: COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23608.m3u8
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23611.m3u8
-#EXTINF:-1,ES: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23636.m3u8
-#EXTINF:-1,ES:VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23672.m3u8
-#EXTINF:-1,ES: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23569.m3u8
-#EXTINF:-1,ES: BeiN La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23570.m3u8
-#EXTINF:-1,ES: Multideporte 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23627.m3u8
-#EXTINF:-1,ES: Multideporte 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23628.m3u8
-#EXTINF:-1,ES: Multideporte 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23629.m3u8
-#EXTINF:-1,ES: Multideporte 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23630.m3u8
-#EXTINF:-1,ES: Multideporte 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23631.m3u8
-#EXTINF:-1,ES: MULTIFUTBOOL 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23632.m3u8
-#EXTINF:-1,ES: MULTIFUTBOOL 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23633.m3u8
-#EXTINF:-1,ES: MULTIFUTBOOL 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23634.m3u8
-#EXTINF:-1,ES: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23562.m3u8
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23563.m3u8
-#EXTINF:-1,ES : movistar Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23560.m3u8
-#EXTINF:-1,ES: Bein Sports
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23597.m3u8
-#EXTINF:-1,ES : MOVISTAR MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23561.m3u8
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23559.m3u8
-#EXTINF:-1,ES: 40 TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23564.m3u8
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23565.m3u8
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23566.m3u8
-#EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23615.m3u8
-#EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23616.m3u8
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23617.m3u8
-#EXTINF:-1,ES: GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23619.m3u8
-#EXTINF:-1,ES: IBERALIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23621.m3u8
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23624.m3u8
-#EXTINF:-1,ES: MOVISTAR DISNEY SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23625.m3u8
-#EXTINF:-1,ES: MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23626.m3u8
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23568.m3u8
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23598.m3u8
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23600.m3u8
-#EXTINF:-1,ES: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23602.m3u8
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23635.m3u8
-#EXTINF:-1,ES: Nonstop People
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23637.m3u8
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23638.m3u8
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23640.m3u8
-#EXTINF:-1,ES: Paramount
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23641.m3u8
-#EXTINF:-1,ES: Real Madrid Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23642.m3u8
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23643.m3u8
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23644.m3u8
-#EXTINF:-1,ES: XTRM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23645.m3u8
-#EXTINF:-1,ES:DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23661.m3u8
-#EXTINF:-1,ES:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23663.m3u8
-#EXTINF:-1,ES:NICK Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23668.m3u8
-#EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23603.m3u8
-#EXTINF:-1,ES: Caza y pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23605.m3u8
-#EXTINF:-1,ES: Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23606.m3u8
-#EXTINF:-1,ES: Crimen Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23609.m3u8
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23610.m3u8
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23612.m3u8
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23613.m3u8
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23614.m3u8
-#EXTINF:-1,-----DEPORTE MUNDIAL-----
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20003.m3u8
-#EXTINF:-1,ES: BeiN La Liga Max 1 [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20412.m3u8
-#EXTINF:-1,ES: beIN LaLiga Max 2 [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20416.m3u8
-#EXTINF:-1,ES: BeiN Sports Max 1 [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20434.m3u8
-#EXTINF:-1,ES: BeiN Sports Max 2 [1080]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/20436.m3u8
-#EXTINF:-1,ES: BeiN La Liga Max 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23571.m3u8
-#EXTINF:-1,ES: beIN LaLiga Max 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23574.m3u8
-#EXTINF:-1,ES: BeiN LaLiga Max 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23575.m3u8
-#EXTINF:-1,ES: BeiN LaLiga Max 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23576.m3u8
-#EXTINF:-1,ES: BeiN LaLiga Max 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23577.m3u8
-#EXTINF:-1,ES: BeiN LaLiga Max 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23578.m3u8
-#EXTINF:-1,ES: BeiN Laliga Max 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23579.m3u8
-#EXTINF:-1,ES: BeiN Sports Max 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23553.m3u8
-#EXTINF:-1,ES: BeiN Sports Max 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23554.m3u8
-#EXTINF:-1,ES: BeiN Sports Max 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23555.m3u8
-#EXTINF:-1,ES: Bein Max 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23581.m3u8
-#EXTINF:-1,ES: Bein Max 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23582.m3u8
-#EXTINF:-1,ES: Bein Max 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23583.m3u8
-#EXTINF:-1,ES: Bein Max 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23584.m3u8
-#EXTINF:-1,ES: Bein Max 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23585.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23587.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23589.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23590.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23591.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23592.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23593.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23594.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 8 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23595.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 9 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23596.m3u8
-#EXTINF:-1,ES: BEIN SPORT MAX 10 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.latintvweb.com:8000/live/IRksN0HuWN/QGnUECLJYK/23588.m3u8
 
-#EXTINF:-1,-----------MOVISTAR ESPAÑA FHD --------------
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/6768.m3u8
-#EXTINF:-1,ES: BEIN SPORT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/6000.m3u8
-#EXTINF:-1,ES: BEIN LA LIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/5999.m3u8
-#EXTINF:-1,ES: EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/755.m3u8
-#EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/6001.m3u8
-#EXTINF:-1,ES: MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/494.m3u8
-#EXTINF:-1,ES: MOVISTAR FUTBOL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/5997.m3u8
-#EXTINF:-1,ES: MOVISTAR+ DEPORTES 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/288.m3u8
-#EXTINF:-1,ES: MOVISTAR+ DEPORTES 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/289.m3u8
-#EXTINF:-1,ES:MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/688.m3u8
-#EXTINF:-1,ES: MOVISTAR+ MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/513.m3u8
-#EXTINF:-1,ES: MOVISTAR TOROS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/812.m3u8
-#EXTINF:-1,ES: CAZA Y PESCA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/819.m3u8
-#EXTINF:-1,ES: LA LIGA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/5998.m3u8
-#EXTINF:-1,ES: LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/341.m3u8
-#EXTINF:-1,ES: ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/219.m3u8
-#EXTINF:-1,ES: CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/221.m3u8
-#EXTINF:-1,ES: TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/314.m3u8
-#EXTINF:-1,ES: LA SEXTA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1429.m3u8
-#EXTINF:-1,ES: #0 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/325.m3u8
-#EXTINF:-1,ES: MOVISTAR+ ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1527.m3u8
-#EXTINF:-1,ES: MOVISTAR+  COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1526.m3u8
-#EXTINF:-1,ES: MOVISTAR+ DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1525.m3u8
-#EXTINF:-1,ES: MOVISTAR+ ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1523.m3u8
-#EXTINF:-1,ES: MOVISTAR + SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1524.m3u8
-#EXTINF:-1,ES: MOVISTAR+ SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1528.m3u8
-#EXTINF:-1,ES: MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1600.m3u8
-#EXTINF:-1,ES: CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/324.m3u8
-#EXTINF:-1,ES: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/327.m3u8
-#EXTINF:-1,ES: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/984.m3u8
-#EXTINF:-1,ES: AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/419.m3u8
-#EXTINF:-1,ES: AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/261.m3u8
-#EXTINF:-1,ES: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1541.m3u8
-#EXTINF:-1,ES: TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1380.m3u8
-#EXTINF:-1,ES: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1529.m3u8
-#EXTINF:-1,ES: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/575.m3u8
-#EXTINF:-1,ES: TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/996.m3u8
-#EXTINF:-1,ES: COSMO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/272.m3u8
-#EXTINF:-1,ES: VIAJAR FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/117.m3u8
-#EXTINF:-1,ES: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/609.m3u8
-#EXTINF:-1,ES: HISTORIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/564.m3u8
-#EXTINF:-1,ES: NAT GEO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/510.m3u8
-#EXTINF:-1,ES: NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1545.m3u8
-#EXTINF:-1,ES: DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/308.m3u8
-#EXTINF:-1,ES: NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/470.m3u8
-#EXTINF:-1,ES: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/222.m3u8
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/253.m3u8
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/259.m3u8
-#EXTINF:-1,ES: A3SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/229.m3u8
-#EXTINF:-1,ES: MOVISTAR+ ACCION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/235.m3u8
-#EXTINF:-1,ES: MOVISTAR+ COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/237.m3u8
-#EXTINF:-1,ES: MOVISTAR+ DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/239.m3u8
-#EXTINF:-1,ES: MOVISTAR+ ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/242.m3u8
-#EXTINF:-1,ES: MOVISTAR+ SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/246.m3u8
-#EXTINF:-1,ES: MOVISTAR+ SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/244.m3u8
-#EXTINF:-1,ES: MOVISTAR+  XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/248.m3u8
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/263.m3u8
-#EXTINF:-1,ES: FOX LIFE HD.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/265.m3u8
-#EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/251.m3u8
-#EXTINF:-1,ES: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/249.m3u8
-#EXTINF:-1,ES: SYFY HD.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/267.m3u8
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/255.m3u8
-#EXTINF:-1,ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/257.m3u8
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/309.m3u8
-#EXTINF:-1,ES: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/310.m3u8
-#EXTINF:-1,ES: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/304.m3u8
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1004.m3u8
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/293.m3u8
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/311.m3u8
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/291.m3u8
-#EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1012.m3u8
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/231.m3u8
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/294.m3u8
-#EXTINF:-1,ES: HISTORIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/296.m3u8
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/300.m3u8
-#EXTINF:-1,ES: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/302.m3u8
-#EXTINF:-1,ES: VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/295.m3u8
-#EXTINF:-1,ES: #O
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/233.m3u8
-#EXTINF:-1,ES: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/269.m3u8
-#EXTINF:-1,ES: 24H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/545.m3u8
-#EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/321.m3u8
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/230.m3u8
-#EXTINF:-1,ES: LA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/218.m3u8
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/227.m3u8
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/228.m3u8
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/1431.m3u8
-#EXTINF:-1,ES: ODISEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/297.m3u8
-#EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://147.135.128.132:8000/live/ignacia/ignacia/224.m3u8
+
+#EXTINF:-1,-------------- | SPAIN | --------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11042.ts
+#EXTINF:-1,SP | Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17192.ts
+#EXTINF:-1,SP | Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17191.ts
+#EXTINF:-1,SP | Antena Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17190.ts
+#EXTINF:-1,SP | AXN Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17189.ts
+#EXTINF:-1,SP | AXN White Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17188.ts
+#EXTINF:-1,SP | C  ACCIÓN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17187.ts
+#EXTINF:-1,SP | C  COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17186.ts
+#EXTINF:-1,SP | C  DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17185.ts
+#EXTINF:-1,SP | Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17184.ts
+#EXTINF:-1,SP | Canal  Fútbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17183.ts
+#EXTINF:-1,SP | Canal  Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17182.ts
+#EXTINF:-1,SP | Canal  Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17181.ts
+#EXTINF:-1,SP | Canal  Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17180.ts
+#EXTINF:-1,SP | Canal 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17179.ts
+#EXTINF:-1,SP | Canal Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17178.ts
+#EXTINF:-1,SP | Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17177.ts
+#EXTINF:-1,SP | Disney Junior Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17176.ts
+#EXTINF:-1,SP | Factoria de Ficcion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17175.ts
+#EXTINF:-1,SP | Fox Life Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17174.ts
+#EXTINF:-1,SP | Fox Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17173.ts
+#EXTINF:-1,SP | Garage TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17172.ts
+#EXTINF:-1,SP | La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17171.ts
+#EXTINF:-1,SP | La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17170.ts
+#EXTINF:-1,SP | La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17169.ts
+#EXTINF:-1,SP | MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17168.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17167.ts
+#EXTINF:-1,SP | NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17166.ts
+#EXTINF:-1,SP | National Geographic Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17165.ts
+#EXTINF:-1,SP | Odisea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17164.ts
+#EXTINF:-1,SP | Sol Música
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17163.ts
+#EXTINF:-1,SP | SyFy Universal Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17162.ts
+#EXTINF:-1,SP | Telecinco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17161.ts
+#EXTINF:-1,SP | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17160.ts
+#EXTINF:-1,SP | TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17159.ts
+#EXTINF:-1,SP | Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11034.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11025.ts
+#EXTINF:-1,SP | CANAL  COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11027.ts
+#EXTINF:-1,SP | CANAL  DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11031.ts
+#EXTINF:-1,SP | CANAL  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11023.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11028.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11037.ts
+#EXTINF:-1,SP | CANAL SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11038.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11029.ts
+#EXTINF:-1,SP | CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11036.ts
+#EXTINF:-1,SP | DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11040.ts
+#EXTINF:-1,SP | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11041.ts
+#EXTINF:-1,SP | ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11035.ts
+#EXTINF:-1,SP | MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11033.ts
+#EXTINF:-1,SP | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11022.ts
+#EXTINF:-1,SP | NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11026.ts
+#EXTINF:-1,SP | Taquilla1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11030.ts
+#EXTINF:-1,SP | Taquilla2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11032.ts
+#EXTINF:-1,SP | Taquilla3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11039.ts
+#EXTINF:-1,SP | Taquilla4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11021.ts
+#EXTINF:-1,SP | TVE LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11024.ts
