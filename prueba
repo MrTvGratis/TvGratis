@@ -1,1281 +1,1208 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/TvGratiskodi[/COLOR]
-http://paypal.me/TvGratiskodi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://paypal.me/TvGratiskodi
 
 
 
 #EXTINF:-1,â–? â–‚ â–„ â–… â–†â˜† LATINO â˜†â–† â–… â–„ â–‚ â–?
-http://
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://
 #EXTINF:-1,LA_ECO TV 270p
-http://54.37.255.204:9977/live/leon/iptv/23186.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23186.ts
 #EXTINF:-1,LA_ECO TV 480p
-http://54.37.255.204:9977/live/leon/iptv/22573.m3u8
-#EXTINF:-1,LA_FHD: Cinema 01 PPV
-http://54.37.255.204:9977/live/leon/iptv/22658.m3u8
-#EXTINF:-1,LA_FHD: Cinema 02 PPV
-http://54.37.255.204:9977/live/leon/iptv/22657.m3u8
-#EXTINF:-1,LA_FHD: Cinema 03 PPV
-http://54.37.255.204:9977/live/leon/iptv/22656.m3u8
-#EXTINF:-1,LA_FHD: Cinema 04 PPV
-http://54.37.255.204:9977/live/leon/iptv/22655.m3u8
-#EXTINF:-1,LA_FHD: Cinema 05 PPV
-http://54.37.255.204:9977/live/leon/iptv/22654.m3u8
-#EXTINF:-1,LA_FHD: Cinema 06 PPV
-http://54.37.255.204:9977/live/leon/iptv/22653.m3u8
-#EXTINF:-1,LA_FHD: Cinema 07 PPV
-http://54.37.255.204:9977/live/leon/iptv/22652.m3u8
-#EXTINF:-1,LA_FHD: Cinema 08 PPV
-http://54.37.255.204:9977/live/leon/iptv/22651.m3u8
-#EXTINF:-1,LA_FHD: Cinema 09 PPV
-http://54.37.255.204:9977/live/leon/iptv/22650.m3u8
-#EXTINF:-1,LA_FHD: Cinema 10 PPV
-http://54.37.255.204:9977/live/leon/iptv/22649.m3u8
-#EXTINF:-1,LA_FHD: Cinema 11 PPV
-http://54.37.255.204:9977/live/leon/iptv/22648.m3u8
-#EXTINF:-1,LA_FHD: Cinema 12 PPV
-http://54.37.255.204:9977/live/leon/iptv/22647.m3u8
-#EXTINF:-1,LA_FHD: Cinema 13 PPV
-http://54.37.255.204:9977/live/leon/iptv/22646.m3u8
-#EXTINF:-1,LA_FHD: Cinema 14 PPV
-http://54.37.255.204:9977/live/leon/iptv/22645.m3u8
-#EXTINF:-1,LA_FHD: Cinema 15 PPV
-http://54.37.255.204:9977/live/leon/iptv/22644.m3u8
-#EXTINF:-1,LA_FHD: Cinema 16 PPV
-http://54.37.255.204:9977/live/leon/iptv/22643.m3u8
-#EXTINF:-1,LA_FHD: Cinema 17 PPV
-http://54.37.255.204:9977/live/leon/iptv/22642.m3u8
-#EXTINF:-1,LA_FHD: Cinema 18 PPV
-http://54.37.255.204:9977/live/leon/iptv/22641.m3u8
-#EXTINF:-1,LA_FHD: Cinema 19 PPV
-http://54.37.255.204:9977/live/leon/iptv/22640.m3u8
-#EXTINF:-1,LA_FHD: Cinema 20 PPV
-http://54.37.255.204:9977/live/leon/iptv/22639.m3u8
-#EXTINF:-1,LA_FHD: Cinema 21 PPV
-http://54.37.255.204:9977/live/leon/iptv/22638.m3u8
-#EXTINF:-1,LA_FHD: Cinema 22 PPV
-http://54.37.255.204:9977/live/leon/iptv/22637.m3u8
-#EXTINF:-1,LA_FHD: Cinema 23 PPV
-http://54.37.255.204:9977/live/leon/iptv/22636.m3u8
-#EXTINF:-1,LA_FHD: Cinema 24 PPV
-http://54.37.255.204:9977/live/leon/iptv/22635.m3u8
-#EXTINF:-1,LA_FHD: Cinema 25 PPV
-http://54.37.255.204:9977/live/leon/iptv/22634.m3u8
-#EXTINF:-1,LA_FHD: Cinema 26 PPV
-http://54.37.255.204:9977/live/leon/iptv/22633.m3u8
-#EXTINF:-1,LA_FHD: Cinema 27 PPV
-http://54.37.255.204:9977/live/leon/iptv/22632.m3u8
-#EXTINF:-1,LA_FHD: Cinema 28 PPV
-http://54.37.255.204:9977/live/leon/iptv/22631.m3u8
-#EXTINF:-1,LA_FHD: Cinema 29 PPV
-http://54.37.255.204:9977/live/leon/iptv/22630.m3u8
-#EXTINF:-1,LA_FHD: Cinema 30 PPV
-http://54.37.255.204:9977/live/leon/iptv/22629.m3u8
-#EXTINF:-1,LA_FHD: Cinema 31 PPV
-http://54.37.255.204:9977/live/leon/iptv/22628.m3u8
-#EXTINF:-1,LA_FHD: Cinema 32 PPV
-http://54.37.255.204:9977/live/leon/iptv/22627.m3u8
-#EXTINF:-1,LA_FHD: Cinema 33 PPV
-http://54.37.255.204:9977/live/leon/iptv/22626.m3u8
-#EXTINF:-1,LA_FHD: Cinema 34 PPV
-http://54.37.255.204:9977/live/leon/iptv/22625.m3u8
-#EXTINF:-1,LA_FHD: Cinema 35 PPV
-http://54.37.255.204:9977/live/leon/iptv/22624.m3u8
-#EXTINF:-1,LA_FHD: Cinema 36 PPV
-http://54.37.255.204:9977/live/leon/iptv/22623.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22573.ts
 #EXTINF:-1,LA_FHD: Cinemax Action HD
-http://54.37.255.204:9977/live/leon/iptv/22622.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22622.ts
 #EXTINF:-1,LA_FHD: Cinemax East HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22621.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22621.ts
 #EXTINF:-1,LA_FHD: Cinemax HD 1080i
-http://54.37.255.204:9977/live/leon/iptv/22620.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22620.ts
 #EXTINF:-1,LA_FHD: HBO East HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22619.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22619.ts
 #EXTINF:-1,LA_FHD: HBO Family HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22618.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22618.ts
 #EXTINF:-1,LA_FHD: HBO Plus HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22617.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22617.ts
 #EXTINF:-1,LA_FHD: HBO Plus West HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22616.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22616.ts
 #EXTINF:-1,LA_FHD: HBO SIGNATURE HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22615.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22615.ts
 #EXTINF:-1,LA_FHD: HBO West HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22614.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22614.ts
 #EXTINF:-1,LA_FHD: IndiePlex HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22613.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22613.ts
 #EXTINF:-1,LA_FHD: MoreMax HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22612.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22612.ts
 #EXTINF:-1,LA_FHD: MovieMax HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22611.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22611.ts
 #EXTINF:-1,LA_FHD: MoviePlex HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22610.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22610.ts
 #EXTINF:-1,LA_FHD: Music Top HD
-http://54.37.255.204:9977/live/leon/iptv/22713.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22713.ts
 #EXTINF:-1,LA_FHD: OuterMax HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22609.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22609.ts
 #EXTINF:-1,LA_FHD: RetroPlex HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22608.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22608.ts
 #EXTINF:-1,LA_FHD: Showtime Beyond HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22607.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22607.ts
 #EXTINF:-1,LA_FHD: Showtime East HD
-http://54.37.255.204:9977/live/leon/iptv/22606.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22606.ts
 #EXTINF:-1,LA_FHD: Showtime HD
-http://54.37.255.204:9977/live/leon/iptv/22605.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22605.ts
 #EXTINF:-1,LA_FHD: SHOWTIME HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22604.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22604.ts
 #EXTINF:-1,LA_FHD: Showtime West HD
-http://54.37.255.204:9977/live/leon/iptv/22603.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22603.ts
 #EXTINF:-1,LA_FHD: Starz Black HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22602.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22602.ts
 #EXTINF:-1,LA_FHD: Starz Cinema HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22601.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22601.ts
 #EXTINF:-1,LA_FHD: Starz Comedy HD
-http://54.37.255.204:9977/live/leon/iptv/22600.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22600.ts
 #EXTINF:-1,LA_FHD: Starz Comedy HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22599.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22599.ts
 #EXTINF:-1,LA_FHD: Starz East HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22598.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22598.ts
 #EXTINF:-1,LA_FHD: Starz Edge HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22597.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22597.ts
 #EXTINF:-1,LA_FHD: Starz Encore Action 1080P
-http://54.37.255.204:9977/live/leon/iptv/22596.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22596.ts
 #EXTINF:-1,LA_FHD: Starz Encore Black HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22595.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22595.ts
 #EXTINF:-1,LA_FHD: Starz Encore Classic HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22594.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22594.ts
 #EXTINF:-1,LA_FHD: Starz Encore Family HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22593.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22593.ts
 #EXTINF:-1,LA_FHD: Starz Encore HD
-http://54.37.255.204:9977/live/leon/iptv/22592.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22592.ts
 #EXTINF:-1,LA_FHD: Starz Encore HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22591.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22591.ts
 #EXTINF:-1,LA_FHD: Starz Encore Suspense HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22590.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22590.ts
 #EXTINF:-1,LA_FHD: Starz Encore Western HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22589.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22589.ts
 #EXTINF:-1,LA_FHD: Starz Family HD
-http://54.37.255.204:9977/live/leon/iptv/22588.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22588.ts
 #EXTINF:-1,LA_FHD: Starz HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22587.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22587.ts
 #EXTINF:-1,LA_FHD: Starz Kids & Family HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22586.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22586.ts
 #EXTINF:-1,LA_FHD: Starz West HD_1080P
-http://54.37.255.204:9977/live/leon/iptv/22585.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22585.ts
 #EXTINF:-1,LA_FHD:A 24 HD
-http://54.37.255.204:9977/live/leon/iptv/22825.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22825.ts
 #EXTINF:-1,LA_FHD:A&E
-http://54.37.255.204:9977/live/leon/iptv/22779.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22779.ts
 #EXTINF:-1,LA_FHD:A3 SERIES HD
-http://54.37.255.204:9977/live/leon/iptv/22709.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22709.ts
 #EXTINF:-1,LA_FHD:AMC HD
-http://54.37.255.204:9977/live/leon/iptv/22780.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22780.ts
 #EXTINF:-1,LA_FHD:AMC_HD
-http://54.37.255.204:9977/live/leon/iptv/22848.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22848.ts
 #EXTINF:-1,LA_FHD:AMERICA TV HD
-http://54.37.255.204:9977/live/leon/iptv/22824.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22824.ts
 #EXTINF:-1,LA_FHD:ANIMAL PLANET HD
-http://54.37.255.204:9977/live/leon/iptv/22710.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22710.ts
 #EXTINF:-1,LA_FHD:Antena 3 HD
-http://54.37.255.204:9977/live/leon/iptv/22572.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22572.ts
 #EXTINF:-1,LA_FHD:ANTENA 3 SERIES
-http://54.37.255.204:9977/live/leon/iptv/22739.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22739.ts
 #EXTINF:-1,LA_FHD:AUTOS MUNDO HD
-http://54.37.255.204:9977/live/leon/iptv/22708.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22708.ts
 #EXTINF:-1,LA_FHD:AXN HD
-http://54.37.255.204:9977/live/leon/iptv/22732.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22732.ts
 #EXTINF:-1,LA_FHD:Azteca Cinema HD
-http://54.37.255.204:9977/live/leon/iptv/22667.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22667.ts
 #EXTINF:-1,LA_FHD:Azteca CorazÃ³n HD
-http://54.37.255.204:9977/live/leon/iptv/22707.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22707.ts
 #EXTINF:-1,LA_FHD:BABY TV
-http://54.37.255.204:9977/live/leon/iptv/22686.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22686.ts
 #EXTINF:-1,LA_FHD:BANDAMAX HD
-http://54.37.255.204:9977/live/leon/iptv/22811.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22811.ts
 #EXTINF:-1,LA_FHD:BEIN SPORT_USA
-http://54.37.255.204:9977/live/leon/iptv/22800.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22800.ts
 #EXTINF:-1,LA_FHD:BLOOMBERG HD
-http://54.37.255.204:9977/live/leon/iptv/22684.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22684.ts
 #EXTINF:-1,LA_FHD:BOOMERANG
-http://54.37.255.204:9977/live/leon/iptv/22706.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22706.ts
 #EXTINF:-1,LA_FHD:BOX NATION
-http://54.37.255.204:9977/live/leon/iptv/22747.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22747.ts
 #EXTINF:-1,LA_FHD:C5N ARGENTNA SD/HD
-http://54.37.255.204:9977/live/leon/iptv/22672.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22672.ts
 #EXTINF:-1,LA_FHD:CANAL 11 HD HONDURAS
-http://54.37.255.204:9977/live/leon/iptv/22746.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22746.ts
 #EXTINF:-1,LA_FHD:CANAL 26 HD
-http://54.37.255.204:9977/live/leon/iptv/22823.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22823.ts
 #EXTINF:-1,LA_FHD:CANAL 4 ARG
-http://54.37.255.204:9977/live/leon/iptv/22717.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22717.ts
 #EXTINF:-1,LA_FHD:CANAL 4 HD
-http://54.37.255.204:9977/live/leon/iptv/22677.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22677.ts
 #EXTINF:-1,LA_FHD:CANAL 5 HONDURAS
-http://54.37.255.204:9977/live/leon/iptv/22738.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22738.ts
 #EXTINF:-1,LA_FHD:CANAL DE LAS ESTRELLAS HD
-http://54.37.255.204:9977/live/leon/iptv/22676.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22676.ts
 #EXTINF:-1,LA_FHD:CANAL N URUGUAY
-http://54.37.255.204:9977/live/leon/iptv/22661.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22661.ts
 #EXTINF:-1,LA_FHD:CANAL ONCE INTER
-http://54.37.255.204:9977/live/leon/iptv/22737.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22737.ts
 #EXTINF:-1,LA_FHD:CANAL TRO
-http://54.37.255.204:9977/live/leon/iptv/22570.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22570.ts
 #EXTINF:-1,LA_FHD:CANAL UNO
-http://54.37.255.204:9977/live/leon/iptv/22569.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22569.ts
 #EXTINF:-1,LA_FHD:CARACOL HD
-http://54.37.255.204:9977/live/leon/iptv/22714.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22714.ts
 #EXTINF:-1,LA_FHD:CARTOON NETWORK_HD
-http://54.37.255.204:9977/live/leon/iptv/22847.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22847.ts
 #EXTINF:-1,LA_FHD:CDF PREMIUM HD
-http://54.37.255.204:9977/live/leon/iptv/22736.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22736.ts
 #EXTINF:-1,LA_FHD:CDN 37 HD
-http://54.37.255.204:9977/live/leon/iptv/22712.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22712.ts
 #EXTINF:-1,LA_FHD:CDN RD
-http://54.37.255.204:9977/live/leon/iptv/22745.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22745.ts
 #EXTINF:-1,LA_FHD:CDN SPORTMAX HD
-http://54.37.255.204:9977/live/leon/iptv/22711.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22711.ts
 #EXTINF:-1,LA_FHD:CDO BASICO HD
-http://54.37.255.204:9977/live/leon/iptv/22803.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22803.ts
 #EXTINF:-1,LA_FHD:CHV HD
-http://54.37.255.204:9977/live/leon/iptv/22726.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22726.ts
 #EXTINF:-1,LA_FHD:CINE SONY
-http://54.37.255.204:9977/live/leon/iptv/22705.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22705.ts
 #EXTINF:-1,LA_FHD:CINECANAL HD
-http://54.37.255.204:9977/live/leon/iptv/22833.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22833.ts
 #EXTINF:-1,LA_FHD:CINEMAX
-http://54.37.255.204:9977/live/leon/iptv/22772.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22772.ts
 #EXTINF:-1,LA_FHD:CIUDAD MAGAZINA_ARG
-http://54.37.255.204:9977/live/leon/iptv/22581.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22581.ts
 #EXTINF:-1,LA_FHD:Claro Sports HD
-http://54.37.255.204:9977/live/leon/iptv/22584.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22584.ts
 #EXTINF:-1,LA_FHD:CNN ESPANOL
-http://54.37.255.204:9977/live/leon/iptv/22704.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22704.ts
 #EXTINF:-1,LA_FHD:CNN INT HD
-http://54.37.255.204:9977/live/leon/iptv/22846.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22846.ts
 #EXTINF:-1,LA_FHD:CNT SPORT_FHD
-http://54.37.255.204:9977/live/leon/iptv/22673.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22673.ts
 #EXTINF:-1,LA_FHD:CNT SPORT_HD
-http://54.37.255.204:9977/live/leon/iptv/22583.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22583.ts
 #EXTINF:-1,LA_FHD:COLORVISION
-http://54.37.255.204:9977/live/leon/iptv/22744.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22744.ts
 #EXTINF:-1,LA_FHD:COMEDY CENTRAL
-http://54.37.255.204:9977/live/leon/iptv/22771.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22771.ts
 #EXTINF:-1,LA_FHD:CONCERT CHANEL SD/HD
-http://54.37.255.204:9977/live/leon/iptv/22703.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22703.ts
 #EXTINF:-1,LA_FHD:CRONICA SD/HD
-http://54.37.255.204:9977/live/leon/iptv/22730.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22730.ts
 #EXTINF:-1,LA_FHD:DE PELICULA HD
-http://54.37.255.204:9977/live/leon/iptv/22763.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22763.ts
 #EXTINF:-1,LA_FHD:DEPORTV HD
-http://54.37.255.204:9977/live/leon/iptv/22765.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22765.ts
 #EXTINF:-1,LA_FHD:DIGITAL 15 HD RD
-http://54.37.255.204:9977/live/leon/iptv/22750.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22750.ts
 #EXTINF:-1,LA_FHD:Directv Sport
-http://54.37.255.204:9977/live/leon/iptv/22850.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22850.ts
 #EXTINF:-1,LA_FHD:Directv Sport 1
-http://54.37.255.204:9977/live/leon/iptv/22725.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22725.ts
 #EXTINF:-1,LA_FHD:Directv Sport 2
-http://54.37.255.204:9977/live/leon/iptv/22851.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22851.ts
 #EXTINF:-1,LA_FHD:DISCOVERY CH HD
-http://54.37.255.204:9977/live/leon/iptv/22832.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22832.ts
 #EXTINF:-1,LA_FHD:DISCOVERY H&H
-http://54.37.255.204:9977/live/leon/iptv/22755.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22755.ts
 #EXTINF:-1,LA_FHD:DISCOVERY ID HD
-http://54.37.255.204:9977/live/leon/iptv/22753.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22753.ts
 #EXTINF:-1,LA_FHD:DISCOVERY KIDS HD
-http://54.37.255.204:9977/live/leon/iptv/22685.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22685.ts
 #EXTINF:-1,LA_FHD:DISCOVERY SHED_EN
-http://54.37.255.204:9977/live/leon/iptv/22799.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22799.ts
 #EXTINF:-1,LA_FHD:DISCOVERY THEATER HD
-http://54.37.255.204:9977/live/leon/iptv/22702.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22702.ts
 #EXTINF:-1,LA_FHD:DISCOVERY TURBO HD
-http://54.37.255.204:9977/live/leon/iptv/22754.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22754.ts
 #EXTINF:-1,LA_FHD:DISCOVERY WORLD HD
-http://54.37.255.204:9977/live/leon/iptv/22764.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22764.ts
 #EXTINF:-1,LA_FHD:DISNEY CHANEL HD
-http://54.37.255.204:9977/live/leon/iptv/22701.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22701.ts
 #EXTINF:-1,LA_FHD:EL GOURMET HD
-http://54.37.255.204:9977/live/leon/iptv/22845.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22845.ts
 #EXTINF:-1,LA_FHD:EL NUEVE HD
-http://54.37.255.204:9977/live/leon/iptv/22822.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22822.ts
 #EXTINF:-1,LA_FHD:EL PINGUINO HD
-http://54.37.255.204:9977/live/leon/iptv/22722.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22722.ts
 #EXTINF:-1,LA_FHD:EL TRECE HD
-http://54.37.255.204:9977/live/leon/iptv/22821.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22821.ts
 #EXTINF:-1,LA_FHD:ESPN 2 HD
-http://54.37.255.204:9977/live/leon/iptv/22844.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22844.ts
 #EXTINF:-1,LA_FHD:ESPN 3 HD
-http://54.37.255.204:9977/live/leon/iptv/22843.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22843.ts
 #EXTINF:-1,LA_FHD:ESPN DEPORTES/Network HD
-http://54.37.255.204:9977/live/leon/iptv/22798.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22798.ts
 #EXTINF:-1,LA_FHD:ESPN HD
-http://54.37.255.204:9977/live/leon/iptv/22842.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22842.ts
 #EXTINF:-1,LA_FHD:ESPN PLUS HD
-http://54.37.255.204:9977/live/leon/iptv/22723.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22723.ts
 #EXTINF:-1,LA_FHD:ESTADIO 2 CDF_HD
-http://54.37.255.204:9977/live/leon/iptv/22669.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22669.ts
 #EXTINF:-1,LA_FHD:ESTADIO 3 CDF_HD
-http://54.37.255.204:9977/live/leon/iptv/22668.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22668.ts
 #EXTINF:-1,LA_FHD:ESTADIO CDF_HD
-http://54.37.255.204:9977/live/leon/iptv/22670.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22670.ts
 #EXTINF:-1,LA_FHD:FOOD NETWORK HD
-http://54.37.255.204:9977/live/leon/iptv/22762.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22762.ts
 #EXTINF:-1,LA_FHD:FORO TV
-http://54.37.255.204:9977/live/leon/iptv/22662.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22662.ts
 #EXTINF:-1,LA_FHD:FOX ACTION
-http://54.37.255.204:9977/live/leon/iptv/22724.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22724.ts
 #EXTINF:-1,LA_FHD:FOX CINEMA HD
-http://54.37.255.204:9977/live/leon/iptv/22700.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22700.ts
 #EXTINF:-1,LA_FHD:FOX Classics
-http://54.37.255.204:9977/live/leon/iptv/22578.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22578.ts
 #EXTINF:-1,LA_FHD:FOX COMEDY HD
-http://54.37.255.204:9977/live/leon/iptv/22659.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22659.ts
 #EXTINF:-1,LA_FHD:FOX DEPORTES HD
-http://54.37.255.204:9977/live/leon/iptv/22797.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22797.ts
 #EXTINF:-1,LA_FHD:FOX FAMILY HD
-http://54.37.255.204:9977/live/leon/iptv/22807.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22807.ts
 #EXTINF:-1,LA_FHD:FOX HD
-http://54.37.255.204:9977/live/leon/iptv/22831.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22831.ts
 #EXTINF:-1,LA_FHD:FOX LATAM
-http://54.37.255.204:9977/live/leon/iptv/22567.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22567.ts
 #EXTINF:-1,LA_FHD:FOX LIFE HD
-http://54.37.255.204:9977/live/leon/iptv/22699.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22699.ts
 #EXTINF:-1,LA_FHD:FOX MOVIES HD
-http://54.37.255.204:9977/live/leon/iptv/22810.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22810.ts
 #EXTINF:-1,LA_FHD:FOX NEWS
-http://54.37.255.204:9977/live/leon/iptv/22675.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22675.ts
 #EXTINF:-1,LA_FHD:FOX PERU
-http://54.37.255.204:9977/live/leon/iptv/22565.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22565.ts
 #EXTINF:-1,LA_FHD:FOX SERIES
-http://54.37.255.204:9977/live/leon/iptv/22781.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22781.ts
 #EXTINF:-1,LA_FHD:FOX SPORT 2 HD
-http://54.37.255.204:9977/live/leon/iptv/22830.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22830.ts
 #EXTINF:-1,LA_FHD:FOX SPORT 3 HD
-http://54.37.255.204:9977/live/leon/iptv/22829.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22829.ts
 #EXTINF:-1,LA_FHD:FOX SPORT HD
-http://54.37.255.204:9977/live/leon/iptv/22828.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22828.ts
 #EXTINF:-1,LA_FHD:FOX SPORTS 1 ARG
-http://54.37.255.204:9977/live/leon/iptv/22580.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22580.ts
 #EXTINF:-1,LA_FHD:FOX SPORTS 1 HD ARG
-http://54.37.255.204:9977/live/leon/iptv/22777.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22777.ts
 #EXTINF:-1,LA_FHD:FOX SPORTS 2 ARG
-http://54.37.255.204:9977/live/leon/iptv/22579.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22579.ts
 #EXTINF:-1,LA_FHD:FOX SPORTS 2 HD ARG
-http://54.37.255.204:9977/live/leon/iptv/22776.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22776.ts
 #EXTINF:-1,LA_FHD:FOX SPORTS 3 HD ARG
-http://54.37.255.204:9977/live/leon/iptv/22775.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22775.ts
 #EXTINF:-1,LA_FHD:FOX SPORTS PREMIUM HD
-http://54.37.255.204:9977/live/leon/iptv/22820.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22820.ts
 #EXTINF:-1,LA_FHD:FX HD
-http://54.37.255.204:9977/live/leon/iptv/22756.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22756.ts
 #EXTINF:-1,LA_FHD:FX LATAM
-http://54.37.255.204:9977/live/leon/iptv/22568.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22568.ts
 #EXTINF:-1,LA_FHD:FX MOVIE HD
-http://54.37.255.204:9977/live/leon/iptv/22752.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22752.ts
 #EXTINF:-1,LA_FHD:GALAVISION
-http://54.37.255.204:9977/live/leon/iptv/22790.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22790.ts
 #EXTINF:-1,LA_FHD:Gol TV HD
-http://54.37.255.204:9977/live/leon/iptv/22789.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22789.ts
 #EXTINF:-1,LA_FHD:GOLDEN HD
-http://54.37.255.204:9977/live/leon/iptv/22683.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22683.ts
 #EXTINF:-1,LA_FHD:GOLDEN PREMIER 2
-http://54.37.255.204:9977/live/leon/iptv/22778.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22778.ts
 #EXTINF:-1,LA_FHD:GOLDEN PREMIER HD
-http://54.37.255.204:9977/live/leon/iptv/22682.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22682.ts
 #EXTINF:-1,LA_FHD:HBO
-http://54.37.255.204:9977/live/leon/iptv/22852.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22852.ts
 #EXTINF:-1,LA_FHD:HBO 2 HD
-http://54.37.255.204:9977/live/leon/iptv/22788.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22788.ts
 #EXTINF:-1,LA_FHD:HBO FAMILY
-http://54.37.255.204:9977/live/leon/iptv/22671.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22671.ts
 #EXTINF:-1,LA_FHD:HBO PLUS HD
-http://54.37.255.204:9977/live/leon/iptv/22787.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22787.ts
 #EXTINF:-1,LA_FHD:HBO SIGNATURE HD
-http://54.37.255.204:9977/live/leon/iptv/22786.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22786.ts
 #EXTINF:-1,LA_FHD:HISTORY HD
-http://54.37.255.204:9977/live/leon/iptv/22773.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22773.ts
 #EXTINF:-1,LA_FHD:HOLA TV HD
-http://54.37.255.204:9977/live/leon/iptv/22715.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22715.ts
 #EXTINF:-1,LA_FHD:HTV
-http://54.37.255.204:9977/live/leon/iptv/22698.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22698.ts
 #EXTINF:-1,LA_FHD:KOMBAT SPORT
-http://54.37.255.204:9977/live/leon/iptv/22728.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22728.ts
 #EXTINF:-1,LA_FHD:LA RED SD/HD
-http://54.37.255.204:9977/live/leon/iptv/22731.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22731.ts
 #EXTINF:-1,LA_FHD:LIFETIME HD
-http://54.37.255.204:9977/live/leon/iptv/22666.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22666.ts
 #EXTINF:-1,LA_FHD:LN  HD
-http://54.37.255.204:9977/live/leon/iptv/22819.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22819.ts
 #EXTINF:-1,LA_FHD:MASCHIC HD
-http://54.37.255.204:9977/live/leon/iptv/22697.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22697.ts
 #EXTINF:-1,LA_FHD:MAX PRIME
-http://54.37.255.204:9977/live/leon/iptv/22761.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22761.ts
 #EXTINF:-1,LA_FHD:MAX UP HD
-http://54.37.255.204:9977/live/leon/iptv/22760.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22760.ts
 #EXTINF:-1,LA_FHD:MI MUSICA HD
-http://54.37.255.204:9977/live/leon/iptv/22696.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22696.ts
 #EXTINF:-1,LA_FHD:MLB NETWORK
-http://54.37.255.204:9977/live/leon/iptv/22743.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22743.ts
 #EXTINF:-1,LA_FHD:MTV HD
-http://54.37.255.204:9977/live/leon/iptv/22680.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22680.ts
 #EXTINF:-1,LA_FHD:MTV SIM HD
-http://54.37.255.204:9977/live/leon/iptv/22841.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22841.ts
 #EXTINF:-1,LA_FHD:MULTI HD
-http://54.37.255.204:9977/live/leon/iptv/22660.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22660.ts
 #EXTINF:-1,LA_FHD:MULTIMEDIOS
-http://54.37.255.204:9977/live/leon/iptv/22695.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22695.ts
 #EXTINF:-1,LA_FHD:MULTIMEDIOS HD
-http://54.37.255.204:9977/live/leon/iptv/22749.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22749.ts
 #EXTINF:-1,LA_FHD:NAT GEO HD
-http://54.37.255.204:9977/live/leon/iptv/22840.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22840.ts
 #EXTINF:-1,LA_FHD:NAT GEO KIDS HD
-http://54.37.255.204:9977/live/leon/iptv/22694.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22694.ts
 #EXTINF:-1,LA_FHD:NAT GEO MUNDO HD
-http://54.37.255.204:9977/live/leon/iptv/22785.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22785.ts
 #EXTINF:-1,LA_FHD:NAT GEO WILD HD
-http://54.37.255.204:9977/live/leon/iptv/22839.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22839.ts
 #EXTINF:-1,LA_FHD:NBA TV HD
-http://54.37.255.204:9977/live/leon/iptv/22838.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22838.ts
 #EXTINF:-1,LA_FHD:NBC UNIVERSO HD
-http://54.37.255.204:9977/live/leon/iptv/22784.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22784.ts
 #EXTINF:-1,LA_FHD:NICK 2 HD
-http://54.37.255.204:9977/live/leon/iptv/22679.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22679.ts
 #EXTINF:-1,LA_FHD:NICKELODEON HD
-http://54.37.255.204:9977/live/leon/iptv/22681.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22681.ts
 #EXTINF:-1,LA_FHD:NTN24HD
-http://54.37.255.204:9977/live/leon/iptv/22571.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22571.ts
 #EXTINF:-1,LA_FHD:PARAMOUNT CHANNEL HD
-http://54.37.255.204:9977/live/leon/iptv/22837.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22837.ts
 #EXTINF:-1,LA_FHD:PASIONES HD
-http://54.37.255.204:9977/live/leon/iptv/22582.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22582.ts
 #EXTINF:-1,LA_FHD:Power HD ARG
-http://54.37.255.204:9977/live/leon/iptv/22720.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22720.ts
 #EXTINF:-1,LA_FHD:RCN
-http://54.37.255.204:9977/live/leon/iptv/22693.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22693.ts
 #EXTINF:-1,LA_FHD:RCN_Novelas_HD
-http://54.37.255.204:9977/live/leon/iptv/22770.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22770.ts
 #EXTINF:-1,LA_FHD:RED BULL SPORT
-http://54.37.255.204:9977/live/leon/iptv/22813.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22813.ts
 #EXTINF:-1,LA_FHD:RITMOZON LATINO HD
-http://54.37.255.204:9977/live/leon/iptv/22809.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22809.ts
 #EXTINF:-1,LA_FHD:RPC PANAMA
-http://54.37.255.204:9977/live/leon/iptv/22742.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22742.ts
 #EXTINF:-1,LA_FHD:SONY HD
-http://54.37.255.204:9977/live/leon/iptv/22733.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22733.ts
 #EXTINF:-1,LA_FHD:SPACE HD
-http://54.37.255.204:9977/live/leon/iptv/22827.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22827.ts
 #EXTINF:-1,LA_FHD:SPORT TV CONO SUR 1
-http://54.37.255.204:9977/live/leon/iptv/22795.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22795.ts
 #EXTINF:-1,LA_FHD:SPORT TV CONO SUR 2
-http://54.37.255.204:9977/live/leon/iptv/22794.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22794.ts
 #EXTINF:-1,LA_FHD:SPORT TV CONO SUR 3
-http://54.37.255.204:9977/live/leon/iptv/22793.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22793.ts
 #EXTINF:-1,LA_FHD:SPORT TV CONO SUR 4 HD
-http://54.37.255.204:9977/live/leon/iptv/22792.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22792.ts
 #EXTINF:-1,LA_FHD:SPORT TV CONO SUR 5 HD
-http://54.37.255.204:9977/live/leon/iptv/22791.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22791.ts
 #EXTINF:-1,LA_FHD:SPORT TV CONO SUR HD
-http://54.37.255.204:9977/live/leon/iptv/22796.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22796.ts
 #EXTINF:-1,LA_FHD:STUDIO UNIVERSAL
-http://54.37.255.204:9977/live/leon/iptv/22692.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22692.ts
 #EXTINF:-1,LA_FHD:SUNDANCE CHANNEL HD
-http://54.37.255.204:9977/live/leon/iptv/22836.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22836.ts
 #EXTINF:-1,LA_FHD:SYFY HD
-http://54.37.255.204:9977/live/leon/iptv/22759.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22759.ts
 #EXTINF:-1,LA_FHD:TBS HD
-http://54.37.255.204:9977/live/leon/iptv/22758.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22758.ts
 #EXTINF:-1,LA_FHD:TDN DEPORTES HD
-http://54.37.255.204:9977/live/leon/iptv/22849.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22849.ts
 #EXTINF:-1,LA_FHD:TELEAMAZONAS HD
-http://54.37.255.204:9977/live/leon/iptv/22663.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22663.ts
 #EXTINF:-1,LA_FHD:TELECADENA 7 HONDURAS
-http://54.37.255.204:9977/live/leon/iptv/22741.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22741.ts
 #EXTINF:-1,LA_FHD:TELEFE HD
-http://54.37.255.204:9977/live/leon/iptv/22678.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22678.ts
 #EXTINF:-1,LA_FHD:TELEHIT HD
-http://54.37.255.204:9977/live/leon/iptv/22835.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22835.ts
 #EXTINF:-1,LA_FHD:TELEMAX ARG
-http://54.37.255.204:9977/live/leon/iptv/22719.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22719.ts
 #EXTINF:-1,LA_FHD:TELEMAX HD
-http://54.37.255.204:9977/live/leon/iptv/22729.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22729.ts
 #EXTINF:-1,LA_FHD:TELEMETRO PANAMA HD
-http://54.37.255.204:9977/live/leon/iptv/22748.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22748.ts
 #EXTINF:-1,LA_FHD:TELEMUNDO
-http://54.37.255.204:9977/live/leon/iptv/22690.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22690.ts
 #EXTINF:-1,LA_FHD:TELEMUNDO LOS ANGELES HD
-http://54.37.255.204:9977/live/leon/iptv/22734.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22734.ts
 #EXTINF:-1,LA_FHD:TELEPIN ARG
-http://54.37.255.204:9977/live/leon/iptv/22721.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22721.ts
 #EXTINF:-1,LA_FHD:TLC
-http://54.37.255.204:9977/live/leon/iptv/22689.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22689.ts
 #EXTINF:-1,LA_FHD:TLX HD ARG
-http://54.37.255.204:9977/live/leon/iptv/22718.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22718.ts
 #EXTINF:-1,LA_FHD:TN HD Arg
-http://54.37.255.204:9977/live/leon/iptv/22817.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22817.ts
 #EXTINF:-1,LA_FHD:TNT HD
-http://54.37.255.204:9977/live/leon/iptv/22834.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22834.ts
 #EXTINF:-1,LA_FHD:TNT SERIES HD
-http://54.37.255.204:9977/live/leon/iptv/22826.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22826.ts
 #EXTINF:-1,LA_FHD:TNT SPORT HD
-http://54.37.255.204:9977/live/leon/iptv/22816.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22816.ts
 #EXTINF:-1,LA_FHD:TRAVEL HD
-http://54.37.255.204:9977/live/leon/iptv/22806.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22806.ts
 #EXTINF:-1,LA_FHD:TRU TV
-http://54.37.255.204:9977/live/leon/iptv/22688.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22688.ts
 #EXTINF:-1,LA_FHD:TV MAX PANAMA
-http://54.37.255.204:9977/live/leon/iptv/22740.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22740.ts
 #EXTINF:-1,LA_FHD:TV PUBLICA HD
-http://54.37.255.204:9977/live/leon/iptv/22815.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22815.ts
 #EXTINF:-1,LA_FHD:TVO HD
-http://54.37.255.204:9977/live/leon/iptv/22805.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22805.ts
 #EXTINF:-1,LA_FHD:TyC_Sports HD
-http://54.37.255.204:9977/live/leon/iptv/22751.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22751.ts
 #EXTINF:-1,LA_FHD:UFC _FIGHT HD
-http://54.37.255.204:9977/live/leon/iptv/22783.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22783.ts
 #EXTINF:-1,LA_FHD:UNICABLE HD
-http://54.37.255.204:9977/live/leon/iptv/22808.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22808.ts
 #EXTINF:-1,LA_FHD:UNIVERSAL CHANNEL
-http://54.37.255.204:9977/live/leon/iptv/22757.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22757.ts
 #EXTINF:-1,LA_FHD:UNIVISION DEPORTE
-http://54.37.255.204:9977/live/leon/iptv/22716.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22716.ts
 #EXTINF:-1,LA_FHD:UNIVISION MIAMI
-http://54.37.255.204:9977/live/leon/iptv/22735.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22735.ts
 #EXTINF:-1,LA_FHD:UNIVISION TDN HD
-http://54.37.255.204:9977/live/leon/iptv/22782.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22782.ts
 #EXTINF:-1,LA_FHD:VH1 HD
-http://54.37.255.204:9977/live/leon/iptv/22687.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22687.ts
 #EXTINF:-1,LA_FHD:WAPA 2 HD
-http://54.37.255.204:9977/live/leon/iptv/22804.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22804.ts
 #EXTINF:-1,LA_FHD:WARNER HD
-http://54.37.255.204:9977/live/leon/iptv/22774.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22774.ts
 #EXTINF:-1,LA_FHD:WIN SPORT HD
-http://54.37.255.204:9977/live/leon/iptv/22812.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22812.ts
 #EXTINF:-1,LA_FHD:WOBI HD
-http://54.37.255.204:9977/live/leon/iptv/22691.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22691.ts
 #EXTINF:-1,LA_HD:PE_AMERICA TV HD PERU
-http://54.37.255.204:9977/live/leon/iptv/22561.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22561.ts
 #EXTINF:-1,LA_HD:PE_ATV
-http://54.37.255.204:9977/live/leon/iptv/22560.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22560.ts
 #EXTINF:-1,LA_HD:PE_FRECUENCIA LATINA
-http://54.37.255.204:9977/live/leon/iptv/22559.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22559.ts
 #EXTINF:-1,LA_HD:PE_GOL TV
-http://54.37.255.204:9977/live/leon/iptv/22558.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22558.ts
 #EXTINF:-1,LA_HD:PE_PANAMERICANA
-http://54.37.255.204:9977/live/leon/iptv/22557.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22557.ts
 #EXTINF:-1,LA_HD:PE_PERU MAGICO
-http://54.37.255.204:9977/live/leon/iptv/22556.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22556.ts
 #EXTINF:-1,LA_HD:PE_RED TV
-http://54.37.255.204:9977/live/leon/iptv/22555.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22555.ts
 #EXTINF:-1,LA_HD:PE_TV PERU
-http://54.37.255.204:9977/live/leon/iptv/22554.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22554.ts
 #EXTINF:-1,LA_HD:PE_TV PERU 7.3
-http://54.37.255.204:9977/live/leon/iptv/22553.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22553.ts
 #EXTINF:-1,LA_SD: El GOURMET
-http://54.37.255.204:9977/live/leon/iptv/23302.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23302.ts
 #EXTINF:-1,LA_SD: SUN Channel
-http://54.37.255.204:9977/live/leon/iptv/23307.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23307.ts
 #EXTINF:-1,LA_SD: VPI Venezolano
-http://54.37.255.204:9977/live/leon/iptv/23296.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23296.ts
 #EXTINF:-1,LA_SD:5 TELEMICRO RD
-http://54.37.255.204:9977/live/leon/iptv/23106.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23106.ts
 #EXTINF:-1,LA_SD:A&E
-http://54.37.255.204:9977/live/leon/iptv/23294.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23294.ts
 #EXTINF:-1,LA_SD:ABC
-http://54.37.255.204:9977/live/leon/iptv/23056.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23056.ts
 #EXTINF:-1,LA_SD:ALF 24/7
-http://54.37.255.204:9977/live/leon/iptv/23146.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23146.ts
 #EXTINF:-1,LA_SD:All_Sport
-http://54.37.255.204:9977/live/leon/iptv/23023.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23023.ts
 #EXTINF:-1,LA_SD:AMC
-http://54.37.255.204:9977/live/leon/iptv/23295.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23295.ts
 #EXTINF:-1,LA_SD:ANIMAL PLANET
-http://54.37.255.204:9977/live/leon/iptv/23288.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23288.ts
 #EXTINF:-1,LA_SD:Anime
-http://54.37.255.204:9977/live/leon/iptv/23306.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23306.ts
 #EXTINF:-1,LA_SD:Antena_3
-http://54.37.255.204:9977/live/leon/iptv/23039.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23039.ts
 #EXTINF:-1,LA_SD:ANTI-ESTRES 24/7
-http://54.37.255.204:9977/live/leon/iptv/23113.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23113.ts
 #EXTINF:-1,LA_SD:ANTI-ESTRES II 24/7
-http://54.37.255.204:9977/live/leon/iptv/23112.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23112.ts
 #EXTINF:-1,LA_SD:ANTI-ESTRES III 24/7
-http://54.37.255.204:9977/live/leon/iptv/23111.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23111.ts
 #EXTINF:-1,LA_SD:AXN
-http://54.37.255.204:9977/live/leon/iptv/23290.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23290.ts
 #EXTINF:-1,LA_SD:Azteca 13
-http://54.37.255.204:9977/live/leon/iptv/23247.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23247.ts
 #EXTINF:-1,LA_SD:Azteca1
-http://54.37.255.204:9977/live/leon/iptv/23084.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23084.ts
 #EXTINF:-1,LA_SD:BABY TV
-http://54.37.255.204:9977/live/leon/iptv/23102.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23102.ts
 #EXTINF:-1,LA_SD:BBC ENTERTAINMENT
-http://54.37.255.204:9977/live/leon/iptv/23069.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23069.ts
 #EXTINF:-1,LA_SD:BBC WORLD
-http://54.37.255.204:9977/live/leon/iptv/23055.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23055.ts
 #EXTINF:-1,LA_SD:BOB ESPONJA 24/7
-http://54.37.255.204:9977/live/leon/iptv/23145.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23145.ts
 #EXTINF:-1,LA_SD:BOOMERANG
-http://54.37.255.204:9977/live/leon/iptv/23291.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23291.ts
 #EXTINF:-1,LA_SD:Box Nation
-http://54.37.255.204:9977/live/leon/iptv/23020.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23020.ts
 #EXTINF:-1,LA_SD:C5N
-http://54.37.255.204:9977/live/leon/iptv/23187.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23187.ts
 #EXTINF:-1,LA_SD:CABALLEROS DEL ZODIACO 24/7
-http://54.37.255.204:9977/live/leon/iptv/23144.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23144.ts
 #EXTINF:-1,LA_SD:CALLOU 24/7
-http://54.37.255.204:9977/live/leon/iptv/23133.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23133.ts
 #EXTINF:-1,LA_SD:Canal 13
-http://54.37.255.204:9977/live/leon/iptv/23016.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23016.ts
 #EXTINF:-1,LA_SD:canal 5 MX
-http://54.37.255.204:9977/live/leon/iptv/23105.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23105.ts
 #EXTINF:-1,LA_SD:CANAL 7 TV PUBLICA ARG
-http://54.37.255.204:9977/live/leon/iptv/23101.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23101.ts
 #EXTINF:-1,LA_SD:CANAL CAPITAL
-http://54.37.255.204:9977/live/leon/iptv/23182.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23182.ts
 #EXTINF:-1,LA_SD:Canal de las Estrellas
-http://54.37.255.204:9977/live/leon/iptv/23283.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23283.ts
 #EXTINF:-1,LA_SD:CANAL2 MX
-http://54.37.255.204:9977/live/leon/iptv/23100.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23100.ts
 #EXTINF:-1,LA_SD:CARACOL INTERNACIONAL
-http://54.37.255.204:9977/live/leon/iptv/23188.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23188.ts
 #EXTINF:-1,LA_SD:Caracol Nacional
-http://54.37.255.204:9977/live/leon/iptv/23309.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23309.ts
 #EXTINF:-1,LA_SD:CARTOON NETWORK
-http://54.37.255.204:9977/live/leon/iptv/23284.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23284.ts
 #EXTINF:-1,LA_SD:CB24
-http://54.37.255.204:9977/live/leon/iptv/23015.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23015.ts
 #EXTINF:-1,LA_SD:CDF BASICO
-http://54.37.255.204:9977/live/leon/iptv/23052.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23052.ts
 #EXTINF:-1,LA_SD:CDF Premium
-http://54.37.255.204:9977/live/leon/iptv/23227.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23227.ts
 #EXTINF:-1,LA_SD:CDN 37 RD
-http://54.37.255.204:9977/live/leon/iptv/23043.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23043.ts
 #EXTINF:-1,LA_SD:CDN SPORTMAX
-http://54.37.255.204:9977/live/leon/iptv/23098.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23098.ts
 #EXTINF:-1,LA_SD:CDO BASICO
-http://54.37.255.204:9977/live/leon/iptv/23068.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23068.ts
 #EXTINF:-1,LA_SD:CHAPULIN COLORADO 24/7
-http://54.37.255.204:9977/live/leon/iptv/23143.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23143.ts
 #EXTINF:-1,LA_SD:CHESPIRITO 24/7
-http://54.37.255.204:9977/live/leon/iptv/23142.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23142.ts
 #EXTINF:-1,LA_SD:CINE DINAMITA
-http://54.37.255.204:9977/live/leon/iptv/23162.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23162.ts
 #EXTINF:-1,LA_SD:CINE LATINO
-http://54.37.255.204:9977/live/leon/iptv/23161.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23161.ts
 #EXTINF:-1,LA_SD:CINECANAL
-http://54.37.255.204:9977/live/leon/iptv/23289.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23289.ts
 #EXTINF:-1,LA_SD:CINEMAX
-http://54.37.255.204:9977/live/leon/iptv/23285.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23285.ts
 #EXTINF:-1,LA_SD:CLARO SPORT
-http://54.37.255.204:9977/live/leon/iptv/23160.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23160.ts
 #EXTINF:-1,LA_SD:CNN ESPANOL
-http://54.37.255.204:9977/live/leon/iptv/23286.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23286.ts
 #EXTINF:-1,LA_SD:CNN INT
-http://54.37.255.204:9977/live/leon/iptv/23248.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23248.ts
 #EXTINF:-1,LA_SD:CNT SPORT
-http://54.37.255.204:9977/live/leon/iptv/23220.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23220.ts
 #EXTINF:-1,LA_SD:CNT SPORTS PPV 2
-http://54.37.255.204:9977/live/leon/iptv/23219.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23219.ts
 #EXTINF:-1,LA_SD:COMEDY CENTRAL
-http://54.37.255.204:9977/live/leon/iptv/23165.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23165.ts
 #EXTINF:-1,LA_SD:CONCERT CHANNEL
-http://54.37.255.204:9977/live/leon/iptv/23021.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23021.ts
 #EXTINF:-1,LA_SD:CORAJE EL PERRO COBARDE 24/7
-http://54.37.255.204:9977/live/leon/iptv/23141.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23141.ts
 #EXTINF:-1,LA_SD:CR_Repretel 11
-http://54.37.255.204:9977/live/leon/iptv/23157.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23157.ts
 #EXTINF:-1,LA_SD:CR_Repretel 4
-http://54.37.255.204:9977/live/leon/iptv/23156.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23156.ts
 #EXTINF:-1,LA_SD:CR_Repretel 6
-http://54.37.255.204:9977/live/leon/iptv/23155.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23155.ts
 #EXTINF:-1,LA_SD:CR_Teletica 7
-http://54.37.255.204:9977/live/leon/iptv/23221.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23221.ts
 #EXTINF:-1,LA_SD:DE PELICULA
-http://54.37.255.204:9977/live/leon/iptv/23265.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23265.ts
 #EXTINF:-1,LA_SD:DHE
-http://54.37.255.204:9977/live/leon/iptv/23014.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23014.ts
 #EXTINF:-1,LA_SD:Directv Sport   _SD_L
-http://54.37.255.204:9977/live/leon/iptv/23252.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23252.ts
 #EXTINF:-1,LA_SD:Directv Sport  _SD
-http://54.37.255.204:9977/live/leon/iptv/23253.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23253.ts
 #EXTINF:-1,LA_SD:Directv Sport 1_SD
-http://54.37.255.204:9977/live/leon/iptv/23048.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23048.ts
 #EXTINF:-1,LA_SD:Directv Sport 1_SD_L
-http://54.37.255.204:9977/live/leon/iptv/23047.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23047.ts
 #EXTINF:-1,LA_SD:Directv Sport 2_SD
-http://54.37.255.204:9977/live/leon/iptv/23255.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23255.ts
 #EXTINF:-1,LA_SD:Directv Sport 2_SD_L
-http://54.37.255.204:9977/live/leon/iptv/23254.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23254.ts
 #EXTINF:-1,LA_SD:DISCOVERY CH
-http://54.37.255.204:9977/live/leon/iptv/23223.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23223.ts
 #EXTINF:-1,LA_SD:DISCOVERY CHANNEL
-http://54.37.255.204:9977/live/leon/iptv/23218.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23218.ts
 #EXTINF:-1,LA_SD:DISCOVERY CIVILIZATION
-http://54.37.255.204:9977/live/leon/iptv/23270.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23270.ts
 #EXTINF:-1,LA_SD:DISCOVERY CIVILIZATION_
-http://54.37.255.204:9977/live/leon/iptv/23217.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23217.ts
 #EXTINF:-1,LA_SD:DISCOVERY H&H
-http://54.37.255.204:9977/live/leon/iptv/23272.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23272.ts
 #EXTINF:-1,LA_SD:DISCOVERY SCIENCE
-http://54.37.255.204:9977/live/leon/iptv/23070.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23070.ts
 #EXTINF:-1,LA_SD:DISCOVERY THEATER
-http://54.37.255.204:9977/live/leon/iptv/23096.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23096.ts
 #EXTINF:-1,LA_SD:DISCOVERY TURBO
-http://54.37.255.204:9977/live/leon/iptv/23267.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23267.ts
 #EXTINF:-1,LA_SD:DISCOVERY_KIDS
-http://54.37.255.204:9977/live/leon/iptv/23147.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23147.ts
 #EXTINF:-1,LA_SD:DISNEY CHANNEL
-http://54.37.255.204:9977/live/leon/iptv/23249.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23249.ts
 #EXTINF:-1,LA_SD:DISNEY CHANNEL_
-http://54.37.255.204:9977/live/leon/iptv/23216.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23216.ts
 #EXTINF:-1,LA_SD:DISNEY JR
-http://54.37.255.204:9977/live/leon/iptv/23266.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23266.ts
 #EXTINF:-1,LA_SD:DISNEY XD
-http://54.37.255.204:9977/live/leon/iptv/23225.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23225.ts
 #EXTINF:-1,LA_SD:DISTRITO COMEDIA
-http://54.37.255.204:9977/live/leon/iptv/22989.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22989.ts
 #EXTINF:-1,LA_SD:Donald Duck 24/7
-http://54.37.255.204:9977/live/leon/iptv/23115.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23115.ts
 #EXTINF:-1,LA_SD:DORAEMON 24/7
-http://54.37.255.204:9977/live/leon/iptv/23140.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23140.ts
 #EXTINF:-1,LA_SD:DRAGON BALL 24/7
-http://54.37.255.204:9977/live/leon/iptv/23139.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23139.ts
 #EXTINF:-1,LA_SD:DRAGON BALL GT 24/7
-http://54.37.255.204:9977/live/leon/iptv/23138.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23138.ts
 #EXTINF:-1,LA_SD:DRAGON BALL SUPER 24/7
-http://54.37.255.204:9977/live/leon/iptv/23137.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23137.ts
 #EXTINF:-1,LA_SD:DRAGON BALL Z 24/7 OP.2
-http://54.37.255.204:9977/live/leon/iptv/23136.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23136.ts
 #EXTINF:-1,LA_SD:DW1
-http://54.37.255.204:9977/live/leon/iptv/23308.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23308.ts
 #EXTINF:-1,LA_SD:E! Entertaiments
-http://54.37.255.204:9977/live/leon/iptv/23264.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23264.ts
 #EXTINF:-1,LA_SD:EC_GAMATV
-http://54.37.255.204:9977/live/leon/iptv/23213.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23213.ts
 #EXTINF:-1,LA_SD:EL COYOTE Y EL CORRECAMINOS 24/7
-http://54.37.255.204:9977/live/leon/iptv/23135.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23135.ts
 #EXTINF:-1,LA_SD:EL PAJARO LOCO 24/7
-http://54.37.255.204:9977/live/leon/iptv/23134.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23134.ts
 #EXTINF:-1,LA_SD:EL TRECE
-http://54.37.255.204:9977/live/leon/iptv/23212.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23212.ts
 #EXTINF:-1,LA_SD:ENCUENTRO_ARG
-http://54.37.255.204:9977/live/leon/iptv/22987.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22987.ts
 #EXTINF:-1,LA_SD:Esperanza TV
-http://54.37.255.204:9977/live/leon/iptv/23292.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23292.ts
 #EXTINF:-1,LA_SD:ESPN
-http://54.37.255.204:9977/live/leon/iptv/23261.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23261.ts
 #EXTINF:-1,LA_SD:ESPN 2
-http://54.37.255.204:9977/live/leon/iptv/23260.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23260.ts
 #EXTINF:-1,LA_SD:ESPN 2 MX
-http://54.37.255.204:9977/live/leon/iptv/23095.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23095.ts
 #EXTINF:-1,LA_SD:ESPN 3
-http://54.37.255.204:9977/live/leon/iptv/23259.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23259.ts
 #EXTINF:-1,LA_SD:ESPN 3 MX
-http://54.37.255.204:9977/live/leon/iptv/23094.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23094.ts
 #EXTINF:-1,LA_SD:ESPN ARGENTINA
-http://54.37.255.204:9977/live/leon/iptv/23093.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23093.ts
 #EXTINF:-1,LA_SD:ESPN MX
-http://54.37.255.204:9977/live/leon/iptv/23092.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23092.ts
 #EXTINF:-1,LA_SD:ESPN PLUS
-http://54.37.255.204:9977/live/leon/iptv/23054.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23054.ts
 #EXTINF:-1,LA_SD:EUROCHANNEL
-http://54.37.255.204:9977/live/leon/iptv/23067.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23067.ts
 #EXTINF:-1,LA_SD:EUROPA EUROPA
-http://54.37.255.204:9977/live/leon/iptv/23091.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23091.ts
 #EXTINF:-1,LA_SD:EWTN
-http://54.37.255.204:9977/live/leon/iptv/23013.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23013.ts
 #EXTINF:-1,LA_SD:FILM ZONE
-http://54.37.255.204:9977/live/leon/iptv/23300.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23300.ts
 #EXTINF:-1,LA_SD:FILM&ARTS
-http://54.37.255.204:9977/live/leon/iptv/23090.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23090.ts
 #EXTINF:-1,LA_SD:FOX
-http://54.37.255.204:9977/live/leon/iptv/23258.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23258.ts
 #EXTINF:-1,LA_SD:FOX ACTION
-http://54.37.255.204:9977/live/leon/iptv/23274.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23274.ts
 #EXTINF:-1,LA_SD:FOX CINEMA
-http://54.37.255.204:9977/live/leon/iptv/23269.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23269.ts
 #EXTINF:-1,LA_SD:FOX CLASSIC
-http://54.37.255.204:9977/live/leon/iptv/23263.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23263.ts
 #EXTINF:-1,LA_SD:FOX COMEDY
-http://54.37.255.204:9977/live/leon/iptv/23222.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23222.ts
 #EXTINF:-1,LA_SD:FOX FAMILY
-http://54.37.255.204:9977/live/leon/iptv/23251.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23251.ts
 #EXTINF:-1,LA_SD:FOX LIFE
-http://54.37.255.204:9977/live/leon/iptv/23262.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23262.ts
 #EXTINF:-1,LA_SD:FOX MOVIES
-http://54.37.255.204:9977/live/leon/iptv/23273.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23273.ts
 #EXTINF:-1,LA_SD:FOX SERIES
-http://54.37.255.204:9977/live/leon/iptv/23268.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23268.ts
 #EXTINF:-1,LA_SD:FOX SPORT
-http://54.37.255.204:9977/live/leon/iptv/23257.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23257.ts
 #EXTINF:-1,LA_SD:FOX SPORT 2
-http://54.37.255.204:9977/live/leon/iptv/23271.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23271.ts
 #EXTINF:-1,LA_SD:FOX SPORT 3
-http://54.37.255.204:9977/live/leon/iptv/23151.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23151.ts
 #EXTINF:-1,LA_SD:FOX SPORT SUR
-http://54.37.255.204:9977/live/leon/iptv/23126.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23126.ts
 #EXTINF:-1,LA_SD:FOX SPORT VEN
-http://54.37.255.204:9977/live/leon/iptv/23066.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23066.ts
 #EXTINF:-1,LA_SD:FOX SPORTS 2 ARGENTINA
-http://54.37.255.204:9977/live/leon/iptv/23078.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23078.ts
 #EXTINF:-1,LA_SD:FOX SPORTS 2 MX
-http://54.37.255.204:9977/live/leon/iptv/23089.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23089.ts
 #EXTINF:-1,LA_SD:FOX SPORTS 3 MX
-http://54.37.255.204:9977/live/leon/iptv/23088.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23088.ts
 #EXTINF:-1,LA_SD:FOX SPORTS ARGENTINA
-http://54.37.255.204:9977/live/leon/iptv/23077.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23077.ts
 #EXTINF:-1,LA_SD:FOX SPORTS COLOMBIA
-http://54.37.255.204:9977/live/leon/iptv/23211.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23211.ts
 #EXTINF:-1,LA_SD:FOX SPORTS MX
-http://54.37.255.204:9977/live/leon/iptv/23087.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23087.ts
 #EXTINF:-1,LA_SD:FX
-http://54.37.255.204:9977/live/leon/iptv/23256.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23256.ts
 #EXTINF:-1,LA_SD:GalaVision
-http://54.37.255.204:9977/live/leon/iptv/23086.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23086.ts
 #EXTINF:-1,LA_SD:GARAGE TV
-http://54.37.255.204:9977/live/leon/iptv/23181.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23181.ts
 #EXTINF:-1,LA_SD:Glitz
-http://54.37.255.204:9977/live/leon/iptv/23149.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23149.ts
 #EXTINF:-1,LA_SD:GLOBOVISION
-http://54.37.255.204:9977/live/leon/iptv/23065.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23065.ts
 #EXTINF:-1,LA_SD:Gol TV
-http://54.37.255.204:9977/live/leon/iptv/23278.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23278.ts
 #EXTINF:-1,LA_SD:Gol TV PERU
-http://54.37.255.204:9977/live/leon/iptv/23050.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23050.ts
 #EXTINF:-1,LA_SD:GOLDEN
-http://54.37.255.204:9977/live/leon/iptv/23282.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23282.ts
 #EXTINF:-1,LA_SD:Golden Edge
-http://54.37.255.204:9977/live/leon/iptv/23163.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23163.ts
 #EXTINF:-1,LA_SD:GOLF CHANNEL
-http://54.37.255.204:9977/live/leon/iptv/23064.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23064.ts
 #EXTINF:-1,LA_SD:H2
-http://54.37.255.204:9977/live/leon/iptv/23250.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23250.ts
 #EXTINF:-1,LA_SD:HBO
-http://54.37.255.204:9977/live/leon/iptv/23281.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23281.ts
 #EXTINF:-1,LA_SD:HBO 2
-http://54.37.255.204:9977/live/leon/iptv/23280.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23280.ts
 #EXTINF:-1,LA_SD:HBO FAMILY
-http://54.37.255.204:9977/live/leon/iptv/23279.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23279.ts
 #EXTINF:-1,LA_SD:HBO PLUS
-http://54.37.255.204:9977/live/leon/iptv/23277.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23277.ts
 #EXTINF:-1,LA_SD:HBO Signature
-http://54.37.255.204:9977/live/leon/iptv/23276.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23276.ts
 #EXTINF:-1,LA_SD:HISTORY CH
-http://54.37.255.204:9977/live/leon/iptv/23228.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23228.ts
 #EXTINF:-1,LA_SD:HND_Canal 3 Telesistemas
-http://54.37.255.204:9977/live/leon/iptv/23012.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23012.ts
 #EXTINF:-1,LA_SD:HND_Canal VTV
-http://54.37.255.204:9977/live/leon/iptv/23011.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23011.ts
 #EXTINF:-1,LA_SD:HND_HCH
-http://54.37.255.204:9977/live/leon/iptv/23010.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23010.ts
 #EXTINF:-1,LA_SD:HOLA TV
-http://54.37.255.204:9977/live/leon/iptv/23063.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23063.ts
 #EXTINF:-1,LA_SD:HTV
-http://54.37.255.204:9977/live/leon/iptv/23210.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23210.ts
 #EXTINF:-1,LA_SD:I-SAT
-http://54.37.255.204:9977/live/leon/iptv/23148.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23148.ts
 #EXTINF:-1,LA_SD:ID
-http://54.37.255.204:9977/live/leon/iptv/23235.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23235.ts
 #EXTINF:-1,LA_SD:INTI
-http://54.37.255.204:9977/live/leon/iptv/23209.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23209.ts
 #EXTINF:-1,LA_SD:LA VOZ DE MARIA
-http://54.37.255.204:9977/live/leon/iptv/23180.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23180.ts
 #EXTINF:-1,LA_SD:LIFETIME
-http://54.37.255.204:9977/live/leon/iptv/23301.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23301.ts
 #EXTINF:-1,LA_SD:LOS 3 CHIFLADOS 24/7
-http://54.37.255.204:9977/live/leon/iptv/23123.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23123.ts
 #EXTINF:-1,LA_SD:LOS PADRINOS MAGICOS 24/7
-http://54.37.255.204:9977/live/leon/iptv/23125.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23125.ts
 #EXTINF:-1,LA_SD:LOS SIMPSONS  24/7
-http://54.37.255.204:9977/live/leon/iptv/23110.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23110.ts
 #EXTINF:-1,LA_SD:MAS CHIC
-http://54.37.255.204:9977/live/leon/iptv/23040.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23040.ts
 #EXTINF:-1,LA_SD:MAX
-http://54.37.255.204:9977/live/leon/iptv/23208.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23208.ts
 #EXTINF:-1,LA_SD:MAX PRIME ESTE
-http://54.37.255.204:9977/live/leon/iptv/23275.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23275.ts
 #EXTINF:-1,LA_SD:MOVISTAR DEPORTES
-http://54.37.255.204:9977/live/leon/iptv/23207.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23207.ts
 #EXTINF:-1,LA_SD:MOVISTAR PLUS
-http://54.37.255.204:9977/live/leon/iptv/23206.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23206.ts
 #EXTINF:-1,LA_SD:MTV
-http://54.37.255.204:9977/live/leon/iptv/23233.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23233.ts
 #EXTINF:-1,LA_SD:MTV HIT
-http://54.37.255.204:9977/live/leon/iptv/23159.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23159.ts
 #EXTINF:-1,LA_SD:MULTIPREMIER
-http://54.37.255.204:9977/live/leon/iptv/23158.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23158.ts
 #EXTINF:-1,LA_SD:MX_AZTECA MUNDO
-http://54.37.255.204:9977/live/leon/iptv/22991.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22991.ts
 #EXTINF:-1,LA_SD:NARUTO 24/7
-http://54.37.255.204:9977/live/leon/iptv/23122.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23122.ts
 #EXTINF:-1,LA_SD:NAT GEO
-http://54.37.255.204:9977/live/leon/iptv/23239.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23239.ts
 #EXTINF:-1,LA_SD:NAT GEO KIDS
-http://54.37.255.204:9977/live/leon/iptv/23150.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23150.ts
 #EXTINF:-1,LA_SD:NAT GEO WILD
-http://54.37.255.204:9977/live/leon/iptv/23238.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23238.ts
 #EXTINF:-1,LA_SD:NBC
-http://54.37.255.204:9977/live/leon/iptv/23053.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23053.ts
 #EXTINF:-1,LA_SD:NIC_Canal 12
-http://54.37.255.204:9977/live/leon/iptv/23009.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23009.ts
 #EXTINF:-1,LA_SD:NIC_CANAL 13
-http://54.37.255.204:9977/live/leon/iptv/23008.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23008.ts
 #EXTINF:-1,LA_SD:NIC_Canal 6
-http://54.37.255.204:9977/live/leon/iptv/23007.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23007.ts
 #EXTINF:-1,LA_SD:NICK Jr
-http://54.37.255.204:9977/live/leon/iptv/23299.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23299.ts
 #EXTINF:-1,LA_SD:NICKELODEON
-http://54.37.255.204:9977/live/leon/iptv/23298.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23298.ts
 #EXTINF:-1,LA_SD:NICKTOONS
-http://54.37.255.204:9977/live/leon/iptv/23017.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23017.ts
 #EXTINF:-1,LA_SD:NIUMEDIA
-http://54.37.255.204:9977/live/leon/iptv/23179.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23179.ts
 #EXTINF:-1,LA_SD:NTN 24 HORAS
-http://54.37.255.204:9977/live/leon/iptv/23205.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23205.ts
 #EXTINF:-1,LA_SD:ONCE TV MX
-http://54.37.255.204:9977/live/leon/iptv/23044.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23044.ts
 #EXTINF:-1,LA_SD:ORBE 21
-http://54.37.255.204:9977/live/leon/iptv/23062.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23062.ts
 #EXTINF:-1,LA_SD:OROMAR TV
-http://54.37.255.204:9977/live/leon/iptv/23204.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23204.ts
 #EXTINF:-1,LA_SD:PADRE DE FAMILIA 24/7
-http://54.37.255.204:9977/live/leon/iptv/23121.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23121.ts
 #EXTINF:-1,LA_SD:PAN_13
-http://54.37.255.204:9977/live/leon/iptv/23178.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23178.ts
 #EXTINF:-1,LA_SD:PAN_2
-http://54.37.255.204:9977/live/leon/iptv/23177.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23177.ts
 #EXTINF:-1,LA_SD:PAN_4
-http://54.37.255.204:9977/live/leon/iptv/23176.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23176.ts
 #EXTINF:-1,LA_SD:PAN_MAS TV 23
-http://54.37.255.204:9977/live/leon/iptv/23059.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23059.ts
 #EXTINF:-1,LA_SD:PAN_NEXT TV
-http://54.37.255.204:9977/live/leon/iptv/23175.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23175.ts
 #EXTINF:-1,LA_SD:PAN_NEXT_TV
-http://54.37.255.204:9977/live/leon/iptv/23074.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23074.ts
 #EXTINF:-1,LA_SD:PAN_TV_MAX
-http://54.37.255.204:9977/live/leon/iptv/23073.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23073.ts
 #EXTINF:-1,LA_SD:PARAMOUNT
-http://54.37.255.204:9977/live/leon/iptv/23230.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23230.ts
 #EXTINF:-1,LA_SD:POKEMON 24/7
-http://54.37.255.204:9977/live/leon/iptv/23120.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23120.ts
 #EXTINF:-1,LA_SD:PR_WAPA
-http://54.37.255.204:9977/live/leon/iptv/23169.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23169.ts
 #EXTINF:-1,LA_SD:RANMA 1/2 24/7
-http://54.37.255.204:9977/live/leon/iptv/23119.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23119.ts
 #EXTINF:-1,LA_SD:RCN
-http://54.37.255.204:9977/live/leon/iptv/23293.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23293.ts
 #EXTINF:-1,LA_SD:RCN NOVELAS
-http://54.37.255.204:9977/live/leon/iptv/23109.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23109.ts
 #EXTINF:-1,LA_SD:RD_Antena Latina
-http://54.37.255.204:9977/live/leon/iptv/22999.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22999.ts
 #EXTINF:-1,LA_SD:RD_CDN2
-http://54.37.255.204:9977/live/leon/iptv/23006.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23006.ts
 #EXTINF:-1,LA_SD:RD_Color Vision 9
-http://54.37.255.204:9977/live/leon/iptv/23005.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23005.ts
 #EXTINF:-1,LA_SD:RD_Digital 15
-http://54.37.255.204:9977/live/leon/iptv/23004.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23004.ts
 #EXTINF:-1,LA_SD:RD_Tele Antillas
-http://54.37.255.204:9977/live/leon/iptv/22998.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22998.ts
 #EXTINF:-1,LA_SD:RD_Telecentro
-http://54.37.255.204:9977/live/leon/iptv/23003.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23003.ts
 #EXTINF:-1,LA_SD:RD_TeleMicro
-http://54.37.255.204:9977/live/leon/iptv/22997.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22997.ts
 #EXTINF:-1,LA_SD:RD_Telesistema
-http://54.37.255.204:9977/live/leon/iptv/23002.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23002.ts
 #EXTINF:-1,LA_SD:RD_Teleunion
-http://54.37.255.204:9977/live/leon/iptv/23001.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23001.ts
 #EXTINF:-1,LA_SD:RD_Teleuniverso
-http://54.37.255.204:9977/live/leon/iptv/23000.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23000.ts
 #EXTINF:-1,LA_SD:RTS
-http://54.37.255.204:9977/live/leon/iptv/23195.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23195.ts
 #EXTINF:-1,LA_SD:SAL_Canal  21
-http://54.37.255.204:9977/live/leon/iptv/22996.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22996.ts
 #EXTINF:-1,LA_SD:SAL_Canal 19
-http://54.37.255.204:9977/live/leon/iptv/22995.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22995.ts
 #EXTINF:-1,LA_SD:SAL_VTV Canal 35
-http://54.37.255.204:9977/live/leon/iptv/22994.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22994.ts
 #EXTINF:-1,LA_SD:SCOOBY DOO 24/7
-http://54.37.255.204:9977/live/leon/iptv/23118.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23118.ts
 #EXTINF:-1,LA_SD:SEMBRADOR
-http://54.37.255.204:9977/live/leon/iptv/22990.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22990.ts
 #EXTINF:-1,LA_SD:SONY
-http://54.37.255.204:9977/live/leon/iptv/23240.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23240.ts
 #EXTINF:-1,LA_SD:SPACE
-http://54.37.255.204:9977/live/leon/iptv/23232.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23232.ts
 #EXTINF:-1,LA_SD:SPORT TV CONO SUR 1
-http://54.37.255.204:9977/live/leon/iptv/23131.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23131.ts
 #EXTINF:-1,LA_SD:SPORT TV CONO SUR 2
-http://54.37.255.204:9977/live/leon/iptv/23130.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23130.ts
 #EXTINF:-1,LA_SD:SPORT TV CONO SUR 3
-http://54.37.255.204:9977/live/leon/iptv/23129.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23129.ts
 #EXTINF:-1,LA_SD:SPORT TV CONO SUR 4 SD
-http://54.37.255.204:9977/live/leon/iptv/23128.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23128.ts
 #EXTINF:-1,LA_SD:SPORT TV CONO SUR 5 SD
-http://54.37.255.204:9977/live/leon/iptv/23127.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23127.ts
 #EXTINF:-1,LA_SD:SPORT TV CONO SUR TV
-http://54.37.255.204:9977/live/leon/iptv/23132.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23132.ts
 #EXTINF:-1,LA_SD:STUDIO UNIVERSAL
-http://54.37.255.204:9977/live/leon/iptv/23241.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23241.ts
 #EXTINF:-1,LA_SD:SUPER CAMPEONES 24/7
-http://54.37.255.204:9977/live/leon/iptv/23117.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23117.ts
 #EXTINF:-1,LA_SD:SUR_24 Horas
-http://54.37.255.204:9977/live/leon/iptv/22986.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22986.ts
 #EXTINF:-1,LA_SD:SUR_America TV
-http://54.37.255.204:9977/live/leon/iptv/22985.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22985.ts
 #EXTINF:-1,LA_SD:SUR_ATV
-http://54.37.255.204:9977/live/leon/iptv/22984.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22984.ts
 #EXTINF:-1,LA_SD:SUR_AXN
-http://54.37.255.204:9977/live/leon/iptv/22983.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22983.ts
 #EXTINF:-1,LA_SD:SUR_Bang TV
-http://54.37.255.204:9977/live/leon/iptv/22982.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22982.ts
 #EXTINF:-1,LA_SD:SUR_C9N
-http://54.37.255.204:9977/live/leon/iptv/22981.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22981.ts
 #EXTINF:-1,LA_SD:SUR_Canal 13
-http://54.37.255.204:9977/live/leon/iptv/22980.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22980.ts
 #EXTINF:-1,LA_SD:SUR_Canal Claro
-http://54.37.255.204:9977/live/leon/iptv/22979.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22979.ts
 #EXTINF:-1,LA_SD:SUR_Canal J
-http://54.37.255.204:9977/live/leon/iptv/22978.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22978.ts
 #EXTINF:-1,LA_SD:SUR_Canal Uno
-http://54.37.255.204:9977/live/leon/iptv/22977.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22977.ts
 #EXTINF:-1,LA_SD:SUR_Capital TV
-http://54.37.255.204:9977/live/leon/iptv/22975.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22975.ts
 #EXTINF:-1,LA_SD:SUR_Cartoon Network
-http://54.37.255.204:9977/live/leon/iptv/22974.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22974.ts
 #EXTINF:-1,LA_SD:SUR_CDF PREMIUM
-http://54.37.255.204:9977/live/leon/iptv/22973.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22973.ts
 #EXTINF:-1,LA_SD:SUR_CHV
-http://54.37.255.204:9977/live/leon/iptv/22972.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22972.ts
 #EXTINF:-1,LA_SD:SUR_Cinecanal
-http://54.37.255.204:9977/live/leon/iptv/22971.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22971.ts
 #EXTINF:-1,LA_SD:SUR_Cinema Dinamita
-http://54.37.255.204:9977/live/leon/iptv/22970.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22970.ts
 #EXTINF:-1,LA_SD:SUR_Cinemax
-http://54.37.255.204:9977/live/leon/iptv/22969.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22969.ts
 #EXTINF:-1,LA_SD:SUR_Ciudadano TV
-http://54.37.255.204:9977/live/leon/iptv/22968.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22968.ts
 #EXTINF:-1,LA_SD:SUR_Claro Cinema
-http://54.37.255.204:9977/live/leon/iptv/22967.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22967.ts
 #EXTINF:-1,LA_SD:SUR_Claromusic
-http://54.37.255.204:9977/live/leon/iptv/22966.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22966.ts
 #EXTINF:-1,LA_SD:SUR_ClaroSports
-http://54.37.255.204:9977/live/leon/iptv/22965.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22965.ts
 #EXTINF:-1,LA_SD:SUR_CNN Espanol
-http://54.37.255.204:9977/live/leon/iptv/22963.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22963.ts
 #EXTINF:-1,LA_SD:SUR_Discovery ID
-http://54.37.255.204:9977/live/leon/iptv/22962.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22962.ts
 #EXTINF:-1,LA_SD:SUR_Discovery Kids
-http://54.37.255.204:9977/live/leon/iptv/22961.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22961.ts
 #EXTINF:-1,LA_SD:SUR_Discovery Turbo
-http://54.37.255.204:9977/live/leon/iptv/22960.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22960.ts
 #EXTINF:-1,LA_SD:SUR_Disney Jr
-http://54.37.255.204:9977/live/leon/iptv/22959.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22959.ts
 #EXTINF:-1,LA_SD:SUR_Disney XD
-http://54.37.255.204:9977/live/leon/iptv/22958.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22958.ts
 #EXTINF:-1,LA_SD:SUR_EsneTV
-http://54.37.255.204:9977/live/leon/iptv/22954.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22954.ts
 #EXTINF:-1,LA_SD:SUR_ESPN 2
-http://54.37.255.204:9977/live/leon/iptv/22953.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22953.ts
 #EXTINF:-1,LA_SD:SUR_ESPN 3
-http://54.37.255.204:9977/live/leon/iptv/22952.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22952.ts
 #EXTINF:-1,LA_SD:SUR_Fox Channel
-http://54.37.255.204:9977/live/leon/iptv/22951.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22951.ts
 #EXTINF:-1,LA_SD:SUR_Fox Life
-http://54.37.255.204:9977/live/leon/iptv/22950.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22950.ts
 #EXTINF:-1,LA_SD:SUR_FOX P ACTION
-http://54.37.255.204:9977/live/leon/iptv/22949.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22949.ts
 #EXTINF:-1,LA_SD:SUR_FOX P MOVIES
-http://54.37.255.204:9977/live/leon/iptv/22948.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22948.ts
 #EXTINF:-1,LA_SD:SUR_FOX P SERIES E
-http://54.37.255.204:9977/live/leon/iptv/22947.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22947.ts
 #EXTINF:-1,LA_SD:SUR_Fox Sport PY
-http://54.37.255.204:9977/live/leon/iptv/22946.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22946.ts
 #EXTINF:-1,LA_SD:SUR_Fox Sports Premium
-http://54.37.255.204:9977/live/leon/iptv/22945.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22945.ts
 #EXTINF:-1,LA_SD:SUR_Frecuencia Latina
-http://54.37.255.204:9977/live/leon/iptv/22944.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22944.ts
 #EXTINF:-1,LA_SD:SUR_FX
-http://54.37.255.204:9977/live/leon/iptv/22943.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22943.ts
 #EXTINF:-1,LA_SD:SUR_FX Movies
-http://54.37.255.204:9977/live/leon/iptv/22942.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22942.ts
 #EXTINF:-1,LA_SD:SUR_GamaTV
-http://54.37.255.204:9977/live/leon/iptv/22941.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22941.ts
 #EXTINF:-1,LA_SD:SUR_HBO
-http://54.37.255.204:9977/live/leon/iptv/22940.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22940.ts
 #EXTINF:-1,LA_SD:SUR_HBO 2
-http://54.37.255.204:9977/live/leon/iptv/22939.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22939.ts
 #EXTINF:-1,LA_SD:SUR_HBO Family
-http://54.37.255.204:9977/live/leon/iptv/22938.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22938.ts
 #EXTINF:-1,LA_SD:SUR_HBO Plus
-http://54.37.255.204:9977/live/leon/iptv/22937.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22937.ts
 #EXTINF:-1,LA_SD:SUR_History Channel
-http://54.37.255.204:9977/live/leon/iptv/22936.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22936.ts
 #EXTINF:-1,LA_SD:SUR_Home and Health
-http://54.37.255.204:9977/live/leon/iptv/22935.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22935.ts
 #EXTINF:-1,LA_SD:SUR_I-Sat
-http://54.37.255.204:9977/live/leon/iptv/22934.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22934.ts
 #EXTINF:-1,LA_SD:SUR_La Red
-http://54.37.255.204:9977/live/leon/iptv/22933.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22933.ts
 #EXTINF:-1,LA_SD:SUR_La Tele
-http://54.37.255.204:9977/live/leon/iptv/22932.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22932.ts
 #EXTINF:-1,LA_SD:SUR_Max Prime
-http://54.37.255.204:9977/live/leon/iptv/22931.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22931.ts
 #EXTINF:-1,LA_SD:SUR_Mega
-http://54.37.255.204:9977/live/leon/iptv/22930.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22930.ts
 #EXTINF:-1,LA_SD:SUR_MTV
-http://54.37.255.204:9977/live/leon/iptv/22929.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22929.ts
 #EXTINF:-1,LA_SD:SUR_Nat Geo
-http://54.37.255.204:9977/live/leon/iptv/22928.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22928.ts
 #EXTINF:-1,LA_SD:SUR_NatGeo Kids
-http://54.37.255.204:9977/live/leon/iptv/22927.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22927.ts
 #EXTINF:-1,LA_SD:SUR_Nick Jr
-http://54.37.255.204:9977/live/leon/iptv/22926.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22926.ts
 #EXTINF:-1,LA_SD:SUR_Nickelodeon
-http://54.37.255.204:9977/live/leon/iptv/22925.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22925.ts
 #EXTINF:-1,LA_SD:SUR_Panamericana TV
-http://54.37.255.204:9977/live/leon/iptv/22924.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22924.ts
 #EXTINF:-1,LA_SD:SUR_Paraguay TV
-http://54.37.255.204:9977/live/leon/iptv/22923.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22923.ts
 #EXTINF:-1,LA_SD:SUR_Paravision
-http://54.37.255.204:9977/live/leon/iptv/22922.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22922.ts
 #EXTINF:-1,LA_SD:SUR_Red Guarani
-http://54.37.255.204:9977/live/leon/iptv/22921.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22921.ts
 #EXTINF:-1,LA_SD:SUR_RPC
-http://54.37.255.204:9977/live/leon/iptv/22920.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22920.ts
 #EXTINF:-1,LA_SD:SUR_RTS
-http://54.37.255.204:9977/live/leon/iptv/22919.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22919.ts
 #EXTINF:-1,LA_SD:SUR_SNT
-http://54.37.255.204:9977/live/leon/iptv/22918.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22918.ts
 #EXTINF:-1,LA_SD:SUR_Sony
-http://54.37.255.204:9977/live/leon/iptv/22917.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22917.ts
 #EXTINF:-1,LA_SD:SUR_Space
-http://54.37.255.204:9977/live/leon/iptv/22916.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22916.ts
 #EXTINF:-1,LA_SD:SUR_Sur TV
-http://54.37.255.204:9977/live/leon/iptv/22915.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22915.ts
 #EXTINF:-1,LA_SD:SUR_TBS
-http://54.37.255.204:9977/live/leon/iptv/22914.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22914.ts
 #EXTINF:-1,LA_SD:SUR_TC Television
-http://54.37.255.204:9977/live/leon/iptv/22913.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22913.ts
 #EXTINF:-1,LA_SD:SUR_TCM
-http://54.37.255.204:9977/live/leon/iptv/22912.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22912.ts
 #EXTINF:-1,LA_SD:SUR_Teleamazonas
-http://54.37.255.204:9977/live/leon/iptv/22911.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22911.ts
 #EXTINF:-1,LA_SD:SUR_Teleantioquia
-http://54.37.255.204:9977/live/leon/iptv/22910.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22910.ts
 #EXTINF:-1,LA_SD:SUR_Telecaribe
-http://54.37.255.204:9977/live/leon/iptv/22909.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22909.ts
 #EXTINF:-1,LA_SD:SUR_Telefe
-http://54.37.255.204:9977/live/leon/iptv/22908.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22908.ts
 #EXTINF:-1,LA_SD:SUR_Telefuturo
-http://54.37.255.204:9977/live/leon/iptv/22907.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22907.ts
 #EXTINF:-1,LA_SD:SUR_Telepacifico
-http://54.37.255.204:9977/live/leon/iptv/22906.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22906.ts
 #EXTINF:-1,LA_SD:SUR_TNT
-http://54.37.255.204:9977/live/leon/iptv/22905.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22905.ts
 #EXTINF:-1,LA_SD:SUR_TVE
-http://54.37.255.204:9977/live/leon/iptv/22904.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22904.ts
 #EXTINF:-1,LA_SD:SUR_TVN
-http://54.37.255.204:9977/live/leon/iptv/22903.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22903.ts
 #EXTINF:-1,LA_SD:SUR_Unicanal
-http://54.37.255.204:9977/live/leon/iptv/22902.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22902.ts
 #EXTINF:-1,LA_SD:SUR_Universal
-http://54.37.255.204:9977/live/leon/iptv/22901.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22901.ts
 #EXTINF:-1,LA_SD:SUR_Win Sport
-http://54.37.255.204:9977/live/leon/iptv/22900.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22900.ts
 #EXTINF:-1,LA_SD:SUR_Zona Latina
-http://54.37.255.204:9977/live/leon/iptv/22899.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22899.ts
 #EXTINF:-1,LA_SD:SUR_Zoom
-http://54.37.255.204:9977/live/leon/iptv/22898.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22898.ts
 #EXTINF:-1,LA_SD:SYFY
-http://54.37.255.204:9977/live/leon/iptv/23242.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23242.ts
 #EXTINF:-1,LA_SD:TBS VERYFUNNY
-http://54.37.255.204:9977/live/leon/iptv/23243.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23243.ts
 #EXTINF:-1,LA_SD:TC TELEVISION
-http://54.37.255.204:9977/live/leon/iptv/23194.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23194.ts
 #EXTINF:-1,LA_SD:TCM
-http://54.37.255.204:9977/live/leon/iptv/23244.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23244.ts
 #EXTINF:-1,LA_SD:TDN
-http://54.37.255.204:9977/live/leon/iptv/23108.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23108.ts
 #EXTINF:-1,LA_SD:TELEAMAZONAS
-http://54.37.255.204:9977/live/leon/iptv/23193.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23193.ts
 #EXTINF:-1,LA_SD:TELEFE
-http://54.37.255.204:9977/live/leon/iptv/23192.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23192.ts
 #EXTINF:-1,LA_SD:TELEFORMULA
-http://54.37.255.204:9977/live/leon/iptv/23085.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23085.ts
 #EXTINF:-1,LA_SD:TELEMUNDO
-http://54.37.255.204:9977/live/leon/iptv/23246.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23246.ts
 #EXTINF:-1,LA_SD:Telemusica
-http://54.37.255.204:9977/live/leon/iptv/23297.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23297.ts
 #EXTINF:-1,LA_SD:TELENOVELAS
-http://54.37.255.204:9977/live/leon/iptv/23167.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23167.ts
 #EXTINF:-1,LA_SD:TELEVEN
-http://54.37.255.204:9977/live/leon/iptv/23061.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23061.ts
 #EXTINF:-1,LA_SD:TELPIN
-http://54.37.255.204:9977/live/leon/iptv/23174.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23174.ts
 #EXTINF:-1,LA_SD:TLC
-http://54.37.255.204:9977/live/leon/iptv/23236.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23236.ts
 #EXTINF:-1,LA_SD:TNT
-http://54.37.255.204:9977/live/leon/iptv/23229.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23229.ts
 #EXTINF:-1,LA_SD:TNT SERIES
-http://54.37.255.204:9977/live/leon/iptv/23237.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23237.ts
 #EXTINF:-1,LA_SD:TODO DEPORTE
-http://54.37.255.204:9977/live/leon/iptv/23173.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23173.ts
 #EXTINF:-1,LA_SD:TODO DEPORTES HONDURAS
-http://54.37.255.204:9977/live/leon/iptv/23303.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23303.ts
 #EXTINF:-1,LA_SD:TOM Y JERRY 24/7
-http://54.37.255.204:9977/live/leon/iptv/23116.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23116.ts
 #EXTINF:-1,LA_SD:TOONCAST
-http://54.37.255.204:9977/live/leon/iptv/23245.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23245.ts
 #EXTINF:-1,LA_SD:Travel and Living Channel
-http://54.37.255.204:9977/live/leon/iptv/22993.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22993.ts
 #EXTINF:-1,LA_SD:Tru Tv
-http://54.37.255.204:9977/live/leon/iptv/23231.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23231.ts
 #EXTINF:-1,LA_SD:TSI HONDURAS
-http://54.37.255.204:9977/live/leon/iptv/23104.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23104.ts
 #EXTINF:-1,LA_SD:TV MAS
-http://54.37.255.204:9977/live/leon/iptv/23046.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23046.ts
 #EXTINF:-1,LA_SD:TV UNAM
-http://54.37.255.204:9977/live/leon/iptv/23082.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23082.ts
 #EXTINF:-1,LA_SD:TV_MAS
-http://54.37.255.204:9977/live/leon/iptv/23305.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23305.ts
 #EXTINF:-1,LA_SD:TV5 MONDE LATINO
-http://54.37.255.204:9977/live/leon/iptv/23081.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23081.ts
 #EXTINF:-1,LA_SD:TVES
-http://54.37.255.204:9977/live/leon/iptv/23042.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23042.ts
 #EXTINF:-1,LA_SD:TyC SPORTS
-http://54.37.255.204:9977/live/leon/iptv/23191.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23191.ts
 #EXTINF:-1,LA_SD:Unicable
-http://54.37.255.204:9977/live/leon/iptv/23080.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23080.ts
 #EXTINF:-1,LA_SD:UNICANAL
-http://54.37.255.204:9977/live/leon/iptv/23171.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23171.ts
 #EXTINF:-1,LA_SD:UNIVERSAL
-http://54.37.255.204:9977/live/leon/iptv/23234.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23234.ts
 #EXTINF:-1,LA_SD:UNIVISION NETWORK
-http://54.37.255.204:9977/live/leon/iptv/23164.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23164.ts
 #EXTINF:-1,LA_SD:UNIVISION TDN
-http://54.37.255.204:9977/live/leon/iptv/23107.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23107.ts
 #EXTINF:-1,LA_SD:UNO
-http://54.37.255.204:9977/live/leon/iptv/23170.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23170.ts
 #EXTINF:-1,LA_SD:VENEVISION
-http://54.37.255.204:9977/live/leon/iptv/23060.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23060.ts
 #EXTINF:-1,LA_SD:VENEVISION PLUS
-http://54.37.255.204:9977/live/leon/iptv/23190.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23190.ts
 #EXTINF:-1,LA_SD:VH1
-http://54.37.255.204:9977/live/leon/iptv/23154.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23154.ts
 #EXTINF:-1,LA_SD:VH1 CLASSICS
-http://54.37.255.204:9977/live/leon/iptv/23153.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23153.ts
 #EXTINF:-1,LA_SD:VH1 MEGAHITS
-http://54.37.255.204:9977/live/leon/iptv/23079.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23079.ts
 #EXTINF:-1,LA_SD:Via X
-http://54.37.255.204:9977/live/leon/iptv/22992.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22992.ts
 #EXTINF:-1,LA_SD:WARNER
-http://54.37.255.204:9977/live/leon/iptv/23224.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23224.ts
 #EXTINF:-1,LA_SD:WIN SPORT
-http://54.37.255.204:9977/live/leon/iptv/23226.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23226.ts
 #EXTINF:-1,LA_SD:WOBI
-http://54.37.255.204:9977/live/leon/iptv/23189.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23189.ts
 #EXTINF:-1,LA_SD:WOW TV
-http://54.37.255.204:9977/live/leon/iptv/23168.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23168.ts
 #EXTINF:-1,LA_TELETRAK
-http://54.37.255.204:9977/live/leon/iptv/23185.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/23185.ts
 #EXTINF:-1,VTV_Uruguay_TEST
-http://54.37.255.204:9977/live/leon/iptv/22552.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/leon/iptv/22552.ts
