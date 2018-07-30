@@ -1,856 +1,307 @@
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/TvGratiskodi[/COLOR]
 http://paypal.me/TvGratiskodi
 
-#EXTINF:-1,----- SOUTH AMERICA -----
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/137796.m3u8
-#EXTINF:-1,****ARGENTINA****
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138312.m3u8
-#EXTINF:-1,(ARG) America
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138306.m3u8
-#EXTINF:-1,(ARG) EL 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138307.m3u8
-#EXTINF:-1,(ARG) MAGAZINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138309.m3u8
-#EXTINF:-1,(ARG) PAKAPAKA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138308.m3u8
-#EXTINF:-1,(ARG) Telefe Int Vp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138305.m3u8
-#EXTINF:-1,(ARG) TN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138310.m3u8
-#EXTINF:-1,(ARG) TV PUBLICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138304.m3u8
-#EXTINF:-1,****CHILE****
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138326.m3u8
-#EXTINF:-1,(CHI) 24 HORAS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138325.m3u8
-#EXTINF:-1,(CHI) CANAL 13 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138324.m3u8
-#EXTINF:-1,(CHI) CHV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138323.m3u8
-#EXTINF:-1,(CHI) CNN Chile 2 Cl
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138316.m3u8
-#EXTINF:-1,(CHI) CNN Chile Cl
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138315.m3u8
-#EXTINF:-1,(CHI) LA RED HD DIRECTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138313.m3u8
-#EXTINF:-1,(CHI) MEGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138314.m3u8
-#EXTINF:-1,(CHI) MEGA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138321.m3u8
-#EXTINF:-1,(CHI) TELETRAK DIRECTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138318.m3u8
-#EXTINF:-1,(CHI) TV Chile Vp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138319.m3u8
-#EXTINF:-1,(CHI) TVN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138320.m3u8
-#EXTINF:-1,****PERU****
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138340.m3u8
-#EXTINF:-1,(PE) CENTRAL TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/145626.m3u8
-#EXTINF:-1,(PE) GOAL PERU HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/145624.m3u8
-#EXTINF:-1,(PE) TV Noticias 7.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/145625.m3u8
-#EXTINF:-1,(PE) VIA TELEVISIÓN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/145627.m3u8
-#EXTINF:-1,(PE) ATV Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138334.m3u8
-#EXTINF:-1,(PE) AMERICA HD PE TM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138339.m3u8
-#EXTINF:-1,(PE) AmericaTv Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138335.m3u8
-#EXTINF:-1,(PE) ATV HD PE TM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138338.m3u8
-#EXTINF:-1,(PE) Canal J Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138333.m3u8
-#EXTINF:-1,(PE) Capital Tv Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138332.m3u8
-#EXTINF:-1,(PE) FrecuenciaLatina Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138331.m3u8
-#EXTINF:-1,(PE) La Tele Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138330.m3u8
-#EXTINF:-1,(PE) LATINA PE TM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138337.m3u8
-#EXTINF:-1,(PE) NEXT TV PE TM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138336.m3u8
-#EXTINF:-1,(PE) PanamericanaTv Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138329.m3u8
-#EXTINF:-1,(PE) RPP Pe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138328.m3u8
-#EXTINF:-1,(PE) TV PERU HD PE TM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138327.m3u8
-#EXTINF:-1,****MEXICO****
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138554.m3u8
-#EXTINF:-1,(MEX) Azteca 13 HD BR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138523.m3u8
-#EXTINF:-1,(MEX) Azteca 13 MX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138513.m3u8
-#EXTINF:-1,(MEX) Azteca Cinema Vp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138522.m3u8
-#EXTINF:-1,(MEX) Azteca Click Vp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138521.m3u8
-#EXTINF:-1,(MEX) Azteca Corazón Vp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138520.m3u8
-#EXTINF:-1,(MEX) Azteca Mundo Vp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138519.m3u8
-#EXTINF:-1,(MEX) Canal de las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138518.m3u8
-#EXTINF:-1,(MEX) Canal de las Estrellas LA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138517.m3u8
-#EXTINF:-1,(MEX) Canal Judicial MX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138516.m3u8
-#EXTINF:-1,(MEX) Milenio Tv MX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138511.m3u8
-#EXTINF:-1,(MEX) Once TV MX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138512.m3u8
-#EXTINF:-1,(MEX) TvMas MX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138515.m3u8
-#EXTINF:-1,----- HONDURAS-----
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138555.m3u8
-#EXTINF:-1,(MEX) Azteca Honduras HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138552.m3u8
-#EXTINF:-1,(MEX) RTV HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138537.m3u8
-#EXTINF:-1,(MEX) Sulavisión HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138536.m3u8
-#EXTINF:-1,(MEX) Telecadena HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138535.m3u8
-#EXTINF:-1,(MEX) 45 TV HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138553.m3u8
-#EXTINF:-1,(MEX) Telecadena SD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138534.m3u8
-#EXTINF:-1,(MEX) Teleceiba HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138533.m3u8
-#EXTINF:-1,(MEX) Teleprogreso HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138532.m3u8
-#EXTINF:-1,(MEX) Telesistema HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138531.m3u8
-#EXTINF:-1,(MEX) Telesistema SD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138530.m3u8
-#EXTINF:-1,(MEX) TNH HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138529.m3u8
-#EXTINF:-1,(MEX) TVC 360p HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138528.m3u8
-#EXTINF:-1,(MEX) TVC 480p HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138527.m3u8
-#EXTINF:-1,(MEX) TVC HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138526.m3u8
-#EXTINF:-1,(MEX) Une TV HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138525.m3u8
-#EXTINF:-1,(MEX) D Televisión HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138544.m3u8
-#EXTINF:-1,(MEX) Ebenezer HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138543.m3u8
-#EXTINF:-1,(MEX) Globo TV HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138542.m3u8
-#EXTINF:-1,(MEX) Foro Tv MX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138514.m3u8
-#EXTINF:-1,(MEX) HCH TV HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138541.m3u8
-#EXTINF:-1,(MEX) Hondured 13 HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138540.m3u8
-#EXTINF:-1,(MEX) Maya TV HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138539.m3u8
-#EXTINF:-1,(MEX) Mega TV HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138538.m3u8
-#EXTINF:-1,(MEX) Campus TV HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138551.m3u8
-#EXTINF:-1,(MEX) Canal 10 HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138550.m3u8
-#EXTINF:-1,(MEX) Canal 11 HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138549.m3u8
-#EXTINF:-1,(MEX) Canal 11 SD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138548.m3u8
-#EXTINF:-1,(MEX) Canal 5 HD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138547.m3u8
-#EXTINF:-1,(MEX) Canal 5 SD HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138546.m3u8
-#EXTINF:-1,(MEX) Canal 6 HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138545.m3u8
-#EXTINF:-1,(MEX) Vica TV HN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138524.m3u8
-#EXTINF:-1,----- BRAZIL -----
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/137806.m3u8
-#EXTINF:-1,(BR) A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138868.m3u8
-#EXTINF:-1,(BR) A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138867.m3u8
-#EXTINF:-1,(BR) Amazon Sat
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138866.m3u8
-#EXTINF:-1,(BR) AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138865.m3u8
-#EXTINF:-1,(BR) AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138864.m3u8
-#EXTINF:-1,(BR) Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138863.m3u8
-#EXTINF:-1,(BR) Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138862.m3u8
-#EXTINF:-1,(BR) AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138861.m3u8
-#EXTINF:-1,(BR) AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138860.m3u8
-#EXTINF:-1,(BR) Baby TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138859.m3u8
-#EXTINF:-1,(BR) Band
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138858.m3u8
-#EXTINF:-1,(BR) Band HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138857.m3u8
-#EXTINF:-1,(BR) Band News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138856.m3u8
-#EXTINF:-1,(BR) Band Sports
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138855.m3u8
-#EXTINF:-1,(BR) BBB 2018
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138854.m3u8
-#EXTINF:-1,(BR) BBB 2018 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138853.m3u8
-#EXTINF:-1,(BR) BIS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138852.m3u8
-#EXTINF:-1,(BR) BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138851.m3u8
-#EXTINF:-1,(BR) Boomerang
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138850.m3u8
-#EXTINF:-1,(BR) Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138849.m3u8
-#EXTINF:-1,(BR) Canal Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138848.m3u8
-#EXTINF:-1,(BR) Canal Sony
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138847.m3u8
-#EXTINF:-1,(BR) Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138846.m3u8
-#EXTINF:-1,(BR) Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138845.m3u8
-#EXTINF:-1,(BR) Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138843.m3u8
-#EXTINF:-1,(BR) CBlol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138842.m3u8
-#EXTINF:-1,(BR) Cine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138841.m3u8
-#EXTINF:-1,(BR) Cine Sky
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138840.m3u8
-#EXTINF:-1,(BR) Cinemax
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138839.m3u8
-#EXTINF:-1,(BR) Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138838.m3u8
-#EXTINF:-1,(BR) Classique TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138837.m3u8
-#EXTINF:-1,(BR) CNN International
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138836.m3u8
-#EXTINF:-1,(BR) Combate
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138835.m3u8
-#EXTINF:-1,(BR) Combate FULL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138834.m3u8
-#EXTINF:-1,(BR) Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138833.m3u8
-#EXTINF:-1,(BR) Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138832.m3u8
-#EXTINF:-1,(BR) Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138831.m3u8
-#EXTINF:-1,(BR) Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138830.m3u8
-#EXTINF:-1,(BR) Discovery Civilization
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138829.m3u8
-#EXTINF:-1,(BR) Discovery H&H
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138828.m3u8
-#EXTINF:-1,(BR) Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138827.m3u8
-#EXTINF:-1,(BR) Discovery Kids
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138826.m3u8
-#EXTINF:-1,(BR) Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138825.m3u8
-#EXTINF:-1,(BR) Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138824.m3u8
-#EXTINF:-1,(BR) Discovery Theater
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138823.m3u8
-#EXTINF:-1,(BR) Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138822.m3u8
-#EXTINF:-1,(BR) Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138821.m3u8
-#EXTINF:-1,(BR) Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138820.m3u8
-#EXTINF:-1,(BR) Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138819.m3u8
-#EXTINF:-1,(BR) Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138818.m3u8
-#EXTINF:-1,(BR) Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138817.m3u8
-#EXTINF:-1,(BR) Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138816.m3u8
-#EXTINF:-1,(BR) Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138815.m3u8
-#EXTINF:-1,(BR) E!
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138814.m3u8
-#EXTINF:-1,(BR) E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138813.m3u8
-#EXTINF:-1,(BR) EI Maxx
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138812.m3u8
-#EXTINF:-1,(BR) EI Maxx 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138811.m3u8
-#EXTINF:-1,(BR) EI Maxx 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138810.m3u8
-#EXTINF:-1,(BR) EI Maxx HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138809.m3u8
-#EXTINF:-1,(BR) EPTV Campinas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138808.m3u8
-#EXTINF:-1,(BR) ESPN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138807.m3u8
-#EXTINF:-1,(BR) ESPN  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138806.m3u8
-#EXTINF:-1,(BR) ESPN Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138805.m3u8
-#EXTINF:-1,(BR) ESPN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138804.m3u8
-#EXTINF:-1,(BR) ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138803.m3u8
-#EXTINF:-1,(BR) Esporte Interativo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138802.m3u8
-#EXTINF:-1,(BR) Esporte Interativo 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138801.m3u8
-#EXTINF:-1,(BR) Esporte Interativo 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138800.m3u8
-#EXTINF:-1,(BR) Esporte Interativo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138799.m3u8
-#EXTINF:-1,(BR) Fish TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138798.m3u8
-#EXTINF:-1,(BR) Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138797.m3u8
-#EXTINF:-1,(BR) Fox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138796.m3u8
-#EXTINF:-1,(BR) Fox HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138795.m3u8
-#EXTINF:-1,(BR) Fox Life
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138794.m3u8
-#EXTINF:-1,(BR) Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138793.m3u8
-#EXTINF:-1,(BR) Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138792.m3u8
-#EXTINF:-1,(BR) Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138791.m3u8
-#EXTINF:-1,(BR) Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138790.m3u8
-#EXTINF:-1,(BR) Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138789.m3u8
-#EXTINF:-1,(BR) Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138788.m3u8
-#EXTINF:-1,(BR) Futura
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138787.m3u8
-#EXTINF:-1,(BR) FX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138786.m3u8
-#EXTINF:-1,(BR) FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138785.m3u8
-#EXTINF:-1,(BR) Globo Brasilia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138784.m3u8
-#EXTINF:-1,(BR) Globo MG Full HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138782.m3u8
-#EXTINF:-1,(BR) Globo MG HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138781.m3u8
-#EXTINF:-1,(BR) Globo News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138780.m3u8
-#EXTINF:-1,(BR) Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138779.m3u8
-#EXTINF:-1,(BR) Globo Nordeste
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138778.m3u8
-#EXTINF:-1,(BR) Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138777.m3u8
-#EXTINF:-1,(BR) Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138776.m3u8
-#EXTINF:-1,(BR) Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138775.m3u8
-#EXTINF:-1,(BR) Globo RJ HD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138774.m3u8
-#EXTINF:-1,(BR) Globo SP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138773.m3u8
-#EXTINF:-1,(BR) Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138772.m3u8
-#EXTINF:-1,(BR) Globo SP HD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138771.m3u8
-#EXTINF:-1,(BR) Globosat   HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138770.m3u8
-#EXTINF:-1,(BR) Gloob
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138769.m3u8
-#EXTINF:-1,(BR) Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138768.m3u8
-#EXTINF:-1,(BR) GNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138767.m3u8
-#EXTINF:-1,(BR) GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138766.m3u8
-#EXTINF:-1,(BR) H2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138765.m3u8
-#EXTINF:-1,(BR) H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138764.m3u8
-#EXTINF:-1,(BR) HBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138763.m3u8
-#EXTINF:-1,(BR) HBO 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138762.m3u8
-#EXTINF:-1,(BR) HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138761.m3u8
-#EXTINF:-1,(BR) HBO Family
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138760.m3u8
-#EXTINF:-1,(BR) HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138759.m3u8
-#EXTINF:-1,(BR) HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138758.m3u8
-#EXTINF:-1,(BR) HBO Plus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138757.m3u8
-#EXTINF:-1,(BR) HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138756.m3u8
-#EXTINF:-1,(BR) HBO Plus*e
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138755.m3u8
-#EXTINF:-1,(BR) HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138754.m3u8
-#EXTINF:-1,(BR) HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138753.m3u8
-#EXTINF:-1,(BR) History Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138752.m3u8
-#EXTINF:-1,(BR) History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138751.m3u8
-#EXTINF:-1,(BR) Investigação Discovery
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138750.m3u8
-#EXTINF:-1,(BR) Investigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138749.m3u8
-#EXTINF:-1,(BR) Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138748.m3u8
-#EXTINF:-1,(BR) Max
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138747.m3u8
-#EXTINF:-1,(BR) Max Prime
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138746.m3u8
-#EXTINF:-1,(BR) Max Prime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138745.m3u8
-#EXTINF:-1,(BR) Max Up
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138744.m3u8
-#EXTINF:-1,(BR) Megapix
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138743.m3u8
-#EXTINF:-1,(BR) Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138742.m3u8
-#EXTINF:-1,(BR) MTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138741.m3u8
-#EXTINF:-1,(BR) MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138740.m3u8
-#EXTINF:-1,(BR) Multishow
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138739.m3u8
-#EXTINF:-1,(BR) Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138738.m3u8
-#EXTINF:-1,(BR) Music Box Brazil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138737.m3u8
-#EXTINF:-1,(BR) NatGeo Kids
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138736.m3u8
-#EXTINF:-1,(BR) NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138735.m3u8
-#EXTINF:-1,(BR) NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138734.m3u8
-#EXTINF:-1,(BR) National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138733.m3u8
-#EXTINF:-1,(BR) National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138732.m3u8
-#EXTINF:-1,(BR) Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138731.m3u8
-#EXTINF:-1,(BR) Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138730.m3u8
-#EXTINF:-1,(BR) Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138729.m3u8
-#EXTINF:-1,(BR) NTV FlorianÃ³polis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138728.m3u8
-#EXTINF:-1,(BR) OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138727.m3u8
-#EXTINF:-1,(BR) Paramount
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138726.m3u8
-#EXTINF:-1,(BR) Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138725.m3u8
-#EXTINF:-1,(BR) Play TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138724.m3u8
-#EXTINF:-1,(BR) Premiere 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138723.m3u8
-#EXTINF:-1,(BR) Premiere 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138722.m3u8
-#EXTINF:-1,(BR) Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138721.m3u8
-#EXTINF:-1,(BR) Premiere 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138720.m3u8
-#EXTINF:-1,(BR) Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138719.m3u8
-#EXTINF:-1,(BR) Premiere 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138718.m3u8
-#EXTINF:-1,(BR) Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138717.m3u8
-#EXTINF:-1,(BR) Premiere 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138716.m3u8
-#EXTINF:-1,(BR) Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138715.m3u8
-#EXTINF:-1,(BR) Premiere 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138714.m3u8
-#EXTINF:-1,(BR) Premiere 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138713.m3u8
-#EXTINF:-1,(BR) Premiere 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138712.m3u8
-#EXTINF:-1,(BR) Premiere 9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138711.m3u8
-#EXTINF:-1,(BR) Premiere Clubes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138710.m3u8
-#EXTINF:-1,(BR) Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138709.m3u8
-#EXTINF:-1,(BR) RBS TV Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138708.m3u8
-#EXTINF:-1,(BR) Record
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138707.m3u8
-#EXTINF:-1,(BR) Record FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138706.m3u8
-#EXTINF:-1,(BR) Record HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138705.m3u8
-#EXTINF:-1,(BR) Record News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138704.m3u8
-#EXTINF:-1,(BR) Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138703.m3u8
-#EXTINF:-1,(BR) Rede TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138702.m3u8
-#EXTINF:-1,(BR) Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138701.m3u8
-#EXTINF:-1,(BR) SBT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138700.m3u8
-#EXTINF:-1,(BR) SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138699.m3u8
-#EXTINF:-1,(BR) Space
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138698.m3u8
-#EXTINF:-1,(BR) Space HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138697.m3u8
-#EXTINF:-1,(BR) SporTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138696.m3u8
-#EXTINF:-1,(BR) SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138695.m3u8
-#EXTINF:-1,(BR) SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138694.m3u8
-#EXTINF:-1,(BR) SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138693.m3u8
-#EXTINF:-1,(BR) SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138692.m3u8
-#EXTINF:-1,(BR) SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138691.m3u8
-#EXTINF:-1,(BR) Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138690.m3u8
-#EXTINF:-1,(BR) Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138689.m3u8
-#EXTINF:-1,(BR) SyFy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138688.m3u8
-#EXTINF:-1,(BR) SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138687.m3u8
-#EXTINF:-1,(BR) TBS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138686.m3u8
-#EXTINF:-1,(BR) TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138685.m3u8
-#EXTINF:-1,(BR) TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138684.m3u8
-#EXTINF:-1,(BR) Telecine Action
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138683.m3u8
-#EXTINF:-1,(BR) Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138682.m3u8
-#EXTINF:-1,(BR) Telecine Cult
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138681.m3u8
-#EXTINF:-1,(BR) Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138680.m3u8
-#EXTINF:-1,(BR) Telecine Fun
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138679.m3u8
-#EXTINF:-1,(BR) Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138678.m3u8
-#EXTINF:-1,(BR) Telecine Pipoca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138677.m3u8
-#EXTINF:-1,(BR) Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138676.m3u8
-#EXTINF:-1,(BR) Telecine Premium
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138675.m3u8
-#EXTINF:-1,(BR) Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138674.m3u8
-#EXTINF:-1,(BR) Telecine Touch
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138673.m3u8
-#EXTINF:-1,(BR) Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138672.m3u8
-#EXTINF:-1,(BR) TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138671.m3u8
-#EXTINF:-1,(BR) TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138670.m3u8
-#EXTINF:-1,(BR) TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138669.m3u8
-#EXTINF:-1,(BR) TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138668.m3u8
-#EXTINF:-1,(BR) TNT SÃ©ries
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138667.m3u8
-#EXTINF:-1,(BR) TNT SÃ©ries HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138666.m3u8
-#EXTINF:-1,(BR) Tooncast
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138665.m3u8
-#EXTINF:-1,(BR) TV Aparecida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138664.m3u8
-#EXTINF:-1,(BR) Tv Gazeta
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138663.m3u8
-#EXTINF:-1,(BR) Tv Tribuna Santos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138662.m3u8
-#EXTINF:-1,(BR) Universal Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138661.m3u8
-#EXTINF:-1,(BR) Universal Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138660.m3u8
-#EXTINF:-1,(BR) VH1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138659.m3u8
-#EXTINF:-1,(BR) VIVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138658.m3u8
-#EXTINF:-1,(BR) VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138657.m3u8
-#EXTINF:-1,(BR) Warner Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138656.m3u8
-#EXTINF:-1,(BR) Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138655.m3u8
-#EXTINF:-1,(BR) Woohoo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138654.m3u8
-#EXTINF:-1,****COLOMBIA****
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/138510.m3u8
-#EXTINF:-1,(COL) A3Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148494.m3u8
-#EXTINF:-1,(COL) AMC CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148495.m3u8
-#EXTINF:-1,(COL) ANTV CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148496.m3u8
-#EXTINF:-1,(COL) Atreseries HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148497.m3u8
-#EXTINF:-1,(COL) AXN [Dual]  CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148498.m3u8
-#EXTINF:-1,(COL) AyE HD [Dual] CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148499.m3u8
-#EXTINF:-1,(COL) AZ Mundo CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148500.m3u8
-#EXTINF:-1,(COL) Baby TV CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148501.m3u8
-#EXTINF:-1,(COL) Boomerang  CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148502.m3u8
-#EXTINF:-1,(COL) Cablenoticias HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148503.m3u8
-#EXTINF:-1,(COL) Canal Capital HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148504.m3u8
-#EXTINF:-1,(COL) Canal Claro  CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148505.m3u8
-#EXTINF:-1,(COL) Canal de las Estrellas CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148506.m3u8
-#EXTINF:-1,(COL) Canal Sony [Dual]  CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148507.m3u8
-#EXTINF:-1,(COL) Canal Tro CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148508.m3u8
-#EXTINF:-1,(COL) Canal U TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148509.m3u8
-#EXTINF:-1,(COL) Canal Wow TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148510.m3u8
-#EXTINF:-1,(COL) Cantinazo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148511.m3u8
-#EXTINF:-1,(COL) Caracol CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148512.m3u8
-#EXTINF:-1,(COL) Caracol HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148513.m3u8
-#EXTINF:-1,(COL) CARACOL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148514.m3u8
-#EXTINF:-1,(COL) CARACOL TV COLOMBIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148515.m3u8
-#EXTINF:-1,(COL) Carolina TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148516.m3u8
-#EXTINF:-1,(COL) Cartoon Network 1 TrL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148517.m3u8
-#EXTINF:-1,(COL) Cine Latino  CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148518.m3u8
-#EXTINF:-1,(COL) Cinecanal [Dual] CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148519.m3u8
-#EXTINF:-1,(COL) Cinema Plus  CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148520.m3u8
-#EXTINF:-1,(COL) City Noticias CLCL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148521.m3u8
-#EXTINF:-1,(COL) Claro Cinema
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148522.m3u8
-#EXTINF:-1,(COL) Claro Música Lado
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148523.m3u8
-#EXTINF:-1,(COL) Claro Sports CO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148524.m3u8
-#EXTINF:-1,(COL) Colombia - Señal Colombia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148529.m3u8
-#EXTINF:-1,(COL) Colombia Canal Caracol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148525.m3u8
-#EXTINF:-1,(COL) Colombia Canal Caracol Cl
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148526.m3u8
-#EXTINF:-1,(COL) Colombia Canal RCN Cl
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148527.m3u8
-#EXTINF:-1,(COL) Colombia NTN 24 Horas Cl
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148528.m3u8
-#EXTINF:-1,(COL) Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148530.m3u8
-#EXTINF:-1,(COL) Cosmovision HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148531.m3u8
-#EXTINF:-1,(COL) De Pelicula
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148532.m3u8
-#EXTINF:-1,(COL) Dicovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148533.m3u8
-#EXTINF:-1,(COL) Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148534.m3u8
-#EXTINF:-1,(COL) Discovery Home and Health HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148535.m3u8
-#EXTINF:-1,(COL) Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148536.m3u8
-#EXTINF:-1,(COL) Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148537.m3u8
-#EXTINF:-1,(COL) Discovery Theater
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148538.m3u8
-#EXTINF:-1,(COL) Discovey Civilization
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148539.m3u8
-#EXTINF:-1,(COL) Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148540.m3u8
-#EXTINF:-1,(COL) E!
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148541.m3u8
-#EXTINF:-1,(COL) Efekto TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148542.m3u8
-#EXTINF:-1,(COL) El Gourmed
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148543.m3u8
-#EXTINF:-1,(COL) El Tiempo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148544.m3u8
-#EXTINF:-1,(COL) Enlace
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148545.m3u8
-#EXTINF:-1,(COL) ESPN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148546.m3u8
-#EXTINF:-1,(COL) EURO Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148547.m3u8
-#EXTINF:-1,(COL) EWTN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148548.m3u8
-#EXTINF:-1,(COL) Fox Cinema
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148549.m3u8
-#EXTINF:-1,(COL) Fox Classics
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148550.m3u8
-#EXTINF:-1,(COL) Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148551.m3u8
-#EXTINF:-1,(COL) Fox Life
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148552.m3u8
-#EXTINF:-1,(COL) Fox News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148553.m3u8
-#EXTINF:-1,(COL) Fox Premium Action
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148554.m3u8
-#EXTINF:-1,(COL) Fox Premium Action Sur
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148555.m3u8
-#EXTINF:-1,(COL) Fox Premium Family
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148556.m3u8
-#EXTINF:-1,(COL) Fox Premium Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148557.m3u8
-#EXTINF:-1,(COL) Fox Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148558.m3u8
-#EXTINF:-1,(COL) Fox Sport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148562.m3u8
-#EXTINF:-1,(COL) Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148564.m3u8
-#EXTINF:-1,(COL) Fox Sports 1 Colombia FXLA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148559.m3u8
-#EXTINF:-1,(COL) Fox Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148560.m3u8
-#EXTINF:-1,(COL) Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148561.m3u8
-#EXTINF:-1,(COL) Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148563.m3u8
-#EXTINF:-1,(COL) FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148565.m3u8
-#EXTINF:-1,(COL) Golden Plus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148566.m3u8
-#EXTINF:-1,(COL) Golden Premier
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148567.m3u8
-#EXTINF:-1,(COL) Golf Latin America
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148568.m3u8
-#EXTINF:-1,(COL) HBO (W)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148569.m3u8
-#EXTINF:-1,(COL) HBO Plus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148570.m3u8
-#EXTINF:-1,(COL) Headline News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148571.m3u8
-#EXTINF:-1,(COL) History
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148572.m3u8
-#EXTINF:-1,(COL) HTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148573.m3u8
-#EXTINF:-1,(COL) Ibero
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148574.m3u8
-#EXTINF:-1,(COL) Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148575.m3u8
-#EXTINF:-1,(COL) Las Estrellas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148576.m3u8
-#EXTINF:-1,(COL) Migente TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148577.m3u8
-#EXTINF:-1,(COL) MTV Hits
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148578.m3u8
-#EXTINF:-1,(COL) NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148579.m3u8
-#EXTINF:-1,(COL) National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148580.m3u8
-#EXTINF:-1,(COL) Nick jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148582.m3u8
-#EXTINF:-1,(COL) Nickquelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148584.m3u8
-#EXTINF:-1,(COL) NTN 24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148586.m3u8
-#EXTINF:-1,(COL) NUESTRA TELE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148588.m3u8
-#EXTINF:-1,(COL) OroMarTv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148590.m3u8
-#EXTINF:-1,(COL) Pasiones HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148592.m3u8
-#EXTINF:-1,(COL) RCN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148594.m3u8
-#EXTINF:-1,(COL) RCN Novelas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148596.m3u8
-#EXTINF:-1,(COL) RCN SD Colombia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148597.m3u8
-#EXTINF:-1,(COL) RitmoSon1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148598.m3u8
-#EXTINF:-1,(COL) SENAL COLOMBIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148599.m3u8
-#EXTINF:-1,(COL) Sony HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148601.m3u8
-#EXTINF:-1,(COL) SPACE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148602.m3u8
-#EXTINF:-1,(COL) SyFy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148603.m3u8
-#EXTINF:-1,(COL) TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148604.m3u8
-#EXTINF:-1,(COL) Tec TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148605.m3u8
-#EXTINF:-1,(COL) Teleantioquia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148606.m3u8
-#EXTINF:-1,(COL) Telemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148607.m3u8
-#EXTINF:-1,(COL) Telemedellin HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148610.m3u8
-#EXTINF:-1,(COL) TELEPACIFICO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148611.m3u8
-#EXTINF:-1,(COL) TeleRitmo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148612.m3u8
-#EXTINF:-1,(COL) TeleUno HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148613.m3u8
-#EXTINF:-1,(COL) Televida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148614.m3u8
-#EXTINF:-1,(COL) TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148615.m3u8
-#EXTINF:-1,(COL) TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148618.m3u8
-#EXTINF:-1,(COL) TNT Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148616.m3u8
-#EXTINF:-1,(COL) TNT Series 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148617.m3u8
-#EXTINF:-1,(COL) TruTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148619.m3u8
-#EXTINF:-1,(COL) TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148620.m3u8
-#EXTINF:-1,(COL) Unicable
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148622.m3u8
-#EXTINF:-1,(COL) Uno
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148621.m3u8
-#EXTINF:-1,(COL) Vh1 Classic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148624.m3u8
-#EXTINF:-1,(COL) VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148623.m3u8
-#EXTINF:-1,(COL) Vivoplay Vp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148625.m3u8
-#EXTINF:-1,(COL) Warner Bross HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148626.m3u8
-#EXTINF:-1,(COL) Win Sport
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148627.m3u8
-#EXTINF:-1,(COL) Word Discovery
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148628.m3u8
-#EXTINF:-1,(COL) ZooMoo DTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/148629.m3u8
-#EXTINF:-1,(NL) ATV ANTWERPEN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/41765.m3u8
+
+ 
+
+#EXTINF:-1,WORLD NEWS:Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,WORLD NEWS:Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,WORLD NEWS:France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,WORLD NEWS:NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+5
+#EXTINF:-1,USA:ABC 7 WWSB Sarasota
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1,Entertainment TV:Celebrity Page TV
+https://vcncelebritypage.teleosmedia.com/stream/celebritypage/livefeed1/playlist.m3u8
+#EXTINF:-1,LATINO:Cuenca Vision
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1,LATINO:La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1,LATINO:Latinos Up TV
+https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
+#EXTINF:-1,LATINO:Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,LATINO:RT
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+#EXTINF:-1,LATINO:TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1,MEXICO:15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1,MEXICO:ADN 40 (Opt-1)
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,MEXICO:Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,MEXICO:Azteca Mas
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1,MEXICO:Banda Ancha
+https://banetworks.interactivemedia.com.mx/live/_definst_/ngrp:bandaancha_all/playlist.m3u8
+#EXTINF:-1,MEXICO:Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1,MEXICO:Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,MEXICO:Canal 20 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,MEXICO:Canal Once Mexico City
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,MEXICO:Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1,MEXICO:Mexiquense Toluca
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1,MEXICO:Milenio TV (Opt-1)
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,MEXICO:RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,MEXICO:RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1,MEXICO:RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1,MEXICO:RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,MEXICO:Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1,MEXICO:Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:-1,MEXICO:TVMAS Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1,MEXICO:TV Cuatro 4.2 Guanajuato
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+#EXTINF:-1,MEXICO:Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:-1,MEXICO:Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:-1,ARGENTINA:Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1,ARGENTINA:Canal 3 Pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1,ARGENTINA:Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1,ARGENTINA:Canal 5 Telesol
+http://149.56.98.124:9090/hls/telesol.m3u8
+#EXTINF:-1,ARGENTINA:Canal 9 Comodoro Rivadavia
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+#EXTINF:-1,ARGENTINA:Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1,ARGENTINA:Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1,ARGENTINA:Canal 26 Buenos Aires (Opt-1)
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,ARGENTINA:Canal 79 Mar del Plata
+http://painel.serveron.com.br:1935/8168/8168/live.m3u8
+#EXTINF:-1,ARGENTINA:Canal Local Olavarria
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+
+
+#EXTINF:-1,ARGENTINA:El 1 Web TV La Matanza
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:-1,ARGENTINA:El 10 Salta
+http://173.244.209.235:1935/viviloendirecto/psigroup/chunklist_w349709429.m3u8
+
+#EXTINF:-1,ARGENTINA:Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1,ARGENTINA:Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1,ARGENTINA:Soy Rock
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:-1,ARGENTINA:TDC Online Firmat
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+#EXTINF:-1,ARGENTINA:Telpin Teve Pinamar
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1,ARGENTINA:XFN Canal 41 Mar del Plata
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+#EXTINF:-1,ARGENTINA:Urban 106.1 FM Pehuajo
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+#EXTINF:-1,CHILE:Canal Carnaval 38
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+
+#EXTINF:-1,CHILE:DJ Loncho TV
+http://stmv2.srvstm.com/alonso3439/alonso3439/playlist.m3u8
+#EXTINF:-1,CHILE:Futuro 88.9
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:-1,CHILE:Niu TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,CHILE:Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1,CHILE:Pinguino TV*
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+#EXTINF:-1,CHILE:Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,CHILE:T13
+http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
+
+
+#EXTINF:-1,CHILE:TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1,CHILE:UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1,CHILE:UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1,ECUADOR:Canela TV
+http://servicioamerica.com:1935/8200/8200/playlist.m3u8
+
+#EXTINF:-1,COLOMBIA:Cali TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1,COLOMBIA:Canal CNC Medellin
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:-1,PERU:Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,PERU:BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,PERU:Mega TV Araquipa
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:-1,PERU:Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,PERU:Radio San Borja 91.1 FM Lima
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1,PERU:Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1,PERU:TV Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+#EXTINF:-1,PERU:Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1,URUGUAY:Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:-1,COSTA RICA:HBTV Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,COSTA RICA:Telered
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1,COSTA RICA:Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,COSTA RICA:TeleUno TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,DOMINICAN REP:Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+#EXTINF:-1,DOMINICAN REP:MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1,DOMINICAN REP:Orbit TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:-1,DOMINICAN REP:Telenord Canal 8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&mode=12
+#EXTINF:-1,DOMINICAN REP:Telenord Canal 10
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&mode=12
+#EXTINF:-1,NICARAGUA:Canal 2
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1,EL SALVADOR:TVES Canal 10
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+#EXTINF:-1,PUERTO RICO:WORO-TV Teleoro Canal 13*
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
+#EXTINF:-1,PANAMA:Eco TV
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,PANAMA:NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,PANAMA:RPC Radio
+http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
+#EXTINF:-1,PANAMA:SerTV
+http://162.213.123.181:1935/sertv/live/playlist.m3u8
+#EXTINF:-1,PANAMA:Telemetro Radio
+http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
+
+
+#EXTINF:-1,HONDURAS:TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1,VENEZUELA:TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+#EXTINF:-1,BOLIVIA:Bolivia TV
+http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
+#EXTINF:-1,USA:Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,USA:Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,USA:Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,USA:Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,USA:Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,USA:Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,USA:BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+
+#EXTINF:-1,USA:California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,USA:CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,USA:CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1,USA:CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:-1,USA:Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1,USA:Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1,USA:Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1,USA:Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,USA:Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1,USA:Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,USA:House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,USA:IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:-1,USA:InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,USA:Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1,USA:Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,USA:MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,USA:MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,USA:MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,USA:New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1,USA:Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1,USA:Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:-1,USA:QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,USA:Radio U 88.7 Colombus
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:-1,USA:RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+
+ 
+#EXTINF:-1,USA:Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,USA:Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,USA:The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+#EXTINF:-1,USA:The CW PIX 11 New York
+https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+#EXTINF:-1,USA:TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,USA:TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,USA:WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,USA:WHPR TV 33 Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1,USA LOCAL:NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:-1,USA LOCAL:WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:-1,USA LOCAL:WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:-1,USA LOCAL:WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1,USA LOCAL:NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:-1,USA LOCAL:Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1,USA LOCAL:KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:-1,USA LOCAL:Fox 5 News (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
