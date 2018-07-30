@@ -6,116 +6,116 @@ http://paypal.me/TvGratiskodi
 
 
 #EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3637.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3637.ts
 #EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3630.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3630.ts
 #EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3636.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3636.ts
 #EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3143.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3143.ts
 #EXTINF:-1,ES: Bein La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3142.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3142.ts
 #EXTINF:-1,ES: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3628.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3628.ts
 #EXTINF:-1,ES: BeinSports 1HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2089.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2089.ts
 #EXTINF:-1,ES: BeinSports_2HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2088.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2088.ts
 #EXTINF:-1,ES: BeinSports_3HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2087.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2087.ts
 #EXTINF:-1,ES: BeinSports_4HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2086.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2086.ts
 #EXTINF:-1,ES: BeinSports_5HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2085.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2085.ts
 #EXTINF:-1,ES: BeinSports_6HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2084.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2084.ts
 #EXTINF:-1,ES: Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3155.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3155.ts
 #EXTINF:-1,ES: CANAL  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3619.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3619.ts
 #EXTINF:-1,ES: CANAL  DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3620.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3620.ts
 #EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3622.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3622.ts
 #EXTINF:-1,ES: CANAL  LIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3627.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3627.ts
 #EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3617.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3617.ts
 #EXTINF:-1,ES: Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3139.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3139.ts
 #EXTINF:-1,ES: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3138.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3138.ts
 #EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3137.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3137.ts
 #EXTINF:-1,ES: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3135.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3135.ts
 #EXTINF:-1,ES: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3141.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3141.ts
 #EXTINF:-1,ES: Fox HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3134.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3134.ts
 #EXTINF:-1,ES: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3133.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3133.ts
 #EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3624.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3624.ts
 #EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3132.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3132.ts
 #EXTINF:-1,ES: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3131.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3131.ts
 #EXTINF:-1,ES: LA LIGA  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3629.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3629.ts
 #EXTINF:-1,ES: M. ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3618.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3618.ts
 #EXTINF:-1,ES: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3623.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3623.ts
 #EXTINF:-1,ES: M. FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3625.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3625.ts
 #EXTINF:-1,ES: M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3626.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3626.ts
 #EXTINF:-1,ES: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3616.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3616.ts
 #EXTINF:-1,ES: Mega HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3129.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3129.ts
 #EXTINF:-1,ES: Movistar  Deportes 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3148.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3148.ts
 #EXTINF:-1,ES: Movistar  Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3153.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3153.ts
 #EXTINF:-1,ES: Movistar  Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3147.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3147.ts
 #EXTINF:-1,ES: Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3154.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3154.ts
 #EXTINF:-1,ES: Movistar Cine Espanol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3149.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3149.ts
 #EXTINF:-1,ES: Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3152.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3152.ts
 #EXTINF:-1,ES: Movistar Dcine HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3136.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3136.ts
 #EXTINF:-1,ES: Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3144.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3144.ts
 #EXTINF:-1,ES: Movistar Series HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3151.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3151.ts
 #EXTINF:-1,ES: Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3145.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3145.ts
 #EXTINF:-1,ES: National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3127.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3127.ts
 #EXTINF:-1,ES: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3128.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3128.ts
 #EXTINF:-1,ES: Neox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3126.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3126.ts
 #EXTINF:-1,ES: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3140.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3140.ts
 #EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3125.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3125.ts
 #EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3124.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3124.ts
 #EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3123.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3123.ts
 #EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3635.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3635.ts
 #EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3634.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3634.ts
 #EXTINF:-1,ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3633.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3633.ts
 #EXTINF:-1,ES: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3632.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3632.ts
 #EXTINF:-1,ES: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3631.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3631.ts
