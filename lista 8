@@ -145,3 +145,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/2636.ts
 #EXTINF:-1,ES: 24 Horas
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/2492.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3188.ts
+#EXTINF:-1,ES: M Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3257.ts
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/2745.ts
+#EXTINF:-1,ES: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3256.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3190.ts
+#EXTINF:-1,ES: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3189.ts
+#EXTINF:-1,ES: LaLiga Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3154.ts
+#EXTINF:-1,ES: MEGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/2873.ts
+#EXTINF:-1,ES: REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3191.ts
+#EXTINF:-1,ES: A3S Atreseries HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3787.ts
+#EXTINF:-1,ES: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3790.ts
+#EXTINF:-1,ES: Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/4109.ts
