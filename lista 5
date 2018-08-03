@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   <item>
-<title>[COLOR green]paypal.me/TvGratiskodi[/COLOR]</title>
+<title>[COLOR lime]paypal.me/TvGratiskodi[/COLOR]</title>
 <link>_</link><thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
   </item>
-
-
 <item>
 <title>#0</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plus1.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-1.php</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=movistarcero&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-cero</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/4vabhtjqx/cero.png</thumbnail>
 <fanart></fanart>
@@ -24,8 +22,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusaccion.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-accion.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=accion&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-accion/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/hy72w8y9r/accion.png</thumbnail>
 <fanart></fanart>
@@ -50,8 +48,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/comedia.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-comedia.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=mcomedia&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/ver-canal-plus-comedia-hd-online-y-en-directo-las-24h-en-vivo/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/kfiu3jd1b/comedia.jpg</thumbnail>
 <fanart></fanart>		
@@ -63,8 +61,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/dcine.php</page>
-<referer>http://verdirectotv.com/tv/digitales/plusdcine.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=dicneesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-dcine/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/4ha4dey8v/dcine.jpg</thumbnail>
 <fanart></fanart>
@@ -76,8 +74,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusestrenos.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=movestr&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-estrenos/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/dcaynz51r/estrenos.jpg</thumbnail>
 <fanart></fanart>
@@ -96,18 +94,18 @@
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>MOVISTAR SERIES XTRA</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarseriesxtra&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=movistarseriesxtra&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-series-xtra/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/u1cejjee7/seriesxtra.png</thumbnail>
 <fanart></fanart>	
-</item>
+</item> -->
 
 <item>
 <title>MOVISTAR XTRA</title>
@@ -128,8 +126,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/amc.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/amc.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=amcesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/amc-espana/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/6ad11wbrj/amc.png</thumbnail>
 <fanart></fanart>		
@@ -141,8 +139,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/axn.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=axn&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/axn-espana/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/5xlmvij5b/axn.png</thumbnail>
 <fanart></fanart>	
@@ -162,8 +160,8 @@
 <regex> 
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/blaze.php</page>
-<referer>http://vertelevisor.com/tv/documentales/blaze.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=anadetelefive&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/blaze-espana/</referer>
 </regex> 
 <thumbnail>https://s15.postimg.cc/rsx9hh3qz/blaze.png</thumbnail>
 <fanart></fanart>	
@@ -203,18 +201,18 @@
 <fanart></fanart>	
 </item> -->
 
-<item>
+<!-- <item>
 <title>DARK</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=darkes&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/dark</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=darkes&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/dark-espana/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/82jd5w50v/dark.png</thumbnail>
 <fanart></fanart>	
-</item>
+</item> -->
 
 <item>
 <title>FOX</title>
@@ -222,8 +220,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/fox.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=foxespana&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/fox-espana/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/peob588i7/fox.png</thumbnail>
 <fanart></fanart>
@@ -261,8 +259,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/mtv.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=mtvesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/mtv-live-espana/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/s3samgq3j/mtv.png</thumbnail>
 <fanart></fanart>
@@ -274,8 +272,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/syfy.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=sysfesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/syfy-espana/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/mj6mkrclb/syfy.png</thumbnail>
 <fanart></fanart>
@@ -287,8 +285,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/tcm.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/tcm.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=tcmesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/tcm-espana/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/gxte81t73/tcm.png</thumbnail>
 <fanart></fanart>
@@ -300,8 +298,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/tnt.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/tnt.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=tnt&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/tnt/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/8i3tqinr3/tnt.png</thumbnail>
 <fanart></fanart>
@@ -321,8 +319,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/cocina.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-cocina.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=cocinaesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/ver-canal-cocina-onlin/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/8w9r3ox6n/cocina.png</thumbnail>
 <fanart></fanart>
@@ -341,8 +339,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/toros.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-toros.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=torotvn&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/toros-tv-online-24h/</referer>
 </regex>
 <thumbnail>https://s9.postimg.cc/bhfbr3c8v/toros.png</thumbnail>
 <fanart></fanart>
@@ -393,8 +391,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/discovery-channel.php</page>
-<referer>http://verdirectotv.com/tv/documentales/discovery.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=discoverychannel&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/discovery-channel-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/92gilx3l7/discoverychannel.png</thumbnail>
 <fanart></fanart>
@@ -406,8 +404,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/dmax.php</page>
-<referer>http://vercanalestv.com/tv/documentales/discovery-max.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=dmax&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/dmax-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/c9b25nqmz/dmax.png</thumbnail>
 <fanart></fanart>
@@ -419,8 +417,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/historia.php</page>
-<referer>http://verdirectotv.com/tv/documentales2/historia.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=historiaesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/historia-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/s7jrvxxrf/historia.png</thumbnail>
 <fanart></fanart>
@@ -432,8 +430,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/nationalgeo.php</page>
-<referer>http://vercanalestv.com/tv/documentales/national-geographic.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=natgeo&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/national-geographic-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/xvq2mx24r/natgeo.png</thumbnail>
 <fanart></fanart>
@@ -445,8 +443,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/nationalwild.php</page>                                 
-<referer>http://vercanalestv.com/tv/documentales/nat-geo-wild.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=geowild&width=650&height=397</page>                                 
+<referer>http://verbeinlaliga.com/nat-geo-wild-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/uovj3e4uz/natgeowild.png</thumbnail>
 <fanart></fanart>		
@@ -471,38 +469,38 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/plusfutbol.php</page>                                 
-<referer>http://vertelevisor.com/tv/deportes/canal-plus-futbol.php</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=mfutboles&width=650&height=397</page>                                 
+<referer>http://verbeinlaliga.com/movistar-futbol/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/ii0zdb5zf/futbol.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>MOVISTAR PARTIDAZO</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://verliga1.net/tv/verliga.php</page>
-<referer>http://vercanalestv1.com/tv/deportes/canal-plus-partidazo.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=partidazo&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-el-partidazo/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
-<!-- <item>
+<item>
 <title>MOVISTAR F1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte1.php?file=f1esp&width=650&height=397</page>
-<referer>http://telefivegb.com/deporte/ver-canal-movistar-f1-online-gratis-y-en-vivo-por-internet/</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=m_f1&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-formula-uno/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/bg31qrmuj/formula1.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <!-- <item>
 <title>MOVISTAR MOTOGP</title>
@@ -510,8 +508,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/motogp.php</page>
-<referer>http://vertelevision.tv/tv/deportes/motos.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=motogp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-moto-gp-online/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/y4s8qlrgb/motogp.png</thumbnail>
 <fanart></fanart>
@@ -523,8 +521,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes1.php</page>
-<referer>http://vertelevisor.com/tv/deportes/deportes1.php</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=deporteone&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-deporte-1/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/7l0tctyax/deportes1.png</thumbnail>
 <fanart></fanart>
@@ -536,38 +534,38 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes2.php</page>
-<referer>http://vertelevisor.com/tv/deportes/deportes2.php</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=deportedos&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-deporte-2/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/tq74xh4kp/deportes2.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>MOVISTAR GOLF</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/golf.php</page>
-<referer>http://vertelevisor.com/tv/deportes/golf.php</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=golf&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/movistar-golf/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/ngupcz095/golf.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
-<!-- <item>
+<item>
 <title>LA LIGA TV</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/ligatv</page>
-<referer>http://telefivegb.com/canales/deporte/ligatvbar</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=barligas&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/laliga-tv/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/n7e1zdta3/laligatv.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <!-- <item>
 <title>BEIN SPORTS</title>
@@ -575,8 +573,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/beinsportesp</page>
-<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=beinsport&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/bein-sport-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/krc8l55y3/beinsports.png</thumbnail>
 <fanart></fanart>
@@ -588,25 +586,25 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinliga.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=beinliga&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/bein-sport-laliga/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
 <fanart></fanart>
 </item> -->
 	
-<item>
+<!-- <item>
 <title>BEIN SPORTS Ñ</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=beinsportn&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/latino/beinsportlat</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=beinsportn&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/bein-sport-n/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/guywp9va3/beinsports.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>EUROSPORT 1</title>
@@ -614,8 +612,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/eurosport.php</page>
-<referer>http://verdirectotv.com/tv/deportes/eurosport.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=eurosportsesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/eurosport-las-24h-en-directo/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/imrvkimgb/eurosport1.png</thumbnail>
 <fanart></fanart>
@@ -627,8 +625,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/eurosport2.php</page>
-<referer>http://vercanalestv.com/tv/deportes/eurosport-2.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=eurosportsdosesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/eurosport-2-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/a5sd9aryj/eurosport2.png</thumbnail>
 <fanart></fanart>
@@ -647,8 +645,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/goltv.php</page>
-<referer>http://verdirectotv.com/tv/deportes/goltv2.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=golesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/gol-tv/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/4udgonqh7/gol.png</thumbnail>
 <fanart></fanart>
@@ -660,8 +658,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/teledeporte.php</page>
-<referer>http://verdirectotv.com/tv/deportes/teledeporte.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=teledeporteesp&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/teledeporte/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/jdklq547f/tdp.png</thumbnail>
 <fanart></fanart>
@@ -669,8 +667,8 @@
 
 <item>
 <title>R.MADRID TV</title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
-<referer></referer>
+<link>https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8</link>
+<referer>https://www.realmadrid.com/real-madrid-tv</referer>
 <thumbnail>https://s7.postimg.cc/al3n21ydn/realmadrid.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -681,8 +679,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/barca.php</page>
-<referer>http://verdirectotv.com/tv/deportes/goltv2.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=barca&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/barca-tv/</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/3wmywyl1rj/BARNA.png</thumbnail>
 <fanart></fanart>
@@ -716,13 +714,8 @@
 
 <item>
 <title>ANTENA 3</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/antena3.php</page>
-<referer>http://vercanalestv1.com/tv/nacionales/antena-3.html</referer>
-</regex>
+<link>https://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8</link>
+<referer>https://www.atresplayer.com/directos/antena3/</referer>
 <thumbnail>https://s7.postimg.cc/fjr5h4kcb/antena3.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -733,8 +726,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/cuatro.php</page>
-<referer>http://verdirectotv.com/tv/nacionales2/cuatro.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=cuatro&width=650&height=397</page>
+<referer>hhttp://verbeinlaliga.com/la-cuatro/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/pv3i999bf/cuatro.png</thumbnail>
 <fanart></fanart>
@@ -746,8 +739,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/telecinco.php</page>
-<referer>http://vercanalestv.com/tv/multicanal/telecinco.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=telecinco&width=650&height=397</page>
+<referer>https://www.mitele.es/directo/telecinco</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/a9m6pectn/telecinco.png</thumbnail>
 <fanart></fanart>
@@ -755,13 +748,8 @@
 
 <item>
 <title>LA SEXTA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/lasexta.php</page>
-<referer>http://vercanalestv1.com/tv/nacionales/la-sexta.html</referer>
-</regex>
+<link>https://livepull1.secure.footprint.net/lasextampp/bitrate_4.m3u8</link>
+<referer>https://www.atresplayer.com/directos/lasexta/</referer>
 <thumbnail>https://s7.postimg.cc/7fj1c3njv/lasexta.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -772,8 +760,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/divinity.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/divinity.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=divinity&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/divinity/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/llys7fdvf/divinity.png</thumbnail>
 <fanart></fanart>
@@ -785,8 +773,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/energy.php</page>
-<referer>http://verdirectotv.com/tv/nacionales/energy.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=energy&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/energy/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/hplgbm8d7/energy.png</thumbnail>
 <fanart></fanart>
@@ -794,13 +782,8 @@
 
 <item>
 <title>FDF</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/fdf.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/fdf.html</referer>
-</regex>
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</link>
+<referer>https://www.mitele.es/directo/fdf</referer>
 <thumbnail>https://s7.postimg.cc/vkoc7da17/fdf.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -808,49 +791,39 @@
 <item>
 <title>NEOX</title>
 <link>https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_4.m3u8</link>
-<referer></referer>
+<referer>https://www.atresplayer.com/directos/neox/</referer>
 <thumbnail>https://s7.postimg.cc/brc8elc23/neox.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>NOVA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/nova.php</page>
-<referer>http://vercanalestv1.com/tv/nacionales/nova.html</referer>
-</regex>
+<link>https://livepull1.secure.footprint.net/novampp/bitrate_4.m3u8</link>
+<referer>https://www.atresplayer.com/directos/nova/</referer>
 <thumbnail>https://s7.postimg.cc/s12ehu9yz/nova.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>A3SERIES</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/atreseries.php</page>
-<referer>http://vercanalestv1.com/tv/nacionales/atreseries.html</referer>
-</regex>
+<link>https://livepull1-i.akamaized.net/geoa3seriesmpp/bitrate_4.m3u8</link>
+<referer>https://www.atresplayer.com/atreseries/</referer>
 <thumbnail>https://s7.postimg.cc/beku8j43v/a3series.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>TEN</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=ten&width=650&height=397</page>
-<referer>http://vercanalestv1.com/tv/nacionales/ten.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=ten&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/ten/</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/5pu9mez37z/TEN.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>DKISS</title>
@@ -858,8 +831,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=dkiss&width=650&height=397</page>
-<referer>http://vercanalestv1.com/tv/nacionales/dkiss.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=dkiss&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/dkiss/</referer>
 </regex>
 <thumbnail>https://s1.postimg.cc/7kst31jyof/DKISS.png</thumbnail>
 <fanart></fanart>
@@ -871,41 +844,41 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/bemad.php</page>
-<referer>http://verdirectotv.com/tv/nacionales/bemad.html</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=bemad&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/be-mad/</referer>
 </regex>
-<thumbnail>https://s7.postimg.cc/4o4czaz0b/bemad.png</thumbnail>
+<thumbnail>https://s1.postimg.cc/7kst31jyof/DKISS.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>MEGA</title>
-<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?sd=10&rebase=on</link>
-<referer></referer>
+<link>https://livepull1.secure.footprint.net/geomegampp/bitrate_4.m3u8</link>
+<referer>https://www.atresplayer.com/mega/</referer>
 <thumbnail>https://s7.postimg.cc/oiqelmwa3/mega.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <item>
 <title>PARAMOUNT CHANNEL</title>
-<link>http://paramount.live.flumotion.com/live/playlist.m3u8</link>
-<referer></referer>
+<link>http://paramount.live.flumotion.com/live/chunks.m3u8</link>
+<referer>http://www.paramountnetwork.es/programacion/en-directo</referer>
 <thumbnail>https://s7.postimg.cc/nuhk2efh7/paramount.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>24H</title>
-<link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8</link>
-<referer></referer>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8</link>
+<referer>http://www.rtve.es/directo/canal-24h/</referer>
 <thumbnail>https://s7.postimg.cc/6tyntwa7f/24h.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <!-- <item>
 <title>INTERECONOMIA</title>
 <link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8</link>
-<referer></referer>
+<referer>https://www.intereconomia.tv/tv-en-directo-2/</referer>
 <thumbnail>https://s7.postimg.cc/g6unjxoh7/intereconomia.png</thumbnail>
 <fanart></fanart>
 </item> -->
@@ -920,8 +893,13 @@
 
 <!-- <item>
 <title>CLAN TVE</title>
-<sportsdevil>http://livesports.pw/embedna.php?file=clantv&width=650&height=400</sportsdevil>
-<referer></referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=clantv&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/clan/</referer>
+</regex>
 <thumbnail>https://s7.postimg.cc/5ws8l0qzf/clan.png</thumbnail>
 <fanart></fanart>
 </item> -->
@@ -932,28 +910,38 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=disneychannel&width=650&height=400</page>
-<referer>http://www.vertelevisor.com/ver-disney-channel-online-gratis-en-directo/</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=disneychannel&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/disney-channel-espana/</referer>
 </regex>
 <thumbnail>https://s7.postimg.cc/r7pspclzf/disneychannel.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <!-- <item>
-<title>DISNEY JUNIOR *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=disneyjr&width=650&height=400&autostart=true</sportsdevil>
-<referer></referer>
-<thumbnail>https://s1.postimg.cc/7ft0qed6r3/PLAYDC.png</thumbnail>
+<title>DISNEY JUNIOR</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=disneyjunior&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/ver-disney-junior-en-directo-y-online-en-vivo/</referer>
+</regex>
+<thumbnail>https://s7.postimg.cc/r7pspclzf/disneychannel.jpg</thumbnail>
 <fanart></fanart>
 </item> -->
 
-<!-- <item>
-<title>DISNEY XD *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=disneyxd&width=650&height=400&autostart=true</sportsdevil>
-<referer></referer>
+<item>
+<title>DISNEY XD</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=disneyxd&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/disney-xd-espana/</referer>
+</regex>
 <thumbnail>https://s1.postimg.cc/8lqrlhj5bz/DCHXD.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <item>
 <title>MOVISTAR DISNEY</title>
@@ -961,60 +949,80 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusdisney.php</page>
-<referer>http://www.vertelevisor.com/ver-movistar-disney-online-gratis-24h-por-internet/</referer>
+<page>http://livesports.pw/embeddeporte2.php?file=mdisney&width=650&height=400</page>
+<referer>http://verbeinlaliga.com/movistar-disney/</referer>
 </regex>
 <thumbnail>https://s18.postimg.cc/df6nt1fm1/disney.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<!-- <item>
-<title>NICKELODEON *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=nickelones&width=650&height=400&autostart=true</sportsdevil>
-<referer></referer>
+<item>
+<title>NICKELODEON</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=nickelones&width=650&height=397</page>
+<referer>http://verbeinlaliga.com/nickelodeon-espana/</referer>
+</regex>
 <thumbnail>https://s1.postimg.cc/2zp17mq7fz/NICK.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title>NICK JR *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=nickjr&width=650&height=400&autostart=true</sportsdevil>
+<!-- <item>
+<title>NICK JR</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page></page>
 <referer></referer>
-<thumbnail>https://s1.postimg.cc/840pwwv25b/NICKJR.png</thumbnail>
+</regex>
+<thumbnail>https://s1.postimg.cc/2zp17mq7fz/NICK.png</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
-<item>
-<title>CANAL PANDA *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=panda=650&height=400&autostart=true</sportsdevil>
-<referer></referer>
+<!-- <item>
+<title>CANAL PANDA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=panda=650&height=400&autostart=true</page>
+<referer>http://verbeinlaliga.com/ver-canal-panda-online-gratis-por-internet-en-vivo-las-24h/</referer>
+</regex>
 <thumbnail>https://s1.postimg.cc/7f7gcwee1r/PANDA.png</thumbnail>
 <fanart></fanart>
 </item> -->
 
 <!-- <item>
 <title>BABY TV *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=babytv&width=650&height=400&autostart=true</sportsdevil>
-<referer></referer>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte2.php?file=babytv=650&height=400&autostart=true</page>
+<referer>http://verbeinlaliga.com/ver-canal-baby-tv-online/</referer>
+</regex>
 <thumbnail>https://s1.postimg.cc/2peysnq27j/BABY.png</thumbnail>
 <fanart></fanart>
 </item> -->
 
-<!-- <item>
+<item>
 <title>TELEMADRID</title>
-<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
-<referer></referer>
+<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/master.m3u8</link>
+<referer>http://www.telemadrid.es/emision-en-directo</referer>
 <thumbnail>https://s7.postimg.cc/xzg7rrfzf/telemadrid.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
-<!-- <item>
+<item>
 <title>LAOTRA</title>
-<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
+<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8</link>
 <referer></referer>
 <thumbnail>https://s7.postimg.cc/966nr6pa3/laotra.png</thumbnail>
 <fanart></fanart>
-</item>	 -->
+</item>	
 	
 <item>
 <title>CASTILLA LA MANCHA</title>
@@ -1035,7 +1043,7 @@
 <item>
 <title>13TV</title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-<referer></referer>
+<referer>http://trecetv.es/directo</referer>
 <thumbnail>https://s7.postimg.cc/83wh8uw8r/trece.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1048,13 +1056,20 @@
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>8 TV</title>
-<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
-<referer></referer>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoId]</link>
+	<regex>
+		<name>getLiveVideoId</name>
+		<expres>watch\?v=(.*?)"</expres>
+		<page>https://www.youtube.com/embed/live_stream?channel=UC3HxX0LL6fG3PJ4kZGlkz9w&rel=0&modestbranding</page>
+		<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
+		<cookieJar></cookieJar>
+	</regex>
+<referer>http://www.8tv.cat/directe/</referer>
 <thumbnail>https://s1.postimg.cc/104oaomna7/8tv.png</thumbnail>
 <fanart></fanart>
-</item> -->	
+</item>	
 
 <item>
 <title>CANAL EXTREMADURA</title>
@@ -1064,33 +1079,26 @@
 <fanart></fanart>
 </item>	
 
-<!-- <item>
+<item>
 <title>CANAL SUR ANDALUCIA</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoId]</link>
-	<regex>
-		<name>getLiveVideoId</name>
-		<expres>watch\?v=(.*?)"</expres>
-		<page>https://www.youtube.com/embed/live_stream?channel=UCqwjtgaJflHga2aPWphG5PQ&rel=0&modestbranding</page>
-		<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
-		<cookieJar></cookieJar>
-	</regex>
-<referer></referer>
+<link>http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8</link>
+<referer>http://www.canalsur.es/tv_directo-1193.html</referer>
 <thumbnail>https://s7.postimg.cc/3yq60c8bf/andalucia.png</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <item>
 <title>GALICIA TV</title>
 <link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
-<referer></referer>
+<referer>http://www.crtvg.es/tvg/tvg-en-directo</referer>
 <thumbnail>https://s7.postimg.cc/og6iyipyz/galicia.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>ETB</title>
-<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
-<referer></referer>
+<link>https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
+<referer>https://www.eitb.eus/es/television/etb-sat/</referer>
 <thumbnail>https://s7.postimg.cc/evmwbuip7/eitb.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1098,31 +1106,31 @@
 <item>
 <title>TV3</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
-<referer></referer>
+<referer>http://www.ccma.cat/tv3/directe/tv3/</referer>
 <thumbnail>https://s7.postimg.cc/sqps7kpi3/tv3.png</thumbnail>
 <fanart></fanart>
-</item>	
+</item>
 	
 <item>
 <title>ARAGON TV</title>
-<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
-<referer></referer>
+<link>http://195.10.10.206/aragontv/live-hls/chunklist_b664000.m3u8</link>
+<referer>http://www.aragontelevision.es/directo</referer>
 <thumbnail>https://s7.postimg.cc/cfpobckqz/aragon.png</thumbnail>
 <fanart></fanart>
 </item>
 
-<!-- <item>
+<item>
 <title>TPA</title>
-<link>http://195.10.10.206/rtpa/tv.webm?GKID=0a23b69cb1c611e7a9ec00163ea2c744</link>
-<referer></referer>
+<link>http://195.55.74.211/rtpa/tv.webm?GKID=560c9c74925b11e88fb600163ea2c744</link>   
+<referer>http://www.rtpa.es/television</referer>
 <thumbnail>https://s7.postimg.cc/6erzebnuz/tpa.png</thumbnail>
 <fanart></fanart>
-</item>	 -->
+</item>	
 
 <item>
 <title>TV CANARIA</title>
 <link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
-<referer></referer>
+<referer>http://www.rtvc.es/television/directo.aspx?ref=tm</referer>
 <thumbnail>https://s1.postimg.cc/5tvzchw9kf/TVCANARIA.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1130,7 +1138,7 @@
 <item>
 <title>MALAGA TV</title>
 <link>http://canalmalaga-tv-live.flumotion.com/chunks.m3u8</link>
-<referer></referer>
+<referer>http://www.canalmalaga.es/tv-directo</referer>
 <thumbnail>https://s15.postimg.cc/42auj5sy3/malaga.png</thumbnail>
 <fanart></fanart>
 </item>
