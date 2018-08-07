@@ -4,411 +4,283 @@
 paypal.me/TvGratiskodi
 
 
-#EXTINF:-1,Espanian_TV ///
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2165.ts
-#EXTINF:-1,Es-LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2558.ts
-#EXTINF:-1,ES-LA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2599.ts
-#EXTINF:-1,ES-TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/1558.ts
-#EXTINF:-1,es-Antenna 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2007.ts
-#EXTINF:-1,ES-TV_Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2595.ts
-#EXTINF:-1,ES:#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/3616.ts
-#EXTINF:-1,ES-Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5925.ts
-#EXTINF:-1,ES-AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5924.ts
-#EXTINF:-1,ES-AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5923.ts
-#EXTINF:-1,ES-Bein Sportpana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5921.ts
-#EXTINF:-1,ES-bein SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5920.ts
-#EXTINF:-1,ES-bein SPORTS LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5919.ts
-#EXTINF:-1,ES-BEIN LA LIGA TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6785.ts
-#EXTINF:-1,ES-BEIN LA LIGA TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6784.ts
-#EXTINF:-1,ES-BEIN LA LIGA TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6783.ts
-#EXTINF:-1,ES-BEIN MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6779.ts
-#EXTINF:-1,ES-BEIN MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6778.ts
-#EXTINF:-1,ES-beIN Max 3 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6777.ts
-#EXTINF:-1,ES-beIN Max 4 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6776.ts
-#EXTINF:-1,ES-beIN Max 5 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6775.ts
-#EXTINF:-1,ES-beIN Max 6 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6774.ts
-#EXTINF:-1,ES-beIN Max 7 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6773.ts
-#EXTINF:-1,ES-beIN Max 8 {Live match}
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6772.ts
-#EXTINF:-1,ES-CANAL ORBE 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6786.ts
-#EXTINF:-1,ES-MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6790.ts
-#EXTINF:-1,ES-MULTIDEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6782.ts
-#EXTINF:-1,ES-MULTIDEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6781.ts
-#EXTINF:-1,ES-MULTIDEPORTES 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6780.ts
-#EXTINF:-1,ES-TELEMUNDO(latino)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/4881.ts
-#EXTINF:-1,ES-UNIVISION(latino)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/4880.ts
-#EXTINF:-1,ES-TELEDEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/6787.ts
-#EXTINF:-1,ES:CUATRO-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/7016.ts
-#EXTINF:-1,DE-ZDF_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/3246.ts
-#EXTINF:-1,DE-DAS_ERSTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/3355.ts
-#EXTINF:-1,ES:ANTENA3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/7014.ts
-#EXTINF:-1,ES:TELECINCO-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/7015.ts
-#EXTINF:-1,ES-Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5918.ts
-#EXTINF:-1,ES-Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5916.ts
-#EXTINF:-1,ES-Canal DeCasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5915.ts
-#EXTINF:-1,ES-Canal Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5914.ts
-#EXTINF:-1,ES-EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5913.ts
-#EXTINF:-1,ES-Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5912.ts
-#EXTINF:-1,ES-Crimen y Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5911.ts
-#EXTINF:-1,ES-Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5909.ts
-#EXTINF:-1,ES-Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5908.ts
-#EXTINF:-1,ES-DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5863.ts
-#EXTINF:-1,ES-FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5862.ts
-#EXTINF:-1,ES-FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5906.ts
-#EXTINF:-1,ES-GOL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5904.ts
-#EXTINF:-1,ES-Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5903.ts
-#EXTINF:-1,ES-Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5902.ts
-#EXTINF:-1,ES-IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5860.ts
-#EXTINF:-1,ES: EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/3611.ts
-#EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/3610.ts
-#EXTINF:-1,Es-C  FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2570.ts
-#EXTINF:-1,Es-C  ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2571.ts
-#EXTINF:-1,Es-C  DEPORTES1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2572.ts
-#EXTINF:-1,ES-REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2589.ts
-#EXTINF:-1,Es-EMovistar FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2565.ts
-#EXTINF:-1,ES-LA sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5899.ts
-#EXTINF:-1,ES-M DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5898.ts
-#EXTINF:-1,ES-M DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5897.ts
-#EXTINF:-1,ES-M FORMULA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5896.ts
-#EXTINF:-1,ES-M FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5895.ts
-#EXTINF:-1,ES-M GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5894.ts
-#EXTINF:-1,ES-M MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5893.ts
-#EXTINF:-1,ES-Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5892.ts
-#EXTINF:-1,ES-M PARTIDAZO HD(when match)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5548.ts
-#EXTINF:-1,ES-Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5891.ts
-#EXTINF:-1,ES-Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5890.ts
-#EXTINF:-1,ES-Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5889.ts
-#EXTINF:-1,ES-Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5888.ts
-#EXTINF:-1,ES-Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5887.ts
-#EXTINF:-1,ES-Movistar MotoGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5886.ts
-#EXTINF:-1,ES-Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5885.ts
-#EXTINF:-1,ES-Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5884.ts
-#EXTINF:-1,ES-Movistar Cine N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5883.ts
-#EXTINF:-1,ES-Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5882.ts
-#EXTINF:-1,ES-Movistartrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5881.ts
-#EXTINF:-1,ES-HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/4871.ts
-#EXTINF:-1,ES-HBO plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/4872.ts
-#EXTINF:-1,ES-MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5879.ts
-#EXTINF:-1,ES-MTV espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5880.ts
-#EXTINF:-1,ES-Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5877.ts
-#EXTINF:-1,ES-National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5876.ts
-#EXTINF:-1,ES-Neox TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5875.ts
-#EXTINF:-1,ES-Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5874.ts
-#EXTINF:-1,ES-Odisea TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5873.ts
-#EXTINF:-1,ES-Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5872.ts
-#EXTINF:-1,ES-RTVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5871.ts
-#EXTINF:-1,ES:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/3615.ts
-#EXTINF:-1,Es-C  XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2563.ts
-#EXTINF:-1,Es-C  DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2574.ts
-#EXTINF:-1,ES-ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2606.ts
-#EXTINF:-1,Es-La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2576.ts
-#EXTINF:-1,ES-24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2569.ts
-#EXTINF:-1,Es-CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2573.ts
-#EXTINF:-1,ES-Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/1773.ts
-#EXTINF:-1,Spain: NickeLodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2566.ts
-#EXTINF:-1,ES-Nick junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2592.ts
-#EXTINF:-1,ES-DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2593.ts
-#EXTINF:-1,ES-DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2594.ts
-#EXTINF:-1,ES-A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2564.ts
-#EXTINF:-1,ES-NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2601.ts
-#EXTINF:-1,ES-FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2590.ts
-#EXTINF:-1,ES-Canal_Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2591.ts
-#EXTINF:-1,ES-AXN W HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2597.ts
-#EXTINF:-1,ES-moviestar.Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2596.ts
-#EXTINF:-1,Es-TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2556.ts
-#EXTINF:-1,Es-Nat.Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2557.ts
-#EXTINF:-1,es-Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/2003.ts
-#EXTINF:-1,ES-MTV_music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5331.ts
-#EXTINF:-1,ES-AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5330.ts
-#EXTINF:-1,ES-Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5328.ts
-#EXTINF:-1,ES-Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5327.ts
-#EXTINF:-1,ES-C Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5325.ts
-#EXTINF:-1,ES-C Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5322.ts
-#EXTINF:-1,ES-C Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5321.ts
-#EXTINF:-1,ES-C Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5326.ts
-#EXTINF:-1,ES-Caza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5320.ts
-#EXTINF:-1,ES-Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5319.ts
-#EXTINF:-1,ES-Cosmo-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5318.ts
-#EXTINF:-1,ES-France 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5316.ts
-#EXTINF:-1,ES-MTV Espanha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5312.ts
-#EXTINF:-1,ES-Nation Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5311.ts
-#EXTINF:-1,ES-Quatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5309.ts
-#EXTINF:-1,ES-RT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5308.ts
-#EXTINF:-1,ES-SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5307.ts
-#EXTINF:-1,ES-TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5306.ts
-#EXTINF:-1,ES-TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5305.ts
-#EXTINF:-1,ES-Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5304.ts
-#EXTINF:-1,ES-Toros Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5870.ts
-#EXTINF:-1,ES-TVE LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5858.ts
-#EXTINF:-1,ES-TVE LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5867.ts
-#EXTINF:-1,ES-TVE LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5866.ts
-#EXTINF:-1,ES-Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5865.ts
-#EXTINF:-1,ES-Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5857.ts
-#EXTINF:-1,ES-Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5855.ts
-#EXTINF:-1,ES-Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5854.ts
-#EXTINF:-1,ES-Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5853.ts
-#EXTINF:-1,ES-Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5852.ts
-#EXTINF:-1,ES-Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5851.ts
-#EXTINF:-1,ES-Taquilla 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5850.ts
-#EXTINF:-1,ES-Taquilla 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5849.ts
-#EXTINF:-1,ES-Taquilla 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5848.ts
-#EXTINF:-1,ES-Taquilla 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5856.ts
-#EXTINF:-1,spn-@10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5970.ts
-#EXTINF:-1,spn-@14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5969.ts
-#EXTINF:-1,spn-@18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5968.ts
-#EXTINF:-1,spn-@20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5967.ts
-#EXTINF:-1,spn-@24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5966.ts
-#EXTINF:-1,spn-@25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5965.ts
-#EXTINF:-1,spn-@3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5964.ts
-#EXTINF:-1,spn-@4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5963.ts
-#EXTINF:-1,spn-@8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5962.ts
-#EXTINF:-1,spn-13 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5971.ts
-#EXTINF:-1,spn-324Cat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5978.ts
-#EXTINF:-1,spn-3ABN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5961.ts
-#EXTINF:-1,spn-ALFA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5976.ts
-#EXTINF:-1,spn-Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5977.ts
-#EXTINF:-1,spn-Anime Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5973.ts
-#EXTINF:-1,spn-ANTI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5959.ts
-#EXTINF:-1,spn-CAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5958.ts
-#EXTINF:-1,spn-CANU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5957.ts
-#EXTINF:-1,spn-CEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5956.ts
-#EXTINF:-1,spn-COSM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5955.ts
-#EXTINF:-1,spn-cvis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5954.ts
-#EXTINF:-1,spn-DXTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5981.ts
-#EXTINF:-1,spn-EiTB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5979.ts
-#EXTINF:-1,spn-EL TIEMPO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5974.ts
-#EXTINF:-1,spn-genesis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5953.ts
-#EXTINF:-1,spn-globalradio01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5952.ts
-#EXTINF:-1,spn-IB3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5972.ts
-#EXTINF:-1,spn-LDTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5951.ts
-#EXTINF:-1,spn-luztv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5950.ts
-#EXTINF:-1,spn-MESH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5949.ts
-#EXTINF:-1,spn-mexicali
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5948.ts
-#EXTINF:-1,spn-miami tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5947.ts
-#EXTINF:-1,spn-olsevilla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5946.ts
-#EXTINF:-1,spn-ondaazul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5945.ts
-#EXTINF:-1,spn-pinguino tv hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5944.ts
-#EXTINF:-1,spn-power TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5943.ts
-#EXTINF:-1,spn-rmtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5942.ts
-#EXTINF:-1,spn-RPTA7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5980.ts
-#EXTINF:-1,spn-rtvd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5941.ts
-#EXTINF:-1,spn-TANT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5940.ts
-#EXTINF:-1,spn-TBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5939.ts
-#EXTINF:-1,spn-TCAF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5938.ts
-#EXTINF:-1,spn-tectv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5937.ts
-#EXTINF:-1,spn-telebostonrtb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5936.ts
-#EXTINF:-1,spn-telecentro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5935.ts
-#EXTINF:-1,spn-TIEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5934.ts
-#EXTINF:-1,spn-TMED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5933.ts
-#EXTINF:-1,spn-TREN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5932.ts
-#EXTINF:-1,spn-TV Extremadura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5982.ts
-#EXTINF:-1,spn-TV NUEVO TIEMPO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5983.ts
-#EXTINF:-1,spn-tv uno1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5931.ts
-#EXTINF:-1,spn-TV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5930.ts
-#EXTINF:-1,spn-TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5975.ts
-#EXTINF:-1,spn-TV5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5929.ts
-#EXTINF:-1,spn-tvse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5928.ts
-#EXTINF:-1,spn-uuks
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5927.ts
-#EXTINF:-1,spn-VMAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://configuration.tn:8000/live/sami2017/sami2017/5926.ts
+#EXTINF:-1,|| SPAIN ||
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/761.m3u8
+#EXTINF:-1,ES: LA1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/751.m3u8
+#EXTINF:-1,ES: LA2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/752.m3u8
+#EXTINF:-1,ES: MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/744.m3u8
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3633.m3u8
+#EXTINF:-1,ES: #0 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2897.m3u8
+#EXTINF:-1,ES: 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2898.m3u8
+#EXTINF:-1,ES: 3/24
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1647.m3u8
+#EXTINF:-1,ES: 8Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3644.m3u8
+#EXTINF:-1,ES: A&E ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/755.m3u8
+#EXTINF:-1,ES: A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1654.m3u8
+#EXTINF:-1,ES: ALQUILER 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1646.m3u8
+#EXTINF:-1,ES: ALQUILER 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1642.m3u8
+#EXTINF:-1,ES: ALQUILER 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1643.m3u8
+#EXTINF:-1,ES: ALQUILER 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1644.m3u8
+#EXTINF:-1,ES: ALQUILER 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1645.m3u8
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3651.m3u8
+#EXTINF:-1,ES: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1824.m3u8
+#EXTINF:-1,ES: ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3659.m3u8
+#EXTINF:-1,ES: ANTENA3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/756.m3u8
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3653.m3u8
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/966.m3u8
+#EXTINF:-1,ES: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3652.m3u8
+#EXTINF:-1,ES: AXN White FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1059.m3u8
+#EXTINF:-1,ES: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3433.m3u8
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/971.m3u8
+#EXTINF:-1,ES: BEIN  LALIGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3549.m3u8
+#EXTINF:-1,ES: BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3621.m3u8
+#EXTINF:-1,ES: BEIN MAX 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3604.m3u8
+#EXTINF:-1,ES: BEIN MAX 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3603.m3u8
+#EXTINF:-1,ES: BEIN MAX 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3602.m3u8
+#EXTINF:-1,ES: BEIN MAX 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3601.m3u8
+#EXTINF:-1,ES: BEIN MAX 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3600.m3u8
+#EXTINF:-1,ES: BEIN MAX 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3599.m3u8
+#EXTINF:-1,ES: BEIN MAX 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3598.m3u8
+#EXTINF:-1,ES: BEIN MAX 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3597.m3u8
+#EXTINF:-1,ES: BEIN SPORT ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/973.m3u8
+#EXTINF:-1,ES: BEIN SPORT ESPAÑA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3620.m3u8
+#EXTINF:-1,ES: BEINLALIGA1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3612.m3u8
+#EXTINF:-1,ES: BEINLALIGA2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3611.m3u8
+#EXTINF:-1,ES: BEINLALIGA3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3610.m3u8
+#EXTINF:-1,ES: BEINLALIGA4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3609.m3u8
+#EXTINF:-1,ES: BEINLALIGA5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3608.m3u8
+#EXTINF:-1,ES: BEINLALIGA6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3607.m3u8
+#EXTINF:-1,ES: BEINLALIGA7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3606.m3u8
+#EXTINF:-1,ES: BEINLALIGA8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3605.m3u8
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2901.m3u8
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3650.m3u8
+#EXTINF:-1,ES: CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/965.m3u8
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1649.m3u8
+#EXTINF:-1,ES: CAZA y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3637.m3u8
+#EXTINF:-1,ES: CI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1047.m3u8
+#EXTINF:-1,ES: CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3434.m3u8
+#EXTINF:-1,ES: CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1063.m3u8
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3648.m3u8
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/963.m3u8
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1064.m3u8
+#EXTINF:-1,ES:COSMOPOLITAN  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3641.m3u8
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3658.m3u8
+#EXTINF:-1,ES: CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1130.m3u8
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1828.m3u8
+#EXTINF:-1,ES: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/969.m3u8
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1061.m3u8
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3435.m3u8
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2903.m3u8
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3429.m3u8
+#EXTINF:-1,ES: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3615.m3u8
+#EXTINF:-1,ES: Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3849.m3u8
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3430.m3u8
+#EXTINF:-1,ES: MOVISTAR  F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3613.m3u8
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3655.m3u8
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/960.m3u8
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3654.m3u8
+#EXTINF:-1,ES: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1051.m3u8
+#EXTINF:-1,ES: GOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1655.m3u8
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/968.m3u8
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3647.m3u8
+#EXTINF:-1,ES: IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3634.m3u8
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3660.m3u8
+#EXTINF:-1,ES: LA LIGA 123
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3584.m3u8
+#EXTINF:-1,ES: La Liga BAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1046.m3u8
+#EXTINF:-1,ES: LALIGATV BAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3619.m3u8
+#EXTINF:-1,ES: M  Estrenos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/970.m3u8
+#EXTINF:-1,ES: M accion FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/747.m3u8
+#EXTINF:-1,ES: M Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/742.m3u8
+#EXTINF:-1,ES: M DCINE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3629.m3u8
+#EXTINF:-1,ES: M DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/746.m3u8
+#EXTINF:-1,ES: M Deportes 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/867.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3617.m3u8
+#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3632.m3u8
+#EXTINF:-1,ES: M Futboll FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/869.m3u8
+#EXTINF:-1,ES: M GOLF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1057.m3u8
+#EXTINF:-1,ES: MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3616.m3u8
+#EXTINF:-1,ES: M MOTOGP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2767.m3u8
+#EXTINF:-1,ES: M Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/749.m3u8
+#EXTINF:-1,ES: M SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3627.m3u8
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3626.m3u8
+#EXTINF:-1,ES: M XTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1056.m3u8
+#EXTINF:-1,ES:MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3628.m3u8
+#EXTINF:-1,ES: M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3631.m3u8
+#EXTINF:-1,ES: M. DCINE  Ñ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2904.m3u8
+#EXTINF:-1,ES: M. ESPORT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3581.m3u8
+#EXTINF:-1,ES: M. FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3622.m3u8
+#EXTINF:-1,ES: M. MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3614.m3u8
+#EXTINF:-1,ES: M.Partidazo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3623.m3u8
+#EXTINF:-1,ES: M.Partidazo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3548.m3u8
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1060.m3u8
+#EXTINF:-1,ES: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3636.m3u8
+#EXTINF:-1,ES: MULTIDEP.1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3595.m3u8
+#EXTINF:-1,ES: MULTIDEP.2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3594.m3u8
+#EXTINF:-1,ES: MULTIDEP.3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3593.m3u8
+#EXTINF:-1,ES: MULTIDEP.4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3592.m3u8
+#EXTINF:-1,ES: MULTIFUT. 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3591.m3u8
+#EXTINF:-1,ES: MULTIFUT. 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3590.m3u8
+#EXTINF:-1,ES: MULTIFUT. 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3589.m3u8
+#EXTINF:-1,ES: NAG GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3638.m3u8
+#EXTINF:-1,ES: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1050.m3u8
+#EXTINF:-1,ES: NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1367.m3u8
+#EXTINF:-1,ES: National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3639.m3u8
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1653.m3u8
+#EXTINF:-1,ES: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3437.m3u8
+#EXTINF:-1,ES: Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3436.m3u8
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1055.m3u8
+#EXTINF:-1,ES: ODISEA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1827.m3u8
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/758.m3u8
+#EXTINF:-1,ES: RADIO 105  TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3837.m3u8
+#EXTINF:-1,ES: RADIO MONTE  CARLO TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3838.m3u8
+#EXTINF:-1,ES: REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2906.m3u8
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3649.m3u8
+#EXTINF:-1,ES: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/962.m3u8
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1048.m3u8
+#EXTINF:-1,ES: TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3646.m3u8
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3657.m3u8
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1131.m3u8
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1650.m3u8
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1825.m3u8
+#EXTINF:-1,ES: TOROS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3624.m3u8
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/753.m3u8
+#EXTINF:-1,ES: VIAJAR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3640.m3u8
+#EXTINF:-1,ES: XTRM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3432.m3u8
