@@ -1,118 +1,250 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
 
-  <item>
-<title>[COLOR green]paypal.me/TvGratiskodi[/COLOR]</title>
-<link>_</link><thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
-  </item>
 
-<item>
-<title>[COLOR green]LISTA 4[/COLOR][COLOR red]  SportsDevil-espera 10 sg[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR green][makelist.param1][/COLOR]</title>
-<thumbnail>[makelist.param4]</thumbnail>
-<sportsdevil>[makelist.param2]</sportsdevil>
-<referer>[makelist.param3]</referer>
-]]></listrepeat>
-<expres><![CDATA[canal:"(.*?)" url:"(.*?)" referer:"(.*?)" logo:"(.*?)";]]></expres>
-<page>https://pastebin.com/raw/9JmcwLgT</page>
-</regex>
-</item>
- 
- 
- 
- 
- 
- 
- 
-canal:"TVE 1 " url:"http://vergol.com/live/tve1.php" referer:"http://vercanalestv.com/tv/nacionales/tve-1.html" logo:"http://vertelevisor.com/logos/tve1.png";
-canal:"TVE 2 " url:"http://telefivegb.com/canales/tdt/tv2/" referer:"http://telefivegb.com/" logo:"http://vertelevisor.com/logos/tve2.png";
-canal:"Antena 3 " url:"http://vergol.com/live1/antena3.php" referer:"http://vertelevisor.com/tv/nacionales/antena-3.html" logo:"http://vertelevisor.com/logos/antena3.png";
-canal:"Cuatro " url:"http://vercanalestv.com/tv/nacionales/cuatro.html" referer="http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/cuatro.png";
-canal:"Tele 5" url:"http://vercanalestv.com/tv/nacionales/telecinco.html" referer:"http://www.vercanalestv.com" logo:"http://vercanalestv.com/logos/telecinco.png";
-canal:"La sexta" url:"http://vercanalestv.com/tv/nacionales/la-sexta.html" referer:"http://www.vercanalestv.com" logo:"http://vercanalestv.com/logos/sexta.png";
-canal:"Teledeporte" url:"http://vercanalestv.com/tv/deportes/teledeporte.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/teledeporte.png";
-canal:"Clan tve" url:"http://cinestrenostv.tv/canales/nacionales/clantv.php" referer:"http://cinestrenostv.tv" logo:"http://latelete.tv/img/clantv.gif";
-canal:"24 Horas" url:"http://vercanalestv.com/tv/nacionales/tve-24h-noticas.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/24h.png";
-canal:"Neox " url:"http://vercanalestv.com/tv/nacionales/neox.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/neox.png";
-canal:"Nova" url:"http://vercanalestv.com/tv/nacionales/nova.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/nova.png";
-canal:"Mega  " url:"http://vercanalestv.com/tv/nacionales/canal-mega.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/mega.png";
-canal:"A3Series  " url:"http://www.vercanalestv.com/tv/nacionales/atreseries.html" referer:"http://www.vercanalestv.com" logo:"http://vercanalestv.com/logos/atreseries.png"
-canal:"FDF  " url:"http://vercanalestv.com/tv/nacionales/fdf.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/fdf.png"
-canal:"Boing  " url:"http://telefivegb.com/canales/animacion/boing" referer:"http://telefivegb.com" logo:"https://lh3.googleusercontent.com/-whp3pu7SCc8/V8tSTU7ML1I/AAAAAAAAAgs/zPP2-eiKg3o1Afkl_WIL81ASF3SoEKUswCEw/w138-h140-p/boing1.png";
-canal:"Divinity  " url:"http://telefivegb.com/canales/series/divinity" referer:"http://telefivegb.com/" logo:"http://vercanalestv.com/logos/divinity.png";
-canal:"Bmad  " url:"http://telefivegb.com/canales/tdt/bemad/" referer:"http://telefivegb.com/" logo:"https://lh3.googleusercontent.com/-GKniqmhXGFM/V8n3sdagEgI/AAAAAAAAAc4/unOieG2MKoEXtCNF-BjGo3giPZKbpktXwCEw/h120/bemad.png";
-canal:"Paramount Channel  " url:"http://www.vercanalestv.com/tv/nacionales/paramount-channel.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/paramount-channel.jpg";
-canal:"Dmax  " url:"http://vercanalestv.com/tv/documentales/discovery-max.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/Discovery_Max.png";
-canal:"Dkiss  " url:"http://vercanalestv.com/tv/nacionales/dkiss.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/dkiss-canal-logo.jpg";
-canal:"Ten  " url:"http://vercanalestv.com/tv/nacionales/ten.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/ten.png";
-canal:"13 tv " url:"http://verplusonline.com/ver-canal-13-tv-online-gratis-en-vivo-por-internet-gratis/" referer:"http://verplusonline.com/" logo:"http://verplusonline.com/wp-content/uploads/2016/10/TV13.png";
-canal:"Disney Channel  " url:"http://telefivegb.com/canales/animacion/disneychannel" referer:"http://telefivegb.com/" logo:"https://lh3.googleusercontent.com/-YILqKHLvgw0/V8tSUMWsI7I/AAAAAAAAAgs/ZsvrWuhhCkcWZdgoRs_ELPfC226P6NLhACEw/h120/disneychannel.png";
-canal:"Tele Madrid  " url:"http://cinestrenostv.tv/canales/autonomicos/telemadrid.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/telemadrid.png";
-canal:"TV3  " url:"http://cinestrenostv.tv/canales/autonomicos/tv3.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/tv3.png";
-canal:"Canal Sur  " url:"http://vercanalestv.com/tv/autonomicas/canal-sur.html" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/andaluciatv.png";
-canal:"Galicia TV  " url:"http://cinestrenostv.tv/canales/autonomicos/galiciatv.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/galiciatv.png";
-canal:"Television Canaria  " url:"http://cinestrenostv.tv/canales/autonomicos/tvcanaria.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/tvcanaria.png";
-canal:"Levante TV  " url:"http://cinestrenostv.tv/canales/autonomicos/levantetv.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/levantetv.png";
-canal:"Marbella  " url:"http://cinestrenostv.tv/canales/autonomicos/marbella.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/marbellatv.png";
-canal:"Castilla Leon  " url:"http://cinestrenostv.tv/canales/autonomicos/castillayleon.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/cyl.png";
-canal:"Movistar 0#  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-1.html" referer:"http://vercanalestv.com/" logo:"http://cinestrenostv.tv/img/plus0.png";
-canal:"M+ Estrenos  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-estrenos.png";
-canal:"M+ Accion  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-accion.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-accion.png";
-canal:"M+ DCine  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-dcine.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-dcine.png";
-canal:"M+ Comedia  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-comedia.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-comedia.png";
-canal:"M+ Dciñe  " url:"http://cinestrenostv.tv/canales/nacionales/plus-dcine-espa%C3%B1ol.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/dcinen.png";
-canal:"M+ Series  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-series.html" referer:"http://cinestrenostv.tv/" logo:"http://vercanalestv.com/logos/m-series.png";
-canal:"M+ Series Xtra  " url:"http://telefivegb.com/canales/series/m_series_xtra" referer:"http://telefivegb.com/" logo:"https://lh3.googleusercontent.com/-SCg_FY3RFdA/V8n3xXZOYEI/AAAAAAAAAc4/HEXBsLxmvXcTeaZB7Wb43kAkTUyA1GJvwCEw/h120/movistar-series-xtra.png";
-canal:"Fox  " url:"http://vercanalestv.com/tv/nacionales/fox.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/fox.png";
-canal:"Fox Lite " url:"http://vercanalestv.com/tv/nacionales/fox-life.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/foxlife.png";
-canal:"Amc Esp  " url:"http://vercanalestv.com/tv/nacionales/amc.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/amc.png";
-canal:"Tnt  " url:"http://vercanalestv.com/tv/nacionales/tnt.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/tnt.png";
-canal:"AxN  " url:"http://vercanalestv.com/tv/nacionales/axn.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/axn.png";
-canal:"AxN White  " url:"http://cinestrenostv.tv/canales/nacionales/axnwhite.php" referer:"http://cinestrenostv.tv" logo:"http://vercanalestv.com/logos/axnwhite.png";
-canal:"Calle 13  " url:"http://vercanalestv.com/tv/nacionales/calle-13.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/calle-13.jpg";
-canal:"syfy  " url:"http://vercanalestv.com/tv/nacionales/syfy.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/syfy.png";
-canal:"Dark  " url:"http://vercanalestv.com/tv/nacionales/canal-dark.html" referer:"http://vercanalestv.com/ logo:"http://vercanalestv.com/logos/logo-dark.jpg";
-canal:"Paramount Channel  " url:"http://www.vercanalestv.com/tv/nacionales/paramount-channel.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/paramount-channel.jpg";
-canal:"Hollywood  " url:"http://vercanalestv.com/tv/nacionales/canal-hollywood.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/canal-hollywood.jpg";
-canal:"Comedy Central  " url:"http://www.vercanalestv.com/tv/nacionales/paramount-comedy.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/comedycentral.png";
-canal:"Discovery Channel  " url:"http://vercanalestv.com/tv/documentales/discovery-channel.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/discovery-channel.jpg";
-canal:"CI  " url:"http://vercanalestv.com/tv/documentales/crimen-investigacion.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/ci.png";
-canal:"Caza y Pesca  " url:"http://vercanalestv.com/tv/documentales/caza-y-pesca.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/cazapesca.png";
-canal:"National Geographic  " url:"http://vercanalestv.com/tv/documentales/national-geographic.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/national.png";
-canal:"National Geo Wild  " url:"http://vercanalestv.com/tv/documentales/nat-geo-wild.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/natgeo.png";
-canal:"Historia  " url:"http://vercanalestv.com/tv/documentales/canal-historia.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/Historia.jpg";
-canal:"Odisea " url:"http://vercanalestv.com/tv/documentales/odisea.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/odisea.png";
-canal:"Cocina  " url:"http://vercanalestv.com/tv/nacionales/canal-cocina.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/logo-cocina.jpg";
-canal:"Animal Planet  " url:"http://cinestrenostv.tv/canales/documentales/animalplanet.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/animalplanet.png";
-canal:"Viajar  " url:"http://vercanalestv.com/tv/documentales/viajar.html" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/viajar.png";
-canal:"[La liga123" url:"http://www.vertelevisor.com/ver-canal-laliga-123-tv-online-partidos-de-seguda-division/" referer="http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/laliga123.jpg";
-canal:"M+ Partidazo  " url:"http://vertelevisor.com/tv/deportes/canal-plus-partidazo.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/m-partidazo.png";
-canal:"M+ Partidazo op2  " url:"http://vercanalestv.com/tv/deportes/canal-plus-partidazo.html" referer:"" logo:"http://vercanalestv.com/logos/m-partidazo.png";
-canal:" M+ Futbol  " url:"http://vertelevisor.com/tv/deportes/canal-plus-futbol.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/m-futbol.png";
-canal:" Bein Sport   " url:"http://vertelevisor.com/tv/deportes/beinliga.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/bein-sports.png";
-canal:" Bein Sport la liga  " url:"http://vercanalestv.com/tv/deportes/bein-sports-liga.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/bein-laliga.jpg";
-canal:" La liga tv  " url:"http://vertelevisor.com/tv/deportes/laligatv.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/laligatv.jpg";
-canal:" Gol tv  " url:"http://vertelevisor.com/tv/deportes/goltv.html" referer:"http://vertelevisor.com/" logo:"http://cinestrenostv.tv/img/gol.png";
-canal:"La liga123" url:"http://www.vertelevisor.com/ver-canal-laliga-123-tv-online-partidos-de-seguda-division/" referer="http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/laliga123.jpg";
-canal:" La liga 123 Multi 1 | Solo eventos " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/c359d7ccfbb647d4892ae9334e815224_302X170.png";
-canal:" La liga 123 Multi 2 | Solo eventos  " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal2.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/80778b15129e4c66b92fd8ce44f017f0_302X170.png";
-canal:" La liga 123 Multi 3 | Solo eventos  " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal3.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/a0ee57ec28204266a95861786fc13522_302X170.png";
-canal:" La liga 123 Multi 4 | Solo eventos  " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal4.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/f89e7d7b05284e8e826e85a75d9783e0_302X170.png";
-canal:" Eurosport  " url:"http://cinestrenostv.tv/canales/deportes/eurosports.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/eurosport.png";
-canal:" Eurosport 2  " url:"http://cinestrenostv.tv/canales/deportes/eurosports2.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/eurosport2.png";
-canal:" Real Madrid tv" url:"http://cinestrenostv.tv/canales/deportes/realmadridtv.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/realmadrid.png";
-canal:" Barca tv" url:"http://vertelevisor.com/tv/deportes/barca-tv.html" referer:"http://vertelevisor.com/" logo:"http://cinestrenostv.tv/img/barcatv.png";
-canal:" M+ Deportes 1" url:"http://www.vertelevisor.com/ver-canal-plus-deportes-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://cinestrenostv.tv/img/deportes.png";
-canal:" M+ Deportes 2" url:"http://vertelevisor.com/tv/deportes/canal-plus-deportes-2.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/m-deportes-2.png";
-canal:" F1" url:"http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/f1.jpeg";
-canal:" Moto GP" url:"http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/motosgp.png";
-canal:" FOX spots" url:"http://cinestrenostv.tv/canales/deportes/foxsports.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/foxsports2.png";
-canal:" Sport tv 1" url:"http://vertelevisor.com/tv/portugal/sportv-1.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/Sport-TV1-HD.png";
-canal:" Bein Sport France 1" url:"http://vertelevisor.com/tv/francia/bein-sport-1.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/bein1fr.png";
-canal:" Bein Sport France 2" url:"http://vertelevisor.com/tv/francia/bein-sport-2.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/bein2fr.png";
-canal:" Bein Sport France 3" url:"http://vertelevisor.com/tv/francia/bein-sport-3.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/bein3fr.png";
-canal:" Bein Sport Latino" url:"http://vertelevisor.com/tv/deportes/bein-sport-latino.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/beinlatino.png";
-canal:" Box Nation" url:"http://vercanalestv.com/tv/reino-unido/box-nation.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/boxnation-logo.png"
+
+#EXTINF:-1,|ES|*****MOVISTAR*****|ES|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/315.m3u8
+#EXTINF:-1,|ES| LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1082.m3u8
+#EXTINF:-1,|ES| LA1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/612.m3u8
+#EXTINF:-1,|ES| CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2797.m3u8
+#EXTINF:-1,|ES| LA2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/611.m3u8
+#EXTINF:-1,|ES| ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2003.m3u8
+#EXTINF:-1,|ES| ANTENA3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/885.m3u8
+#EXTINF:-1,|ES| CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/831.m3u8
+#EXTINF:-1,|ES| CUATRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7717.m3u8
+#EXTINF:-1,|ES| TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/374.m3u8
+#EXTINF:-1,|ES| TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/761.m3u8
+#EXTINF:-1,|ES| TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/987.m3u8
+#EXTINF:-1,|ES| CANAL ANDALUCIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/986.m3u8
+#EXTINF:-1,|ES| TV3 CATALUNYA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2801.m3u8
+#EXTINF:-1,|ES|*****NOTICIAS*****|ES|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/882.m3u8
+#EXTINF:-1,|ES| CANAL 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/621.m3u8
+#EXTINF:-1,|ES| FOXNEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/620.m3u8
+#EXTINF:-1,|ES|*****DEPORTES*****|ES|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/618.m3u8
+#EXTINF:-1,|ES| M TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7703.m3u8
+#EXTINF:-1,|ES| TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2736.m3u8
+#EXTINF:-1,|ES| M DEPORTES1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2004.m3u8
+#EXTINF:-1,|ES| M DEPORTES1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/375.m3u8
+#EXTINF:-1,|ES| M DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/668.m3u8
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2005.m3u8
+#EXTINF:-1,|ES| GOL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1642.m3u8
+#EXTINF:-1,|ES| M FÚTBOL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2006.m3u8
+#EXTINF:-1,|ES| M  FÚTBOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/317.m3u8
+#EXTINF:-1,|ES| M TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/989.m3u8
+#EXTINF:-1,|ES| M beINSPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2007.m3u8
+#EXTINF:-1,|ES| M BEINSPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/457.m3u8
+#EXTINF:-1,|ES| M BEINLALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/984.m3u8
+#EXTINF:-1,|ES|beIN-LA-LIGA-HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7721.m3u8
+#EXTINF:-1,|ES| M BEINLALIGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/316.m3u8
+#EXTINF:-1,|ES| M LALIGATV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1083.m3u8
+#EXTINF:-1,|ES| M REALMADRID TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/318.m3u8
+#EXTINF:-1,|ES| M BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/981.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2796.m3u8
+#EXTINF:-1,|ES| M EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/990.m3u8
+#EXTINF:-1,|ES| EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7716.m3u8
+#EXTINF:-1,|ES| M PARTIDAZO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2432.m3u8
+#EXTINF:-1,|ES| M PARTIDAZO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2431.m3u8
+#EXTINF:-1,|ES| M FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2016.m3u8
+#EXTINF:-1,|ES| M FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/622.m3u8
+#EXTINF:-1,|ES| M MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/623.m3u8
+#EXTINF:-1,|ES| M MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7711.m3u8
+#EXTINF:-1,|ES| M GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/376.m3u8
+#EXTINF:-1,|ES|*****CINE*****|ES|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/624.m3u8
+#EXTINF:-1,|ES| M ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2022.m3u8
+#EXTINF:-1,|ES| M ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/521.m3u8
+#EXTINF:-1,|ES| M XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/666.m3u8
+#EXTINF:-1,|ES| M ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/627.m3u8
+#EXTINF:-1,|ES| M ACCION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/377.m3u8
+#EXTINF:-1,|ES| M COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/983.m3u8
+#EXTINF:-1,|ES| M Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/520.m3u8
+#EXTINF:-1,|ES| M DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/663.m3u8
+#EXTINF:-1,|ES| M DCINE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/378.m3u8
+#EXTINF:-1,|ES| M DCINE ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/626.m3u8
+#EXTINF:-1,|ES| M HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/428.m3u8
+#EXTINF:-1,|ES| M PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7707.m3u8
+#EXTINF:-1,|ES| TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1084.m3u8
+#EXTINF:-1,|ES| M TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7705.m3u8
+#EXTINF:-1,|ES| M TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/629.m3u8
+#EXTINF:-1,|ES|*****ENTRETENIMIENTO*****|ES|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/630.m3u8
+#EXTINF:-1,|ES|C.DE-LAS-ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7719.m3u8
+#EXTINF:-1,|ES|C.ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7718.m3u8
+#EXTINF:-1,|ES| M #0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/625.m3u8
+#EXTINF:-1,|ES| M SERIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/664.m3u8
+#EXTINF:-1,|ES| M SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/665.m3u8
+#EXTINF:-1,|ES| M COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2799.m3u8
+#EXTINF:-1,|ES| COMEDYCENTRAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2798.m3u8
+#EXTINF:-1,|ES| FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2800.m3u8
+#EXTINF:-1,|ES| A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/674.m3u8
+#EXTINF:-1,|ES| FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7715.m3u8
+#EXTINF:-1,|ES| FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/514.m3u8
+#EXTINF:-1,|ES| FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/513.m3u8
+#EXTINF:-1,|ES| M AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1081.m3u8
+#EXTINF:-1,|ES| M AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/628.m3u8
+#EXTINF:-1,|ES| M AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/631.m3u8
+#EXTINF:-1,|ES| M AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/379.m3u8
+#EXTINF:-1,|ES| M AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/632.m3u8
+#EXTINF:-1,|ES|AXN-WHITE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7722.m3u8
+#EXTINF:-1,|ES| M SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/633.m3u8
+#EXTINF:-1,|ES| M CALLE13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/526.m3u8
+#EXTINF:-1,|ES| M ENERGY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/988.m3u8
+#EXTINF:-1,|ES| DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7145.m3u8
+#EXTINF:-1,|ES| M COSMO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1864.m3u8
+#EXTINF:-1,|ES| MEGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1087.m3u8
+#EXTINF:-1,|ES| M LEVANTE THD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7712.m3u8
+#EXTINF:-1,|ES| M NEOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7709.m3u8
+#EXTINF:-1,|ES| M NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7708.m3u8
+#EXTINF:-1,|ES| M SUNDANCE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7706.m3u8
+#EXTINF:-1,|ES| M TELENOVELAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7704.m3u8
+#EXTINF:-1,|ES| M WORLD PADEL TOUR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7700.m3u8
+#EXTINF:-1,|ES| M DECASA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1086.m3u8
+#EXTINF:-1,|ES| M NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/982.m3u8
+#EXTINF:-1,|ES|*****CULTURA*****|ES|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/640.m3u8
+#EXTINF:-1,|ES| ODISEA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/634.m3u8
+#EXTINF:-1,|ES| NATGEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/635.m3u8
+#EXTINF:-1,|ES| NATGEOWILD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/636.m3u8
+#EXTINF:-1,|ES| NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/512.m3u8
+#EXTINF:-1,|ES| DISCOVERY CI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/669.m3u8
+#EXTINF:-1,|ES| DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/671.m3u8
+#EXTINF:-1,|ES| HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1085.m3u8
+#EXTINF:-1,|ES| A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/670.m3u8
+#EXTINF:-1,|ES| CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/991.m3u8
+#EXTINF:-1,|ES| IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/682.m3u8
+#EXTINF:-1,|ES| VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/637.m3u8
+#EXTINF:-1,|ES| M VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7701.m3u8
+#EXTINF:-1,|ES| CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/672.m3u8
+#EXTINF:-1,|ES|*****NIÑOS*****|ES|
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/641.m3u8
+#EXTINF:-1,|ES| NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/673.m3u8
+#EXTINF:-1,|ES| NICKELODEON ESP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/678.m3u8
+#EXTINF:-1,|ES| NICK JR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/675.m3u8
+#EXTINF:-1,|ES| DISNEY ESP XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/679.m3u8
+#EXTINF:-1,|ES| DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/686.m3u8
+#EXTINF:-1,|ES| DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/516.m3u8
+#EXTINF:-1,|ES| DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/518.m3u8
+#EXTINF:-1,|ES| CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/677.m3u8
+#EXTINF:-1,|ES| BOING ESP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/681.m3u8
+#EXTINF:-1,|ES| BABY ESP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/680.m3u8
+#EXTINF:-1,|ES| M CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7713.m3u8
+#EXTINF:-1,|ES| M MTV ESPANA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7710.m3u8
