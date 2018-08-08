@@ -5,39 +5,39 @@ paypal.me/TvGratiskodi
 
 #EXTINF:-1,?????? ESPANHA ??????
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/11410.m3u8
-#EXTINF:-1,ES: Hollywood [1080]
+#EXTINF:-1,ES: Hollywood 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20465.m3u8
-#EXTINF:-1,ES: Movistar Accion [1080]
+#EXTINF:-1,ES: Movistar Accion 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20472.m3u8
-#EXTINF:-1,ES: Movistar Comedia [1080]
+#EXTINF:-1,ES: Movistar Comedia 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20473.m3u8
-#EXTINF:-1,ES: Movistar DCine [1080]
+#EXTINF:-1,ES: Movistar DCine 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20474.m3u8
-#EXTINF:-1,ES: Movistar Estrenos [1080]
+#EXTINF:-1,ES: Movistar Estrenos 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20476.m3u8
-#EXTINF:-1,ES: Movistar Series [1080]
+#EXTINF:-1,ES: Movistar Series 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20483.m3u8
-#EXTINF:-1,ES: Movistar Series Xtra [1080]
+#EXTINF:-1,ES: Movistar Series Xtra 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20484.m3u8
-#EXTINF:-1,ES: Movistar Xtra [1080]
+#EXTINF:-1,ES: Movistar Xtra 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20485.m3u8
-#EXTINF:-1,ES: Caza Y Pesca [1080]
+#EXTINF:-1,ES: Caza Y Pesca 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20447.m3u8
-#EXTINF:-1,ES: AXN [1080]
+#EXTINF:-1,ES: AXN 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20404.m3u8
-#EXTINF:-1,ES: AXN White [1080]
+#EXTINF:-1,ES: AXN White 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20406.m3u8
-#EXTINF:-1,ES: Fox [1080]
+#EXTINF:-1,ES: Fox 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20462.m3u8
-#EXTINF:-1,ES: Fox Life [1080]
+#EXTINF:-1,ES: Fox Life 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20464.m3u8
-#EXTINF:-1,ES: Syfy [1080]
+#EXTINF:-1,ES: Syfy 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20498.m3u8
-#EXTINF:-1,ES: TCM [1080]
+#EXTINF:-1,ES: TCM 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20499.m3u8
-#EXTINF:-1,ES: TNT [1080]
+#EXTINF:-1,ES: TNT 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20501.m3u8
-#EXTINF:-1,ES: Comedy Central [1080]
+#EXTINF:-1,ES: Comedy Central 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20449.m3u8
 #EXTINF:-1,ES: Viajar FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20503.m3u8
@@ -49,11 +49,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGra
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23556.m3u8
 #EXTINF:-1,ES: Calle 13 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23557.m3u8
-#EXTINF:-1,ES: National Geographic [1080]
+#EXTINF:-1,ES: National Geographic 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20487.m3u8
-#EXTINF:-1,ES: National Geographic Wild [1080]
+#EXTINF:-1,ES: National Geographic Wild 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20488.m3u8
-#EXTINF:-1,ES: SUNDANCE [1080]
+#EXTINF:-1,ES: SUNDANCE 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20496.m3u8
 #EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20575.m3u8
@@ -133,9 +133,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGra
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23666.m3u8
 #EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23667.m3u8
-#EXTINF:-1,ES:TCM [1080]
+#EXTINF:-1,ES:TCM 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23669.m3u8
-#EXTINF:-1,ES:TELECINCO [1080]
+#EXTINF:-1,ES:TELECINCO 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23670.m3u8
 #EXTINF:-1,ES: COSMO HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23608.m3u8
@@ -249,13 +249,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGra
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23614.m3u8
 #EXTINF:-1,-----DEPORTE MUNDIAL-----
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20003.m3u8
-#EXTINF:-1,ES: BeiN La Liga Max 1 [1080]
+#EXTINF:-1,ES: BeiN La Liga Max 1 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20412.m3u8
-#EXTINF:-1,ES: beIN LaLiga Max 2 [1080]
+#EXTINF:-1,ES: beIN LaLiga Max 2 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20416.m3u8
-#EXTINF:-1,ES: BeiN Sports Max 1 [1080]
+#EXTINF:-1,ES: BeiN Sports Max 1 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20434.m3u8
-#EXTINF:-1,ES: BeiN Sports Max 2 [1080]
+#EXTINF:-1,ES: BeiN Sports Max 2 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20436.m3u8
 #EXTINF:-1,ES: BeiN La Liga Max 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23571.m3u8
@@ -307,33 +307,33 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGra
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23596.m3u8
 #EXTINF:-1,ES: BEIN SPORT MAX 10 SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/23588.m3u8
-#EXTINF:-1,ES: TOROS TV [1080]
+#EXTINF:-1,ES: TOROS TV 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20502.m3u8
-#EXTINF:-1,ES: Movistar Futbol [1080]
+#EXTINF:-1,ES: Movistar Futbol 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20478.m3u8
-#EXTINF:-1,ES: Movistar Deportes 1 [1080]
+#EXTINF:-1,ES: Movistar Deportes 1 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20475.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 2 [1080]
+#EXTINF:-1,ES: Movistar  Deportes 2 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20471.m3u8
-#EXTINF:-1,ES: Movistar Partidazo [1080]
+#EXTINF:-1,ES: Movistar Partidazo 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20481.m3u8
-#EXTINF:-1,ES: beIN Sport [1080]
+#EXTINF:-1,ES: beIN Sport 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20428.m3u8
-#EXTINF:-1,ES: beIN LA Liga [1080]
+#EXTINF:-1,ES: beIN LA Liga 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20410.m3u8
-#EXTINF:-1,ES: BeiN Laliga [1080]
+#EXTINF:-1,ES: BeiN Laliga 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20414.m3u8
 #EXTINF:-1,LA LIGA 123 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20388.m3u8
-#EXTINF:-1,ES: LA LIGA TV BAR [1080]
+#EXTINF:-1,ES: LA LIGA TV BAR 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20469.m3u8
-#EXTINF:-1,ES: Real Madrid TV [1080]
+#EXTINF:-1,ES: Real Madrid TV 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20495.m3u8
-#EXTINF:-1,ES: Eurosport 1 [1080]
+#EXTINF:-1,ES: Eurosport 1 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20459.m3u8
-#EXTINF:-1,ES: Movistar Moto GP [1080]
+#EXTINF:-1,ES: Movistar Moto GP 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20480.m3u8
-#EXTINF:-1,ES: Movistar F1 [1080]
+#EXTINF:-1,ES: Movistar F1 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20477.m3u8
-#EXTINF:-1,ES: Movistar Golf [1080]
+#EXTINF:-1,ES: Movistar Golf 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/josdav2018/josdav2018/20479.m3u8
