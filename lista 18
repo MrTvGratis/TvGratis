@@ -4,213 +4,445 @@ paypal.me/TvGratiskodi
 
 
 
-#EXTINF:-1,ES:0HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9522.m3u8
-#EXTINF:-1,ES:3/24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9519.m3u8
-#EXTINF:-1,ES:40_TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9559.m3u8
-#EXTINF:-1,ES:A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9517.m3u8
-#EXTINF:-1,ES:ALFA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9580.m3u8
-#EXTINF:-1,ES:AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9533.m3u8
-#EXTINF:-1,ES:ANTENNA3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9539.m3u8
-#EXTINF:-1,ES:ANTENNA3_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9538.m3u8
-#EXTINF:-1,ES:ATRESERIES_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9618.m3u8
-#EXTINF:-1,ES:AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9587.m3u8
-#EXTINF:-1,ES:AXN_WHITE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9588.m3u8
-#EXTINF:-1,ES:AZMUNDO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9518.m3u8
-#EXTINF:-1,ES:AZTECA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9527.m3u8
-#EXTINF:-1,ES:BABY_TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9530.m3u8
-#EXTINF:-1,ES:BARCA_TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9612.m3u8
-#EXTINF:-1,ES:BEAITIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9571.m3u8
-#EXTINF:-1,ES:BEIN-SPORT_SPAIN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9622.m3u8
-#EXTINF:-1,ES:BEINSPORTSD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9551.m3u8
-#EXTINF:-1,ES:BEINSPORT_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9550.m3u8
-#EXTINF:-1,ES:BEIN_LALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9608.m3u8
-#EXTINF:-1,ES:BEIN_LA_LIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9541.m3u8
-#EXTINF:-1,ES:BEIN_SPORTHDLALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9621.m3u8
-#EXTINF:-1,ES:BLICA_DOMENICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9542.m3u8
-#EXTINF:-1,ES:BLICA_DOMINICANA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9583.m3u8
-#EXTINF:-1,ES:BOING_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9560.m3u8
-#EXTINF:-1,ES:CALLE_13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9592.m3u8
-#EXTINF:-1,ES:canal0
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9604.m3u8
-#EXTINF:-1,ES:canal41
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9532.m3u8
-#EXTINF:-1,ES:CANAL_13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9602.m3u8
-#EXTINF:-1,ES:CANAL_7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9529.m3u8
-#EXTINF:-1,ES:CANAL_COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9521.m3u8
-#EXTINF:-1,ES:CANAL_DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9528.m3u8
-#EXTINF:-1,ES:CANAL_HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9605.m3u8
-#EXTINF:-1,ES:Canal_Liga_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9623.m3u8
-#EXTINF:-1,ES:CANAL_sur_andalucia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9543.m3u8
-#EXTINF:-1,ES:CARTOONNETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9561.m3u8
-#EXTINF:-1,ES:CAZA_Y_PESCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9566.m3u8
-#EXTINF:-1,ES:Clan_TVe
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9569.m3u8
-#EXTINF:-1,ES:COMEDY_CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9589.m3u8
-#EXTINF:-1,ES:concaonova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9540.m3u8
-#EXTINF:-1,ES:COSMO_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9607.m3u8
-#EXTINF:-1,ES:DCINE_ESPANOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9593.m3u8
-#EXTINF:-1,ES:DISNEYXD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9544.m3u8
-#EXTINF:-1,ES:DISNEY_CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9581.m3u8
-#EXTINF:-1,ES:DISNEY_JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9582.m3u8
-#EXTINF:-1,ES:Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9578.m3u8
-#EXTINF:-1,ES:eurosport1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9537.m3u8
-#EXTINF:-1,ES:eurosport2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9531.m3u8
-#EXTINF:-1,ES:Fdf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9579.m3u8
-#EXTINF:-1,ES:FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9590.m3u8
-#EXTINF:-1,ES:FOX_LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9591.m3u8
-#EXTINF:-1,ES:GOL_tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9546.m3u8
-#EXTINF:-1,ES:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9568.m3u8
-#EXTINF:-1,ES:LALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9609.m3u8
-#EXTINF:-1,ES:LA_LIGA_BAR_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9585.m3u8
-#EXTINF:-1,ES:LTC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9611.m3u8
-#EXTINF:-1,ES:MEGA_TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9553.m3u8
-#EXTINF:-1,ES:MOVISTAR-MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9614.m3u8
-#EXTINF:-1,ES:MOVIESTARPORTRADA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9525.m3u8
-#EXTINF:-1,ES:MOVIESTAR_ESTERNOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9562.m3u8
-#EXTINF:-1,ES:MOVISTF1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9615.m3u8
-#EXTINF:-1,ES:M_ACCION_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9595.m3u8
-#EXTINF:-1,ES:M_CINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9610.m3u8
-#EXTINF:-1,ES:M_COMEDIA_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9596.m3u8
-#EXTINF:-1,ES:M_COMEDY_centralHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9575.m3u8
-#EXTINF:-1,ES:M_DCINE_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9598.m3u8
-#EXTINF:-1,ES:M_DEPORTES1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9620.m3u8
-#EXTINF:-1,ES:M_DEPORTES2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9619.m3u8
-#EXTINF:-1,ES:M_ESTRENOS_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9597.m3u8
-#EXTINF:-1,ES:M_GOLF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9616.m3u8
-#EXTINF:-1,ES:M_SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9599.m3u8
-#EXTINF:-1,ES:M_SERIES_XTRA_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9594.m3u8
-#EXTINF:-1,ES:M_TOROS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9600.m3u8
-#EXTINF:-1,ES:M_XTRA_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9601.m3u8
-#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9567.m3u8
-#EXTINF:-1,ES:NAT_GEO_WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9564.m3u8
+#EXTINF:-1,ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28847.m3u8
+#EXTINF:-1,ES:LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28846.m3u8
+#EXTINF:-1,ES:LA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28845.m3u8
+#EXTINF:-1,ES:La 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28844.m3u8
+#EXTINF:-1,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28843.m3u8
+#EXTINF:-1,ES:ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28842.m3u8
+#EXTINF:-1,ES:CUATRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28841.m3u8
+#EXTINF:-1,ES:CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28840.m3u8
+#EXTINF:-1,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28839.m3u8
+#EXTINF:-1,ES:TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28838.m3u8
+#EXTINF:-1,ES:LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28837.m3u8
+#EXTINF:-1,ES:LA SEXTA  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28836.m3u8
+#EXTINF:-1,ES:CLAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28765.m3u8
+#EXTINF:-1,ES:CLAN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28638.m3u8
+#EXTINF:-1,ES:24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28739.m3u8
 #EXTINF:-1,ES:NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9549.m3u8
-#EXTINF:-1,ES:NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9563.m3u8
-#EXTINF:-1,ES:NICK_JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9515.m3u8
-#EXTINF:-1,ES:NON_SOP_PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9606.m3u8
-#EXTINF:-1,ES:NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9520.m3u8
-#EXTINF:-1,ES:NOVA7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9523.m3u8
-#EXTINF:-1,ES:ODESEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9565.m3u8
-#EXTINF:-1,ES:ODISSEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9536.m3u8
-#EXTINF:-1,ES:PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9617.m3u8
-#EXTINF:-1,ES:PROVECTO40
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9535.m3u8
-#EXTINF:-1,ES:Real_Madrid_tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9613.m3u8
-#EXTINF:-1,ES:RT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9572.m3u8
-#EXTINF:-1,ES:RTP_ASTURIAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9586.m3u8
-#EXTINF:-1,ES:RTVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9526.m3u8
-#EXTINF:-1,ES:SEVILLECHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9516.m3u8
-#EXTINF:-1,ES:SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9584.m3u8
-#EXTINF:-1,ES:TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9576.m3u8
-#EXTINF:-1,ES:TELE5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9548.m3u8
-#EXTINF:-1,ES:Telecinco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9514.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28803.m3u8
 #EXTINF:-1,ES:TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9557.m3u8
-#EXTINF:-1,ES:TELEVISA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9603.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28678.m3u8
+#EXTINF:-1,ES:TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28715.m3u8
+#EXTINF:-1,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28826.m3u8
+#EXTINF:-1,ES:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28825.m3u8
+#EXTINF:-1,ES:FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28824.m3u8
+#EXTINF:-1,ES:FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28823.m3u8
+#EXTINF:-1,ES:FOX LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28822.m3u8
+#EXTINF:-1,ES:FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28821.m3u8
+#EXTINF:-1,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28835.m3u8
+#EXTINF:-1,ES:AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28834.m3u8
+#EXTINF:-1,ES:AXN  WHITE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28832.m3u8
+#EXTINF:-1,ES:AXN  WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28830.m3u8
+#EXTINF:-1,ES:AXN  WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28831.m3u8
+#EXTINF:-1,ES:AXN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28833.m3u8
+#EXTINF:-1,ES:TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28807.m3u8
+#EXTINF:-1,ES:TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28819.m3u8
+#EXTINF:-1,ES:CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28815.m3u8
+#EXTINF:-1,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28817.m3u8
+#EXTINF:-1,ES:A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28804.m3u8
+#EXTINF:-1,ES:SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28813.m3u8
+#EXTINF:-1,ES:MOVISTAR 0# FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28791.m3u8
+#EXTINF:-1,ES:MOVISTAR 0# HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28792.m3u8
+#EXTINF:-1,ES:MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28787.m3u8
+#EXTINF:-1,ES:MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28786.m3u8
+#EXTINF:-1,ES:MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28785.m3u8
+#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28784.m3u8
+#EXTINF:-1,ES:MOVISTAR DCINE  Ñ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28781.m3u8
+#EXTINF:-1,ES:MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28783.m3u8
+#EXTINF:-1,ES:MOVISTAR DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28782.m3u8
+#EXTINF:-1,ES:MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28789.m3u8
+#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28788.m3u8
+#EXTINF:-1,ES:MOVISTAR SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28777.m3u8
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28775.m3u8
+#EXTINF:-1,ES:MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28779.m3u8
+#EXTINF:-1,ES:CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28749.m3u8
+#EXTINF:-1,ES:NAT GEO  WILD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28757.m3u8
+#EXTINF:-1,ES:NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28759.m3u8
+#EXTINF:-1,ES:NAT GEO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28760.m3u8
+#EXTINF:-1,ES:NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28758.m3u8
+#EXTINF:-1,ES:VIAJAR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28751.m3u8
+#EXTINF:-1,ES:BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28772.m3u8
+#EXTINF:-1,ES:REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28679.m3u8
+#EXTINF:-1,ES:TELEDEPORTE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28677.m3u8
+#EXTINF:-1,ES:LIGATV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28694.m3u8
+#EXTINF:-1,ES:LAFTV BAR 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28695.m3u8
+#EXTINF:-1,ES:Liga 123 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28693.m3u8
+#EXTINF:-1,ES:LIGATV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28639.m3u8
+#EXTINF:-1,ES:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28692.m3u8
+#EXTINF:-1,ES:BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28699.m3u8
+#EXTINF:-1,ES:BEIN SPORT ESPAÑA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28696.m3u8
+#EXTINF:-1,ES:BEIN SPORT ESPAÑA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28697.m3u8
+#EXTINF:-1,ES:MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28702.m3u8
+#EXTINF:-1,ES:PARTIDAZOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28711.m3u8
+#EXTINF:-1,ES:MOVISTAR DEPORTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28708.m3u8
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28705.m3u8
+#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28707.m3u8
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28706.m3u8
+#EXTINF:-1,ES:MOVISTAR  DEPORTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28710.m3u8
+#EXTINF:-1,ES:MOVISTAR DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28709.m3u8
+#EXTINF:-1,ES:MOVISTAR ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28730.m3u8
+#EXTINF:-1,ES:MOVISTAR  F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28691.m3u8
+#EXTINF:-1,ES:MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28690.m3u8
+#EXTINF:-1,ES:MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28689.m3u8
+#EXTINF:-1,ES:MOVISTAR FUTBOLL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28701.m3u8
+#EXTINF:-1,ES:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28684.m3u8
+#EXTINF:-1,ES:MOVISTAR  MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28688.m3u8
+#EXTINF:-1,ES:MOVISTAR MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28687.m3u8
+#EXTINF:-1,ES:MOVISTAR MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28686.m3u8
+#EXTINF:-1,ES:BEIN LALIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28675.m3u8
+#EXTINF:-1,ES:BEIN LALIGA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28676.m3u8
+#EXTINF:-1,ES:BEIN LALIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28673.m3u8
+#EXTINF:-1,ES:BEIN  LALIGA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28674.m3u8
+#EXTINF:-1,ES:BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28700.m3u8
+#EXTINF:-1,ES:BEIN LALIGA 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28669.m3u8
+#EXTINF:-1,ES:BEIN LALIGA 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28668.m3u8
+#EXTINF:-1,ES:BEIN LALIGA 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28667.m3u8
+#EXTINF:-1,ES:BEIN MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28666.m3u8
+#EXTINF:-1,ES:BEIN MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28664.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 1  España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28665.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 2  España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28663.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 3  España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28662.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 4  España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28661.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 5  España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28660.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 6  España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28659.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 7  España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28658.m3u8
+#EXTINF:-1,ES:Bein Sports MAX 8 ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28657.m3u8
+#EXTINF:-1,ES: BEIN  LALIGA 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28672.m3u8
+#EXTINF:-1,ES: BEIN  LALIGA 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28671.m3u8
+#EXTINF:-1,ES: BEIN LALIGA 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28670.m3u8
+#EXTINF:-1,ES:Bein Sport ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28698.m3u8
+#EXTINF:-1,ES:MULTI DEPORTE  2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28655.m3u8
+#EXTINF:-1,ES:MULTI FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28649.m3u8
+#EXTINF:-1,ES:MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28704.m3u8
+#EXTINF:-1,ES:MULTIDEPORTE  1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28656.m3u8
+#EXTINF:-1,ES:MULTIDEPORTE  3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28654.m3u8
+#EXTINF:-1,ES:MULTIDEPORTE  4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28653.m3u8
+#EXTINF:-1,ES:MULTIDEPORTE  5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28652.m3u8
+#EXTINF:-1,ES:MULTIDEPORTE  6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28651.m3u8
+#EXTINF:-1,ES:MULTIDEPORTE  7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28650.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28648.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28647.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28646.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28645.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28644.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28643.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28642.m3u8
+#EXTINF:-1,ES:MULTIFUTBOL  8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28641.m3u8
+#EXTINF:-1,ES:EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28682.m3u8
+#EXTINF:-1,ES:Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28681.m3u8
+#EXTINF:-1,ES:EUROSPORT  ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28683.m3u8
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28770.m3u8
+#EXTINF:-1,ES:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28761.m3u8
+#EXTINF:-1,ES:NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28762.m3u8
+#EXTINF:-1,ES:NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28763.m3u8
+#EXTINF:-1,ES:DISNEY  JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28768.m3u8
+#EXTINF:-1,ES:DISNEY  XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28769.m3u8
+#EXTINF:-1,ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28766.m3u8
+#EXTINF:-1,ES:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28767.m3u8
+#EXTINF:-1,ES:BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28764.m3u8
+#EXTINF:-1,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28771.m3u8
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28802.m3u8
+#EXTINF:-1,ES:13 TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28724.m3u8
+#EXTINF:-1,ES:24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28723.m3u8
+#EXTINF:-1,ES:3/24
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28729.m3u8
+#EXTINF:-1,ES:7RM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28722.m3u8
+#EXTINF:-1,ES:8Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28738.m3u8
+#EXTINF:-1,ES:A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28754.m3u8
+#EXTINF:-1,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28829.m3u8
+#EXTINF:-1,ES:AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28827.m3u8
+#EXTINF:-1,ES:AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28828.m3u8
+#EXTINF:-1,ES:ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28737.m3u8
+#EXTINF:-1,ES:ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28736.m3u8
+#EXTINF:-1,ES:BE MAD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28742.m3u8
+#EXTINF:-1,ES:BLAZE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28725.m3u8
+#EXTINF:-1,ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28816.m3u8
+#EXTINF:-1,ES:CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28726.m3u8
+#EXTINF:-1,ES:CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28721.m3u8
+#EXTINF:-1,ES:CAZA  Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28750.m3u8
+#EXTINF:-1,ES:CI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28753.m3u8
+#EXTINF:-1,ES:CMM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28720.m3u8
+#EXTINF:-1,ES:COCINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28746.m3u8
+#EXTINF:-1,ES:COMEDY  CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28810.m3u8
+#EXTINF:-1,ES:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28809.m3u8
+#EXTINF:-1,ES:COSMOPOLITAN  FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28811.m3u8
+#EXTINF:-1,ES:COSMOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28812.m3u8
+#EXTINF:-1,ES:DARK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28797.m3u8
+#EXTINF:-1,ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28745.m3u8
+#EXTINF:-1,ES:DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28748.m3u8
+#EXTINF:-1,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28805.m3u8
+#EXTINF:-1,ES:DKISS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28735.m3u8
+#EXTINF:-1,ES:DMAX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28741.m3u8
+#EXTINF:-1,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28799.m3u8
+#EXTINF:-1,ES:ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28637.m3u8
+#EXTINF:-1,ES:ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28640.m3u8
+#EXTINF:-1,ES:ETB 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28719.m3u8
+#EXTINF:-1,ES:EXTREMADURA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28718.m3u8
+#EXTINF:-1,ES:Extreme EMEA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28636.m3u8
+#EXTINF:-1,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28800.m3u8
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28756.m3u8
+#EXTINF:-1,ES:HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28755.m3u8
+#EXTINF:-1,ES:HIT TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28743.m3u8
+#EXTINF:-1,ES:HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28818.m3u8
+#EXTINF:-1,ES:Iberalia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28680.m3u8
+#EXTINF:-1,ES:INTERECONOMIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28717.m3u8
+#EXTINF:-1,ES:LA OTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28716.m3u8
+#EXTINF:-1,ES:MEGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28798.m3u8
+#EXTINF:-1,ES:MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28732.m3u8
+#EXTINF:-1,ES:MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28731.m3u8
+#EXTINF:-1,ES:MOVISTAR  0#
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28793.m3u8
+#EXTINF:-1,ES:MOVISTAR  DISNEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28790.m3u8
+#EXTINF:-1,ES:MOVISTAR  FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28703.m3u8
+#EXTINF:-1,ES:MOVISTAR  TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28774.m3u8
+#EXTINF:-1,ES:MOVISTAR FAMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28794.m3u8
+#EXTINF:-1,ES:MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28685.m3u8
+#EXTINF:-1,ES:MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28778.m3u8
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28776.m3u8
+#EXTINF:-1,ES:MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28773.m3u8
+#EXTINF:-1,ES:MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28780.m3u8
+#EXTINF:-1,ES:MTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28744.m3u8
+#EXTINF:-1,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28747.m3u8
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28808.m3u8
+#EXTINF:-1,ES:Partidazo 720p
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28712.m3u8
+#EXTINF:-1,ES:PARTIDAZOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28713.m3u8
+#EXTINF:-1,ES:SOL Music
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28734.m3u8
+#EXTINF:-1,ES:SOMOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28795.m3u8
+#EXTINF:-1,ES:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28733.m3u8
+#EXTINF:-1,ES:Super 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28728.m3u8
+#EXTINF:-1,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28814.m3u8
+#EXTINF:-1,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28806.m3u8
+#EXTINF:-1,ES:TEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28740.m3u8
 #EXTINF:-1,ES:TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9577.m3u8
-#EXTINF:-1,ES:TV324
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9524.m3u8
-#EXTINF:-1,ES:TVE_LA1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9573.m3u8
-#EXTINF:-1,ES:TVE_LA2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9574.m3u8
-#EXTINF:-1,ES:TVE_La_2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9555.m3u8
-#EXTINF:-1,ES:TVN_CHILE_HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9534.m3u8
-#EXTINF:-1,ES:VIAGAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9547.m3u8
-#EXTINF:-1,ES:VTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv2iptv.com:8000/live/ex12/545654/9558.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28820.m3u8
+#EXTINF:-1,ES:TV 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28801.m3u8
+#EXTINF:-1,ES:TV 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28727.m3u8
+#EXTINF:-1,ES:Viajar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28752.m3u8
+#EXTINF:-1,ES:XTRM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28796.m3u8
+#EXTINF:-1,ES:Taquilla-1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35262.m3u8
+#EXTINF:-1,ES:Taquilla-2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35260.m3u8
+#EXTINF:-1,ES:Taquilla-3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35259.m3u8
+#EXTINF:-1,ES:Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35266.m3u8
+#EXTINF:-1,ES:Taquilla-5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35258.m3u8
+#EXTINF:-1,ES:Taquilla 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35265.m3u8
+#EXTINF:-1,ES:Taquilla 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35264.m3u8
+#EXTINF:-1,ES:Taquilla 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35263.m3u8
+#EXTINF:-1,ES:Taquilla-9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35257.m3u8
+#EXTINF:-1,ES:Taquilla-10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/35261.m3u8
