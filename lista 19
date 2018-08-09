@@ -3,386 +3,386 @@
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 #EXTINF:-1,Deportes - Gol Tv Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/960.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/960.m3u8
 #EXTINF:-1,Deportes - Movistar Futbol Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/959.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/959.m3u8
 #EXTINF:-1,Deportes - Movistar Golf Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/958.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/958.m3u8
 #EXTINF:-1,Deportes - Movistar MotoGT Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/957.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/957.m3u8
 #EXTINF:-1,Deportess - Bein Sports Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/956.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/956.m3u8
 #EXTINF:-1,Deportess - Gol Tv Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/955.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/955.m3u8
 #EXTINF:-1,Deportess - Movistar Formula 1 HD Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/954.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/954.m3u8
 #EXTINF:-1,Deportess - Movistar Futbol Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/953.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/953.m3u8
 #EXTINF:-1,Deportess - Movistar Golf Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/952.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/952.m3u8
 #EXTINF:-1,Deportess - Movistar MotoGT Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/951.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/951.m3u8
 #EXTINF:-1,ES: Eurosport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/950.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/950.m3u8
 #EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/949.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/949.m3u8
 #EXTINF:-1,ES: Fox FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/948.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/948.m3u8
 #EXTINF:-1,ES: Fox Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/947.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/947.m3u8
 #EXTINF:-1,ES: Hollywood FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/946.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/946.m3u8
 #EXTINF:-1,ES: LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/945.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/945.m3u8
 #EXTINF:-1,ES: LA LIGA TV BAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/944.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/944.m3u8
 #EXTINF:-1,ES: La Sexta FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/943.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/943.m3u8
 #EXTINF:-1,ES: LaLiga 123 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/942.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/942.m3u8
 #EXTINF:-1,ES: Mega TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/941.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/941.m3u8
 #EXTINF:-1,ES: Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/940.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/940.m3u8
 #EXTINF:-1,ES: Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/939.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/939.m3u8
 #EXTINF:-1,ES: Real Madrid Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/938.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/938.m3u8
 #EXTINF:-1,ES: Real Madrid TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/937.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/937.m3u8
 #EXTINF:-1,ES: TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/936.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/936.m3u8
 #EXTINF:-1,ES: Toros Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/935.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/935.m3u8
 #EXTINF:-1,ES:ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/934.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/934.m3u8
 #EXTINF:-1,ES:Canal  GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/933.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/933.m3u8
 #EXTINF:-1,ES:Canal  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/932.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/932.m3u8
 #EXTINF:-1,ES:Canal DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/931.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/931.m3u8
 #EXTINF:-1,ES:Canal DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/930.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/930.m3u8
 #EXTINF:-1,ES:Canal FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/929.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/929.m3u8
 #EXTINF:-1,ES:Canal TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/928.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/928.m3u8
 #EXTINF:-1,ES:DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/927.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/927.m3u8
 #EXTINF:-1,ES:FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/926.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/926.m3u8
 #EXTINF:-1,ES:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/925.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/925.m3u8
 #EXTINF:-1,ES:LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/924.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/924.m3u8
 #EXTINF:-1,ES.-#0 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1115.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1115.m3u8
 #EXTINF:-1,ES.-#0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1114.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1114.m3u8
 #EXTINF:-1,ES.-24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1113.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1113.m3u8
 #EXTINF:-1,ES.-40 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1112.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1112.m3u8
 #EXTINF:-1,ES.-A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1111.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1111.m3u8
 #EXTINF:-1,ES.-AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1110.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1110.m3u8
 #EXTINF:-1,ES.-Antena 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1109.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1109.m3u8
 #EXTINF:-1,ES.-Atreseries FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1108.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1108.m3u8
 #EXTINF:-1,ES.-AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1107.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1107.m3u8
 #EXTINF:-1,ES.-AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1106.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1106.m3u8
 #EXTINF:-1,ES.-AXN White FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1105.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1105.m3u8
 #EXTINF:-1,ES.-AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1104.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1104.m3u8
 #EXTINF:-1,ES.-BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1103.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1103.m3u8
 #EXTINF:-1,ES.-BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1102.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1102.m3u8
 #EXTINF:-1,ES.-BeiN La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1101.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1101.m3u8
 #EXTINF:-1,ES.-beIN LA Liga FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1100.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1100.m3u8
 #EXTINF:-1,ES.-beIN Laliga 1 HD Backup
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1099.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1099.m3u8
 #EXTINF:-1,ES.-BeiN Laliga FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1098.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1098.m3u8
 #EXTINF:-1,ES.-Bein Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1097.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1097.m3u8
 #EXTINF:-1,ES.-beIN Sport FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1096.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1096.m3u8
 #EXTINF:-1,ES.-Bein Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1095.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1095.m3u8
 #EXTINF:-1,ES.-BeMad tv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1094.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1094.m3u8
 #EXTINF:-1,ES.-Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1093.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1093.m3u8
 #EXTINF:-1,ES.-Calle 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1092.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1092.m3u8
 #EXTINF:-1,ES.-CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1091.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1091.m3u8
 #EXTINF:-1,ES.-CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1090.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1090.m3u8
 #EXTINF:-1,ES.-Canal DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1089.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1089.m3u8
 #EXTINF:-1,ES.-Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1088.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1088.m3u8
 #EXTINF:-1,ES.-CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1087.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1087.m3u8
 #EXTINF:-1,ES.-Canal ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1086.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1086.m3u8
 #EXTINF:-1,ES.-Canal SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1085.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1085.m3u8
 #EXTINF:-1,ES.-Canal SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1084.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1084.m3u8
 #EXTINF:-1,ES.-Caza y pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1083.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1083.m3u8
 #EXTINF:-1,ES.-Caza Y Pesca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1082.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1082.m3u8
 #EXTINF:-1,ES.-Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1081.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1081.m3u8
 #EXTINF:-1,ES.-Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1080.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1080.m3u8
 #EXTINF:-1,ES.-COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1079.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1079.m3u8
 #EXTINF:-1,ES.-COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1078.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1078.m3u8
 #EXTINF:-1,ES.-Cosmo Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1077.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1077.m3u8
 #EXTINF:-1,ES.-Crimen Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1076.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1076.m3u8
 #EXTINF:-1,ES.-Cuatro FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1075.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1075.m3u8
 #EXTINF:-1,ES.-CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1074.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1074.m3u8
 #EXTINF:-1,ES.-DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1073.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1073.m3u8
 #EXTINF:-1,ES.-DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1072.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1072.m3u8
 #EXTINF:-1,ES.-Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1071.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1071.m3u8
 #EXTINF:-1,ES.-DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1070.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1070.m3u8
 #EXTINF:-1,ES.-DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1069.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1069.m3u8
 #EXTINF:-1,ES.-DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1068.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1068.m3u8
 #EXTINF:-1,ES.-DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1067.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1067.m3u8
 #EXTINF:-1,ES.-Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1066.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1066.m3u8
 #EXTINF:-1,ES.-EuroNews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1065.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1065.m3u8
 #EXTINF:-1,ES.-EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1064.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1064.m3u8
 #EXTINF:-1,ES.-Eurosport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1063.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1063.m3u8
 #EXTINF:-1,ES.-EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1062.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1062.m3u8
 #EXTINF:-1,ES.-FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1061.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1061.m3u8
 #EXTINF:-1,ES.-Fox FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1060.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1060.m3u8
 #EXTINF:-1,ES.-FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1059.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1059.m3u8
 #EXTINF:-1,ES.-Fox Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1058.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1058.m3u8
 #EXTINF:-1,ES.-GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1057.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1057.m3u8
 #EXTINF:-1,ES.-Hollywood FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1056.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1056.m3u8
 #EXTINF:-1,ES.-HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1055.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1055.m3u8
 #EXTINF:-1,ES.-IBERALIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1054.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1054.m3u8
 #EXTINF:-1,ES.-LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1053.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1053.m3u8
 #EXTINF:-1,ES.-LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1052.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1052.m3u8
 #EXTINF:-1,ES.-La Liga BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1051.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1051.m3u8
 #EXTINF:-1,ES.-LA LIGA TV BAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1050.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1050.m3u8
 #EXTINF:-1,ES.-La Sexta FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1049.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1049.m3u8
 #EXTINF:-1,ES.-LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1048.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1048.m3u8
 #EXTINF:-1,ES.-LaLiga 123 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1047.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1047.m3u8
 #EXTINF:-1,ES.-M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1046.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1046.m3u8
 #EXTINF:-1,ES.-MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1045.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1045.m3u8
 #EXTINF:-1,ES.-Mega TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1044.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1044.m3u8
 #EXTINF:-1,ES.-MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1043.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1043.m3u8
 #EXTINF:-1,ES.-Movistar  Deportes 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1042.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1042.m3u8
 #EXTINF:-1,ES.-Movistar Accion FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1041.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1041.m3u8
 #EXTINF:-1,ES.-Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1040.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1040.m3u8
 #EXTINF:-1,ES.-Movistar Comedia FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1039.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1039.m3u8
 #EXTINF:-1,ES.-Movistar DCine FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1038.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1038.m3u8
 #EXTINF:-1,ES.-Movistar Deportes 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1037.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1037.m3u8
 #EXTINF:-1,ES.-Movistar Estrenos FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1036.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1036.m3u8
 #EXTINF:-1,ES.-Movistar F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1035.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1035.m3u8
 #EXTINF:-1,ES.-Movistar Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1034.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1034.m3u8
 #EXTINF:-1,ES.-Movistar Futbol FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1033.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1033.m3u8
 #EXTINF:-1,ES.-Movistar Golf FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1032.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1032.m3u8
 #EXTINF:-1,ES.-Movistar Moto GP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1031.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1031.m3u8
 #EXTINF:-1,ES.-MOVISTAR MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1030.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1030.m3u8
 #EXTINF:-1,ES.-Movistar Partidazo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1029.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1029.m3u8
 #EXTINF:-1,ES.-Movistar Partidazo HD (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1028.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1028.m3u8
 #EXTINF:-1,ES.-Movistar Series FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1027.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1027.m3u8
 #EXTINF:-1,ES.-Movistar Series Xtra FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1026.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1026.m3u8
 #EXTINF:-1,ES.-Movistar Xtra FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1025.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1025.m3u8
 #EXTINF:-1,ES.-Movistar XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1024.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1024.m3u8
 #EXTINF:-1,ES.-MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1023.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1023.m3u8
 #EXTINF:-1,ES.-NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1022.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1022.m3u8
 #EXTINF:-1,ES.-National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1021.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1021.m3u8
 #EXTINF:-1,ES.-NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1020.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1020.m3u8
 #EXTINF:-1,ES.-National Geographic Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1019.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1019.m3u8
 #EXTINF:-1,ES.-NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1018.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1018.m3u8
 #EXTINF:-1,ES.-NICK Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1017.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1017.m3u8
 #EXTINF:-1,ES.-NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1016.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1016.m3u8
 #EXTINF:-1,ES.-Nonstop People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1015.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1015.m3u8
 #EXTINF:-1,ES.-NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1014.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1014.m3u8
 #EXTINF:-1,ES.-Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1013.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1013.m3u8
 #EXTINF:-1,ES.-PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1012.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1012.m3u8
 #EXTINF:-1,ES.-Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1011.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1011.m3u8
 #EXTINF:-1,ES.-Real Madrid Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1010.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1010.m3u8
 #EXTINF:-1,ES.-Real Madrid TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1009.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1009.m3u8
 #EXTINF:-1,ES.-SUNDANCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1008.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1008.m3u8
 #EXTINF:-1,ES.-SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1007.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1007.m3u8
 #EXTINF:-1,ES.-Syfy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1006.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1006.m3u8
 #EXTINF:-1,ES.-TAQUILLA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1005.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1005.m3u8
 #EXTINF:-1,ES.-TAQUILLA 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1004.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1004.m3u8
 #EXTINF:-1,ES.-TAQUILLA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1003.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1003.m3u8
 #EXTINF:-1,ES.-TAQUILLA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1002.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1002.m3u8
 #EXTINF:-1,ES.-TAQUILLA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1001.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1001.m3u8
 #EXTINF:-1,ES.-TAQUILLA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1000.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/1000.m3u8
 #EXTINF:-1,ES.-TAQUILLA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/999.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/999.m3u8
 #EXTINF:-1,ES.-TAQUILLA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/998.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/998.m3u8
 #EXTINF:-1,ES.-TAQUILLA 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/997.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/997.m3u8
 #EXTINF:-1,ES.-TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/996.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/996.m3u8
 #EXTINF:-1,ES.-TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/995.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/995.m3u8
 #EXTINF:-1,ES.-Telecinco FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/994.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/994.m3u8
 #EXTINF:-1,ES.-TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/993.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/993.m3u8
 #EXTINF:-1,ES.-TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/992.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/992.m3u8
 #EXTINF:-1,ES.-TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/991.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/991.m3u8
 #EXTINF:-1,ES.-TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/990.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/990.m3u8
 #EXTINF:-1,ES.-Toros Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/989.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/989.m3u8
 #EXTINF:-1,ES.-Viajar FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/988.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/988.m3u8
 #EXTINF:-1,ES.-VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/987.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/987.m3u8
 #EXTINF:-1,ES.-XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/986.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/986.m3u8
 #EXTINF:-1,Spain -  #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/985.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/985.m3u8
 #EXTINF:-1,Spain -  24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/984.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/984.m3u8
 #EXTINF:-1,Spain -  A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/983.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/983.m3u8
 #EXTINF:-1,Spain -  Andalucia Turismo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/982.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/982.m3u8
 #EXTINF:-1,Spain -  Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/981.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/981.m3u8
 #EXTINF:-1,Spain -  Aragon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/980.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/980.m3u8
 #EXTINF:-1,Spain -  AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/979.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/979.m3u8
 #EXTINF:-1,Spain -  Axn White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/978.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/978.m3u8
 #EXTINF:-1,Spain -  Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/977.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/977.m3u8
 #EXTINF:-1,Spain -  Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/976.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/976.m3u8
 #EXTINF:-1,Spain -  Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/975.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/975.m3u8
 #EXTINF:-1,Spain -  Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/974.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/974.m3u8
 #EXTINF:-1,Spain -  Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/973.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/973.m3u8
 #EXTINF:-1,Spain -  FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/972.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/972.m3u8
 #EXTINF:-1,Spain -  Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/971.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/971.m3u8
 #EXTINF:-1,Spain -  IB3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/970.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/970.m3u8
 #EXTINF:-1,Spain -  La 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/969.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/969.m3u8
 #EXTINF:-1,Spain -  La Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/968.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/968.m3u8
 #EXTINF:-1,Spain -  La Xarxa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/967.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/967.m3u8
 #EXTINF:-1,Spain -  Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/966.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/966.m3u8
 #EXTINF:-1,Spain -  Movistar  Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/965.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/965.m3u8
 #EXTINF:-1,Spain -  Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/964.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/964.m3u8
 #EXTINF:-1,Spain -  Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/963.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/963.m3u8
 #EXTINF:-1,Spain -  Movistar Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/962.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/962.m3u8
 #EXTINF:-1,Spain - Antena 3 Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/961.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://167.114.174.164:25461/live/suport837/premieriptv1/961.m3u8
