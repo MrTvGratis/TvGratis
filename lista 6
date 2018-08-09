@@ -4,206 +4,206 @@
 paypal.me/TvGratiskodi
 
 #EXTINF:-1,### SPAIN CHANNELS ###
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1134.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1134.ts
 #EXTINF:-1,ES: 0 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1132.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1132.ts
 #EXTINF:-1,ES: 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1131.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1131.ts
 #EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1130.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1130.ts
 #EXTINF:-1,ES: ALQUILER 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1129.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1129.ts
 #EXTINF:-1,ES: ALQUILER 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1128.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1128.ts
 #EXTINF:-1,ES: ALQUILER 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1127.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1127.ts
 #EXTINF:-1,ES: ALQUILER 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1126.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1126.ts
 #EXTINF:-1,ES: ALQUILER 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1125.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1125.ts
 #EXTINF:-1,ES: ALQUILER 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1124.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1124.ts
 #EXTINF:-1,ES: ALQUILER 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1123.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1123.ts
 #EXTINF:-1,ES: ALQUILER 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1122.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1122.ts
 #EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1121.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1121.ts
 #EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1120.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1120.ts
 #EXTINF:-1,ES: ASTRESSERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1119.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1119.ts
 #EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1118.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1118.ts
 #EXTINF:-1,ES: AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1117.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1117.ts
 #EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1116.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1116.ts
 #EXTINF:-1,ES: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1115.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1115.ts
 #EXTINF:-1,ES: BEAMAD TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1114.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1114.ts
 #EXTINF:-1,ES: BEIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1113.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1113.ts
 #EXTINF:-1,ES: BEIN SPORTS LaLiga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1112.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1112.ts
 #EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1111.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1111.ts
 #EXTINF:-1,ES: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1110.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1110.ts
 #EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1109.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1109.ts
 #EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1108.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1108.ts
 #EXTINF:-1,ES: CANAL EXTREMADURA SAT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1107.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1107.ts
 #EXTINF:-1,ES: CANAL SUR ANDALUCIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1106.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1106.ts
 #EXTINF:-1,ES: CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1105.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1105.ts
 #EXTINF:-1,ES: CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1104.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1104.ts
 #EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1103.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1103.ts
 #EXTINF:-1,ES: COSMO TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1102.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1102.ts
 #EXTINF:-1,ES: CRIMEN INVESTI GACION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1101.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1101.ts
 #EXTINF:-1,ES: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1100.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1100.ts
 #EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1099.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1099.ts
 #EXTINF:-1,ES: DISCOVERY MAX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1098.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1098.ts
 #EXTINF:-1,ES: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1097.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1097.ts
 #EXTINF:-1,ES: DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1096.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1096.ts
 #EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1095.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1095.ts
 #EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1094.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1094.ts
 #EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1093.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1093.ts
 #EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1092.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1092.ts
 #EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1091.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1091.ts
 #EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1090.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1090.ts
 #EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1089.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1089.ts
 #EXTINF:-1,ES: FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1088.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1088.ts
 #EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1087.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1087.ts
 #EXTINF:-1,ES: HEAR TV MUSIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1086.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1086.ts
 #EXTINF:-1,ES: HEI TV MUSIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1085.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1085.ts
 #EXTINF:-1,ES: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1084.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1084.ts
 #EXTINF:-1,ES: HIT TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1083.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1083.ts
 #EXTINF:-1,ES: HITS NRJ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1082.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1082.ts
 #EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1081.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1081.ts
 #EXTINF:-1,ES: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1080.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1080.ts
 #EXTINF:-1,ES: LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1079.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1079.ts
 #EXTINF:-1,ES: LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1078.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1078.ts
 #EXTINF:-1,ES: LaLiga TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1076.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1076.ts
 #EXTINF:-1,ES: LEVANTE TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1075.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1075.ts
 #EXTINF:-1,ES: LIGA 123 TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1074.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1074.ts
 #EXTINF:-1,ES: M ESPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1073.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1073.ts
 #EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1072.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1072.ts
 #EXTINF:-1,ES: MIMUSICA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1071.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1071.ts
 #EXTINF:-1,ES: MOVISTAR   ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1070.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1070.ts
 #EXTINF:-1,ES: MOVISTAR   XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1069.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1069.ts
 #EXTINF:-1,ES: MOVISTAR  ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1068.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1068.ts
 #EXTINF:-1,ES: MOVISTAR  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1067.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1067.ts
 #EXTINF:-1,ES: MOVISTAR  DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1066.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1066.ts
 #EXTINF:-1,ES: MOVISTAR  DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1065.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1065.ts
 #EXTINF:-1,ES: MOVISTAR  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1064.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1064.ts
 #EXTINF:-1,ES: MOVISTAR  SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1063.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1063.ts
 #EXTINF:-1,ES: MOVISTAR  SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1062.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1062.ts
 #EXTINF:-1,ES: MOVISTAR  XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1061.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1061.ts
 #EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1060.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1060.ts
 #EXTINF:-1,ES: MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1059.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1059.ts
 #EXTINF:-1,ES: MOVISTAR GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1058.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1058.ts
 #EXTINF:-1,ES: MOVISTAR MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1057.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1057.ts
 #EXTINF:-1,ES: MTV ESPAIN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1056.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1056.ts
 #EXTINF:-1,ES: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1055.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1055.ts
 #EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1054.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1054.ts
 #EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1053.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1053.ts
 #EXTINF:-1,ES: NICK JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1052.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1052.ts
 #EXTINF:-1,ES: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1051.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1051.ts
 #EXTINF:-1,ES: NONSTOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1050.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1050.ts
 #EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1049.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1049.ts
 #EXTINF:-1,ES: ODISEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1048.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1048.ts
 #EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1047.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1047.ts
 #EXTINF:-1,ES: PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1046.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1046.ts
 #EXTINF:-1,ES: REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1045.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1045.ts
 #EXTINF:-1,ES: SUNDANCE TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1044.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1044.ts
 #EXTINF:-1,ES: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1043.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1043.ts
 #EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1035.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1035.ts
 #EXTINF:-1,ES: TELE MUSICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1034.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1034.ts
 #EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1033.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1033.ts
 #EXTINF:-1,ES: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1032.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1032.ts
 #EXTINF:-1,ES: TELEMADRID
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1031.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1031.ts
 #EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1030.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1030.ts
 #EXTINF:-1,ES: TOP LATINO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1029.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1029.ts
 #EXTINF:-1,ES: TOROS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1028.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1028.ts
 #EXTINF:-1,ES: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1027.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1027.ts
 #EXTINF:-1,ES: VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1026.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1026.ts
 #EXTINF:-1,ES: WIN SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1025.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1025.ts
 #EXTINF:-1,ES: XTRM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1024.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1024.ts
