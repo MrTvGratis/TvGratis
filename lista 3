@@ -2,249 +2,131 @@
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 
-
-
-#EXTINF:-1,|ES|*****MOVISTAR*****|ES|
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/315.m3u8
-#EXTINF:-1,|ES| LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1082.m3u8
-#EXTINF:-1,|ES| LA1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/612.m3u8
-#EXTINF:-1,|ES| CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2797.m3u8
-#EXTINF:-1,|ES| LA2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/611.m3u8
-#EXTINF:-1,|ES| ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2003.m3u8
-#EXTINF:-1,|ES| ANTENA3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/885.m3u8
-#EXTINF:-1,|ES| CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/831.m3u8
-#EXTINF:-1,|ES| CUATRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7717.m3u8
-#EXTINF:-1,|ES| TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/374.m3u8
-#EXTINF:-1,|ES| TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/761.m3u8
-#EXTINF:-1,|ES| TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/987.m3u8
-#EXTINF:-1,|ES| CANAL ANDALUCIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/986.m3u8
-#EXTINF:-1,|ES| TV3 CATALUNYA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2801.m3u8
-#EXTINF:-1,|ES|*****NOTICIAS*****|ES|
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/882.m3u8
-#EXTINF:-1,|ES| CANAL 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/621.m3u8
-#EXTINF:-1,|ES| FOXNEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/620.m3u8
-#EXTINF:-1,|ES|*****DEPORTES*****|ES|
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/618.m3u8
-#EXTINF:-1,|ES| M TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7703.m3u8
-#EXTINF:-1,|ES| TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2736.m3u8
-#EXTINF:-1,|ES| M DEPORTES1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2004.m3u8
-#EXTINF:-1,|ES| M DEPORTES1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/375.m3u8
-#EXTINF:-1,|ES| M DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/668.m3u8
-#EXTINF:-1,|ES| M DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2005.m3u8
-#EXTINF:-1,|ES| GOL TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1642.m3u8
-#EXTINF:-1,|ES| M FÚTBOL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2006.m3u8
-#EXTINF:-1,|ES| M  FÚTBOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/317.m3u8
-#EXTINF:-1,|ES| M TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/989.m3u8
-#EXTINF:-1,|ES| M beINSPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2007.m3u8
-#EXTINF:-1,|ES| M BEINSPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/457.m3u8
-#EXTINF:-1,|ES| M BEINLALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/984.m3u8
-#EXTINF:-1,|ES|beIN-LA-LIGA-HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7721.m3u8
-#EXTINF:-1,|ES| M BEINLALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/316.m3u8
-#EXTINF:-1,|ES| M LALIGATV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1083.m3u8
-#EXTINF:-1,|ES| M REALMADRID TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/318.m3u8
-#EXTINF:-1,|ES| M BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/981.m3u8
-#EXTINF:-1,|ES| M EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2796.m3u8
-#EXTINF:-1,|ES| M EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/990.m3u8
-#EXTINF:-1,|ES| EUROSPORT 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7716.m3u8
-#EXTINF:-1,|ES| M PARTIDAZO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2432.m3u8
-#EXTINF:-1,|ES| M PARTIDAZO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2431.m3u8
-#EXTINF:-1,|ES| M FORMULA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2016.m3u8
-#EXTINF:-1,|ES| M FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/622.m3u8
-#EXTINF:-1,|ES| M MOTOGP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/623.m3u8
-#EXTINF:-1,|ES| M MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7711.m3u8
-#EXTINF:-1,|ES| M GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/376.m3u8
-#EXTINF:-1,|ES|*****CINE*****|ES|
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/624.m3u8
-#EXTINF:-1,|ES| M ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2022.m3u8
-#EXTINF:-1,|ES| M ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/521.m3u8
-#EXTINF:-1,|ES| M XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/666.m3u8
-#EXTINF:-1,|ES| M ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/627.m3u8
-#EXTINF:-1,|ES| M ACCION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/377.m3u8
-#EXTINF:-1,|ES| M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/983.m3u8
-#EXTINF:-1,|ES| M Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/520.m3u8
-#EXTINF:-1,|ES| M DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/663.m3u8
-#EXTINF:-1,|ES| M DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/378.m3u8
-#EXTINF:-1,|ES| M DCINE ESPANOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/626.m3u8
-#EXTINF:-1,|ES| M HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/428.m3u8
-#EXTINF:-1,|ES| M PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7707.m3u8
-#EXTINF:-1,|ES| TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1084.m3u8
-#EXTINF:-1,|ES| M TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7705.m3u8
-#EXTINF:-1,|ES| M TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/629.m3u8
-#EXTINF:-1,|ES|*****ENTRETENIMIENTO*****|ES|
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/630.m3u8
-#EXTINF:-1,|ES|C.DE-LAS-ESTRELLAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7719.m3u8
-#EXTINF:-1,|ES|C.ESTRELLAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7718.m3u8
-#EXTINF:-1,|ES| M #0
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/625.m3u8
-#EXTINF:-1,|ES| M SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/664.m3u8
-#EXTINF:-1,|ES| M SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/665.m3u8
-#EXTINF:-1,|ES| M COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2799.m3u8
-#EXTINF:-1,|ES| COMEDYCENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2798.m3u8
-#EXTINF:-1,|ES| FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/2800.m3u8
-#EXTINF:-1,|ES| A3SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/674.m3u8
-#EXTINF:-1,|ES| FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7715.m3u8
-#EXTINF:-1,|ES| FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/514.m3u8
-#EXTINF:-1,|ES| FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/513.m3u8
-#EXTINF:-1,|ES| M AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1081.m3u8
-#EXTINF:-1,|ES| M AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/628.m3u8
-#EXTINF:-1,|ES| M AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/631.m3u8
-#EXTINF:-1,|ES| M AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/379.m3u8
-#EXTINF:-1,|ES| M AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/632.m3u8
-#EXTINF:-1,|ES|AXN-WHITE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7722.m3u8
-#EXTINF:-1,|ES| M SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/633.m3u8
-#EXTINF:-1,|ES| M CALLE13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/526.m3u8
-#EXTINF:-1,|ES| M ENERGY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/988.m3u8
-#EXTINF:-1,|ES| DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7145.m3u8
-#EXTINF:-1,|ES| M COSMO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1864.m3u8
-#EXTINF:-1,|ES| MEGA TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1087.m3u8
-#EXTINF:-1,|ES| M LEVANTE THD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7712.m3u8
-#EXTINF:-1,|ES| M NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7709.m3u8
-#EXTINF:-1,|ES| M NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7708.m3u8
-#EXTINF:-1,|ES| M SUNDANCE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7706.m3u8
-#EXTINF:-1,|ES| M TELENOVELAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7704.m3u8
-#EXTINF:-1,|ES| M WORLD PADEL TOUR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7700.m3u8
-#EXTINF:-1,|ES| M DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1086.m3u8
-#EXTINF:-1,|ES| M NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/982.m3u8
-#EXTINF:-1,|ES|*****CULTURA*****|ES|
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/640.m3u8
-#EXTINF:-1,|ES| ODISEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/634.m3u8
-#EXTINF:-1,|ES| NATGEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/635.m3u8
-#EXTINF:-1,|ES| NATGEOWILD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/636.m3u8
-#EXTINF:-1,|ES| NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/512.m3u8
-#EXTINF:-1,|ES| DISCOVERY CI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/669.m3u8
-#EXTINF:-1,|ES| DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/671.m3u8
-#EXTINF:-1,|ES| HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/1085.m3u8
-#EXTINF:-1,|ES| A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/670.m3u8
-#EXTINF:-1,|ES| CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/991.m3u8
-#EXTINF:-1,|ES| IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/682.m3u8
-#EXTINF:-1,|ES| VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/637.m3u8
-#EXTINF:-1,|ES| M VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7701.m3u8
-#EXTINF:-1,|ES| CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/672.m3u8
-#EXTINF:-1,|ES|*****NIÑOS*****|ES|
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/641.m3u8
-#EXTINF:-1,|ES| NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/673.m3u8
-#EXTINF:-1,|ES| NICKELODEON ESP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/678.m3u8
-#EXTINF:-1,|ES| NICK JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/675.m3u8
-#EXTINF:-1,|ES| DISNEY ESP XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/679.m3u8
-#EXTINF:-1,|ES| DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/686.m3u8
-#EXTINF:-1,|ES| DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/516.m3u8
-#EXTINF:-1,|ES| DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live//518.m3u8
-#EXTINF:-1,|ES| CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/677.m3u8
-#EXTINF:-1,|ES| BOING ESP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/681.m3u8
-#EXTINF:-1,|ES| BABY ESP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/680.m3u8
-#EXTINF:-1,|ES| M CLASSICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7713.m3u8
-#EXTINF:-1,|ES| M MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvpro.watch-vision.net:8789/live/enzo/skype/7710.m3u8
+#EXTINF:-1,------- Spanish ---------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1072.ts
+#EXTINF:-1,ES: Canal+ Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1012.ts
+#EXTINF:-1,ES: Canal+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/2590.ts
+#EXTINF:-1,ES: Canal+ Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1020.ts
+#EXTINF:-1,ES: Canal+ Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1019.ts
+#EXTINF:-1,ES: Canal+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1016.ts
+#EXTINF:-1,ES: Canal+ Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1030.ts
+#EXTINF:-1,ES: Canal+ Dcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1028.ts
+#EXTINF:-1,ES: Canal+ Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1031.ts
+#EXTINF:-1,ES: Canal+ Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1059.ts
+#EXTINF:-1,ES: Canal+ de las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1048.ts
+#EXTINF:-1,ES: Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1058.ts
+#EXTINF:-1,ES: Canal+ Serie Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1004.ts
+#EXTINF:-1,ES: Canal+ Cuatro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1026.ts
+#EXTINF:-1,ES: Canal+ Cine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1033.ts
+#EXTINF:-1,ES: Canal+ Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1024.ts
+#EXTINF:-1,ES: Canal+ AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1054.ts
+#EXTINF:-1,ES: Canal+ Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1049.ts
+#EXTINF:-1,ES: Cine latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1002.ts
+#EXTINF:-1,ES: Canal+ Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1034.ts
+#EXTINF:-1,ES: Canal+ Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1029.ts
+#EXTINF:-1,ES: ECOTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1047.ts
+#EXTINF:-1,ES: Canal Logos TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1041.ts
+#EXTINF:-1,ES: Canal+ Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1039.ts
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1046.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1003.ts
+#EXTINF:-1,ES: Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1037.ts
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1021.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1011.ts
+#EXTINF:-1,ES: Movi Star F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1010.ts
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1042.ts
+#EXTINF:-1,ES: Win Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1050.ts
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1045.ts
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1014.ts
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1013.ts
+#EXTINF:-1,ES: Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1015.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1025.ts
+#EXTINF:-1,ES: TV3 LT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/2591.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/2589.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/2588.ts
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/2585.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/2586.ts
+#EXTINF:-1,ES: Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/2587.ts
+#EXTINF:-1,ES: VTV +  (URU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1053.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1056.ts
+#EXTINF:-1,ES: 324 Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1005.ts
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1060.ts
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1036.ts
+#EXTINF:-1,ES: Axn White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1023.ts
+#EXTINF:-1,ES: History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1051.ts
+#EXTINF:-1,ES: CALLE13 Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1009.ts
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/999.ts
+#EXTINF:-1,ES: Plaze tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1001.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1007.ts
+#EXTINF:-1,ES: Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1027.ts
+#EXTINF:-1,ES: Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1043.ts
+#EXTINF:-1,ES: Teleticino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1008.ts
+#EXTINF:-1,ES: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1057.ts
+#EXTINF:-1,ES: National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1055.ts
+#EXTINF:-1,ES: Disney Chaneel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1040.ts
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1038.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1032.ts
+#EXTINF:-1,ES: TVN Chile HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.com:8080/live/ivan003/ivan003/1006.ts
