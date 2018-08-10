@@ -1,109 +1,228 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 
-
-
-#EXTINF:-1,ES |  BOING
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7317.m3u8
-#EXTINF:-1,ES |  Bein Sport Espana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7318.m3u8
-#EXTINF:-1,ES | Bein Sports La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/9377.m3u8
-#EXTINF:-1,ES |  Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7314.m3u8
-#EXTINF:-1,ES |  Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7310.m3u8
-#EXTINF:-1,ES |  Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7307.m3u8
-#EXTINF:-1,ES |  Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7306.m3u8
-#EXTINF:-1,ES |  Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7305.m3u8
-#EXTINF:-1,ES |  EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7302.m3u8
-#EXTINF:-1,ES |  Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7303.m3u8
-#EXTINF:-1,ES |  FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7300.m3u8
-#EXTINF:-1,ES |  FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7299.m3u8
-#EXTINF:-1,ES | Fox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/8512.m3u8
-#EXTINF:-1,ES | Fox Deportes (D)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/8513.m3u8
-#EXTINF:-1,ES | HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/10917.m3u8
-#EXTINF:-1,ES |  Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7297.m3u8
-#EXTINF:-1,ES |  MTV espana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7281.m3u8
-#EXTINF:-1,ES |  Mega
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7293.m3u8
-#EXTINF:-1,ES |  Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7290.m3u8
-#EXTINF:-1,ES |  Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7289.m3u8
-#EXTINF:-1,ES |  Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7288.m3u8
-#EXTINF:-1,ES |  Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7287.m3u8
-#EXTINF:-1,ES |  Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7286.m3u8
-#EXTINF:-1,ES |  Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7284.m3u8
-#EXTINF:-1,ES |  Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7283.m3u8
-#EXTINF:-1,ES |  Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7282.m3u8
-#EXTINF:-1,ES |  N Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7280.m3u8
-#EXTINF:-1,ES |  Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7279.m3u8
-#EXTINF:-1,ES |  National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7278.m3u8
-#EXTINF:-1,ES |  Neox Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7277.m3u8
-#EXTINF:-1,ES |  Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7275.m3u8
-#EXTINF:-1,ES |  Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7273.m3u8
-#EXTINF:-1,ES |  RTVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7271.m3u8
-#EXTINF:-1,ES |  Sevilla Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7270.m3u8
-#EXTINF:-1,ES | Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7712.m3u8
-#EXTINF:-1,ES | Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7713.m3u8
-#EXTINF:-1,ES | Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7714.m3u8
-#EXTINF:-1,ES | Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7715.m3u8
-#EXTINF:-1,ES | Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7716.m3u8
-#EXTINF:-1,ES |   TELEMUNDO EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/4240.m3u8
-#EXTINF:-1,ES |   TELEMUNDO WEST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/12306.m3u8
-#EXTINF:-1,ES |  TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7253.m3u8
-#EXTINF:-1,ES |  TV3 Catalynia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7251.m3u8
-#EXTINF:-1,ES |  TVE LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7249.m3u8
-#EXTINF:-1,ES |  TVE LA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7248.m3u8
-#EXTINF:-1,ES |  Telecinco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7258.m3u8
-#EXTINF:-1,ES |  Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7257.m3u8
-#EXTINF:-1,ES |  Telepacifico
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7449.m3u8
-#EXTINF:-1,ES |  Telesur
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7255.m3u8
-#EXTINF:-1,ES | Univision
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7706.m3u8
-#EXTINF:-1,ES |  Univision Deportes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv-area-51.tv:2095/live/dscroggs4/dscroggs4321/7368.m3u8
+#EXTINF:-1,|| ESPAGNE ||
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2577.ts
+#EXTINF:-1,#0 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3843.ts
+#EXTINF:-1,AMC HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3830.ts
+#EXTINF:-1,Antena 3 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3829.ts
+#EXTINF:-1,AXN HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3828.ts
+#EXTINF:-1,AXN White HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3827.ts
+#EXTINF:-1,Bein LaLiga 1 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3795.ts
+#EXTINF:-1,Bein LaLiga 2 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3792.ts
+#EXTINF:-1,Bein LaLiga HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3786.ts
+#EXTINF:-1,Bein Sports España HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3785.ts
+#EXTINF:-1,Bein Sports MAX 1 España HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3782.ts
+#EXTINF:-1,Bein Sports MAX 2 España HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3779.ts
+#EXTINF:-1,Calle 13 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3826.ts
+#EXTINF:-1,Caza y Pesca HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3812.ts
+#EXTINF:-1,Comedy Central HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3820.ts
+#EXTINF:-1,Cosmo HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3819.ts
+#EXTINF:-1,Cuatro HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3818.ts
+#EXTINF:-1,Discovery Channel HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3811.ts
+#EXTINF:-1,Disney Channel HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3817.ts
+#EXTINF:-1,Eurosport 1 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3800.ts
+#EXTINF:-1,Eurosport 2 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3799.ts
+#EXTINF:-1,FOX HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3825.ts
+#EXTINF:-1,FOX Life HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3824.ts
+#EXTINF:-1,Historia HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3813.ts
+#EXTINF:-1,Hollywood HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3823.ts
+#EXTINF:-1,La 1 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3822.ts
+#EXTINF:-1,LaLigaTV HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3808.ts
+#EXTINF:-1,M_Accion HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3842.ts
+#EXTINF:-1,M_Comedia HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3841.ts
+#EXTINF:-1,M_DCine HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3840.ts
+#EXTINF:-1,M_Deportes 1 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3806.ts
+#EXTINF:-1,M_Deportes 2 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3805.ts
+#EXTINF:-1,M_Estrenos HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3839.ts
+#EXTINF:-1,M_F1 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3804.ts
+#EXTINF:-1,M_Futbol HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3807.ts
+#EXTINF:-1,M_Golf HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3803.ts
+#EXTINF:-1,M_GP HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3802.ts
+#EXTINF:-1,M_Partidazo HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3801.ts
+#EXTINF:-1,M_Series HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3838.ts
+#EXTINF:-1,M_Series Xtra HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3837.ts
+#EXTINF:-1,M_Xtra HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3836.ts
+#EXTINF:-1,National Geographic HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3810.ts
+#EXTINF:-1,National Geographic Wild HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3809.ts
+#EXTINF:-1,Nickelodeon HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3816.ts
+#EXTINF:-1,SyFy HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3835.ts
+#EXTINF:-1,TCM HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3834.ts
+#EXTINF:-1,Telecinco HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3833.ts
+#EXTINF:-1,TNT HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3832.ts
+#EXTINF:-1,Toros TV HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3831.ts
+#EXTINF:-1,Viajar HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3815.ts
+#EXTINF:-1,World Padel Tour HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3814.ts
+#EXTINF:-1,Bein LaLiga 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3797.ts
+#EXTINF:-1,Bein LaLiga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3796.ts
+#EXTINF:-1,Bein LaLiga 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3794.ts
+#EXTINF:-1,Bein LaLiga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3793.ts
+#EXTINF:-1,Bein Sports MAX 1 España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3784.ts
+#EXTINF:-1,Bein Sports MAX 1 España HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3783.ts
+#EXTINF:-1,Bein Sports MAX 2 España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3781.ts
+#EXTINF:-1,Bein Sports MAX 2 España HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3780.ts
+#EXTINF:-1,ES | AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2058.ts
+#EXTINF:-1,ES | ANTENA_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2026.ts
+#EXTINF:-1,ES | AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2057.ts
+#EXTINF:-1,ES | BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2067.ts
+#EXTINF:-1,ES | BeIN Laliga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2069.ts
+#EXTINF:-1,ES | BeIN SPORTS ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2070.ts
+#EXTINF:-1,ES | BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2110.ts
+#EXTINF:-1,ES | CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2055.ts
+#EXTINF:-1,ES | CANAL Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2074.ts
+#EXTINF:-1,ES | CANAL DeCasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2076.ts
+#EXTINF:-1,ES | CANAL_SUR_ANDALUCIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/3040.ts
+#EXTINF:-1,ES | COMEDY Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2054.ts
+#EXTINF:-1,ES | COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2053.ts
+#EXTINF:-1,ES | Crimen & Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2078.ts
+#EXTINF:-1,ES | Cuatro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2024.ts
+#EXTINF:-1,ES | DISNEY Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2113.ts
+#EXTINF:-1,ES | DISNEY Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2111.ts
+#EXTINF:-1,ES | DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2112.ts
+#EXTINF:-1,ES | ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2052.ts
+#EXTINF:-1,ES | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2060.ts
+#EXTINF:-1,ES | FOX Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2059.ts
+#EXTINF:-1,ES | Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2077.ts
+#EXTINF:-1,ES | HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2033.ts
+#EXTINF:-1,ES | MOVISTAR Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2036.ts
+#EXTINF:-1,ES | MOVISTAR Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2035.ts
+#EXTINF:-1,ES | MOVISTAR Dcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2034.ts
+#EXTINF:-1,ES | MOVISTAR Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2072.ts
+#EXTINF:-1,ES | MOVISTAR Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2038.ts
+#EXTINF:-1,ES | MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2066.ts
+#EXTINF:-1,ES | MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2064.ts
+#EXTINF:-1,ES | MOVISTAR MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2065.ts
+#EXTINF:-1,ES | MOVISTAR Portada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2050.ts
+#EXTINF:-1,ES | MOVISTAR Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2062.ts
+#EXTINF:-1,ES | MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2061.ts
+#EXTINF:-1,ES | MOVISTAR TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2051.ts
+#EXTINF:-1,ES | Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2037.ts
+#EXTINF:-1,ES | MOVISTAR_FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2071.ts
+#EXTINF:-1,ES | MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2114.ts
+#EXTINF:-1,ES | Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2079.ts
+#EXTINF:-1,ES | National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2080.ts
+#EXTINF:-1,ES | Neox Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2018.ts
+#EXTINF:-1,ES | Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2019.ts
+#EXTINF:-1,ES | Odisea Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2081.ts
+#EXTINF:-1,ES | PARAMOUNT Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2030.ts
+#EXTINF:-1,ES | REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2068.ts
+#EXTINF:-1,ES | SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2056.ts
+#EXTINF:-1,ES | Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2023.ts
+#EXTINF:-1,ES | Telesur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2017.ts
+#EXTINF:-1,ES | TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2031.ts
+#EXTINF:-1,ES | TVE Clan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2020.ts
+#EXTINF:-1,ES | TVE LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2027.ts
+#EXTINF:-1,ES | TVE_LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2028.ts
+#EXTINF:-1,ES | VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.103.172:8005/live/123454321/123454321/2075.ts
