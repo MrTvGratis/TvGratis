@@ -82,8 +82,7 @@ http://81.40.82.227:9981/stream/channelid/1978333486
 
 #EXTINF:-1 tvg-logo="MOVISTARCOMEDIA.png",MOVISTAR COMEDIA
 http://81.40.82.227:9981/stream/channelid/1605481801
-#EXTINF:-1 tvg-logo="MOVISTARCOMEDIA.png",MOVISTAR COMEDIA HD
-http://5.189.187.55:8000/live/Fadil/skype/2504.m3u8
+
 #EXTINF:-1 tvg-logo="MOVISTARDCINE.png",MOVISTAR DCINE
 http://81.40.82.227:9981/stream/channelid/1206923334
 
@@ -161,16 +160,7 @@ http://81.40.82.227:9981/stream/channelid/1112626486
 
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/8d89decf0c1037dcc312fe30e76564c3",MULTIDEPORTE
 http://86.82.79.91:9420/play/a00j
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b",MULTIDEPORTE 1
-http://81.40.82.227:9981/stream/channelid/2098193574
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031",MULTIDEPORTE 2
-http://81.40.82.227:9981/stream/channelid/324884444
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb",MULTIDEPORTE 3
-http://81.40.82.227:9981/stream/channelid/1795091610
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/4670877170a7fb61e0e9ab0b61f389e6",MULTIDEPORTE 4
-http://81.40.82.227:9981/stream/channelid/141948492
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/9f0f556e31a3e545cc342deff05a038c",MULTIDEPORTE 5
-http://81.40.82.227:9981/stream/channelid/1769181050
+
 #EXTINF:-1 tvg-logo="BEINSPORTSLALIGAMAX3.png",BEIN SPORTS LALIGA MAX 3
 http://81.40.82.227:9981/stream/channelid/633101471
 #EXTINF:-1 tvg-logo="BEINSPORTSLALIGAMAX4.png",BEIN SPORTS LALIGA MAX 4
