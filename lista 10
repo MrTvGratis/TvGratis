@@ -4,283 +4,269 @@
 paypal.me/TvGratiskodi
 
 
-#EXTINF:-1,|| SPAIN ||
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/761.m3u8
-#EXTINF:-1,ES: LA1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/751.m3u8
-#EXTINF:-1,ES: LA2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/752.m3u8
-#EXTINF:-1,ES: MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/744.m3u8
 #EXTINF:-1,ES: #0
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3633.m3u8
-#EXTINF:-1,ES: #0 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2897.m3u8
-#EXTINF:-1,ES: 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2898.m3u8
-#EXTINF:-1,ES: 3/24
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1647.m3u8
-#EXTINF:-1,ES: 8Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3644.m3u8
-#EXTINF:-1,ES: A&E ESPAÑA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/755.m3u8
-#EXTINF:-1,ES: A3SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1654.m3u8
-#EXTINF:-1,ES: ALQUILER 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1646.m3u8
-#EXTINF:-1,ES: ALQUILER 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1642.m3u8
-#EXTINF:-1,ES: ALQUILER 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1643.m3u8
-#EXTINF:-1,ES: ALQUILER 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1644.m3u8
-#EXTINF:-1,ES: ALQUILER 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1645.m3u8
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3651.m3u8
-#EXTINF:-1,ES: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1824.m3u8
-#EXTINF:-1,ES: ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3659.m3u8
-#EXTINF:-1,ES: ANTENA3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/756.m3u8
-#EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3653.m3u8
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/966.m3u8
-#EXTINF:-1,ES: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3652.m3u8
-#EXTINF:-1,ES: AXN White FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1059.m3u8
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3433.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4368.ts
+#EXTINF:-1,ES: #0 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4367.ts
+#EXTINF:-1,ES: 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4333.ts
+#EXTINF:-1,ES: 3/24 CAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4302.ts
+#EXTINF:-1,ES: 33 CAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4301.ts
+#EXTINF:-1,ES: 7 TV Murcia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4332.ts
+#EXTINF:-1,ES: A3series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4331.ts
+#EXTINF:-1,ES: AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4353.ts
+#EXTINF:-1,ES: Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4299.ts
+#EXTINF:-1,ES: Antena 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4330.ts
+#EXTINF:-1,ES: Aragon TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4298.ts
+#EXTINF:-1,ES: AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4366.ts
+#EXTINF:-1,ES: AXN White SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4365.ts
+#EXTINF:-1,ES: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4341.ts
 #EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/971.m3u8
-#EXTINF:-1,ES: BEIN  LALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3549.m3u8
-#EXTINF:-1,ES: BEIN LALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3621.m3u8
-#EXTINF:-1,ES: BEIN MAX 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3604.m3u8
-#EXTINF:-1,ES: BEIN MAX 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3603.m3u8
-#EXTINF:-1,ES: BEIN MAX 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3602.m3u8
-#EXTINF:-1,ES: BEIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3601.m3u8
-#EXTINF:-1,ES: BEIN MAX 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3600.m3u8
-#EXTINF:-1,ES: BEIN MAX 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3599.m3u8
-#EXTINF:-1,ES: BEIN MAX 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3598.m3u8
-#EXTINF:-1,ES: BEIN MAX 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3597.m3u8
-#EXTINF:-1,ES: BEIN SPORT ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/973.m3u8
-#EXTINF:-1,ES: BEIN SPORT ESPAÑA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3620.m3u8
-#EXTINF:-1,ES: BEINLALIGA1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3612.m3u8
-#EXTINF:-1,ES: BEINLALIGA2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3611.m3u8
-#EXTINF:-1,ES: BEINLALIGA3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3610.m3u8
-#EXTINF:-1,ES: BEINLALIGA4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3609.m3u8
-#EXTINF:-1,ES: BEINLALIGA5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3608.m3u8
-#EXTINF:-1,ES: BEINLALIGA6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3607.m3u8
-#EXTINF:-1,ES: BEINLALIGA7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3606.m3u8
-#EXTINF:-1,ES: BEINLALIGA8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3605.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4398.ts
+#EXTINF:-1,ES: Bein Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4070.ts
+#EXTINF:-1,ES: Bein Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4069.ts
+#EXTINF:-1,ES: Bein Sports LaLiga SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4393.ts
+#EXTINF:-1,ES: Bein Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4078.ts
+#EXTINF:-1,ES: Betis TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4392.ts
 #EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2901.m3u8
-#EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3650.m3u8
-#EXTINF:-1,ES: CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/965.m3u8
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1649.m3u8
-#EXTINF:-1,ES: CAZA y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3637.m3u8
-#EXTINF:-1,ES: CI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1047.m3u8
-#EXTINF:-1,ES: CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3434.m3u8
-#EXTINF:-1,ES: CLASSICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1063.m3u8
-#EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3648.m3u8
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/963.m3u8
-#EXTINF:-1,ES: COSMO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1064.m3u8
-#EXTINF:-1,ES:COSMOPOLITAN  FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3641.m3u8
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3658.m3u8
-#EXTINF:-1,ES: CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1130.m3u8
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1828.m3u8
-#EXTINF:-1,ES: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/969.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4329.ts
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4364.ts
+#EXTINF:-1,ES: Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4346.ts
+#EXTINF:-1,ES: Canal Costa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4328.ts
+#EXTINF:-1,ES: Canal De Las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4297.ts
+#EXTINF:-1,ES: Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4340.ts
+#EXTINF:-1,ES: Canal Parlamento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4327.ts
+#EXTINF:-1,ES: Canal Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4296.ts
+#EXTINF:-1,ES: Canal Sur Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4295.ts
+#EXTINF:-1,ES: Canal Sur Turismo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4293.ts
+#EXTINF:-1,ES: Castilla La Mancha Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4292.ts
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4326.ts
+#EXTINF:-1,ES: Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4363.ts
+#EXTINF:-1,ES: Cosmo TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4362.ts
+#EXTINF:-1,ES: Crime & Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4345.ts
+#EXTINF:-1,ES: Cuatro SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4325.ts
+#EXTINF:-1,ES: Dark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4379.ts
+#EXTINF:-1,ES: Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4344.ts
+#EXTINF:-1,ES: Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4352.ts
+#EXTINF:-1,ES: Discovery Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4324.ts
+#EXTINF:-1,ES: Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4339.ts
 #EXTINF:-1,ES: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1061.m3u8
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3435.m3u8
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2903.m3u8
-#EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3429.m3u8
-#EXTINF:-1,ES: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3615.m3u8
-#EXTINF:-1,ES: Eurosport  2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3849.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4338.ts
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4337.ts
+#EXTINF:-1,ES: Divinity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4323.ts
+#EXTINF:-1,ES: Dkiss
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4343.ts
+#EXTINF:-1,ES: DW en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4291.ts
+#EXTINF:-1,ES: El Garaje TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4342.ts
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4322.ts
+#EXTINF:-1,ES: Esport 3 CAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4391.ts
+#EXTINF:-1,ES: ETB Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4290.ts
+#EXTINF:-1,ES: Euro Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4068.ts
+#EXTINF:-1,ES: Euro Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4067.ts
+#EXTINF:-1,ES: Euronews HD en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4289.ts
+#EXTINF:-1,ES: Eurosport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4385.ts
+#EXTINF:-1,ES: Extremadura TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4288.ts
 #EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3430.m3u8
-#EXTINF:-1,ES: MOVISTAR  F1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3613.m3u8
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3655.m3u8
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/960.m3u8
-#EXTINF:-1,ES: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3654.m3u8
-#EXTINF:-1,ES: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1051.m3u8
-#EXTINF:-1,ES: GOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1655.m3u8
-#EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/968.m3u8
-#EXTINF:-1,ES: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3647.m3u8
-#EXTINF:-1,ES: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3634.m3u8
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3660.m3u8
-#EXTINF:-1,ES: LA LIGA 123
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3584.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4321.ts
+#EXTINF:-1,ES: Fox Life SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4360.ts
+#EXTINF:-1,ES: Fox SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4361.ts
+#EXTINF:-1,ES: Galicia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4287.ts
+#EXTINF:-1,ES: Gol SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4320.ts
+#EXTINF:-1,ES: Granada Channel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4319.ts
+#EXTINF:-1,ES: Hispan TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4286.ts
+#EXTINF:-1,ES: Historia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4351.ts
+#EXTINF:-1,ES: Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4378.ts
+#EXTINF:-1,ES: IB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4285.ts
+#EXTINF:-1,ES: Iberalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4395.ts
+#EXTINF:-1,ES: LA 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4317.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4316.ts
+#EXTINF:-1,ES: La 8 Mediterráneo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4284.ts
 #EXTINF:-1,ES: La Liga BAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1046.m3u8
-#EXTINF:-1,ES: LALIGATV BAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3619.m3u8
-#EXTINF:-1,ES: M  Estrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/970.m3u8
-#EXTINF:-1,ES: M accion FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/747.m3u8
-#EXTINF:-1,ES: M Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/742.m3u8
-#EXTINF:-1,ES: M DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3629.m3u8
-#EXTINF:-1,ES: M DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/746.m3u8
-#EXTINF:-1,ES: M Deportes 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/867.m3u8
-#EXTINF:-1,ES: MOVISTAR DEPORTE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3617.m3u8
-#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3632.m3u8
-#EXTINF:-1,ES: M Futboll FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/869.m3u8
-#EXTINF:-1,ES: M GOLF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1057.m3u8
-#EXTINF:-1,ES: MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3616.m3u8
-#EXTINF:-1,ES: M MOTOGP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2767.m3u8
-#EXTINF:-1,ES: M Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/749.m3u8
-#EXTINF:-1,ES: M SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3627.m3u8
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3626.m3u8
-#EXTINF:-1,ES: M XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1056.m3u8
-#EXTINF:-1,ES:MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3628.m3u8
-#EXTINF:-1,ES: M. ACCION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3631.m3u8
-#EXTINF:-1,ES: M. DCINE  Ñ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2904.m3u8
-#EXTINF:-1,ES: M. ESPORT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3581.m3u8
-#EXTINF:-1,ES: M. FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3622.m3u8
-#EXTINF:-1,ES: M. MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3614.m3u8
-#EXTINF:-1,ES: M.Partidazo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3623.m3u8
-#EXTINF:-1,ES: M.Partidazo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3548.m3u8
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1060.m3u8
-#EXTINF:-1,ES: MEZZO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3636.m3u8
-#EXTINF:-1,ES: MULTIDEP.1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3595.m3u8
-#EXTINF:-1,ES: MULTIDEP.2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3594.m3u8
-#EXTINF:-1,ES: MULTIDEP.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3593.m3u8
-#EXTINF:-1,ES: MULTIDEP.4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3592.m3u8
-#EXTINF:-1,ES: MULTIFUT. 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3591.m3u8
-#EXTINF:-1,ES: MULTIFUT. 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3590.m3u8
-#EXTINF:-1,ES: MULTIFUT. 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3589.m3u8
-#EXTINF:-1,ES: NAG GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3638.m3u8
-#EXTINF:-1,ES: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1050.m3u8
-#EXTINF:-1,ES: NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1367.m3u8
-#EXTINF:-1,ES: National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3639.m3u8
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1653.m3u8
-#EXTINF:-1,ES: Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3437.m3u8
-#EXTINF:-1,ES: Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3436.m3u8
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1055.m3u8
-#EXTINF:-1,ES: ODISEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1827.m3u8
-#EXTINF:-1,ES: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/758.m3u8
-#EXTINF:-1,ES: RADIO 105  TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3837.m3u8
-#EXTINF:-1,ES: RADIO MONTE  CARLO TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3838.m3u8
-#EXTINF:-1,ES: REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2906.m3u8
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3649.m3u8
-#EXTINF:-1,ES: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/962.m3u8
-#EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1048.m3u8
-#EXTINF:-1,ES: TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3646.m3u8
-#EXTINF:-1,ES: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3657.m3u8
-#EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1131.m3u8
-#EXTINF:-1,ES: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1650.m3u8
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1825.m3u8
-#EXTINF:-1,ES: TOROS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3624.m3u8
-#EXTINF:-1,ES: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/753.m3u8
-#EXTINF:-1,ES: VIAJAR FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3640.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4066.ts
+#EXTINF:-1,ES: La Liga TV BAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4390.ts
+#EXTINF:-1,ES: La Otra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4283.ts
+#EXTINF:-1,ES: LaLiga 123 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4065.ts
+#EXTINF:-1,ES: Lancelot TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4282.ts
+#EXTINF:-1,ES: Levante TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4281.ts
+#EXTINF:-1,ES: Libertad Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4314.ts
+#EXTINF:-1,ES: Mega SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4312.ts
+#EXTINF:-1,ES: Mezzo Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4275.ts
+#EXTINF:-1,ES: Movistar Accion SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4377.ts
+#EXTINF:-1,ES: Movistar Cine N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4376.ts
+#EXTINF:-1,ES: Movistar Comedia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4375.ts
+#EXTINF:-1,ES: Movistar Dcine SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4374.ts
+#EXTINF:-1,ES: Movistar Deportes 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4384.ts
+#EXTINF:-1,ES: Movistar Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4064.ts
+#EXTINF:-1,ES: Movistar Deportes 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4383.ts
+#EXTINF:-1,ES: Movistar Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4373.ts
+#EXTINF:-1,ES: Movistar Estrenos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4372.ts
+#EXTINF:-1,ES: Movistar Formula 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4382.ts
+#EXTINF:-1,ES: Movistar Futbol SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4389.ts
+#EXTINF:-1,ES: Movistar Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4381.ts
+#EXTINF:-1,ES: Movistar Moto GP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4380.ts
+#EXTINF:-1,ES: Movistar Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4359.ts
+#EXTINF:-1,ES: Movistar Series Xtra SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4358.ts
+#EXTINF:-1,ES: Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4371.ts
+#EXTINF:-1,ES: Movistar Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4063.ts
+#EXTINF:-1,ES: Movistar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4062.ts
+#EXTINF:-1,ES: Movistar Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4061.ts
+#EXTINF:-1,ES: Movistar Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4060.ts
+#EXTINF:-1,ES: Movistar Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4059.ts
+#EXTINF:-1,ES: MTV Espana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4357.ts
+#EXTINF:-1,ES: Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4350.ts
+#EXTINF:-1,ES: National Geoghraphic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4349.ts
+#EXTINF:-1,ES: Neox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4311.ts
+#EXTINF:-1,ES: Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4336.ts
+#EXTINF:-1,ES: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4335.ts
+#EXTINF:-1,ES: Nonstopeople
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4356.ts
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4310.ts
+#EXTINF:-1,ES: Odisea SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4348.ts
+#EXTINF:-1,ES: Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4309.ts
+#EXTINF:-1,ES: Real Madrid SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4388.ts
+#EXTINF:-1,ES: Real Madrid TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4057.ts
+#EXTINF:-1,ES: RT HD en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4279.ts
+#EXTINF:-1,ES: Sevilla FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4387.ts
+#EXTINF:-1,ES: Sundance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4370.ts
+#EXTINF:-1,ES: Super3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4334.ts
+#EXTINF:-1,ES: SyFy SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4355.ts
+#EXTINF:-1,ES: TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4369.ts
+#EXTINF:-1,ES: Telecinco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4308.ts
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4307.ts
+#EXTINF:-1,ES: TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4056.ts
+#EXTINF:-1,ES: Teledeporte SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4306.ts
+#EXTINF:-1,ES: TeleMadrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4278.ts
+#EXTINF:-1,ES: TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4305.ts
+#EXTINF:-1,ES: TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4354.ts
+#EXTINF:-1,ES: Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4394.ts
+#EXTINF:-1,ES: TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4055.ts
+#EXTINF:-1,ES: Trece
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4304.ts
+#EXTINF:-1,ES: TV Canaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4303.ts
+#EXTINF:-1,ES: TV3. CAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4277.ts
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4273.ts
+#EXTINF:-1,ES: VH1 Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4272.ts
+#EXTINF:-1,ES: Viajar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4347.ts
 #EXTINF:-1,ES: XTRM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3432.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4276.ts
