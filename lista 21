@@ -97,50 +97,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGra
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2942.m3u8
 #EXTINF:-1,beIN LALIGA ES
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/1410.m3u8
-#EXTINF:-1,beIN LaLiga 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2957.m3u8
-#EXTINF:-1,beIN LALIGA 1 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2959.m3u8
-#EXTINF:-1,beIN LALIGA 2 HD ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2958.m3u8
-#EXTINF:-1,beIN LALIGA 2 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2960.m3u8
-#EXTINF:-1,beIN LALIGA 3 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2961.m3u8
-#EXTINF:-1,beIN LALIGA 4 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2962.m3u8
-#EXTINF:-1,beIN LALIGA 5 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2963.m3u8
-#EXTINF:-1,beIN LALIGA 6 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2964.m3u8
-#EXTINF:-1,beIN LALIGA 7 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2965.m3u8
-#EXTINF:-1,beIN LALIGA 8 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2966.m3u8
-#EXTINF:-1,beIN SPORTS HD ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2944.m3u8
-#EXTINF:-1,beIN SPORTS ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2213.m3u8
-#EXTINF:-1,beIN MAX 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2945.m3u8
-#EXTINF:-1,beIN MAX 1 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2947.m3u8
-#EXTINF:-1,beIN MAX 2 HD ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2948.m3u8
-#EXTINF:-1,beIN MAX 2 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2950.m3u8
-#EXTINF:-1,beIN MAX 3 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2951.m3u8
-#EXTINF:-1,beIN MAX 4 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2952.m3u8
-#EXTINF:-1,beIN MAX 5 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2953.m3u8
-#EXTINF:-1,beIN MAX 6 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2954.m3u8
-#EXTINF:-1,beIN MAX 7 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2955.m3u8
-#EXTINF:-1,beIN MAX 8 ES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/2956.m3u8
+
 #EXTINF:-1,EUROSPORT1 HD ES
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://topiptv.net:5890/live/fathi/fathi1/3103.m3u8
 #EXTINF:-1,EUROSPORT1 ES
