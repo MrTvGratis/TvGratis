@@ -1,1 +1,156 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/TvGratiskodi[/COLOR]
+http://paypal.me/TvGratiskodi
+#EXTINF:-1,ES: #O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9114.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8036.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8037.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8001.ts
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8017.ts
+#EXTINF:-1,ES: CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8018.ts
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8066.ts
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8067.ts
+#EXTINF:-1,ES: CLAN  TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8013.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8062.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8595.ts
+#EXTINF:-1,ES: 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7997.ts
+#EXTINF:-1,ES: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8030.ts
+#EXTINF:-1,ES: M. ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8048.ts
+#EXTINF:-1,ES: M. XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8054.ts
+#EXTINF:-1,ES: M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8042.ts
+#EXTINF:-1,ES: M. ACCIÂ©N HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8041.ts
+#EXTINF:-1,ES: M. COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8044.ts
+#EXTINF:-1,ES: M. DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8045.ts
+#EXTINF:-1,ES: M. DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8046.ts
+#EXTINF:-1,ES: M. Cine Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8043.ts
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8033.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8034.ts
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8065.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8069.ts
+#EXTINF:-1,ES: M. SERIESXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8053.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8027.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8028.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8029.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7998.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7999.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8000.ts
+#EXTINF:-1,ESP: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8072.ts
+#EXTINF:-1,ES: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8002.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8064.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8008.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8014.ts
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8015.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8026.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8023.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8024.ts
+#EXTINF:-1,ES: LTC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8071.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8061.ts
+#EXTINF:-1,ES: M. DEP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8047.ts
+#EXTINF:-1,ES: M. F.TBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8049.ts
+#EXTINF:-1,ES: M. F.TBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8050.ts
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8068.ts
+#EXTINF:-1,ES: BAR.A TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8004.ts
+#EXTINF:-1,ES: BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8005.ts
+#EXTINF:-1,ES: BEIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8006.ts
+#EXTINF:-1,ES: GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8031.ts
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8025.ts
+#EXTINF:-1,ES: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8594.ts
+#EXTINF:-1,ES: M.FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8055.ts
+#EXTINF:-1,ES: M.FORMULA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8056.ts
+#EXTINF:-1,ES: M. MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8052.ts
+#EXTINF:-1,ES: M.MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8057.ts
+#EXTINF:-1,ES: M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8051.ts
+#EXTINF:-1,ES: Movistar Partidazo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9115.ts
+#EXTINF:-1,ES: CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8011.ts
+#EXTINF:-1,ES: NAT GEOGRAPH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8060.ts
+#EXTINF:-1,ES: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8059.ts
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8019.ts
+#EXTINF:-1,ES: CRIMEN INVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8016.ts
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8032.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8012.ts
+#EXTINF:-1,ES: IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8035.ts
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8070.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8009.ts
+#EXTINF:-1,ES: CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8010.ts
+#EXTINF:-1,ES: MTV ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8058.ts
+#EXTINF:-1,ES: DISNEY CH.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8020.ts
+#EXTINF:-1,ES: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8021.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8022.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8007.ts
+#EXTINF:-1,ES: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8003.ts
