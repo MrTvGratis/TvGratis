@@ -1,591 +1,412 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 
-#EXTINF:-1,•●★--- ES Fútbol ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/5632.ts
-#EXTINF:-1,ES:  M Liga de Campeones HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3176.ts
-#EXTINF:-1,ES: M Liga de Campeones HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3763.ts
-#EXTINF:-1,ES: M Liga de Campeones SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4265.ts
-#EXTINF:-1,ES: Bein Sports Max 1 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3767.ts
-#EXTINF:-1,ES: Bein Sports Max 1 HD (720P) (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4359.ts
-#EXTINF:-1,ES: Bein Sports Max 2 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3768.ts
-#EXTINF:-1,ES: Bein Sports Max 2 HD (720P) (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4360.ts
-#EXTINF:-1,ES: Bein Sports Max 3 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3769.ts
-#EXTINF:-1,ES: Bein Sports Max 4 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3770.ts
-#EXTINF:-1,ES: Bein Sports Max 5 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3771.ts
-#EXTINF:-1,ES: Bein Sports Max 6 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3772.ts
-#EXTINF:-1,ES: Bein Sports Max 7 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3773.ts
-#EXTINF:-1,ES: Bein Sports Max 8 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3774.ts
-#EXTINF:-1,ES: Bein Sports LaLiga HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3175.ts
-#EXTINF:-1,ES: Bein Sports LaLiga HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3617.ts
-#EXTINF:-1,ES: Bein Sports LaLiga SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4393.ts
-#EXTINF:-1,ES: Bein LaLiga Max 1 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3182.ts
-#EXTINF:-1,ES: Bein LaLiga Max 1 HD (720P) (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4394.ts
-#EXTINF:-1,ES: Bein LaLiga Max 1 SD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4395.ts
-#EXTINF:-1,ES: Bein LaLiga Max 2 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4408.ts
-#EXTINF:-1,ES: Bein LaLiga Max 2 HD (720P) (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4409.ts
-#EXTINF:-1,ES: Bein LaLiga Max 3 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4410.ts
-#EXTINF:-1,ES: Bein LaLiga Max 4 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4411.ts
-#EXTINF:-1,ES: Bein LaLiga Max 5 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4412.ts
-#EXTINF:-1,ES: Bein LaLiga Max 6 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4413.ts
-#EXTINF:-1,ES: LaLiga 1|2|3 TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7398.ts
-#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6623.ts
-#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11588.ts
-#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11589.ts
-#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11590.ts
-#EXTINF:-1,ES: Movistar+ Partidazo HD 1080P (LIVE DURING MATCH)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3344.ts
-#EXTINF:-1,ES: Movistar+ Partidazo HD 720P (LIVE DURING MATCH)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3608.ts
-#EXTINF:-1,ES: Movistar+ Partidazo SD (LIVE DURING MATCH)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4375.ts
-#EXTINF:-1,ES: Movistar+ Futbol HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3084.ts
-#EXTINF:-1,ES: Movistar+ Futbol HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4374.ts
-#EXTINF:-1,ES: Movistar+ Futbol SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3622.ts
-#EXTINF:-1,ES: Multifutbol 1 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3782.ts
-#EXTINF:-1,ES: Multifutbol 2 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3783.ts
-#EXTINF:-1,ES: Multifutbol 3 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3784.ts
-#EXTINF:-1,ES: Multifutbol 4 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3785.ts
-#EXTINF:-1,ES: La Liga TV BAR HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3351.ts
-#EXTINF:-1,ES: La Liga TV BAR HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6911.ts
-#EXTINF:-1,ES: La Liga TV BAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4254.ts
-#EXTINF:-1,ES: Real Madrid HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3759.ts
-#EXTINF:-1,ES: Real Madrid HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4381.ts
-#EXTINF:-1,ES: Real Madrid SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3186.ts
-#EXTINF:-1,ES: Sevilla FC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3636.ts
-#EXTINF:-1,ES: Betis TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4340.ts
-#EXTINF:-1,ES: Esport 3 CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b1296000.m3u8
-#EXTINF:-1,•●★--- ES Movistar+ Deportes ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6942.ts
-#EXTINF:-1,ES: Movistar+ Formula 1 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3181.ts
-#EXTINF:-1,ES: Movistar+ Formula 1 HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3760.ts
-#EXTINF:-1,ES: Movistar+ Formula 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4367.ts
-#EXTINF:-1,ES: Movistar+ Moto GP HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3180.ts
-#EXTINF:-1,ES: Movistar+ Moto GP HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4368.ts
-#EXTINF:-1,ES: Movistar+ Moto GP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3615.ts
-#EXTINF:-1,ES: Movistar+ Golf HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3082.ts
-#EXTINF:-1,ES: Movistar+ Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3624.ts
-#EXTINF:-1,ES: Movistar+ Deportes 1 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3083.ts
-#EXTINF:-1,ES: Movistar+ Deportes 1 HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4371.ts
-#EXTINF:-1,ES: Movistar+ Deportes 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3623.ts
-#EXTINF:-1,ES: Movistar+ Deportes 2 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3335.ts
-#EXTINF:-1,ES: Movistar+ Deportes 2 HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3607.ts
-#EXTINF:-1,ES: Movistar+ Deportes 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4372.ts
-#EXTINF:-1,ES: Movistar+ eSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6624.ts
-#EXTINF:-1,ES: Multideporte 1 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3777.ts
-#EXTINF:-1,ES: Multideporte 2 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3778.ts
-#EXTINF:-1,ES: Multideporte 3 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3779.ts
-#EXTINF:-1,ES: Multideporte 4 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3780.ts
-#EXTINF:-1,ES: Multideporte 5 (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3781.ts
-#EXTINF:-1,ES: Eurosport 1 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3250.ts
-#EXTINF:-1,ES: Eurosport 1 HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4330.ts
-#EXTINF:-1,ES: Eurosport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4652.ts
-#EXTINF:-1,ES: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6626.ts
-#EXTINF:-1,ES: Eurosport 2 HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3345.ts
-#EXTINF:-1,•●★--- ES Movistar+ Cine ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6933.ts
-#EXTINF:-1,ES: Movistar+ Accion HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3090.ts
-#EXTINF:-1,ES: Movistar+ Accion HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3618.ts
-#EXTINF:-1,ES: Movistar+ Accion SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4369.ts
-#EXTINF:-1,ES: Movistar+ Comedia HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3177.ts
-#EXTINF:-1,ES: Movistar+ Comedia HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3762.ts
-#EXTINF:-1,ES: Movistar+ Comedia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4370.ts
-#EXTINF:-1,ES: Movistar+ Estrenos HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3089.ts
-#EXTINF:-1,ES: Movistar+ Estrenos HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3619.ts
-#EXTINF:-1,ES: Movistar+ Estrenos SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4373.ts
-#EXTINF:-1,ES: Movistar+ Dcine HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3188.ts
-#EXTINF:-1,ES: Movistar+ Dcine HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6634.ts
-#EXTINF:-1,ES: Movistar+ Dcine SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3404.ts
-#EXTINF:-1,ES: Movistar+ Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/15280.ts
-#EXTINF:-1,ES: Movistar+ Xtra HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3349.ts
-#EXTINF:-1,ES: Movistar+ Xtra HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6629.ts
-#EXTINF:-1,ES: Movistar+ Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4169.ts
-#EXTINF:-1,ES: Movistar+ Cine N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3786.ts
-#EXTINF:-1,ES: Dark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6628.ts
-#EXTINF:-1,ES: TCM HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3086.ts
-#EXTINF:-1,ES: TCM HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4384.ts
-#EXTINF:-1,ES: TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3621.ts
-#EXTINF:-1,ES: Hollywood HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3088.ts
-#EXTINF:-1,ES: Hollywood HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3620.ts
-#EXTINF:-1,ES: Sundance TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4024.ts
-#EXTINF:-1,•●★--- ES Movistar+ Series ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6934.ts
-#EXTINF:-1,ES: Movistar+ Series HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3248.ts
-#EXTINF:-1,ES: Movistar+ Series HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4376.ts
-#EXTINF:-1,ES: Movistar+ Series SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3611.ts
-#EXTINF:-1,ES: Movistar+ Series Xtra HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3350.ts
-#EXTINF:-1,ES: Movistar+ Series Xtra HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4170.ts
-#EXTINF:-1,ES: Movistar+ Series Xtra SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4377.ts
-#EXTINF:-1,ES: #0 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3758.ts
-#EXTINF:-1,ES: #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3272.ts
-#EXTINF:-1,ES: #0 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4595.ts
-#EXTINF:-1,ES: Calle 13 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3078.ts
-#EXTINF:-1,ES: Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3627.ts
-#EXTINF:-1,ES: Cosmo TV HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3347.ts
-#EXTINF:-1,ES: Cosmo TV HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4362.ts
-#EXTINF:-1,ES: Cosmo TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3752.ts
-#EXTINF:-1,ES: AMC HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3179.ts
-#EXTINF:-1,ES: AMC HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3761.ts
-#EXTINF:-1,ES: AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/17932.ts
-#EXTINF:-1,ES: Fox HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3076.ts
-#EXTINF:-1,ES: Fox HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3628.ts
-#EXTINF:-1,ES: Fox SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4662.ts
-#EXTINF:-1,ES: Fox Life HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3187.ts
-#EXTINF:-1,ES: Fox Life HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4364.ts
-#EXTINF:-1,ES: Fox Life SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3614.ts
-#EXTINF:-1,ES: AXN HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3081.ts
-#EXTINF:-1,ES: AXN HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3625.ts
-#EXTINF:-1,ES: AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4661.ts
-#EXTINF:-1,ES: AXN White HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3079.ts
-#EXTINF:-1,ES: AXN White HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4358.ts
-#EXTINF:-1,ES: AXN White SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3626.ts
-#EXTINF:-1,ES: TNT HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3336.ts
-#EXTINF:-1,ES: TNT HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4387.ts
-#EXTINF:-1,ES: TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3606.ts
-#EXTINF:-1,ES: SyFy HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3337.ts
-#EXTINF:-1,ES: SYFY HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4383.ts
-#EXTINF:-1,ES: SyFy SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3753.ts
-#EXTINF:-1,ES: Comedy Central HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3275.ts
-#EXTINF:-1,ES: Comedy Central HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4361.ts
-#EXTINF:-1,ES: Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3609.ts
-#EXTINF:-1,ES: Nonstopeople
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4270.ts
-#EXTINF:-1,ES: MTV Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3342.ts
-#EXTINF:-1,•●★--- ES Documentales ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6941.ts
-#EXTINF:-1,ES: National Geoghraphic HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3243.ts
-#EXTINF:-1,ES: National Geoghraphic HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4379.ts
-#EXTINF:-1,ES: National Geoghraphic SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3613.ts
-#EXTINF:-1,ES: Nat Geo Wild HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3244.ts
-#EXTINF:-1,ES: Nat Geo Wild HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3612.ts
-#EXTINF:-1,ES: Nat Geo Wild SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4378.ts
-#EXTINF:-1,ES: Discovery Channel HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3346.ts
-#EXTINF:-1,ES: Discovery Channel (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4267.ts
-#EXTINF:-1,ES: Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4392.ts
-#EXTINF:-1,ES: Odisea HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4335.ts
-#EXTINF:-1,ES: Odisea HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4380.ts
-#EXTINF:-1,ES: Odisea SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3271.ts
-#EXTINF:-1,ES: Historia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4032.ts
-#EXTINF:-1,ES: Historia HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3273.ts
-#EXTINF:-1,ES: Viajar HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3085.ts
-#EXTINF:-1,ES: Viajar HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3764.ts
-#EXTINF:-1,ES: Viajar SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4388.ts
-#EXTINF:-1,ES: AE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3353.ts
-#EXTINF:-1,•●★--- ES Estilo de Vida ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6940.ts
-#EXTINF:-1,ES: Crime & Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3638.ts
-#EXTINF:-1,ES: Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3639.ts
-#EXTINF:-1,ES: Dkiss
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4047.ts
-#EXTINF:-1,ES: El Garaje TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6627.ts
-#EXTINF:-1,ES: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4023.ts
-#EXTINF:-1,•●★--- ES Infantil ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6939.ts
-#EXTINF:-1,ES: Nickelodeon HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3245.ts
-#EXTINF:-1,ES: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4332.ts
-#EXTINF:-1,ES: Nick JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3340.ts
-#EXTINF:-1,ES: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3247.ts
-#EXTINF:-1,ES: Disney Channel HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4266.ts
-#EXTINF:-1,ES: Disney Channel HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4363.ts
-#EXTINF:-1,ES: Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3246.ts
-#EXTINF:-1,ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3274.ts
-#EXTINF:-1,ES: Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3642.ts
-#EXTINF:-1,ES: Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4255.ts
-#EXTINF:-1,ES: Super3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b1296000.m3u8
-#EXTINF:-1,•●★--- ES TDT ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6935.ts
-#EXTINF:-1,ES: LA 1  HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3178.ts
-#EXTINF:-1,ES: LA 1 HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3616.ts
-#EXTINF:-1,ES: LA 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6633.ts
-#EXTINF:-1,ES: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3071.ts
-#EXTINF:-1,ES: La Sexta HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3074.ts
-#EXTINF:-1,ES: La Sexta HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6632.ts
-#EXTINF:-1,ES: La Sexta SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3629.ts
-#EXTINF:-1,ES: Telecinco HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3073.ts
-#EXTINF:-1,ES: Telecinco HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4385.ts
-#EXTINF:-1,ES: Telecinco SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3630.ts
-#EXTINF:-1,ES: Cuatro HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3072.ts
-#EXTINF:-1,ES: Cuatro HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3765.ts
-#EXTINF:-1,ES: Cuatro SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/17457.ts
-#EXTINF:-1,ES: Antena 3 HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3257.ts
-#EXTINF:-1,ES: Antena 3 HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4357.ts
-#EXTINF:-1,ES: Antena 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3610.ts
-#EXTINF:-1,ES: Gol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6625.ts
-#EXTINF:-1,ES: Gol HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/2204.ts
-#EXTINF:-1,ES: Gol SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4365.ts
-#EXTINF:-1,ES: Teledeporte HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4386.ts
-#EXTINF:-1,ES: Teledeporte HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4253.ts
-#EXTINF:-1,ES: Teledeporte SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3184.ts
-#EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3338.ts
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3352.ts
-#EXTINF:-1,ES: Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3403.ts
-#EXTINF:-1,ES: Mega HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3631.ts
-#EXTINF:-1,ES: Mega HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4366.ts
-#EXTINF:-1,ES: Mega SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11600.ts
-#EXTINF:-1,ES: A3series HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/5578.ts
-#EXTINF:-1,ES: Nova (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/18690.ts
-#EXTINF:-1,ES: Nova (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11916.ts
-#EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3339.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3637.ts
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3641.ts
-#EXTINF:-1,ES: Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3640.ts
-#EXTINF:-1,ES: BeMad TV HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3633.ts
-#EXTINF:-1,ES: BeMad TV HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11911.ts
-#EXTINF:-1,ES: Neox HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/18689.ts
-#EXTINF:-1,ES: Neox HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/17456.ts
-#EXTINF:-1,ES: Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3341.ts
-#EXTINF:-1,ES: TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4337.ts
-#EXTINF:-1,ES: Televisa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3075.ts
-#EXTINF:-1,ES: intereconomia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3789.ts
-#EXTINF:-1,ES: Discovery Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3775.ts
-#EXTINF:-1,ES: 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3795.ts
-#EXTINF:-1,ES: Telesur HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4531.ts
-#EXTINF:-1,ES: LTC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4389.ts
-#EXTINF:-1,ES: Libertad Digital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11599.ts
-#EXTINF:-1,ES: Trece
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11595.ts
-#EXTINF:-1,ES: Canal Costa TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11596.ts
-#EXTINF:-1,ES: 7 TV Murcia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11908.ts
-#EXTINF:-1,ES: Asturias 7 RTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/18895.ts
-#EXTINF:-1,ES: Canal Parlamento
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11909.ts
-#EXTINF:-1,ES: TV Canaria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11917.ts
-#EXTINF:-1,•●★--- ES Autonómicas ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6936.ts
-#EXTINF:-1,ES: TV3. CAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3080.ts
-#EXTINF:-1,ES: XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/5576.ts
-#EXTINF:-1,ES: 8TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/5575.ts
-#EXTINF:-1,ES: 3/24 CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/5577.ts
-#EXTINF:-1,ES: IB3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3790.ts
-#EXTINF:-1,ES: 33 CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3634.ts
-#EXTINF:-1,ES: Euronews HD en Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11910.ts
-#EXTINF:-1,ES: DW en Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11915.ts
-#EXTINF:-1,ES: RT HD en Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11912.ts
-#EXTINF:-1,ES: Hispan TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11913.ts
-#EXTINF:-1,ES: ETB 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4338.ts
-#EXTINF:-1,ES: ETB 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/19927.ts
-#EXTINF:-1,ES: ETB Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/19928.ts
-#EXTINF:-1,ES: Levante TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6640.ts
-#EXTINF:-1,ES: Canal Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6641.ts
-#EXTINF:-1,ES: Canal Sur Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/16819.ts
-#EXTINF:-1,ES: Canal Sur Turismo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/16820.ts
-#EXTINF:-1,ES: Canal Sur Flamenco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/17581.ts
-#EXTINF:-1,ES: Canal Sur La Banda TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/12001.ts
-#EXTINF:-1,ES: Galicia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3077.ts
-#EXTINF:-1,ES: Extremadura TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3406.ts
-#EXTINF:-1,ES: Aragon TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3343.ts
-#EXTINF:-1,ES: Castilla La Mancha Media
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3797.ts
-#EXTINF:-1,ES: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6635.ts
-#EXTINF:-1,ES: Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3258.ts
-#EXTINF:-1,ES: Onda Cádiz TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4342.ts
-#EXTINF:-1,ES: Lancelot TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4391.ts
-#EXTINF:-1,ES: La 8 Mediterráneo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11593.ts
-#EXTINF:-1,ES: La Otra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11598.ts
-#EXTINF:-1,ES: TeleMadrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/11597.ts
-#EXTINF:-1,•●★--- ES Música ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6938.ts
-#EXTINF:-1,ES: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3270.ts
-#EXTINF:-1,ES: VH1 Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6630.ts
-#EXTINF:-1,ES: Hit TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/17582.ts
-#EXTINF:-1,ES: Mezzo Live HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3788.ts
-#EXTINF:-1,ES: Mezzo Live HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4269.ts
-#EXTINF:-1,•●★--- ES Canales a la carta ----★●•
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6937.ts
+#EXTINF:-1,------- Spanish ---------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1072.m3u8
+#EXTINF:-1,ES: Canal+ Liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1022.m3u8
+#EXTINF:-1,ES: Canal+ Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1012.m3u8
+#EXTINF:-1,ES: Canal+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2590.m3u8
+#EXTINF:-1,ES: Canal+ Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1020.m3u8
+#EXTINF:-1,ES: Canal+ Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1019.m3u8
+#EXTINF:-1,ES: Canal+ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1016.m3u8
+#EXTINF:-1,ES: Canal+ Action
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1030.m3u8
+#EXTINF:-1,ES: Canal+ Dcine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1028.m3u8
+#EXTINF:-1,ES: Canal+ Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1031.m3u8
+#EXTINF:-1,ES: Canal+ Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1059.m3u8
+#EXTINF:-1,ES: Canal+ de las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1048.m3u8
+#EXTINF:-1,ES: Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1058.m3u8
+#EXTINF:-1,ES: Canal+ Serie Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1004.m3u8
+#EXTINF:-1,ES: Canal+ Cuatro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1026.m3u8
+#EXTINF:-1,ES: Canal+ Cine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1033.m3u8
+#EXTINF:-1,ES: Canal+ Cocina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1024.m3u8
+#EXTINF:-1,ES: Canal+ AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1054.m3u8
+#EXTINF:-1,ES: Canal+ Toros
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1049.m3u8
+#EXTINF:-1,ES: Cine latino
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1002.m3u8
+#EXTINF:-1,ES: Canal+ Nova
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1034.m3u8
+#EXTINF:-1,ES: Canal+ Fox HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1029.m3u8
+#EXTINF:-1,ES: ECOTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1047.m3u8
+#EXTINF:-1,ES: Canal Logos TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1041.m3u8
+#EXTINF:-1,ES: Canal+ Divinity
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1039.m3u8
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1046.m3u8
+#EXTINF:-1,ES: Bein Sport ES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1003.m3u8
+#EXTINF:-1,ES: Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1037.m3u8
 #EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3242.ts
-#EXTINF:-1,ES: Caza y Pesca HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3348.ts
-#EXTINF:-1,ES: Caza y Pesca HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4406.ts
-#EXTINF:-1,ES: Toros HD (1080P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3183.ts
-#EXTINF:-1,ES: Toros HD (720P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/6636.ts
-#EXTINF:-1,ES: Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4268.ts
-#EXTINF:-1,ES: Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/3791.ts
-#EXTINF:-1,ES: Classica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/4331.ts
-#EXTINF:-1,ES: Taquilla 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7577.ts
-#EXTINF:-1,ES: Taquilla 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7589.ts
-#EXTINF:-1,ES: Taquilla 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7578.ts
-#EXTINF:-1,ES: Taquilla 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7579.ts
-#EXTINF:-1,ES: Taquilla 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7580.ts
-#EXTINF:-1,ES: Taquilla 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7581.ts
-#EXTINF:-1,ES: Taquilla 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7582.ts
-#EXTINF:-1,ES: Taquilla 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7583.ts
-#EXTINF:-1,ES: Taquilla 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7584.ts
-#EXTINF:-1,ES: Taquilla 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7585.ts
-#EXTINF:-1,ES: Taquilla 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7586.ts
-#EXTINF:-1,ES: Taquilla 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7587.ts
-#EXTINF:-1,ES: Taquilla 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://biloiptv.eu.com:8000/live/luna/luna/7588.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1021.m3u8
+#EXTINF:-1,ES: Movis Star Moto Gp
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1011.m3u8
+#EXTINF:-1,ES: Movi Star F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1010.m3u8
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1042.m3u8
+#EXTINF:-1,ES: Win Sport
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1050.m3u8
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1045.m3u8
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1014.m3u8
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1013.m3u8
+#EXTINF:-1,ES: Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1015.m3u8
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1025.m3u8
+#EXTINF:-1,ES: TV3 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2591.m3u8
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2589.m3u8
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2588.m3u8
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2585.m3u8
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2586.m3u8
+#EXTINF:-1,ES: Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2587.m3u8
+#EXTINF:-1,ES: VTV +  (URU)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1053.m3u8
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1056.m3u8
+#EXTINF:-1,ES: 324 Entertainment
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1005.m3u8
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1060.m3u8
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1036.m3u8
+#EXTINF:-1,ES: Axn White HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1023.m3u8
+#EXTINF:-1,ES: History
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1051.m3u8
+#EXTINF:-1,ES: CALLE13 Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1009.m3u8
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/999.m3u8
+#EXTINF:-1,ES: Plaze tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1001.m3u8
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1007.m3u8
+#EXTINF:-1,ES: Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1027.m3u8
+#EXTINF:-1,ES: Viajar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1043.m3u8
+#EXTINF:-1,ES: Teleticino
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1008.m3u8
+#EXTINF:-1,ES: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1057.m3u8
+#EXTINF:-1,ES: National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1055.m3u8
+#EXTINF:-1,ES: Disney Chaneel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1040.m3u8
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1038.m3u8
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1032.m3u8
+#EXTINF:-1,ES: TVN Chile HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1006.m3u8
+#EXTINF:-1,----------Latino----------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2701.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 1 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2680.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 2 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2681.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 3 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2682.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 4 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2683.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 5 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2684.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 6 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2685.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 7 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2686.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 8 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2687.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 9 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2688.m3u8
+#EXTINF:-1,ES: Mundial Futbol Option 10 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2689.m3u8
+#EXTINF:-1,ES: AztecaA+ LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1018.m3u8
+#EXTINF:-1,ES: Azteca Noticias LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1061.m3u8
+#EXTINF:-1,ES: Azteca Uno LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2583.m3u8
+#EXTINF:-1,ES: Azteca 7 Monterrey
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1035.m3u8
+#EXTINF:-1,ES: Antena 3 Internacional
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1000.m3u8
+#EXTINF:-1,ES: Golden LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2567.m3u8
+#EXTINF:-1,ES: Azteca CLIC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2571.m3u8
+#EXTINF:-1,ES: Wow TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2558.m3u8
+#EXTINF:-1,ES: HD 26 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2561.m3u8
+#EXTINF:-1,ES: Boomerang LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2597.m3u8
+#EXTINF:-1,ES: ALL Sports LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2593.m3u8
+#EXTINF:-1,ES: Max UP HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2620.m3u8
+#EXTINF:-1,ES: HB TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2637.m3u8
+#EXTINF:-1,ES: Azteca Corazon LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2559.m3u8
+#EXTINF:-1,ES: Warner TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2574.m3u8
+#EXTINF:-1,ES: Cinecanal LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2562.m3u8
+#EXTINF:-1,ES: Sony HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2631.m3u8
+#EXTINF:-1,ES: Discovery TLC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2635.m3u8
+#EXTINF:-1,ES: Disny HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2638.m3u8
+#EXTINF:-1,ES: Animal Planet LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2643.m3u8
+#EXTINF:-1,ES: Cinemax LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2645.m3u8
+#EXTINF:-1,ES: Comedy Central HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2633.m3u8
+#EXTINF:-1,ES: Golden Edge LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2651.m3u8
+#EXTINF:-1,ES: Discovery Science LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2650.m3u8
+#EXTINF:-1,ES: Discovery Civilization LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2646.m3u8
+#EXTINF:-1,ES: National.Geographic LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2647.m3u8
+#EXTINF:-1,ES: Nickelodeon LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2644.m3u8
+#EXTINF:-1,ES: Discovery Home & Health LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2652.m3u8
+#EXTINF:-1,ES: Discovery Home LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2653.m3u8
+#EXTINF:-1,ES: Discovery Turbo LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2654.m3u8
+#EXTINF:-1,ES: G Premer LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2655.m3u8
+#EXTINF:-1,ES: Disney XD One LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2656.m3u8
+#EXTINF:-1,ES: MAx Prime Este LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2657.m3u8
+#EXTINF:-1,ES: Fox LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2658.m3u8
+#EXTINF:-1,ES: FOX 1 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2641.m3u8
+#EXTINF:-1,ES: Fox Series LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2550.m3u8
+#EXTINF:-1,ES: Fox Classics LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2661.m3u8
+#EXTINF:-1,ES: Fox Action LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2659.m3u8
+#EXTINF:-1,ES: Fox Cinema LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2660.m3u8
+#EXTINF:-1,ES: Fox Family LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2663.m3u8
+#EXTINF:-1,ES: True TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2664.m3u8
+#EXTINF:-1,ES: Fox Movies LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2665.m3u8
+#EXTINF:-1,ES: Discovery Kids LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2601.m3u8
+#EXTINF:-1,ES: Esporte Interativo 2 HD BR LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2605.m3u8
+#EXTINF:-1,ES: Chile CNN LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2662.m3u8
+#EXTINF:-1,ES: Chile Chilevision LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2666.m3u8
+#EXTINF:-1,ES: Chile UC13 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2675.m3u8
+#EXTINF:-1,ES: Chile Portal Foxmix LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2676.m3u8
+#EXTINF:-1,ES: La Mega Mundial LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2667.m3u8
+#EXTINF:-1,ES: Chile Pinguino TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2584.m3u8
+#EXTINF:-1,ES: CHILE VTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1052.m3u8
+#EXTINF:-1,ES: Chile 18 Carnaval
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1044.m3u8
+#EXTINF:-1,ES: NICK JR LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2632.m3u8
+#EXTINF:-1,ES: Chile Mega LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2678.m3u8
+#EXTINF:-1,ES: AMC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2603.m3u8
+#EXTINF:-1,ES: FX LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2668.m3u8
+#EXTINF:-1,ES: H2 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2669.m3u8
+#EXTINF:-1,ES: Tooncast LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2670.m3u8
+#EXTINF:-1,ES: Antares TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2671.m3u8
+#EXTINF:-1,ES: TV Publica LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2673.m3u8
+#EXTINF:-1,ES: Canal22 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2672.m3u8
+#EXTINF:-1,ES: Fox Sports Premiun HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2674.m3u8
+#EXTINF:-1,ES: Space LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2677.m3u8
+#EXTINF:-1,ES: Universal Channel HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2679.m3u8
+#EXTINF:-1,ES: TV Music LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2582.m3u8
+#EXTINF:-1,ES: YLE TV 1 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2639.m3u8
+#EXTINF:-1,ES: FXM LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2570.m3u8
+#EXTINF:-1,ES: TV Brasil LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2564.m3u8
+#EXTINF:-1,ES: El 1 Web TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2569.m3u8
+#EXTINF:-1,ES:Cinema Dinamita LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2572.m3u8
+#EXTINF:-1,ES: Religion LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2554.m3u8
+#EXTINF:-1,ES: Telpin HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2560.m3u8
+#EXTINF:-1,ES: Noticias ForoTV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2606.m3u8
+#EXTINF:-1,ES: Mega TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2557.m3u8
+#EXTINF:-1,ES: America TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2602.m3u8
+#EXTINF:-1,ES: TR Telero LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2604.m3u8
+#EXTINF:-1,ES: COS LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2578.m3u8
+#EXTINF:-1,ES: MIMUSICA HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2598.m3u8
+#EXTINF:-1,ES: Canal 10 Chetumal LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2565.m3u8
+#EXTINF:-1,ES: Extrema HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2607.m3u8
+#EXTINF:-1,ES: Channel 8 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2610.m3u8
+#EXTINF:-1,ES: Sevilla FC TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2608.m3u8
+#EXTINF:-1,ES: Aire de Santa Fe LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2609.m3u8
+#EXTINF:-1,ES: Neox HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2577.m3u8
+#EXTINF:-1,ES: Multimedios LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2576.m3u8
+#EXTINF:-1,ES: Echo TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2555.m3u8
+#EXTINF:-1,ES: CGTN LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2592.m3u8
+#EXTINF:-1,ES: Atreseries LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2594.m3u8
+#EXTINF:-1,ES: Tru TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2551.m3u8
+#EXTINF:-1,ES: Canal Once LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2575.m3u8
+#EXTINF:-1,ES: Kids TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2547.m3u8
+#EXTINF:-1,ES: Gong LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2563.m3u8
+#EXTINF:-1,ES: E! Entertainment  LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2552.m3u8
+#EXTINF:-1,ES: TNT Sports LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2573.m3u8
+#EXTINF:-1,ES: TVP MAZATLÿN LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2553.m3u8
+#EXTINF:-1,ES: TBS LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2556.m3u8
+#EXTINF:-1,ES: DMX TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2581.m3u8
+#EXTINF:-1,ES: Atomic LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2580.m3u8
+#EXTINF:-1,ES: TDN Sports LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2548.m3u8
+#EXTINF:-1,ES: A3S LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2579.m3u8
+#EXTINF:-1,ES: Raport LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2546.m3u8
+#EXTINF:-1,ES: Cartoon tv LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2566.m3u8
+#EXTINF:-1,ES: 44 Mexico LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2549.m3u8
+#EXTINF:-1,ES: Fox Sports LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2568.m3u8
+#EXTINF:-1,ES: TNT Series LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2611.m3u8
+#EXTINF:-1,ES: Canal Sony HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2618.m3u8
+#EXTINF:-1,ES: Canal 5 HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2622.m3u8
+#EXTINF:-1,ES: COSFC LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2612.m3u8
+#EXTINF:-1,ES: Elgourmet LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2614.m3u8
+#EXTINF:-1,ES: Claro Sports LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2619.m3u8
+#EXTINF:-1,ES: Fox Sport 2 LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2613.m3u8
+#EXTINF:-1,ES: Ve Plus TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2623.m3u8
+#EXTINF:-1,ES: PPV Rock Dog LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2617.m3u8
+#EXTINF:-1,ES: TyC Sports LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2615.m3u8
+#EXTINF:-1,ES: Marbella TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2616.m3u8
+#EXTINF:-1,ES: NEX TV LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2621.m3u8
+#EXTINF:-1,ES: CDO Sport LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2627.m3u8
+#EXTINF:-1,ES: Band HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2628.m3u8
+#EXTINF:-1,ES: Paramount LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2624.m3u8
+#EXTINF:-1,ES: Tele Uno LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2625.m3u8
+#EXTINF:-1,ES: Canal Provincial LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2629.m3u8
+#EXTINF:-1,ES: Tv Senado HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2626.m3u8
+#EXTINF:-1,ES: Comedy Central LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2630.m3u8
+#EXTINF:-1,ES: TNT HD LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2634.m3u8
+#EXTINF:-1,ES: Lilfe TIME LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2636.m3u8
+#EXTINF:-1,ES: TV Marti LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2640.m3u8
+#EXTINF:-1,ES: Canal 9 Salta LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2642.m3u8
+#EXTINF:-1,ES: La Semana LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2648.m3u8
+#EXTINF:-1,ES: RTVA LT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2649.m3u8
