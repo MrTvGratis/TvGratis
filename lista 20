@@ -1,1 +1,338 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
+#EXTINF:-1,?????? ESPANHA ??????
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/11410.ts
+#EXTINF:-1,ES: Hollywood [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20465.ts
+#EXTINF:-1,ES: Movistar Accion [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20472.ts
+#EXTINF:-1,ES: Movistar Comedia [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20473.ts
+#EXTINF:-1,ES: Movistar DCine [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20474.ts
+#EXTINF:-1,ES: Movistar Estrenos [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20476.ts
+#EXTINF:-1,ES: Movistar Series [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20483.ts
+#EXTINF:-1,ES: Movistar Series Xtra [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20484.ts
+#EXTINF:-1,ES: Movistar Xtra [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20485.ts
+#EXTINF:-1,ES: Caza Y Pesca [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20447.ts
+#EXTINF:-1,ES: Comedy Central [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20449.ts
+#EXTINF:-1,ES: Cosmo Tv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20452.ts
+#EXTINF:-1,ES: Fox [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20462.ts
+#EXTINF:-1,ES: Fox Life [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20464.ts
+#EXTINF:-1,ES: Syfy [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20498.ts
+#EXTINF:-1,ES: TCM [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20499.ts
+#EXTINF:-1,ES: TNT [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20501.ts
+#EXTINF:-1,ES: Viajar FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20503.ts
+#EXTINF:-1,ES: Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20455.ts
+#EXTINF:-1,ES: National Geographic [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20487.ts
+#EXTINF:-1,ES: National Geographic Wild [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20488.ts
+#EXTINF:-1,ES: SUNDANCE [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20496.ts
+#EXTINF:-1,ES: AXN [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20404.ts
+#EXTINF:-1,ES: AXN White [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20406.ts
+#EXTINF:-1,ES: Bein Sports ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20432.ts
+#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20575.ts
+#EXTINF:-1,ES: Calle 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23557.ts
+#EXTINF:-1,ES: Movistar Partidazo HD (event only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20482.ts
+#EXTINF:-1,ES: BeMad tv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23556.ts
+#EXTINF:-1,ES:Canal  TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23657.ts
+#EXTINF:-1,ES:Canal  FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23652.ts
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23650.ts
+#EXTINF:-1,ES:Canal  DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23651.ts
+#EXTINF:-1,ES: Bein Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23580.ts
+#EXTINF:-1,ES: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23586.ts
+#EXTINF:-1,ES: La Liga BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23623.ts
+#EXTINF:-1,ES:Canal  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23655.ts
+#EXTINF:-1,ES:Canal  LIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23654.ts
+#EXTINF:-1,ES : MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23558.ts
+#EXTINF:-1,ES:TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23671.ts
+#EXTINF:-1,ES:Canal  GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23653.ts
+#EXTINF:-1,ES:VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23672.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23620.ts
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23599.ts
+#EXTINF:-1,ES: Canal DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23601.ts
+#EXTINF:-1,ES: Canal SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23604.ts
+#EXTINF:-1,ES:CANAL  ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23649.ts
+#EXTINF:-1,ES:Canal  SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23656.ts
+#EXTINF:-1,ES:Canal  XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23658.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23607.ts
+#EXTINF:-1,ES: COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23608.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23611.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23567.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23618.ts
+#EXTINF:-1,ES: LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23673.ts
+#EXTINF:-1,ES: LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23622.ts
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23636.ts
+#EXTINF:-1,ES: ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23639.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23646.ts
+#EXTINF:-1,ES:AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23647.ts
+#EXTINF:-1,ES:CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23648.ts
+#EXTINF:-1,ES:CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23659.ts
+#EXTINF:-1,ES:DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23660.ts
+#EXTINF:-1,ES:FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23662.ts
+#EXTINF:-1,ES:LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23674.ts
+#EXTINF:-1,ES:M COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23665.ts
+#EXTINF:-1,ES:NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23666.ts
+#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23667.ts
+#EXTINF:-1,ES:TCM [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23669.ts
+#EXTINF:-1,ES:TELECINCO [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23670.ts
+#EXTINF:-1,ES: #0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23562.ts
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23559.ts
+#EXTINF:-1,ES: Bein Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23597.ts
+#EXTINF:-1,ES : movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23560.ts
+#EXTINF:-1,ES : MOVISTAR MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23561.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23598.ts
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23615.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23616.ts
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23569.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23600.ts
+#EXTINF:-1,ES: BeiN La Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23570.ts
+#EXTINF:-1,ES: Canal De Las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23602.ts
+#EXTINF:-1,ES: CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23603.ts
+#EXTINF:-1,ES: Caza y pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23605.ts
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23563.ts
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23564.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23565.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23566.ts
+#EXTINF:-1,ES: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23568.ts
+#EXTINF:-1,ES: Clan Tve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23606.ts
+#EXTINF:-1,ES: Crimen Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23609.ts
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23610.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23635.ts
+#EXTINF:-1,ES: Nonstop People
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23637.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23638.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23640.ts
+#EXTINF:-1,ES: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23641.ts
+#EXTINF:-1,ES: Real Madrid Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23642.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23643.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23644.ts
+#EXTINF:-1,ES: XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23645.ts
+#EXTINF:-1,ES:DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23661.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23663.ts
+#EXTINF:-1,ES:NICK Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23668.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23612.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23613.ts
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23614.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23617.ts
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23619.ts
+#EXTINF:-1,ES: IBERALIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23621.ts
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23624.ts
+#EXTINF:-1,ES: MOVISTAR DISNEY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23625.ts
+#EXTINF:-1,ES: MTV ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23626.ts
+#EXTINF:-1,ES: Multideporte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23627.ts
+#EXTINF:-1,ES: Multideporte 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23628.ts
+#EXTINF:-1,ES: Multideporte 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23629.ts
+#EXTINF:-1,ES: Multideporte 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23630.ts
+#EXTINF:-1,ES: Multideporte 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23631.ts
+#EXTINF:-1,ES: MULTIFUTBOOL 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23632.ts
+#EXTINF:-1,ES: MULTIFUTBOOL 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23633.ts
+#EXTINF:-1,ES: MULTIFUTBOOL 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23634.ts
+#EXTINF:-1,-----DEPORTE MUNDIAL-----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20003.ts
+#EXTINF:-1,ES: BeiN La Liga Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23571.ts
+#EXTINF:-1,ES: beIN LaLiga Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23574.ts
+#EXTINF:-1,ES: BeiN LaLiga Max 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23575.ts
+#EXTINF:-1,ES: BeiN LaLiga Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23576.ts
+#EXTINF:-1,ES: BeiN LaLiga Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23577.ts
+#EXTINF:-1,ES: BeiN LaLiga Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23578.ts
+#EXTINF:-1,ES: BeiN Laliga Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23579.ts
+#EXTINF:-1,ES: BeiN Sports Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23553.ts
+#EXTINF:-1,ES: BeiN Sports Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23554.ts
+#EXTINF:-1,ES: BeiN Sports Max 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23555.ts
+#EXTINF:-1,ES: Bein Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23581.ts
+#EXTINF:-1,ES: Bein Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23582.ts
+#EXTINF:-1,ES: Bein Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23583.ts
+#EXTINF:-1,ES: Bein Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23584.ts
+#EXTINF:-1,ES: Bein Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23585.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23587.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23589.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23590.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23591.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23592.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23593.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23594.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23595.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23596.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/23588.ts
+#EXTINF:-1,ES: BeiN Sports Max 1 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20434.ts
+#EXTINF:-1,ES: BeiN Sports Max 2 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20436.ts
+#EXTINF:-1,ES: BeiN La Liga Max 1 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20412.ts
+#EXTINF:-1,ES: beIN LaLiga Max 2 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20416.ts
+#EXTINF:-1,Sevilla FC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/2389.ts
+#EXTINF:-1,ES: TOROS TV [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20502.ts
+#EXTINF:-1,ES: Movistar Futbol [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20478.ts
+#EXTINF:-1,ES: Movistar Deportes 1 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20475.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20471.ts
+#EXTINF:-1,ES: beIN Sport [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20428.ts
+#EXTINF:-1,ES: BeiN Laliga [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20414.ts
+#EXTINF:-1,ES: Movistar Partidazo [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20481.ts
+#EXTINF:-1,ES: beIN LA Liga [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20410.ts
+#EXTINF:-1,LA LIGA 123 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20388.ts
+#EXTINF:-1,ES: LA LIGA TV BAR [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20469.ts
+#EXTINF:-1,ES: Real Madrid TV [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20495.ts
+#EXTINF:-1,ES: Eurosport 1 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20459.ts
+#EXTINF:-1,ES: Movistar Golf [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20479.ts
+#EXTINF:-1,ES: Movistar Moto GP [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20480.ts
+#EXTINF:-1,ES: Movistar F1 [1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.latintvweb.com:25461/live/alejandro66/alejandro66/20477.ts
