@@ -1,155 +1,160 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/TvGratiskodi[/COLOR]
-http://paypal.me/TvGratiskodi
-#EXTINF:-1,ES: #O HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9114.ts
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8036.ts
-#EXTINF:-1,ES: LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8037.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8001.ts
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8017.ts
-#EXTINF:-1,ES: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8018.ts
-#EXTINF:-1,ES: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8066.ts
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
+#EXTINF:-1,ES:VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2722.ts
+#EXTINF:-1,ES:TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2723.ts
 #EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8067.ts
-#EXTINF:-1,ES: CLAN  TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8013.ts
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8062.ts
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8595.ts
-#EXTINF:-1,ES: 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7997.ts
-#EXTINF:-1,ES: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8030.ts
-#EXTINF:-1,ES: M. ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8048.ts
-#EXTINF:-1,ES: M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8054.ts
-#EXTINF:-1,ES: M. ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8042.ts
-#EXTINF:-1,ES: M. ACCIÂ©N HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8041.ts
-#EXTINF:-1,ES: M. COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8044.ts
-#EXTINF:-1,ES: M. DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8045.ts
-#EXTINF:-1,ES: M. DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8046.ts
-#EXTINF:-1,ES: M. Cine Espanol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8043.ts
-#EXTINF:-1,ES: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8033.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2695.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2726.ts
+#EXTINF:-1,ES: NICK Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2707.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2702.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2701.ts
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2724.ts
+#EXTINF:-1,ES: LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2698.ts
+#EXTINF:-1,ES:LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2699.ts
 #EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8034.ts
-#EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8065.ts
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8069.ts
-#EXTINF:-1,ES: M. SERIESXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8053.ts
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8027.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2725.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2728.ts
+#EXTINF:-1,ES:FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2696.ts
 #EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8028.ts
-#EXTINF:-1,ES: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8029.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7998.ts
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7999.ts
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8000.ts
-#EXTINF:-1,ESP: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8072.ts
-#EXTINF:-1,ES: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8002.ts
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8064.ts
-#EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8008.ts
-#EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8014.ts
-#EXTINF:-1,ES: COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8015.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8026.ts
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8023.ts
-#EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8024.ts
-#EXTINF:-1,ES: LTC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8071.ts
-#EXTINF:-1,ES: NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8061.ts
-#EXTINF:-1,ES: M. DEP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8047.ts
-#EXTINF:-1,ES: M. F.TBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8049.ts
-#EXTINF:-1,ES: M. F.TBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8050.ts
-#EXTINF:-1,ES: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8068.ts
-#EXTINF:-1,ES: BAR.A TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8004.ts
-#EXTINF:-1,ES: BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8005.ts
-#EXTINF:-1,ES: BEIN LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8006.ts
-#EXTINF:-1,ES: GOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8031.ts
-#EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8025.ts
-#EXTINF:-1,ES: Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8594.ts
-#EXTINF:-1,ES: M.FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8055.ts
-#EXTINF:-1,ES: M.FORMULA 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8056.ts
-#EXTINF:-1,ES: M. MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8052.ts
-#EXTINF:-1,ES: M.MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8057.ts
-#EXTINF:-1,ES: M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8051.ts
-#EXTINF:-1,ES: Movistar Partidazo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9115.ts
-#EXTINF:-1,ES: CANAL ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8011.ts
-#EXTINF:-1,ES: NAT GEOGRAPH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8060.ts
-#EXTINF:-1,ES: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8059.ts
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8019.ts
-#EXTINF:-1,ES: CRIMEN INVES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8016.ts
-#EXTINF:-1,ES: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8032.ts
-#EXTINF:-1,ES: CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8012.ts
-#EXTINF:-1,ES: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8035.ts
-#EXTINF:-1,ES: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8070.ts
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8009.ts
-#EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8010.ts
-#EXTINF:-1,ES: MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8058.ts
-#EXTINF:-1,ES: DISNEY CH.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8020.ts
-#EXTINF:-1,ES: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8021.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2697.ts
 #EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8022.ts
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8007.ts
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8003.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2709.ts
+#EXTINF:-1,ES:DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2710.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2708.ts
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2704.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2703.ts
+#EXTINF:-1,ES: CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2713.ts
+#EXTINF:-1,ES: Movistar XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2715.ts
+#EXTINF:-1,ES:Canal  TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2717.ts
+#EXTINF:-1,ES: Canal SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2712.ts
+#EXTINF:-1,ES:Canal  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2690.ts
+#EXTINF:-1,ES:Canal  GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2716.ts
+#EXTINF:-1,ES:Canal  FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2692.ts
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2718.ts
+#EXTINF:-1,ES:Canal  DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2693.ts
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2694.ts
+#EXTINF:-1,ES: Canal DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2719.ts
+#EXTINF:-1,ES: M COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2720.ts
+#EXTINF:-1,ES: Movistar Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2688.ts
+#EXTINF:-1,ES: CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2714.ts
+#EXTINF:-1,ES: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2706.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2721.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5416.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5417.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5428.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5409.ts
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5419.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5408.ts
+#EXTINF:-1,ES: La Liga BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5424.ts
+#EXTINF:-1,ES: LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2700.ts
+#EXTINF:-1,ES: IBERALIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5427.ts
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5421.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5411.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5410.ts
+#EXTINF:-1,ES: COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5412.ts
+#EXTINF:-1,ES: Clan Tve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5418.ts
+#EXTINF:-1,ES: Caza y pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5413.ts
+#EXTINF:-1,ES: Canal SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2711.ts
+#EXTINF:-1,ES: CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5426.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5425.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5420.ts
+#EXTINF:-1,ES: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5422.ts
+#EXTINF:-1,ES: Bein Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5423.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2705.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5415.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/5414.ts
+#EXTINF:-1,ES: #0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/2729.ts
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6696.ts
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6694.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6695.ts
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6721.ts
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6720.ts
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6718.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6719.ts
+#EXTINF:-1,ES: Nonstop People
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6722.ts
+#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6724.ts
+#EXTINF:-1,ES: Canal De Las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6792.ts
+#EXTINF:-1,ES: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6968.ts
+#EXTINF:-1,ES: Crimen Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6984.ts
+#EXTINF:-1,ES: MTV ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/6985.ts
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/3066.ts
+#EXTINF:-1,ES: Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/3068.ts
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/3067.ts
+#EXTINF:-1,ES : MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/3065.ts
+#EXTINF:-1,ES: beIN LA Liga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptvfree1.com:6969/live/talo1411@gmail.com/rhmJAxGwts/8677.ts
