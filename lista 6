@@ -1,351 +1,151 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://i.blogs.es/75317b/logo_tve_1/original.jpg" group-title="España",LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4613.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="La 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://2.bp.blogspot.com/-FNCDOxNbwR4/VUSdp4XSC2I/AAAAAAAAdgk/ge29dEWofDc/s1600/la1hd.jpg" group-title="España",La 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5107.ts
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.trecebits.com/wp-content/uploads/2014/05/logo-de-la2-tve_m.png" group-title="España",LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5.ts
-#EXTINF:-1 tvg-id="LA 2" tvg-name="La 2 HD" tvg-logo="https://pbs.twimg.com/media/DPObOLjVQAAbNNj.jpg" group-title="España",La 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/7491.ts
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette1.wikia.nocookie.net/tvcable/images/6/66/Canal24htvelep.png/revision/latest?cb=20140208224312&path-prefix=es" group-title="España",24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/10.ts
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="España",Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6.ts
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3 HD" tvg-logo="https://www.adslzone.tv/app/uploads/2010/09/Antena-3-HD.jpg" group-title="España",Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5108.ts
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.futbolprimera.es/files/cuatro.jpg" group-title="España",Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/7.ts
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.tdcan.es/imagenes/canales/cuatro_hd.png" group-title="España",Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4816.ts
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://s.libertaddigital.com/fotos/noticias/telecinco-logo-mjg.jpg" group-title="España",Telecinco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4615.ts
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.formulatv.com/fotos/a/9000/9225/t6v64j6ltln3iuajnv52a8c3f52f070_telemierda-5-hd.png" group-title="España",Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5109.ts
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://files.locutorpedrofernandez.com/system_preview_detail_200000046-714bd733fc-public/LA%20SEXTA.png" group-title="España",La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/9.ts
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta HD" tvg-logo="https://img.actualidadmotor.com/wp-content/uploads/2011/03/LaSextaHD.jpeg" group-title="España",La Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5110.ts
-#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY" tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo.jpg" group-title="España",DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/32.ts
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="" group-title="España",DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6317.ts
-#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tentv.es/wp-content/uploads/2016/05/ten.png" group-title="España",TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4451.ts
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="España",BE MAD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4682.ts
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://1.bp.blogspot.com/-4EkwfMcookI/VYxmBe5wHiI/AAAAAAAAH5s/TMSsCxcc1NQ/s1600/mega-logo-atresmedia.jpg" group-title="España",MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1838.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DMAX" tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/ed2d1e5cc541c86e666489bf378bb6e5_XL.jpg?t=1452512083" group-title="España",DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6316.ts
-#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://static2.masmoto.net/actualidad-seguridad-vial/files/2011/12/energy-telecinco.jpg" group-title="España",ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/31.ts
-#EXTINF:-1 tvg-id="FDFIC ASTRA SD 1.sp" tvg-name="FDF" tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="España",FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/29.ts
-#EXTINF:-1 tvg-id="13TV TDT SD 1.sp" tvg-name="13TV ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://trecetv.es/images/LOGO-13.fw.png" group-title="España",13TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6304.ts
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3Series" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="España",A3Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/974.ts
-#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://static.programacion-tdt.com/imgAPP/A3_Nova.min.png" group-title="España",NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/19.ts
-#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette4.wikia.nocookie.net/logopedia/images/4/45/Neox_2011.gif/revision/latest?cb=20140314221216" group-title="España",Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/853.ts
-#EXTINF:-1 tvg-id="" tvg-name="Neox HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://directostv.teleame.com/wp-content/uploads/2016/01/neox-en-directo-online.png" group-title="España",Neox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6609.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemadrid HD" tvg-logo="https://universobinario.files.wordpress.com/2010/10/telemadridhd1.png" group-title="España",Telemadrid HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/7492.ts
-#EXTINF:-1 tvg-id="" tvg-name="---------- Cine ----------" tvg-logo="" group-title="España",---------- Cine ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6834.ts
-#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-name="Movistar Estrenos HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129" group-title="España",Movistar Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5097.ts
-#EXTINF:-1 tvg-id="Movistar Estrenos" tvg-name="Movistar Estrenos" tvg-logo="" group-title="España",Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/2110.ts
-#EXTINF:-1 tvg-id="Movistar Acción" tvg-name="Movistar Acción" tvg-logo="" group-title="España",Movistar Acción
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/2111.ts
-#EXTINF:-1 tvg-id="Movistar Acción" tvg-name="Movistar Acción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="España",Movistar Acción HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5127.ts
-#EXTINF:-1 tvg-id="Movistar Comedia" tvg-name="Movistar Comedia" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637" group-title="España",Movistar Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/2112.ts
-#EXTINF:-1 tvg-id="Movistar Comedia" tvg-name="Movistar Comedia HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vercanalestv.com/imagenes/movistar-comedia.jpg" group-title="España",Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5126.ts
-#EXTINF:-1 tvg-id="Movistar Cine Español" tvg-name="Movistar DCine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png" group-title="España",Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/2113.ts
-#EXTINF:-1 tvg-id="Movistar DCine" tvg-name="Movistar DCine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png" group-title="España",Movistar DCine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5128.ts
-#EXTINF:-1 tvg-id="Movistar Cine Español" tvg-name="Movistar Cine Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="España",Movistar Cine Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/38.ts
-#EXTINF:-1 tvg-id="Movistar Xtra" tvg-name="Movistar Xtra" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette2.wikia.nocookie.net/logopedia/images/f/f2/MovistarXtra.png/revision/latest?cb=20160818141302" group-title="España",Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1021.ts
-#EXTINF:-1 tvg-id="Movistar Series Xtra" tvg-name="Movistar Xtra HD" tvg-logo="" group-title="España",Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6356.ts
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="" group-title="España",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4685.ts
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood HD" tvg-logo="https://satcesc.com/web/wp-content/uploads/2014/01/canal-hollywood.jpg" group-title="España",Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6352.ts
-#EXTINF:-1 tvg-id="" tvg-name="MoNoLatino" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://dl.dropbox.com/s/ada0zsx8ms62m78/logo_1024.png?dl=0" group-title="España",MoNoLatino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6615.ts
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="" group-title="España",TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/14.ts
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="" group-title="España",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6315.ts
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette3.wikia.nocookie.net/es.starwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="España",TNT ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/12.ts
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.tutvplay.com/img/ch/TNT-HD.png" group-title="España",TNT HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5104.ts
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="" group-title="España",Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://televisa-networks.com/wp-content/uploads/2016/05/depelicula-logo.jpg" group-title="España",DE PELICULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5167.ts
-#EXTINF:-1 tvg-id="" tvg-name="---------- Entretenimiento ----------" tvg-logo="" group-title="España",---------- Entretenimiento ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6899.ts
-#EXTINF:-1 tvg-id="#0" tvg-name="#0" tvg-logo="" group-title="España",#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/42.ts
-#EXTINF:-1 tvg-id="#0" tvg-name="#0 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vercanalestv.com/logos/canal-0.png" group-title="España",#0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5103.ts
-#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar Series" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://arevista.visionmedia.es/wp-content/uploads/2015/02/movistar_series.jpg" group-title="España",Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/57.ts
-#EXTINF:-1 tvg-id="Movistar Series" tvg-name="Movistar Series HD" tvg-logo="" group-title="España",Movistar Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6354.ts
-#EXTINF:-1 tvg-id="Movistar Series Xtra" tvg-name="Movistar Series Xtra" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette2.wikia.nocookie.net/logopedia/images/f/f2/MovistarXtra.png/revision/latest?cb=20160818141302" group-title="España",Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/56.ts
-#EXTINF:-1 tvg-id="Movistar Series Xtra" tvg-name="M. Series xtra HD" tvg-logo="" group-title="España",M. Series xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6353.ts
-#EXTINF:-1 tvg-id="Fox" tvg-name="FOX ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.todocanales.net/wp-content/uploads/2013/10/Fox.png" group-title="España",FOX ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4361.ts
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD ES" tvg-logo="https://cms.cignal.tv/Upload/Images/FOX-HD.png" group-title="España",Fox HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5111.ts
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX Life" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life-HD.png" group-title="España",FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/632.ts
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX Life HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kccl.tv/sites/default/files/Fox-Life-HD.png" group-title="España",FOX Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6312.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="España",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/70.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.tutvplay.com/img/ch/AMC-HD.png" group-title="España",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5105.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="España",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1827.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD ES" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="España",AXN HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5136.ts
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://satcesc.com/web/wp-content/uploads/2012/04/axn-white.jpg" group-title="España",AXN White ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/69.ts
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White HD ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://todotele.com/wp-content/uploads/2014/05/Logo-AXN-WHITE-HD.jpg" group-title="España",AXN White HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5137.ts
-#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="" group-title="España",DARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4362.ts
-#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="España",XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4452.ts
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="España",SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/16.ts
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="" group-title="España",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6355.ts
-#EXTINF:-1 tvg-id="Calle 13" tvg-name="CALLE 13" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.alwaystv.net/images/es/calle-13.png" group-title="España",CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/53.ts
-#EXTINF:-1 tvg-id="Calle 13" tvg-name="CALLE 13 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vercanalestv.com/logos/calle-13.jpg" group-title="España",CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5106.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL ES" tvg-logo="" group-title="España",COMEDY CENTRAL ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/41.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Comedy_central_hd-630x355.png" group-title="España",COMEDY CENTRAL HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1028.ts
-#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMOPOLITAN" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.assetmedia.es/uploads/imagenes/imagenes_Logo_Cosmopolitan_OK_3836ca79.jpg" group-title="España",COSMOPOLITAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/40.ts
-#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="España",COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6351.ts
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png" group-title="España",Toros TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/55.ts
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV HD ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg" group-title="España",Toros TV HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4809.ts
-#EXTINF:-1 tvg-id="" tvg-name="NONSTOPEOPLE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nonstoppeople.es/img/theme/logo.png" group-title="España",NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/20.ts
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Telenovelas" tvg-logo="" group-title="España",Telenovelas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5168.ts
-#EXTINF:-1 tvg-id="" tvg-name="ONDA CÁDIZ" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg" group-title="España",ONDA CÁDIZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1555.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR" tvg-logo="" group-title="España",CANAL SUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="---------- Deportes ----------" tvg-logo="" group-title="España",---------- Deportes ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6900.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eventos Deportivos" tvg-logo="" group-title="España",Eventos Deportivos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6486.ts
-#EXTINF:-1 tvg-id="Movistar Deportes 1" tvg-name="Movistar Deportes 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="España",Movistar Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eventos Deportivos 2" tvg-logo="" group-title="España",Eventos Deportivos 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6582.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD" tvg-logo="" group-title="España",MOVISTAR DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6319.ts
-#EXTINF:-1 tvg-id="Movistar Deportes 2" tvg-name="Movistar Deportes 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" group-title="España",Movistar Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/37.ts
-#EXTINF:-1 tvg-id="Movistar Deportes 2" tvg-name="Movistar Deportes 2 HD" tvg-logo="" group-title="España",Movistar Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6320.ts
-#EXTINF:-1 tvg-id="Movistar Fútbol" tvg-name="Movistar Futbol" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg" group-title="España",Movistar Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/2249.ts
-#EXTINF:-1 tvg-id="Movistar Fútbol" tvg-name="Movistar Futbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png" group-title="España",Movistar Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4932.ts
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="" group-title="España",Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/13.ts
-#EXTINF:-1 tvg-id="Movistar Partidazo" tvg-name="Movistar Partidazo SOLO EN EMISION*" tvg-logo="https://2.bp.blogspot.com/-GnyGi5yPqzU/V6b5R9PAtlI/AAAAAAAAATE/W2O7kxP4SsERSzqN25dUetQ-2_EeBSCeQCLcB/s1600/partidazo.png" group-title="España",Movistar Partidazo SOLO EN EMISION*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5098.ts
-#EXTINF:-1 tvg-id="Movistar Partidazo" tvg-name="Movistar Partidazo HD SOLO EN EMISION*" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828" group-title="España",Movistar Partidazo HD SOLO EN EMISION*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/613.ts
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg" group-title="España",LaLiga TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg" group-title="España",LaLiga TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4806.ts
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-name="Movistar Liga de Campeones" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vod.mibox.live/logos/ligacampeones.png" group-title="España",Movistar Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/65.ts
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-name="Movistar Liga de Campeones HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vod.mibox.live/logos/ligacampeones.png" group-title="España",Movistar Liga de Campeones HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4811.ts
-#EXTINF:-1 tvg-id="Bein LaLiga" tvg-name="BeIn Sports LaLiga" tvg-logo="https://s31.postimg.org/fah03nc8r/bein_laliga_300.jpg" group-title="España",BeIn Sports LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/66.ts
-#EXTINF:-1 tvg-id="Bein LaLiga" tvg-name="BeIn Sports LaLiga HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://scrat.hellocoton.fr/img/selection/frequence-bein-laliga-sur-astra-bein-laliga-24010402.jpg" group-title="España",BeIn Sports LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4808.ts
-#EXTINF:-1 tvg-id="Barça TV" tvg-name="BARCA TV" tvg-logo="https://pro-cdn-public-fcb.everincloud.com/20157/28952/416501/1.0/416501.png?t=1450175678000" group-title="España",BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/67.ts
-#EXTINF:-1 tvg-id="GOL" tvg-name="GOL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vercanalestv.com/logos/goltv.jpg" group-title="España",GOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/28.ts
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="España",Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6358.ts
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://corporate.eurosport.com/wp-content/uploads/2015/01/eurosport1-386x198.png" group-title="España",EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/30.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT  2" tvg-logo="" group-title="España",EUROSPORT  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1801.ts
-#EXTINF:-1 tvg-id="Movistar Fórmula 1" tvg-name="Movistar F1" tvg-logo="" group-title="España",Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1373.ts
-#EXTINF:-1 tvg-id="Movistar Fórmula 1" tvg-name="Movistar Fórmula 1 HD ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="España",Movistar Fórmula 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4807.ts
-#EXTINF:-1 tvg-id="Movistar Moto GP" tvg-name="M.MOTO GP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://comunidad.movistar.es/movistar/attachments/movistar/Movistar-TV/21/1/Logotipo_Movistar_TV_MotoGP_RGB.jpg" group-title="España",M.MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/2106.ts
-#EXTINF:-1 tvg-id="Movistar Moto GP" tvg-name="Movistar Moto GP HD" tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/111642i7760F8F339994E7C?v=1.0" group-title="España",Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4810.ts
-#EXTINF:-1 tvg-id="Movistar Golf" tvg-name="Movistar Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/250px-Movistar_Golf.svg.png" group-title="España",Movistar Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/58.ts
-#EXTINF:-1 tvg-id="Movistar Golf" tvg-name="MOVISTAR GOLF HD" tvg-logo="" group-title="España",MOVISTAR GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6318.ts
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga 1|2|3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vercanalestv.com/logos/laliga123.jpg" group-title="España",LaLiga 1|2|3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5099.ts
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga 1|2|3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://files.laliga.es/seccion_logos/laliga-123-h-16-9.jpg" group-title="España",LaLiga 1|2|3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5153.ts
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga 123 FHD" tvg-logo="" group-title="España",LaLiga 123 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6364.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nowwatchtvlive.cc/wp-content/uploads/2014/01/BeiN-Sport-En-Vivo-Online.jpeg" group-title="España",Bein Sports Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/3317.ts
-#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.png" group-title="España",Realmadrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4689.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOX NATION" tvg-logo="https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png" group-title="España",BOX NATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1266.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOX NATION HD" tvg-logo="https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png" group-title="España",BOX NATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5798.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://latelete.tv/img/Sport-TV1-HD.png" group-title="España",Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4460.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://latelete.tv/img/Sport-TV2-HD.png" group-title="España",Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4461.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://latelete.tv/img/Sport-TV3-HD.png" group-title="España",Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4462.ts
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="" group-title="España",TYC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5169.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC Network" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.solomma.com/wp-content/uploads/2014/01/UFC-Network-620x400.jpg" group-title="España",UFC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5962.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sur" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://images.mi.tv/channels/ar_fox-sports-cono-sur-capital_m.png" group-title="España",Fox Sports Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6191.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_4164.png" group-title="España",ESPN Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6192.ts
-#EXTINF:-1 tvg-id="" tvg-name="7RM HD" tvg-logo="" group-title="España",7RM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="TELESUR" tvg-logo="" group-title="España",TELESUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WWE 24/7 HD" tvg-logo="" group-title="España",WWE 24/7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6204.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="España",NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6525.ts
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport1" tvg-logo="" group-title="España",SFRSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6300.ts
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport2" tvg-logo="" group-title="España",SFRSport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6301.ts
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport3" tvg-logo="" group-title="España",SFRSport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6302.ts
-#EXTINF:-1 tvg-id="" tvg-name="SFRSport5" tvg-logo="" group-title="España",SFRSport5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6303.ts
-#EXTINF:-1 tvg-id="" tvg-name="---------- Cultura ----------" tvg-logo="" group-title="España",---------- Cultura ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6901.ts
-#EXTINF:-1 tvg-id="Odisea" tvg-name="CANAL ODISEA ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://amcnetworks.es/wp-content/uploads/2010/04/0906_odisea.jpg" group-title="España",CANAL ODISEA ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/49.ts
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo.jpg" group-title="España",Nat Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1027.ts
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="España",Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6359.ts
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NAT GEO WILD ES" tvg-logo="https://yt3.ggpht.com/-HH4qDZivPuE/AAAAAAAAAAI/AAAAAAAAAAA/dPjv2XCNQmM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="España",NAT GEO WILD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4454.ts
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="España",Nat Geo Wild HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/5102.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel España" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logo-load.com/uploads/posts/2016-04/1459694518_discovery-logo.png" group-title="España",Discovery Channel España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/36.ts
-#EXTINF:-1 tvg-id="Crimen + Investigación" tvg-name="Crimen e Investigacion" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg" group-title="España",Crimen e Investigacion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/39.ts
-#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="España",HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/27.ts
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="CAZA Y PESCA" tvg-logo="https://i.ytimg.com/vi/NKnpT16csQQ/maxresdefault.jpg" group-title="España",CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/44.ts
-#EXTINF:-1 tvg-id="" tvg-name="DCASA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://yogaaereo.eu/wp-content/uploads/2012/07/DECASA1.jpg" group-title="España",DCASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6314.ts
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV" tvg-logo="https://pbs.twimg.com/profile_images/660014807534460928/AssUmNxU.png" group-title="España",IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/634.ts
-#EXTINF:-1 tvg-id="Viajar" tvg-name="VIAJAR" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://sistectelecom.com/images/canales/viajarhd.jpg" group-title="España",VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/11.ts
-#EXTINF:-1 tvg-id="Viajar" tvg-name="Viajar HD" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600_logos-APP-11.png/ae1679d6-6c8c-c270-b562-964a4b4072c3?t=1487250357279" group-title="España",Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6360.ts
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/ae-featured-image.jpg" group-title="España",A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/71.ts
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.televalentin.com/imagenes/logos/CANAL%20COCINA__bf15bab990.png" group-title="España",CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/51.ts
-#EXTINF:-1 tvg-id="" tvg-name="---------- Música ----------" tvg-logo="" group-title="España",---------- Música ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6902.ts
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="" group-title="España",MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/24.ts
-#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.hittv.es/img/cabeceras/HITtv1.jpg" group-title="España",HIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nrj Hits" tvg-logo="" group-title="España",nrj Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/2255.ts
-#EXTINF:-1 tvg-id="" tvg-name="SOL MUSICA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://premiosfest.com/wp-content/uploads/2014/11/Sol_Musica_Spain.jpg" group-title="España",SOL MUSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4458.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="https://videotron.com/vtrn/images/channels/logos/mezzo_live/mezzo_live_moyenne.png" group-title="España",Mezzo Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1836.ts
-#EXTINF:-1 tvg-id="Classica" tvg-name="Classica TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.schau-hd.tv/attachments/114/classica.png" group-title="España",Classica TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4681.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemusica" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://oklivetv.com/wp-content/uploads/media/93ed53a6156df1ecbd6e64f667cce561.jpeg" group-title="España",Telemusica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4805.ts
-#EXTINF:-1 tvg-id="Sundance" tvg-name="SUNDANCE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.sundance.org/comfy/cms/files/files/000/009/247/web_optimized/Sundance_HH.jpg" group-title="España",SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/4759.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mxcdn02.mundotkm.com/2017/04/Telehit_logo_Hero_780x439.jpg" group-title="España",TELEHIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6206.ts
-#EXTINF:-1 tvg-id="" tvg-name="---------- Infantiles ----------" tvg-logo="" group-title="España",---------- Infantiles ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6903.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL España" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://img.lum.dolimg.com/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png?region=0%2C0%2C299%2C160" group-title="España",DISNEY CHANNEL España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/35.ts
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette3.wikia.nocookie.net/disney/images/7/7b/Logo_Disney_XD.svg.png/revision/latest?cb=20130730004116" group-title="España",DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/33.ts
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="España",DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/34.ts
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="España",BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/68.ts
-#EXTINF:-1 tvg-id="Boing" tvg-name="BOING" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="España",BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="CLAN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/TVEClan_logo.png" group-title="España",CLAN TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/7507.ts
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://thevent.tv/wp-content/uploads/2014/09/nick-jnr.jpg" group-title="España",NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/973.ts
-#EXTINF:-1 tvg-id="Canal Panda" tvg-name="CANAL PANDA" tvg-logo="https://canalpanda.es/wp-content/themes/site/images/main-logo.png" group-title="España",CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/47.ts
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://vignette1.wikia.nocookie.net/tvcable/images/a/af/Nick_HD.png/revision/latest?cb=20150329212400&path-prefix=es" group-title="España",Nickelodeon ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/971.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney" tvg-logo="" group-title="España",Movistar Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/6307.ts
-#EXTINF:-1 tvg-id="TV3 Cat" tvg-name="TV3 Cat" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://statics.ccma.cat/ccma/img/logo-tv3hd.png" group-title="Catalunya",TV3 Cat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1269.ts
-#EXTINF:-1 tvg-id="3 24" tvg-name="3/24" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://statics.ccma.cat/img/logos/324_colorBgBlanc.svg" group-title="Catalunya",3/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/8tv_logo.jpg" group-title="Catalunya",8TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://streaming.8tv.cat:1935/8TV/8aldia-directe/chunklist_w536491014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Esport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/ec/Esport3_logo2011.png" group-title="Catalunya",Esport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1270.ts
-#EXTINF:-1 tvg-id="Canal 33" tvg-name="Super 3/33" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.diariwin.cat/wp-content/uploads/s31.jpg" group-title="Catalunya",Super 3/33
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://regnummi.mibox.live:980/live/afonso/afonso/1271.ts
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/47.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/51.ts
+#EXTINF:-1,ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/81.ts
+#EXTINF:-1,Atres Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/67.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/56.ts
+#EXTINF:-1,AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/55.ts
+#EXTINF:-1,Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/29.ts
+#EXTINF:-1,Movistar Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/37.ts
+#EXTINF:-1,beIN Sports HD LaLiga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/36.ts
+#EXTINF:-1,BEMAD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/62.ts
+#EXTINF:-1,BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/16.ts
+#EXTINF:-1,BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/70.ts
+#EXTINF:-1,But Go
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/1.ts
+#EXTINF:-1,Calle 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/52.ts
+#EXTINF:-1,Caza y Pesca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/23.ts
+#EXTINF:-1,Clan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/73.ts
+#EXTINF:-1,COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/14.ts
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/53.ts
+#EXTINF:-1,Cosmos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/49.ts
+#EXTINF:-1,Crime & Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/13.ts
+#EXTINF:-1,Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/80.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/11.ts
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/72.ts
+#EXTINF:-1,Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/20.ts
+#EXTINF:-1,Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/19.ts
+#EXTINF:-1,DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/69.ts
+#EXTINF:-1,DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/63.ts
+#EXTINF:-1,DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/77.ts
+#EXTINF:-1,ENERGY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/74.ts
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/31.ts
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/30.ts
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/71.ts
+#EXTINF:-1,Formula 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/26.ts
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/58.ts
+#EXTINF:-1,FOX Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/57.ts
+#EXTINF:-1,GOLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/61.ts
+#EXTINF:-1,Historia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/15.ts
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/38.ts
+#EXTINF:-1,LA LIGA 1|2|3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/33.ts
+#EXTINF:-1,LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/83.ts
+#EXTINF:-1,LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/82.ts
+#EXTINF:-1,LaLiga TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/34.ts
+#EXTINF:-1,Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/43.ts
+#EXTINF:-1,Movistar Dcine Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/40.ts
+#EXTINF:-1,Movistar Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/42.ts
+#EXTINF:-1,Movistar Dcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/41.ts
+#EXTINF:-1,Movistar Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/28.ts
+#EXTINF:-1,Movistar Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/27.ts
+#EXTINF:-1,Movistar Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/45.ts
+#EXTINF:-1,Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/46.ts
+#EXTINF:-1,Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/44.ts
+#EXTINF:-1,Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/32.ts
+#EXTINF:-1,Movistar Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/24.ts
+#EXTINF:-1,Movistar Partidazo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/35.ts
+#EXTINF:-1,M SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/60.ts
+#EXTINF:-1,M SERIESXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/59.ts
+#EXTINF:-1,MEGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/68.ts
+#EXTINF:-1,MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/25.ts
+#EXTINF:-1,Mtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/48.ts
+#EXTINF:-1,National Geografic Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/18.ts
+#EXTINF:-1,NAT GEO Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/17.ts
+#EXTINF:-1,NEOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/76.ts
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/21.ts
+#EXTINF:-1,NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/75.ts
+#EXTINF:-1,Odisea TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/12.ts
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/66.ts
+#EXTINF:-1,Penthhouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/5.ts
+#EXTINF:-1,SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/50.ts
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/39.ts
+#EXTINF:-1,Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/79.ts
+#EXTINF:-1,TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/65.ts
+#EXTINF:-1,TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/64.ts
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/54.ts
+#EXTINF:-1,Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.201.240.26:25461/live/eoolaaaaaaaa/hytfvbhgfd/22.ts
