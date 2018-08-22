@@ -2,131 +2,197 @@
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 
-#EXTINF:-1,------- Spanish ---------
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1072.m3u8
-#EXTINF:-1,ES: Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1022.m3u8
-#EXTINF:-1,ES: Canal+ Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1012.m3u8
-#EXTINF:-1,ES: Canal+ Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2590.m3u8
-#EXTINF:-1,ES: Canal+ Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1020.m3u8
-#EXTINF:-1,ES: Canal+ Golf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1019.m3u8
-#EXTINF:-1,ES: Canal+ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1016.m3u8
-#EXTINF:-1,ES: Canal+ Action
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1030.m3u8
-#EXTINF:-1,ES: Canal+ Dcine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1028.m3u8
-#EXTINF:-1,ES: Canal+ Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1031.m3u8
-#EXTINF:-1,ES: Canal+ Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1059.m3u8
-#EXTINF:-1,ES: Canal+ de las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1048.m3u8
-#EXTINF:-1,ES: Canal+ Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1058.m3u8
-#EXTINF:-1,ES: Canal+ Serie Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1004.m3u8
-#EXTINF:-1,ES: Canal+ Cuatro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1026.m3u8
-#EXTINF:-1,ES: Canal+ Cine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1033.m3u8
-#EXTINF:-1,ES: Canal+ Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1024.m3u8
-#EXTINF:-1,ES: Canal+ AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1054.m3u8
-#EXTINF:-1,ES: Canal+ Toros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1049.m3u8
-#EXTINF:-1,ES: Cine latino
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1002.m3u8
-#EXTINF:-1,ES: Canal+ Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1034.m3u8
-#EXTINF:-1,ES: Canal+ Fox HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1029.m3u8
-#EXTINF:-1,ES: ECOTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1047.m3u8
-#EXTINF:-1,ES: Canal Logos TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1041.m3u8
-#EXTINF:-1,ES: Canal+ Divinity
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1039.m3u8
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1046.m3u8
-#EXTINF:-1,ES: Bein Sport ES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1003.m3u8
-#EXTINF:-1,ES: Real Madrid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1037.m3u8
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1021.m3u8
-#EXTINF:-1,ES: Movis Star Moto Gp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1011.m3u8
-#EXTINF:-1,ES: Movi Star F1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1010.m3u8
-#EXTINF:-1,ES: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1042.m3u8
-#EXTINF:-1,ES: Win Sport
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1050.m3u8
-#EXTINF:-1,ES: Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1045.m3u8
-#EXTINF:-1,ES: La 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1014.m3u8
-#EXTINF:-1,ES: La 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1013.m3u8
-#EXTINF:-1,ES: Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1015.m3u8
-#EXTINF:-1,ES: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1025.m3u8
-#EXTINF:-1,ES: TV3 LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2591.m3u8
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2589.m3u8
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2588.m3u8
-#EXTINF:-1,ES: GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2585.m3u8
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2586.m3u8
-#EXTINF:-1,ES: Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/2587.m3u8
-#EXTINF:-1,ES: VTV +  (URU)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1053.m3u8
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1056.m3u8
-#EXTINF:-1,ES: 324 Entertainment
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1005.m3u8
-#EXTINF:-1,ES: Fox Life
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1060.m3u8
-#EXTINF:-1,ES: Hollywood
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1036.m3u8
-#EXTINF:-1,ES: Axn White HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1023.m3u8
-#EXTINF:-1,ES: History
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1051.m3u8
-#EXTINF:-1,ES: CALLE13 Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1009.m3u8
-#EXTINF:-1,ES: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/999.m3u8
-#EXTINF:-1,ES: Plaze tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1001.m3u8
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1007.m3u8
-#EXTINF:-1,ES: Caza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1027.m3u8
-#EXTINF:-1,ES: Viajar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1043.m3u8
-#EXTINF:-1,ES: Teleticino
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1008.m3u8
-#EXTINF:-1,ES: National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1057.m3u8
-#EXTINF:-1,ES: National Geographic Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1055.m3u8
-#EXTINF:-1,ES: Disney Chaneel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1040.m3u8
-#EXTINF:-1,ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1038.m3u8
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1032.m3u8
-#EXTINF:-1,ES: TVN Chile HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://ipsatpro.biz:8080/live/noemie/noemie1/1006.m3u8
+#EXTINF:-1,|ES|++++MOVISTAR++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4931.ts
+#EXTINF:-1,|ES| TVE LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5010.ts
+#EXTINF:-1,|ES| TVE LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5009.ts
+#EXTINF:-1,|ES| ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5007.ts
+#EXTINF:-1,|ES| CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5006.ts
+#EXTINF:-1,|ES| TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5005.ts
+#EXTINF:-1,|ES| CANAL SUR ANDALUCIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5004.ts
+#EXTINF:-1,|ES| TV3 CATALUNYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5003.ts
+#EXTINF:-1,|ES| TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5002.ts
+#EXTINF:-1,|ES| NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5001.ts
+#EXTINF:-1,|ES| MEGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5000.ts
+#EXTINF:-1,|ES|++++NOTICIAS++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4919.ts
+#EXTINF:-1,|ES| 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4998.ts
+#EXTINF:-1,ES 3/24 NOTICIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4999.ts
+#EXTINF:-1,|ES| TPA ASTURIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4997.ts
+#EXTINF:-1,|ES| TELEMADRID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4996.ts
+#EXTINF:-1,|ES|++++DEPORTES+++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4914.ts
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4992.ts
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4991.ts
+#EXTINF:-1,|ES| GOL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4981.ts
+#EXTINF:-1,|ES| M FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4990.ts
+#EXTINF:-1,|ES| M FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4989.ts
+#EXTINF:-1,|ES| TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4980.ts
+#EXTINF:-1,|ES| M beINSPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4993.ts
+#EXTINF:-1,|ES| M beINSPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4994.ts
+#EXTINF:-1,|ES| M BEINLALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4995.ts
+#EXTINF:-1,|ES| LALIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4984.ts
+#EXTINF:-1,|ES| LALIGA 123 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4985.ts
+#EXTINF:-1,|ES| TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4982.ts
+#EXTINF:-1,|ES| BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4988.ts
+#EXTINF:-1,|ES| REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4983.ts
+#EXTINF:-1,|ES| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4987.ts
+#EXTINF:-1,|ES| EUROSPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4986.ts
+#EXTINF:-1,|ES| M PARTIDAZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4979.ts
+#EXTINF:-1,|ES|++++CINE++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4896.ts
+#EXTINF:-1,|ES| M ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4973.ts
+#EXTINF:-1,|ES| M XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4972.ts
+#EXTINF:-1,|ES| M ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4978.ts
+#EXTINF:-1,|ES| M ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4977.ts
+#EXTINF:-1,|ES| M COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4975.ts
+#EXTINF:-1,|ES| M DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4974.ts
+#EXTINF:-1,|ES| M CINE ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4976.ts
+#EXTINF:-1,|ES| HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4970.ts
+#EXTINF:-1,|ES| PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4971.ts
+#EXTINF:-1,|ES| M SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4967.ts
+#EXTINF:-1,|ES| M SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4966.ts
+#EXTINF:-1,|ES| A3 SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4964.ts
+#EXTINF:-1,|ES| COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4965.ts
+#EXTINF:-1,|ES| CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4963.ts
+#EXTINF:-1,[ES] TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4955.ts
+#EXTINF:-1,[ES] TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4956.ts
+#EXTINF:-1,[ES] SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4957.ts
+#EXTINF:-1,|ES| AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4962.ts
+#EXTINF:-1,[ES]  AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4960.ts
+#EXTINF:-1,[ES] AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4961.ts
+#EXTINF:-1,[ES] FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4959.ts
+#EXTINF:-1,[ES] FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4958.ts
+#EXTINF:-1,|ES|++++CULTURA ++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4870.ts
+#EXTINF:-1,[ES] DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4950.ts
+#EXTINF:-1,[ES] NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4954.ts
+#EXTINF:-1,[ES] NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4953.ts
+#EXTINF:-1,[ES] NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4952.ts
+#EXTINF:-1,[ES] NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4951.ts
+#EXTINF:-1,|ES| CRIMEN INVESTIGACION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/5011.ts
+#EXTINF:-1,[ES] CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4949.ts
+#EXTINF:-1,[ES] CAZA Y PESCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4948.ts
+#EXTINF:-1,[ES] A E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4947.ts
+#EXTINF:-1,|ES| HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4946.ts
+#EXTINF:-1,[ES] VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4934.ts
+#EXTINF:-1,[ES] CANAL DECASA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4944.ts
+#EXTINF:-1,[ES] CANAL COCINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4938.ts
+#EXTINF:-1,[ES] ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4945.ts
+#EXTINF:-1,[ES] BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4942.ts
+#EXTINF:-1,|ES|++++NINOS++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4855.ts
+#EXTINF:-1,[ES] NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4935.ts
+#EXTINF:-1,[ES] DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4941.ts
+#EXTINF:-1,[ES] BOING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4939.ts
+#EXTINF:-1,[ES] NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4936.ts
+#EXTINF:-1,[ES] DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4943.ts
+#EXTINF:-1,[ES] DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4940.ts
+#EXTINF:-1,[ES] CANAL PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4937.ts
+#EXTINF:-1,|ES|+++MUSICA+++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4846.ts
+#EXTINF:-1,[ES] MIMUSICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4933.ts
+#EXTINF:-1,[ES] MTV SPAIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4932.ts
+#EXTINF:-1,|ES|++++ENTRETENIMIENTO++++|ES|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4886.ts
+#EXTINF:-1,|ES| M #0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4969.ts
+#EXTINF:-1,|ES| M SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/4968.ts
+#EXTINF:-1,(=======ESP-CINIMA=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/2288.ts
+#EXTINF:-1,[ES] 0# HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1405.ts
+#EXTINF:-1,[ES] M.ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1410.ts
+#EXTINF:-1,[ES] M.ACCION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1984.ts
+#EXTINF:-1,[ES]  M.COMEDIA.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1983.ts
+#EXTINF:-1,[ES]  M.DCINE.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1982.ts
+#EXTINF:-1,|ES| M.ESTRENOS.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1981.ts
+#EXTINF:-1,[ES]  M.SERIES.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1980.ts
+#EXTINF:-1,[ES] DISCOVERY.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1409.ts
+#EXTINF:-1,[ES] M.SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://world-ipsat.com:1155/live/faouzi/12345678/1408.ts
