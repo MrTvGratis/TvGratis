@@ -1,1 +1,268 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
+
+
+#EXTINF:-1,▬ Spain [ES] ▬
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/16516.m3u8
+#EXTINF:-1,#0 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9411.m3u8
+#EXTINF:-1,#0 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12734.m3u8
+#EXTINF:-1,A&E ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5474.m3u8
+#EXTINF:-1,AMC ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9438.m3u8
+#EXTINF:-1,AMC HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12733.m3u8
+#EXTINF:-1,Atreseries HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/18382.m3u8
+#EXTINF:-1,AXN ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5471.m3u8
+#EXTINF:-1,AXN HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12731.m3u8
+#EXTINF:-1,AXN White ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5470.m3u8
+#EXTINF:-1,AXN White HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12730.m3u8
+#EXTINF:-1,Animal Planet ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/11606.m3u8
+#EXTINF:-1,Antena 3 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5472.m3u8
+#EXTINF:-1,Antena 3 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12732.m3u8
+#EXTINF:-1,Aragón TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9409.m3u8
+#EXTINF:-1,Baby TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9427.m3u8
+#EXTINF:-1,Barca TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5466.m3u8
+#EXTINF:-1,Boing ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9429.m3u8
+#EXTINF:-1,Blaze España ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/21523.m3u8
+#EXTINF:-1,Calle 13 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5469.m3u8
+#EXTINF:-1,Calle 13 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12728.m3u8
+#EXTINF:-1,Canal 24 Horas ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9410.m3u8
+#EXTINF:-1,Canal Cocina ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5456.m3u8
+#EXTINF:-1,Decasa ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5460.m3u8
+#EXTINF:-1,Canal Panda ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9418.m3u8
+#EXTINF:-1,Canal Sur Andalucia ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5467.m3u8
+#EXTINF:-1,Caza y Pesca ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9426.m3u8
+#EXTINF:-1,Caza y Pesca HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/13659.m3u8
+#EXTINF:-1,Clan TVE ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9428.m3u8
+#EXTINF:-1,Comedy Central ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9420.m3u8
+#EXTINF:-1,Comedy Central HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12711.m3u8
+#EXTINF:-1,Cosmopolitan TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5473.m3u8
+#EXTINF:-1,Cosmopolitan TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12710.m3u8
+#EXTINF:-1,Crimen + Investigación ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9433.m3u8
+#EXTINF:-1,Cuatro ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5464.m3u8
+#EXTINF:-1,Cuatro HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12709.m3u8
+#EXTINF:-1,Discovery Channel ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5448.m3u8
+#EXTINF:-1,Disney Channel ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5446.m3u8
+#EXTINF:-1,Disney Channel HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12708.m3u8
+#EXTINF:-1,Disney Junior ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9431.m3u8
+#EXTINF:-1,Disney XD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9430.m3u8
+#EXTINF:-1,Divinity ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9442.m3u8
+#EXTINF:-1,Energy ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9440.m3u8
+#EXTINF:-1,Eurosport 1 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5410.m3u8
+#EXTINF:-1,Eurosport 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12707.m3u8
+#EXTINF:-1,Factoria de Ficción ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9434.m3u8
+#EXTINF:-1,FOX ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5442.m3u8
+#EXTINF:-1,FOX HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/13661.m3u8
+#EXTINF:-1,FOX Life ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5439.m3u8
+#EXTINF:-1,FOX News ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9443.m3u8
+#EXTINF:-1,FOX Life HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12706.m3u8
+#EXTINF:-1,Gol ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9416.m3u8
+#EXTINF:-1,Historia ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9425.m3u8
+#EXTINF:-1,Canal Hollywood ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5428.m3u8
+#EXTINF:-1,Canal Hollywood HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12705.m3u8
+#EXTINF:-1,Iberalia TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9408.m3u8
+#EXTINF:-1,TVE La 1 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9404.m3u8
+#EXTINF:-1,TVE La 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12704.m3u8
+#EXTINF:-1,TVE La 2 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9405.m3u8
+#EXTINF:-1,LaLiga TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5457.m3u8
+#EXTINF:-1,LaLiga TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12718.m3u8
+#EXTINF:-1,LaLiga 123 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/18232.m3u8
+#EXTINF:-1,MTV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9448.m3u8
+#EXTINF:-1,Mega HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/16262.m3u8
+#EXTINF:-1,Mezzo Live HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12702.m3u8
+#EXTINF:-1,Movistar Acción ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5463.m3u8
+#EXTINF:-1,Movistar Acción HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12727.m3u8
+#EXTINF:-1,Movistar Cine Ñ ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5411.m3u8
+#EXTINF:-1,Movistar Comedia ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5462.m3u8
+#EXTINF:-1,Movistar Comedia HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12726.m3u8
+#EXTINF:-1,Movistar DCine ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5461.m3u8
+#EXTINF:-1,Movistar DCine HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12725.m3u8
+#EXTINF:-1,Movistar Deportes 1 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5465.m3u8
+#EXTINF:-1,Movistar Deportes 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12723.m3u8
+#EXTINF:-1,Movistar Deportes 2 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9419.m3u8
+#EXTINF:-1,Movistar Deportes 2 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12724.m3u8
+#EXTINF:-1,Movistar ESports ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/19150.m3u8
+#EXTINF:-1,Movistar Estrenos ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9415.m3u8
+#EXTINF:-1,Movistar Estrenos HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12722.m3u8
+#EXTINF:-1,Movistar Fama 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/19958.m3u8
+#EXTINF:-1,Movistar Formula 1 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5445.m3u8
+#EXTINF:-1,Movistar Formula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12701.m3u8
+#EXTINF:-1,Movistar Fútbol ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5459.m3u8
+#EXTINF:-1,Movistar Fútbol HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12721.m3u8
+#EXTINF:-1,Movistar Golf ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5458.m3u8
+#EXTINF:-1,Movistar Golf HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12720.m3u8
+#EXTINF:-1,Movistar Moto GP ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5436.m3u8
+#EXTINF:-1,Movistar Moto GP HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12700.m3u8
+#EXTINF:-1,Movistar Partidazo ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5447.m3u8
+#EXTINF:-1,Movistar Partidazo HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12716.m3u8
+#EXTINF:-1,Movistar Partidazo 4K ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/22849.m3u8
+#EXTINF:-1,Movistar Series ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9413.m3u8
+#EXTINF:-1,Movistar Series HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/13664.m3u8
+#EXTINF:-1,Movistar Series Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9414.m3u8
+#EXTINF:-1,Movistar Series Xtra HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12714.m3u8
+#EXTINF:-1,Movistar Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9412.m3u8
+#EXTINF:-1,Movistar Xtra HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12712.m3u8
+#EXTINF:-1,National Geographic HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9441.m3u8
+#EXTINF:-1,National Geographic Wild ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5476.m3u8
+#EXTINF:-1,National Geographic Wild HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12698.m3u8
+#EXTINF:-1,National Geographic ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5455.m3u8
+#EXTINF:-1,Neox ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9421.m3u8
+#EXTINF:-1,Nick Jr. ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/14247.m3u8
+#EXTINF:-1,Nickelodeon ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/14248.m3u8
+#EXTINF:-1,Nickelodeon HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12697.m3u8
+#EXTINF:-1,Nova ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9422.m3u8
+#EXTINF:-1,Odisea ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9417.m3u8
+#EXTINF:-1,Paramount Channel ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9446.m3u8
+#EXTINF:-1,Real Madrid TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5420.m3u8
+#EXTINF:-1,Syfy ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5417.m3u8
+#EXTINF:-1,Sundance ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/20431.m3u8
+#EXTINF:-1,Syfy HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12696.m3u8
+#EXTINF:-1,TCM ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9445.m3u8
+#EXTINF:-1,TCM HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12695.m3u8
+#EXTINF:-1,TNT ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9423.m3u8
+#EXTINF:-1,TNT HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12693.m3u8
+#EXTINF:-1,TV3 Cat ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9436.m3u8
+#EXTINF:-1,Telecinco ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5415.m3u8
+#EXTINF:-1,Telecinco HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12694.m3u8
+#EXTINF:-1,Teledeporte ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5414.m3u8
+#EXTINF:-1,Toros TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/5437.m3u8
+#EXTINF:-1,Toros TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12713.m3u8
+#EXTINF:-1,TVE Internacional Europa ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/20212.m3u8
+#EXTINF:-1,Viajar ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9424.m3u8
+#EXTINF:-1,Viajar HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/12717.m3u8
+#EXTINF:-1,Caçavision HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9492.m3u8
+#EXTINF:-1,Galicia TV Europa ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/9473.m3u8
+#EXTINF:-1,Eurosport 2 ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/16844.m3u8
+#EXTINF:-1,Be Mad FHD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/22973.m3u8
+#EXTINF:-1,CNN en Español ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/22977.m3u8
+#EXTINF:-1,Movistar Liga de Campeones FHD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://mag.clientportal.link:80/live/YRSSZvS577/79xBxG577/23282.m3u8
