@@ -1,1 +1,298 @@
 
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
+
+#EXTINF:-1,------- Espana -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/3069.ts
+#EXTINF:-1,ES :0 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23371.ts
+#EXTINF:-1,ES :0 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23370.ts
+#EXTINF:-1,ES :13 TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23369.ts
+#EXTINF:-1,ES :8TV Madrid ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23368.ts
+#EXTINF:-1,ES :A&E ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23367.ts
+#EXTINF:-1,ES :a3series HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23216.ts
+#EXTINF:-1,ES :AMC FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23366.ts
+#EXTINF:-1,ES :AMC HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23365.ts
+#EXTINF:-1,ES :Andalucia TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23360.ts
+#EXTINF:-1,ES :Antena 3 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23359.ts
+#EXTINF:-1,ES :Antenna 3 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23358.ts
+#EXTINF:-1,ES :Aragon TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23357.ts
+#EXTINF:-1,ES :AXN FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23364.ts
+#EXTINF:-1,ES :AXN HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23363.ts
+#EXTINF:-1,ES :AXN White ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23362.ts
+#EXTINF:-1,ES :AXN White FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23361.ts
+#EXTINF:-1,ES :Baby TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23356.ts
+#EXTINF:-1,ES :Barca TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23355.ts
+#EXTINF:-1,ES :beIN LA Liga FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23214.ts
+#EXTINF:-1,ES :beIN Sport FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23213.ts
+#EXTINF:-1,ES :beINSport HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23212.ts
+#EXTINF:-1,ES :beINSport LaLiga HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23211.ts
+#EXTINF:-1,ES :Boing ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23354.ts
+#EXTINF:-1,ES :C  Dep 2 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23350.ts
+#EXTINF:-1,ES :C  Estrellas ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23349.ts
+#EXTINF:-1,ES :C  Xtra FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23347.ts
+#EXTINF:-1,ES :Calle 13 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23346.ts
+#EXTINF:-1,ES :Calle 13 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23345.ts
+#EXTINF:-1,ES :Canal Cocina ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23344.ts
+#EXTINF:-1,ES :Canal Decasa ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23343.ts
+#EXTINF:-1,ES :Canal Orbe 21 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23342.ts
+#EXTINF:-1,ES :Canal Panda ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23341.ts
+#EXTINF:-1,ES :Canal SUR ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23340.ts
+#EXTINF:-1,ES :Caza Y Pesca ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23339.ts
+#EXTINF:-1,ES :Caza Y Pesca FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23338.ts
+#EXTINF:-1,ES :Clan TVE ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23337.ts
+#EXTINF:-1,ES :Classica ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23336.ts
+#EXTINF:-1,ES :Comedy Central FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23335.ts
+#EXTINF:-1,ES :Comedy Central HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23334.ts
+#EXTINF:-1,ES :Cosmo FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23333.ts
+#EXTINF:-1,ES :Cosmo HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23332.ts
+#EXTINF:-1,ES :Crimen e Investigacion ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23331.ts
+#EXTINF:-1,ES :Cuatro ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23330.ts
+#EXTINF:-1,ES :Cuatro FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23329.ts
+#EXTINF:-1,ES :Discovery Channel FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23327.ts
+#EXTINF:-1,ES :Discovery HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23326.ts
+#EXTINF:-1,ES :Disney Channel FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23325.ts
+#EXTINF:-1,ES :Disney Channel HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23324.ts
+#EXTINF:-1,ES :Disney Junior ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23323.ts
+#EXTINF:-1,ES :Disney XD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23322.ts
+#EXTINF:-1,ES :DKiss TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23328.ts
+#EXTINF:-1,ES :Energy ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23321.ts
+#EXTINF:-1,ES :Esperanza TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23320.ts
+#EXTINF:-1,ES :EuroNews ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23319.ts
+#EXTINF:-1,ES :Eurosport 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23317.ts
+#EXTINF:-1,ES :EuroSport 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23318.ts
+#EXTINF:-1,ES :Eurosport 2 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23316.ts
+#EXTINF:-1,ES :Extremadura TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23315.ts
+#EXTINF:-1,ES :FDF ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23314.ts
+#EXTINF:-1,ES :Fox FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23312.ts
+#EXTINF:-1,ES :Fox HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23311.ts
+#EXTINF:-1,ES :FOX Life FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23313.ts
+#EXTINF:-1,ES :Fox Life HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23310.ts
+#EXTINF:-1,ES :Fox News ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23309.ts
+#EXTINF:-1,ES :Galicia TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23308.ts
+#EXTINF:-1,ES :Gol TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23307.ts
+#EXTINF:-1,ES :Gol TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23306.ts
+#EXTINF:-1,ES :Historia ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23305.ts
+#EXTINF:-1,ES :Historia FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23304.ts
+#EXTINF:-1,ES :Hollywood ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23303.ts
+#EXTINF:-1,ES :Hollywood FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23302.ts
+#EXTINF:-1,ES :Iberalia TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23301.ts
+#EXTINF:-1,ES :La 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23297.ts
+#EXTINF:-1,ES :LA 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23300.ts
+#EXTINF:-1,ES :LaLiga 123 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23215.ts
+#EXTINF:-1,ES :LaLiga TV Bar ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23294.ts
+#EXTINF:-1,ES :LaLigaTV FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23293.ts
+#EXTINF:-1,ES :Lancelot TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23292.ts
+#EXTINF:-1,ES :Levante TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23291.ts
+#EXTINF:-1,ES :LTC ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23298.ts
+#EXTINF:-1,ES :Mega HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23284.ts
+#EXTINF:-1,ES :Mezzo Live FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23283.ts
+#EXTINF:-1,ES :MovieStar  Accion ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23281.ts
+#EXTINF:-1,ES :MovieStar  Series FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23353.ts
+#EXTINF:-1,ES :MovieStar Comedia ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23280.ts
+#EXTINF:-1,ES :MovieStar DCine ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23279.ts
+#EXTINF:-1,ES :MovieStar Deportes 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23278.ts
+#EXTINF:-1,ES :MovieStar Deportes 2 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23277.ts
+#EXTINF:-1,ES :MovieStar Estrenos ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23276.ts
+#EXTINF:-1,ES :MovieStar F1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23275.ts
+#EXTINF:-1,ES :MovieStar Futbol ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23274.ts
+#EXTINF:-1,ES :MovieStar Golf ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23273.ts
+#EXTINF:-1,ES :MovieStar MotoGP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23272.ts
+#EXTINF:-1,ES :MovieStar Series HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23271.ts
+#EXTINF:-1,ES :MovieStar Series Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23270.ts
+#EXTINF:-1,ES :MovieStar Toros HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23269.ts
+#EXTINF:-1,ES :MovieStar Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23268.ts
+#EXTINF:-1,ES :MoviStar  Accion FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23352.ts
+#EXTINF:-1,ES :Movistar  Comedia FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23266.ts
+#EXTINF:-1,ES :MoviStar  DCine FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23351.ts
+#EXTINF:-1,ES :Movistar  Deportes 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23267.ts
+#EXTINF:-1,ES :MoviStar  Futbol FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23287.ts
+#EXTINF:-1,ES :Movistar  Partidazo ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23265.ts
+#EXTINF:-1,ES :Movistar  Partidazo FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23264.ts
+#EXTINF:-1,ES :Movistar  Partidazo HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23263.ts
+#EXTINF:-1,ES :Movistar  Series Xtra FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23262.ts
+#EXTINF:-1,ES :MoviStar Estrenos FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23348.ts
+#EXTINF:-1,ES :MoviStar F1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23282.ts
+#EXTINF:-1,ES :MoviStar Formula 1 FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23290.ts
+#EXTINF:-1,ES :MoviStar Golf  FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23289.ts
+#EXTINF:-1,ES :MoviStar MotoGP FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23288.ts
+#EXTINF:-1,ES :MTV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23286.ts
+#EXTINF:-1,ES :MTV Rocks ES ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23285.ts
+#EXTINF:-1,ES :Nat Geo ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23261.ts
+#EXTINF:-1,ES :Nat Geo FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23260.ts
+#EXTINF:-1,ES :Nat Geo Wild FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23259.ts
+#EXTINF:-1,ES :Nat Geo Wild HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23258.ts
+#EXTINF:-1,ES :Neox ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23257.ts
+#EXTINF:-1,ES :Nick Junior ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23256.ts
+#EXTINF:-1,ES :Nickelodeon FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23255.ts
+#EXTINF:-1,ES :Nickelodeon HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23254.ts
+#EXTINF:-1,ES :Non Stop People ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23253.ts
+#EXTINF:-1,ES :Nova ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23252.ts
+#EXTINF:-1,ES :Odisea HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23251.ts
+#EXTINF:-1,ES :Olympic Channel HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23250.ts
+#EXTINF:-1,ES :Real Madrid TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23249.ts
+#EXTINF:-1,ES :Sundance TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23248.ts
+#EXTINF:-1,ES :SyFy FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23247.ts
+#EXTINF:-1,ES :SyFy HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23246.ts
+#EXTINF:-1,ES :TCM ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23245.ts
+#EXTINF:-1,ES :TCM FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23244.ts
+#EXTINF:-1,ES :Telecinco ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23224.ts
+#EXTINF:-1,ES :Telecinco FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23223.ts
+#EXTINF:-1,ES :Telecinco HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23222.ts
+#EXTINF:-1,ES :TNT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23243.ts
+#EXTINF:-1,ES :TNT FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23242.ts
+#EXTINF:-1,ES :Toros TV FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23221.ts
+#EXTINF:-1,ES :TV3 24H ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23241.ts
+#EXTINF:-1,ES :TV3 Cat ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23240.ts
+#EXTINF:-1,ES :TVE Internacional ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23238.ts
+#EXTINF:-1,ES :TVE LA 2 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23239.ts
+#EXTINF:-1,ES :VH1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23220.ts
+#EXTINF:-1,ES :Viajar FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23219.ts
+#EXTINF:-1,ES :Viajar HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23218.ts
+#EXTINF:-1,ES :XTRM ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://supervip.mine.nu:80/live/BS/aogCBjZTaP/23217.ts
