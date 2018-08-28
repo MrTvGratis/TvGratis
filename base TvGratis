@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-     </item>   
-<item>  
-    <title>                      [COLOR lime]A PARTIR DE HOY TODO EL CONTENIDO   [/COLOR]</title>
+     </item>	
+<item>   
+    <title>                      [COLOR red]A PARTIR DE HOY TODO EL CONTENIDO   [/COLOR]</title>
      <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>   
-    <item>
-    <title>                      [COLOR lime]DE ESTE ADDON NO SE ACTUALIZARA  [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>
-    <item>
-    <title>                      [COLOR lime]EL MOTIVO DE ESTO ES EL   [/COLOR]</title>
+     </item>	
+	<item>
+    <title>                      [COLOR red]DE ESTE ADDON NO SE ACTUALIZARA  [/COLOR]</title>
      <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
      </item>
-     
-    <item>  
-    <title>                      [COLOR lime]APROVECHAMIENTO LUCRATIVO POR  [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>   
-<item>  
-    <title>                      [COLOR lime]PARTE DE JHGMASTER  AL LLEVARSE   [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>   
-    <item>
-    <title>                      [COLOR lime]EL CONTENIDO DE TVGRATIS PARA VENDERLO  [/COLOR]</title>
+	<item>
+    <title>                      [COLOR red]EL MOTIVO DE ESTO ES EL   [/COLOR]</title>
      <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
      </item>
-        <item>
-    <title>                      [COLOR lime]EL CREADOR SIENTE TOMAR ESTA DECISION   [/COLOR]</title>
+	 
+	<item>  
+    <title>                      [COLOR red]APROVECHAMIENTO LUCRATIVO POR  [/COLOR]</title>
      <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>
-        <item>
-    <title>                      [COLOR lime]PERO NO QUEDA OTRA   [/COLOR]</title>
+     </item>	
+<item>   
+    <title>                      [COLOR red]PARTE DE JHGMASTER  AL LLEVARSE   [/COLOR]</title>
      <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item>
+     </item>	
+	<item>
+    <title>                      [COLOR red]EL CONTENIDO DE TVGRATIS PARA VENDERLO  [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item> 
+		<item>
+    <title>                      [COLOR red]EL CREADOR SIENTE TOMAR ESTA DECISION   [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item> 
+		<item>
+    <title>                      [COLOR red]PERO NO QUEDA OTRA   [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item> 
 item>
 <title>[COLOR blue]                         Programacion Movistar [/COLOR]</title>
  <link>$doregex[makelist]</link>
