@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+     </item>   
 <item>  
-    <title>                      [COLOR lime]   JHG  - MANOLITOCABRONES   [/COLOR]</title>
+    <title>                      [COLOR lime]A PARTIR DE HOY TODO EL CONTENIDO   [/COLOR]</title>
      <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item> 
-	 <item>  
-    <title>                      [COLOR lime]PODREIS COPIAR MIS ENLACES   [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item> 
-	 <item>  
-    <title>                      [COLOR lime]PERO SIEMPRE ESTARAN PRIMERO   [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item> 
-	 <item>  
-    <title>                      [COLOR lime]EN TVGRATIS   [/COLOR]</title>
-     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
-                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-     </item> 
+     </item>   
     <item>
-    <title>                      [COLOR turquoise]SI QUIERES COLABORAR...   [/COLOR]</title>
-                                     
-	                    <link>_</link><thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
-                     <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+    <title>                      [COLOR lime]DE ESTE ADDON NO SE ACTUALIZARA  [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
      </item>
     <item>
-   <title>                      [COLOR turquoise]http://paypal.me/TvGratiskodi   [/COLOR]</title>
-                                    
-	               	     <link>_</link><thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
-                        <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+    <title>                      [COLOR lime]EL MOTIVO DE ESTO ES EL   [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
      </item>
-<item>
+     
+    <item>  
+    <title>                      [COLOR lime]APROVECHAMIENTO LUCRATIVO POR  [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item>   
+<item>  
+    <title>                      [COLOR lime]PARTE DE JHGMASTER  AL LLEVARSE   [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item>   
+    <item>
+    <title>                      [COLOR lime]EL CONTENIDO DE TVGRATIS PARA VENDERLO  [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item>
+        <item>
+    <title>                      [COLOR lime]EL CREADOR SIENTE TOMAR ESTA DECISION   [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item>
+        <item>
+    <title>                      [COLOR lime]PERO NO QUEDA OTRA   [/COLOR]</title>
+     <link>_</link><thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
+                  <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+     </item>
+item>
 <title>[COLOR blue]                         Programacion Movistar [/COLOR]</title>
  <link>$doregex[makelist]</link>
 <regex>
@@ -119,7 +129,7 @@
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
- <item>
+ item>
         <title>[COLOR green]                                  LISTA 9** [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>http://xml.autoiptv.net/normal.php?c=SP</externallink>
