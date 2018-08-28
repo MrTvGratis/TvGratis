@@ -93,7 +93,7 @@ item>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
- <item>
+ item>
         <title>[COLOR green]                                  LISTA 4[/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%204</externallink>
@@ -108,21 +108,21 @@ item>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
- <item>
+ item>
         <title>[COLOR green]                                  LISTA 6  [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%206</externallink>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
-<item>
+item>
         <title>[COLOR green]                                  LISTA 7  [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%207</externallink>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
- <item>
+ item>
         <title>[COLOR green]                                  LISTA 8 [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%208</externallink>
@@ -132,7 +132,7 @@ item>
  item>
         <title>[COLOR green]                                  LISTA 9** [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>http://xml.autoiptv.net/normal.php?c=SP</externallink>
+        <externallink></externallink>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
@@ -164,14 +164,14 @@ item>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
- <item>
+ item>
         <title>[COLOR green]                                  LISTA 14 [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2014</externallink>
         <thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 </item>
- <item>
+ item>
         <title>[COLOR green]                                  LISTA 15 [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2015</externallink>
@@ -187,7 +187,7 @@ item>
         <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
         <info>en espera</info>
 </item>
- <item>
+ item>
         <title>[COLOR green]                                  LISTA 17 [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/lista%2017</externallink>
