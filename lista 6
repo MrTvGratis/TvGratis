@@ -1,1 +1,203 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
+
+
+#EXTINF:-1,=======SPANISH=======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4980.m3u8
+#EXTINF:-1,LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4979.m3u8
+#EXTINF:-1,LA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4978.m3u8
+#EXTINF:-1,Antena 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4977.m3u8
+#EXTINF:-1,CUATRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4976.m3u8
+#EXTINF:-1,TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4975.m3u8
+#EXTINF:-1,La Sexta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4974.m3u8
+#EXTINF:-1,Neox
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4973.m3u8
+#EXTINF:-1,NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4972.m3u8
+#EXTINF:-1,Mega Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4971.m3u8
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4970.m3u8
+#EXTINF:-1,DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4969.m3u8
+#EXTINF:-1,Energy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4968.m3u8
+#EXTINF:-1,Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4967.m3u8
+#EXTINF:-1,TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4966.m3u8
+#EXTINF:-1,CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4965.m3u8
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4964.m3u8
+#EXTINF:-1,CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4963.m3u8
+#EXTINF:-1,CANAL SUR A.
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4962.m3u8
+#EXTINF:-1,======ESTILO DE VIDA======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,Cosmopolitan
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4960.m3u8
+#EXTINF:-1,Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4959.m3u8
+#EXTINF:-1,24 Horas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4958.m3u8
+#EXTINF:-1,======INFANTILES======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4956.m3u8
+#EXTINF:-1,Disney Jr.
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4955.m3u8
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4954.m3u8
+#EXTINF:-1,Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4953.m3u8
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4952.m3u8
+#EXTINF:-1,Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4951.m3u8
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4950.m3u8
+#EXTINF:-1,PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4948.m3u8
+#EXTINF:-1,======DOCUMENTALES======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4946.m3u8
+#EXTINF:-1,Viajar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4945.m3u8
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4944.m3u8
+#EXTINF:-1,National Geo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4943.m3u8
+#EXTINF:-1,National Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4942.m3u8
+#EXTINF:-1,Crime&Investigation
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4941.m3u8
+#EXTINF:-1,NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4940.m3u8
+#EXTINF:-1,======CINE======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,M.ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4938.m3u8
+#EXTINF:-1,M.ACCION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4937.m3u8
+#EXTINF:-1,M.COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4936.m3u8
+#EXTINF:-1,M.DCINE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4935.m3u8
+#EXTINF:-1,M.XTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4934.m3u8
+#EXTINF:-1,M.SERIES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4933.m3u8
+#EXTINF:-1,M.SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4932.m3u8
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4931.m3u8
+#EXTINF:-1,Hollywood
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4930.m3u8
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4929.m3u8
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4928.m3u8
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4927.m3u8
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4926.m3u8
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4925.m3u8
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4924.m3u8
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4923.m3u8
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4922.m3u8
+#EXTINF:-1,CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4921.m3u8
+#EXTINF:-1,PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4920.m3u8
+#EXTINF:-1,======ALQUILER======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,ALQUILER 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4918.m3u8
+#EXTINF:-1,ALQUILER 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4917.m3u8
+#EXTINF:-1,ALQUILER 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4916.m3u8
+#EXTINF:-1,ALQUILER 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4915.m3u8
+#EXTINF:-1,ALQUILER 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4914.m3u8
+#EXTINF:-1,ALQUILER 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4913.m3u8
+#EXTINF:-1,ALQUILER 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4912.m3u8
+#EXTINF:-1,ALQUILER 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4911.m3u8
+#EXTINF:-1,ALQUILER 9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4910.m3u8
+#EXTINF:-1,ALQUILER 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4909.m3u8
+#EXTINF:-1,======EXTRA======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,TOROS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4907.m3u8
+#EXTINF:-1,Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4906.m3u8
+#EXTINF:-1,IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4905.m3u8
+#EXTINF:-1,======DEPORTES======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,M.MotoGp
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4903.m3u8
+#EXTINF:-1,Canal  Liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4902.m3u8
+#EXTINF:-1,Gol TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4901.m3u8
+#EXTINF:-1,M.FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4900.m3u8
+#EXTINF:-1,M.GOLF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4899.m3u8
+#EXTINF:-1,M.DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4898.m3u8
+#EXTINF:-1,M.DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4897.m3u8
+#EXTINF:-1,M.Formula 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4896.m3u8
+#EXTINF:-1,Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4894.m3u8
+#EXTINF:-1,Barca TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4893.m3u8
+#EXTINF:-1,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4892.m3u8
+#EXTINF:-1,LA LIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4888.m3u8
+#EXTINF:-1,LA LIGA TV 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4886.m3u8
+#EXTINF:-1,LA LIGA TV 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4885.m3u8
+#EXTINF:-1,Teleorte
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4884.m3u8
+#EXTINF:-1,=======MUSICA=======
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:9800/movie/PUBLICITE2018/2017PUBLICITE/7043.mp4
+#EXTINF:-1,MTV Espana
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4882.m3u8
+#EXTINF:-1,40 TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4880.m3u8
+#EXTINF:-1,Canal De Las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4879.m3u8
+
+#EXTINF:-1,beIN Sports ES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/5032.m3u8
+#EXTINF:-1,beIN Sports LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/5031.m3u8
