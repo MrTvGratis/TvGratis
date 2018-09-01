@@ -1,140 +1,323 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
-
-
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27451.m3u8
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27450.m3u8
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27449.m3u8
-#EXTINF:-1,ES: Antenna 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27447.m3u8
-#EXTINF:-1,ES: Axn
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27446.m3u8
-#EXTINF:-1,ES: AXN White
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27448.m3u8
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27445.m3u8
-#EXTINF:-1,ES: Bein La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27444.m3u8
-#EXTINF:-1,ES: Bein Sport Spain
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27443.m3u8
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27442.m3u8
-#EXTINF:-1,ES: Calle 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27441.m3u8
-#EXTINF:-1,ES: Canal #0
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27440.m3u8
-#EXTINF:-1,ES: Canal Accion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27439.m3u8
-#EXTINF:-1,ES: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27438.m3u8
-#EXTINF:-1,ES: Canal Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27437.m3u8
-#EXTINF:-1,ES: Canal Dcine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27436.m3u8
-#EXTINF:-1,ES: Canal Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27434.m3u8
-#EXTINF:-1,ES: Canal Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27433.m3u8
-#EXTINF:-1,ES: Canal Estrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27432.m3u8
-#EXTINF:-1,ES: Canal F1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27431.m3u8
-#EXTINF:-1,ES: Canal Futbal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27430.m3u8
-#EXTINF:-1,ES: Canal Golf
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27429.m3u8
-#EXTINF:-1,ES: Canal Motogp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27428.m3u8
-#EXTINF:-1,ES: Canal Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27427.m3u8
-#EXTINF:-1,ES: Canal Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27426.m3u8
-#EXTINF:-1,ES: Canal Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27425.m3u8
-#EXTINF:-1,ES: Casa y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27424.m3u8
-#EXTINF:-1,ES: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27423.m3u8
-#EXTINF:-1,ES: Cosmo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27422.m3u8
-#EXTINF:-1,ES: Crime&Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27421.m3u8
-#EXTINF:-1,ES: Cuatro
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27420.m3u8
-#EXTINF:-1,ES: Decasa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27419.m3u8
-#EXTINF:-1,ES: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27418.m3u8
-#EXTINF:-1,ES: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27417.m3u8
-#EXTINF:-1,ES: Disney Jr.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27416.m3u8
-#EXTINF:-1,ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27415.m3u8
-#EXTINF:-1,ES: Divinity
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/28272.m3u8
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/28265.m3u8
-#EXTINF:-1,ES: Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27413.m3u8
-#EXTINF:-1,ES: Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27412.m3u8
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27411.m3u8
-#EXTINF:-1,ES: Fox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27409.m3u8
-#EXTINF:-1,ES: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27410.m3u8
-#EXTINF:-1,ES: GOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27408.m3u8
-#EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27407.m3u8
-#EXTINF:-1,ES: Hollywood
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27406.m3u8
-#EXTINF:-1,ES: Iberalia TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27405.m3u8
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27404.m3u8
+#EXTINF:-1,-------- Internacional --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/980.ts
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/261.ts
 #EXTINF:-1,ES: La 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27394.m3u8
-#EXTINF:-1,ES: La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27402.m3u8
-#EXTINF:-1,ES: MTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27401.m3u8
-#EXTINF:-1,ES: Nat Geo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27414.m3u8
-#EXTINF:-1,ES: Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27399.m3u8
-#EXTINF:-1,ES: Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27435.m3u8
-#EXTINF:-1,ES: Nonstop People
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27398.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/262.ts
+#EXTINF:-1,ES: LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/998.ts
+#EXTINF:-1,ES: LA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1079.ts
+#EXTINF:-1,ES: ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1008.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/985.ts
+#EXTINF:-1,ES: Cuatro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/4296.ts
+#EXTINF:-1,ES: CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/991.ts
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1070.ts
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1034.ts
+#EXTINF:-1,ES: 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/912.ts
+#EXTINF:-1,ES: Canal Sur Andalucia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/916.ts
+#EXTINF:-1,ES: ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1009.ts
 #EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27400.m3u8
-#EXTINF:-1,ES: Odisea
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27397.m3u8
-#EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27396.m3u8
-#EXTINF:-1,ES: Real madrid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27395.m3u8
-#EXTINF:-1,ES: Syfy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27393.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/970.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1062.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1044.ts
+#EXTINF:-1,ES: RT Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/244.ts
+#EXTINF:-1,ES: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1341.ts
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1042.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1068.ts
+#EXTINF:-1,ES: TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/264.ts
+#EXTINF:-1,ES: RTV Ceuta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/267.ts
+#EXTINF:-1,ES: Alfa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/265.ts
+#EXTINF:-1,ES: Canal Orbe 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/5167.ts
+#EXTINF:-1,ES: TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1074.ts
+#EXTINF:-1,---------- Series & Movies ----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/977.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/352.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/986.ts
+#EXTINF:-1,ES: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3115.ts
+#EXTINF:-1,ES: AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/351.ts
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1007.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/987.ts
+#EXTINF:-1,ES: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/350.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/992.ts
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/349.ts
+#EXTINF:-1,ES: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/993.ts
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1045.ts
+#EXTINF:-1,ES: #0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/967.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1004.ts
 #EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27392.m3u8
-#EXTINF:-1,ES: Telecinco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27388.m3u8
-#EXTINF:-1,ES: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27391.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1069.ts
 #EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27390.m3u8
-#EXTINF:-1,ES: Toros
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27387.m3u8
-#EXTINF:-1,ES: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27389.m3u8
-#EXTINF:-1,ES: Viajar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://leaderpro.pt:25461/live/nata/nata/27386.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1072.ts
+#EXTINF:-1,ES: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1003.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3113.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/891.ts
+#EXTINF:-1,ES: SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/5164.ts
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1064.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/905.ts
+#EXTINF:-1,ES: CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3112.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1038.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1076.ts
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/348.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/994.ts
+#EXTINF:-1,ES: M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/433.ts
+#EXTINF:-1,ES: M. ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/983.ts
+#EXTINF:-1,ES: M. DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1049.ts
+#EXTINF:-1,ES: M. Cine Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/902.ts
+#EXTINF:-1,ES: M. DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/434.ts
+#EXTINF:-1,ES: M. DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/989.ts
+#EXTINF:-1,ES: M. SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1029.ts
+#EXTINF:-1,ES: M. SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/995.ts
+#EXTINF:-1,ES: M. COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1032.ts
+#EXTINF:-1,ES: M. COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/435.ts
+#EXTINF:-1,ES: M. ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1046.ts
+#EXTINF:-1,ES: M. ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1024.ts
+#EXTINF:-1,ES: M. XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1033.ts
+#EXTINF:-1,ES: M. SERIESXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1030.ts
+#EXTINF:-1,ES: M. SeriesXtraHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/996.ts
+#EXTINF:-1,---------- Desporto ----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/978.ts
+#EXTINF:-1,ES: MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/5165.ts
+#EXTINF:-1,ES: MULTIFUT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/5166.ts
+#EXTINF:-1,ES: BE MAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/6174.ts
+#EXTINF:-1,ES: Movistar Liga Campeones HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/422.ts
+#EXTINF:-1,ES: Movistar Liga Campeones HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/5229.ts
+#EXTINF:-1,ES: Movistar Liga Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1423.ts
+#EXTINF:-1,ES: LALIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1339.ts
+#EXTINF:-1,ES: LALIGA TV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1340.ts
+#EXTINF:-1,ES: BeIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1337.ts
+#EXTINF:-1,ES: BEIN LALIGA *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/5228.ts
+#EXTINF:-1,ES: BEIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1338.ts
+#EXTINF:-1,ES: BeIN MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1426.ts
+#EXTINF:-1,ES: BeIN MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1425.ts
+#EXTINF:-1,ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1424.ts
+#EXTINF:-1,ES: M. FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1025.ts
+#EXTINF:-1,ES: M. FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1000.ts
+#EXTINF:-1,ES: Partidazo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3965.ts
+#EXTINF:-1,ES: Partidazo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3964.ts
+#EXTINF:-1,ES: Movistar+ Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3110.ts
+#EXTINF:-1,ES: Movistar+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3111.ts
+#EXTINF:-1,ES: M. DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/427.ts
+#EXTINF:-1,ES: M. DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1040.ts
+#EXTINF:-1,ES: M. GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/997.ts
+#EXTINF:-1,ES: M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/910.ts
+#EXTINF:-1,ES: BarçaTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1011.ts
+#EXTINF:-1,ES: Real Madrid Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/263.ts
+#EXTINF:-1,ES: M.FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/430.ts
+#EXTINF:-1,ES: M.FORMULA F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1053.ts
+#EXTINF:-1,ES: M.MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1001.ts
+#EXTINF:-1,ES: Movistar.MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/429.ts
+#EXTINF:-1,ES: EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/431.ts
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1047.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1048.ts
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/428.ts
+#EXTINF:-1,ES: M.eSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/922.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3602.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3601.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3604.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3603.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3605.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3606.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3607.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3608.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3609.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3610.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1013.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1014.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1015.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1016.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1017.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1018.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1019.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1020.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1021.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1022.ts
+#EXTINF:-1,---------- Infantil ----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/982.ts
+#EXTINF:-1,ES: NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/5163.ts
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/907.ts
+#EXTINF:-1,ES: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/969.ts
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/957.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1063.ts
+#EXTINF:-1,ES: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1010.ts
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1061.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1041.ts
+#EXTINF:-1,---------- Cultura ----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/981.ts
+#EXTINF:-1,ES: TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/432.ts
+#EXTINF:-1,ES: TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1073.ts
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/903.ts
+#EXTINF:-1,ES: CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3114.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/915.ts
+#EXTINF:-1,ES: Crimen + Investigación
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/896.ts
+#EXTINF:-1,ES: IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/968.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/901.ts
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/894.ts
+#EXTINF:-1,ES: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/890.ts
+#EXTINF:-1,ES: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1060.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1002.ts
+#EXTINF:-1,ES: National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3116.ts
+#EXTINF:-1,ES: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/918.ts
+#EXTINF:-1,ES: CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/919.ts
+#EXTINF:-1,ES: CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/906.ts
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1035.ts
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1075.ts
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3109.ts
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/899.ts
+#EXTINF:-1,ES: COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/990.ts
+#EXTINF:-1,---------- Musica ----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/979.ts
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1058.ts
+#EXTINF:-1,ES: MTV ESPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/1054.ts
+#EXTINF:-1,ES: CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3120.ts
+#EXTINF:-1,ES: Mezzo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.oirza.com:8000/live/e2cYVKOngQ/7ccO7B25am/3119.ts
