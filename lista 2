@@ -1,1 +1,191 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV" tvg-logo="" group-title="SPAIN",ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/315.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="SPAIN",ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/337.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="" group-title="SPAIN",ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/336.ts
+
+#EXTINF:-1,ES: #O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/349.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: A&E" tvg-logo="" group-title="SPAIN",ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/316.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.antena3.com/clipping/2011/01/26/00203/24.jpg" group-title="SPAIN",ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/187.ts
+
+#EXTINF:-1 tvg-id="AXN ASTRA HD 1.sp" tvg-name="ES: AXN" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="SPAIN",ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/347.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="https://seeklogo.com/images/A/axn-white-logo-4568307513-seeklogo.com.png" group-title="SPAIN",ES: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/346.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="https://www.stream2watch.org/images/streams/181/600x400/14593252691332.jpg" group-title="SPAIN",ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/882.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: B31N La Liga HD" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="SPAIN",ES: B31N La Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/264.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: B31N Sp0rts SPAIN HD" tvg-logo="https://albawabacdn-albawabamiddleea.netdna-ssl.com/sites/default/files/imagecache/article_headline_node_big//sites/default/files/im/Sport/Bein_sport_logo.png" group-title="SPAIN",ES: B31N Sp0rts SPAIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/160.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="SPAIN",ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/345.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.area787magazine.com/wp-content/uploads/2017/08/sgaXRdpZ.jpg" group-title="SPAIN",ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/344.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca" tvg-logo="https://apfalcoaria.org/wp-content/uploads/2013/12/d0d354668f69293e040aa69de3140c78.jpg" group-title="SPAIN",ES: Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/11577.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: COCINA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://media.tvalacarta.info/canales/256x256/canalcocina.png" group-title="SPAIN",ES: COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/343.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/07/comedy-central-logo-1.png" group-title="SPAIN",ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/342.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif" group-title="SPAIN",ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/341.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN INVESTIGACION" tvg-logo="" group-title="SPAIN",ES: CRIMEN INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/313.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://cadenaser00.epimg.net/ser/imagenes/2018/02/16/television/1518793828_982795_1518794986_noticia_normal.jpg" group-title="SPAIN",ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/340.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL" tvg-logo="" group-title="SPAIN",ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/314.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="" group-title="SPAIN",ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/312.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR" tvg-logo="" group-title="SPAIN",ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/311.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="SPAIN",ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/310.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="" group-title="SPAIN",ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/309.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="" group-title="SPAIN",ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/308.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="" group-title="SPAIN",ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/307.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="" group-title="SPAIN",ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/306.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://nigeriacommunicationsweek.com.ng/wp-content/uploads/2016/09/fox%20life.jpg" group-title="SPAIN",ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/339.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/o/l/xgol.jpg.pagespeed.ic.ehJ8f13U62.jpg" group-title="SPAIN",ES: GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/265.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA" tvg-logo="" group-title="SPAIN",ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/305.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="SPAIN",ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/338.ts
+
+#EXTINF:-1 tvg-id="SEXTA ASTRA HD 1.sp" tvg-name="ES: La Sexta" tvg-logo="https://s.libertaddigital.com/fotos/noticias/lasexta-logo-mjg-20140530.jpg" group-title="SPAIN",ES: La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/188.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLigaTV BAR" tvg-logo="https://assets9.domestika.org/project-items/002/071/599/a9d15e56512429.59b1653b197e2-big.jpg" group-title="SPAIN",ES: LaLigaTV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/161.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mega" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.emopa.com/wp-content/uploads/2015/07/Logo-MEGA.jpg" group-title="SPAIN",ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/263.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR  DEPORTES 1" tvg-logo="" group-title="SPAIN",ES: MOVISTAR  DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/159.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION" tvg-logo="" group-title="SPAIN",ES: MOVISTAR ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/156.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="" group-title="SPAIN",ES: MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/335.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DCINE" tvg-logo="" group-title="SPAIN",ES: MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/334.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 2" tvg-logo="" group-title="SPAIN",ES: MOVISTAR DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/333.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="" group-title="SPAIN",ES: MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/332.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar F1" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png" group-title="SPAIN",ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/189.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FUTBOL HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/158.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF" tvg-logo="" group-title="SPAIN",ES: MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/157.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR MOTO GP" tvg-logo="" group-title="SPAIN",ES: MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/331.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES" tvg-logo="" group-title="SPAIN",ES: MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/330.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES XTRA" tvg-logo="" group-title="SPAIN",ES: MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/329.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR XTRA" tvg-logo="" group-title="SPAIN",ES: MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/328.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SPAIN",ES: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/327.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD" tvg-logo="" group-title="SPAIN",ES: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/326.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="" group-title="SPAIN",ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/300.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="" group-title="SPAIN",ES: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/325.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="" group-title="SPAIN",ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/324.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA HD" tvg-logo="" group-title="SPAIN",ES: ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/298.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PANDA" tvg-logo="" group-title="SPAIN",ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/297.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT" tvg-logo="" group-title="SPAIN",ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/296.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="" group-title="SPAIN",ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/323.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="" group-title="SPAIN",ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/322.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="" group-title="SPAIN",ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/321.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE" tvg-logo="" group-title="SPAIN",ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/320.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeNeTe" tvg-logo="" group-title="SPAIN",ES: TeNeTe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/319.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROSTV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/toros-tv/logo/large.jpg" group-title="SPAIN",ES: TOROSTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/155.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR" tvg-logo="" group-title="SPAIN",ES: VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://disfruta.club:8000/live/9lCK3uPZG8/h0vclEGx89/318.ts
