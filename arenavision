@@ -34,4 +34,12 @@
  </regex>
 <thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR green]  AVEZY [/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
+<thumbnail>https://4.bp.blogspot.com/-0ZgUkxETBPs/WaE31Bg1ARI/AAAAAAAAaek/HtinzJGlKUE7SEjFgr21B-pkth-O7vluACLcBGAs/s1600/Avezy%2BKodi%2BKrypton%2B17%2B1.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+</item>
 	
