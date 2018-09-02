@@ -1,1144 +1,497 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-  <item>
-<title>[COLOR lime]paypal.me/TvGratiskodi[/COLOR]</title>
-<link>_</link><thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
-  </item>
-<item>
-<title>#0</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=movistarcero&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-cero</referer>
-</regex>
-<thumbnail>https://s18.postimg.cc/4vabhtjqx/cero.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR ACCION</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=accion&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-accion/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/hy72w8y9r/accion.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>MOVISTAR CINE Ñ</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/dcinees</page>
-<referer>http://telefivegb.com/canales/pelis/dcinees</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/n9lzh0a2n/cine.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>MOVISTAR COMEDIA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=mcomedia&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/ver-canal-plus-comedia-hd-online-y-en-directo-las-24h-en-vivo/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/kfiu3jd1b/comedia.jpg</thumbnail>
-<fanart></fanart>		
-</item>
-
-<item>
-<title>MOVISTAR DCINE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=dicneesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-dcine/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/4ha4dey8v/dcine.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR ESTRENOS</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=movestr&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-estrenos/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/dcaynz51r/estrenos.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR SERIES</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarseries&width=650&height=397</page>
-<referer>http://telefivegb.com/tv-spain/ver-canal-movistar-series-1-online-gratis-vivo</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/qt7x6ya9b/series.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>MOVISTAR SERIES XTRA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=movistarseriesxtra&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-series-xtra/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/u1cejjee7/seriesxtra.png</thumbnail>
-<fanart></fanart>	
-</item> -->
-
-<item>
-<title>MOVISTAR XTRA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=mxtra&width=100%&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/xtrem</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/yzzwy2xmn/xtra.jpg</thumbnail>
-<fanart></fanart>	
-</item>
-
-<item>
-<title>AMC</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=amcesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/amc-espana/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/6ad11wbrj/amc.png</thumbnail>
-<fanart></fanart>		
-</item>
-
-<item>
-<title>AXN</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=axn&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/axn-espana/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/5xlmvij5b/axn.png</thumbnail>
-<fanart></fanart>	
-</item>
-
-<!-- <item>
-<title>AXN WHITE *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=axnesp&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/envivo/axnwhite.htm</referer>
-<thumbnail>https://s1.postimg.cc/1i1pthy4n3/SET.png</thumbnail>
-<fanart></fanart>	
-</item> -->
-
-<item>
-<title>BLAZE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex> 
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=anadetelefive&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/blaze-espana/</referer>
-</regex> 
-<thumbnail>https://s15.postimg.cc/rsx9hh3qz/blaze.png</thumbnail>
-<fanart></fanart>	
-</item>
-
-<item>
-<title>CALLE 13</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex> 
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=calle13&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/calle13</referer>
-</regex> 
-<thumbnail>https://s9.postimg.cc/vqyv191lb/calle13.jpg</thumbnail>
-<fanart></fanart>		
-</item>
-
-<item>
-<title>COMEDY CENTRAL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex> 
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=comedycentral&width=100%&height=100%</page>
-<referer>http://telefivegb.com/canales/pelis/paramountcomady</referer>
-</regex> 
-<thumbnail>https://s9.postimg.cc/nmqqwpa33/comedycentral.png</thumbnail>
-<fanart></fanart>	
-</item>
-
-<!-- <item>
-<title>COSMO *</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/envivo/cosmo.html</referer>
-<thumbnail>https://s9.postimg.cc/fxtwko4cv/cosmo.png</thumbnail>
-<fanart></fanart>	
-</item> -->
-
-<!-- <item>
-<title>DARK</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=darkes&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/dark-espana/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/82jd5w50v/dark.png</thumbnail>
-<fanart></fanart>	
-</item> -->
-
-<item>
-<title>FOX</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=foxespana&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/fox-espana/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/peob588i7/fox.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>FOX LIFE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=foxlive&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/series/foxlive</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/46f81igu7/foxlife.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>HOLLYWOOD</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex> 
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
-</regex> 
-<thumbnail>https://s9.postimg.cc/zej7kvren/hollywood.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MTV</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=mtvesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/mtv-live-espana/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/s3samgq3j/mtv.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>SYFY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=sysfesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/syfy-espana/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/mj6mkrclb/syfy.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TCM</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=tcmesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/tcm-espana/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/gxte81t73/tcm.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TNT</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=tnt&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/tnt/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/8i3tqinr3/tnt.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>VIAJAR *</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=viajar&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://vercanalestv.com/tv/documentales/viajar.html</referer>
-<thumbnail>https://s1.postimg.cc/2uvhgi5lbj/VJR.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>CANAL COCINA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=cocinaesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/ver-canal-cocina-onlin/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/8w9r3ox6n/cocina.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>DECASA *</title>
-<link>http://flus0.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8</link>
-<thumbnail>https://s1.postimg.cc/7rzf5n7p9r/DECASA.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>TOROS</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=torotvn&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/toros-tv-online-24h/</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/bhfbr3c8v/toros.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CAZA Y PESCA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=cazaypesca&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/7zr7u37jz/cazaypesca.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>IBERALIA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=iberalia&width=650&height=400</page>
-<referer>http://konectas.es</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/5wa9edmufz/IBERAL.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>CRIMEN E INVESTIGACION</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=crimenyinvestigacion&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/documental/ci</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/do6pczte7/citv.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=discoverychannel&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/discovery-channel-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/92gilx3l7/discoverychannel.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DMAX</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=dmax&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/dmax-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/c9b25nqmz/dmax.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>HISTORIA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=historiaesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/historia-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/s7jrvxxrf/historia.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>NATIONAL GEOGRAPHIC</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=natgeo&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/national-geographic-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/xvq2mx24r/natgeo.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>NAT GEO WILD</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=geowild&width=650&height=397</page>                                 
-<referer>http://verbeinlaliga.com/nat-geo-wild-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/uovj3e4uz/natgeowild.png</thumbnail>
-<fanart></fanart>		
-</item>
-	
-<item>
-<title>ODISEA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=397</page>                                 
-<referer>http://telefivegb.com/canales/documental/odisea</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/3ytubqcsr/odisea.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR FUTBOL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=mfutboles&width=650&height=397</page>                                 
-<referer>http://verbeinlaliga.com/movistar-futbol/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/ii0zdb5zf/futbol.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR PARTIDAZO</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=partidazo&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-el-partidazo/</referer>
-</regex>
-<thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR F1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=m_f1&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-formula-uno/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/bg31qrmuj/formula1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>MOVISTAR MOTOGP</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=motogp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-moto-gp-online/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/y4s8qlrgb/motogp.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>MOVISTAR DEPORTES 1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=deporteone&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-deporte-1/</referer>
-</regex>
-<thumbnail>https://s18.postimg.cc/7l0tctyax/deportes1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR DEPORTES 2</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=deportedos&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-deporte-2/</referer>
-</regex>
-<thumbnail>https://s18.postimg.cc/tq74xh4kp/deportes2.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>MOVISTAR GOLF</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=golf&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/movistar-golf/</referer>
-</regex>
-<thumbnail>https://s18.postimg.cc/ngupcz095/golf.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>LA LIGA TV</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=barligas&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/laliga-tv/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/n7e1zdta3/laligatv.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>BEIN SPORTS</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=beinsport&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/bein-sport-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/krc8l55y3/beinsports.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<!-- <item>
-<title>BEIN LA LIGA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=beinliga&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/bein-sport-laliga/</referer>
-</regex>
-<thumbnail>https://s18.postimg.cc/cvau189ft/beinlaliga.png</thumbnail>
-<fanart></fanart>
-</item> -->
-	
-<!-- <item>
-<title>BEIN SPORTS Ñ</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=beinsportn&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/bein-sport-n/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/guywp9va3/beinsports.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>EUROSPORT 1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=eurosportsesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/eurosport-las-24h-en-directo/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/imrvkimgb/eurosport1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>EUROSPORT 2</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=eurosportsdosesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/eurosport-2-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/a5sd9aryj/eurosport2.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>GARAGE TV</title>
-<link>http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8</link>
-<thumbnail>https://s15.postimg.cc/4u6klv8zf/garagetv.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>GOL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=golesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/gol-tv/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/4udgonqh7/gol.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TELEDEPORTE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=teledeporteesp&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/teledeporte/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/jdklq547f/tdp.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>R.MADRID TV</title>
-<link>https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8</link>
-<referer>https://www.realmadrid.com/real-madrid-tv</referer>
-<thumbnail>https://s7.postimg.cc/al3n21ydn/realmadrid.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BARCA TV</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=barca&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/barca-tv/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/3wmywyl1rj/BARNA.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>LA 1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/tdt/tv1</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/i12wo5jln/la1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>LA 2</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=la2&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/tdt/tv2</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/47ejz8oh7/la2.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ANTENA 3</title>
-<link>https://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8</link>
-<referer>https://www.atresplayer.com/directos/antena3/</referer>
-<thumbnail>https://s7.postimg.cc/fjr5h4kcb/antena3.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CUATRO</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=cuatro&width=650&height=397</page>
-<referer>hhttp://verbeinlaliga.com/la-cuatro/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/pv3i999bf/cuatro.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TELECINCO</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=telecinco&width=650&height=397</page>
-<referer>https://www.mitele.es/directo/telecinco</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/a9m6pectn/telecinco.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>LA SEXTA</title>
-<link>https://livepull1.secure.footprint.net/lasextampp/bitrate_4.m3u8</link>
-<referer>https://www.atresplayer.com/directos/lasexta/</referer>
-<thumbnail>https://s7.postimg.cc/7fj1c3njv/lasexta.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DIVINITY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=divinity&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/divinity/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/llys7fdvf/divinity.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ENERGY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=energy&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/energy/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/hplgbm8d7/energy.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>FDF</title>
-<link>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</link>
-<referer>https://www.mitele.es/directo/fdf</referer>
-<thumbnail>https://s7.postimg.cc/vkoc7da17/fdf.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>NEOX</title>
-<link>https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_4.m3u8</link>
-<referer>https://www.atresplayer.com/directos/neox/</referer>
-<thumbnail>https://s7.postimg.cc/brc8elc23/neox.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>NOVA</title>
-<link>https://livepull1.secure.footprint.net/novampp/bitrate_4.m3u8</link>
-<referer>https://www.atresplayer.com/directos/nova/</referer>
-<thumbnail>https://s7.postimg.cc/s12ehu9yz/nova.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>A3SERIES</title>
-<link>https://livepull1-i.akamaized.net/geoa3seriesmpp/bitrate_4.m3u8</link>
-<referer>https://www.atresplayer.com/atreseries/</referer>
-<thumbnail>https://s7.postimg.cc/beku8j43v/a3series.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>TEN</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=ten&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/ten/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/5pu9mez37z/TEN.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>DKISS</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=dkiss&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/dkiss/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/7kst31jyof/DKISS.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BE MAD</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=bemad&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/be-mad/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/7kst31jyof/DKISS.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MEGA</title>
-<link>https://livepull1.secure.footprint.net/geomegampp/bitrate_4.m3u8</link>
-<referer>https://www.atresplayer.com/mega/</referer>
-<thumbnail>https://s7.postimg.cc/oiqelmwa3/mega.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>PARAMOUNT CHANNEL</title>
-<link>http://paramount.live.flumotion.com/live/chunks.m3u8</link>
-<referer>http://www.paramountnetwork.es/programacion/en-directo</referer>
-<thumbnail>https://s7.postimg.cc/nuhk2efh7/paramount.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>24H</title>
-<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8</link>
-<referer>http://www.rtve.es/directo/canal-24h/</referer>
-<thumbnail>https://s7.postimg.cc/6tyntwa7f/24h.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>INTERECONOMIA</title>
-<link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8</link>
-<referer>https://www.intereconomia.tv/tv-en-directo-2/</referer>
-<thumbnail>https://s7.postimg.cc/g6unjxoh7/intereconomia.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>BOING</title>
-<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8</link>
-<referer></referer>
-<thumbnail>https://s7.postimg.cc/3s7vjvk6z/boing.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>CLAN TVE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=clantv&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/clan/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/5ws8l0qzf/clan.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>DISNEY CHANNEL</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=disneychannel&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/disney-channel-espana/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/r7pspclzf/disneychannel.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>DISNEY JUNIOR</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=disneyjunior&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/ver-disney-junior-en-directo-y-online-en-vivo/</referer>
-</regex>
-<thumbnail>https://s7.postimg.cc/r7pspclzf/disneychannel.jpg</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>DISNEY XD</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=disneyxd&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/disney-xd-espana/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/8lqrlhj5bz/DCHXD.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MOVISTAR DISNEY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=mdisney&width=650&height=400</page>
-<referer>http://verbeinlaliga.com/movistar-disney/</referer>
-</regex>
-<thumbnail>https://s18.postimg.cc/df6nt1fm1/disney.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>NICKELODEON</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=nickelones&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/nickelodeon-espana/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/2zp17mq7fz/NICK.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<!-- <item>
-<title>NICK JR</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page></page>
-<referer></referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/2zp17mq7fz/NICK.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<!-- <item>
-<title>CANAL PANDA</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=panda=650&height=400&autostart=true</page>
-<referer>http://verbeinlaliga.com/ver-canal-panda-online-gratis-por-internet-en-vivo-las-24h/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/7f7gcwee1r/PANDA.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<!-- <item>
-<title>BABY TV *</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte2.php?file=babytv=650&height=400&autostart=true</page>
-<referer>http://verbeinlaliga.com/ver-canal-baby-tv-online/</referer>
-</regex>
-<thumbnail>https://s1.postimg.cc/2peysnq27j/BABY.png</thumbnail>
-<fanart></fanart>
-</item> -->
-
-<item>
-<title>TELEMADRID</title>
-<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/master.m3u8</link>
-<referer>http://www.telemadrid.es/emision-en-directo</referer>
-<thumbnail>https://s7.postimg.cc/xzg7rrfzf/telemadrid.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>LAOTRA</title>
-<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8</link>
-<referer></referer>
-<thumbnail>https://s7.postimg.cc/966nr6pa3/laotra.png</thumbnail>
-<fanart></fanart>
-</item>	
-	
-<item>
-<title>CASTILLA LA MANCHA</title>
-<link>http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8</link>
-<referer>http://www.cmmedia.es/en-directo/tv/</referer>
-<thumbnail>https://s7.postimg.cc/rlr4ooqkr/cmm.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CASTILLA Y LEON</title>
-<link>http://cdn.s2.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8</link>
-<referer>http://www.rtvcyl.es/DirectoCylTV</referer>
-<thumbnail>https://s7.postimg.cc/3urr6m0ob/cyl.png</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title>13TV</title>
-<link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
-<referer>http://trecetv.es/directo</referer>
-<thumbnail>https://s7.postimg.cc/83wh8uw8r/trece.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>3/24</title>
-<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
-<referer></referer>
-<thumbnail>https://s7.postimg.cc/4x1xpa1iz/324.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>8 TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoId]</link>
-	<regex>
-		<name>getLiveVideoId</name>
-		<expres>watch\?v=(.*?)"</expres>
-		<page>https://www.youtube.com/embed/live_stream?channel=UC3HxX0LL6fG3PJ4kZGlkz9w&rel=0&modestbranding</page>
-		<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
-		<cookieJar></cookieJar>
-	</regex>
-<referer>http://www.8tv.cat/directe/</referer>
-<thumbnail>https://s1.postimg.cc/104oaomna7/8tv.png</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title>CANAL EXTREMADURA</title>
-<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
-<referer></referer>
-<thumbnail>https://s7.postimg.cc/4mz0jmeuj/extremadura.png</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title>CANAL SUR ANDALUCIA</title>
-<link>http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8</link>
-<referer>http://www.canalsur.es/tv_directo-1193.html</referer>
-<thumbnail>https://s7.postimg.cc/3yq60c8bf/andalucia.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>GALICIA TV</title>
-<link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
-<referer>http://www.crtvg.es/tvg/tvg-en-directo</referer>
-<thumbnail>https://s7.postimg.cc/og6iyipyz/galicia.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ETB</title>
-<link>https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
-<referer>https://www.eitb.eus/es/television/etb-sat/</referer>
-<thumbnail>https://s7.postimg.cc/evmwbuip7/eitb.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TV3</title>
-<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
-<referer>http://www.ccma.cat/tv3/directe/tv3/</referer>
-<thumbnail>https://s7.postimg.cc/sqps7kpi3/tv3.png</thumbnail>
-<fanart></fanart>
-</item>
-	
-<item>
-<title>ARAGON TV</title>
-<link>http://195.10.10.206/aragontv/live-hls/chunklist_b664000.m3u8</link>
-<referer>http://www.aragontelevision.es/directo</referer>
-<thumbnail>https://s7.postimg.cc/cfpobckqz/aragon.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TPA</title>
-<link>http://195.55.74.211/rtpa/tv.webm?GKID=560c9c74925b11e88fb600163ea2c744</link>   
-<referer>http://www.rtpa.es/television</referer>
-<thumbnail>https://s7.postimg.cc/6erzebnuz/tpa.png</thumbnail>
-<fanart></fanart>
-</item>	
-
-<item>
-<title>TV CANARIA</title>
-<link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
-<referer>http://www.rtvc.es/television/directo.aspx?ref=tm</referer>
-<thumbnail>https://s1.postimg.cc/5tvzchw9kf/TVCANARIA.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MALAGA TV</title>
-<link>http://canalmalaga-tv-live.flumotion.com/chunks.m3u8</link>
-<referer>http://www.canalmalaga.es/tv-directo</referer>
-<thumbnail>https://s15.postimg.cc/42auj5sy3/malaga.png</thumbnail>
-<fanart></fanart>
-</item>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
+paypal.me/TvGratiskodi
+#EXTINF:0,ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37103.ts
+#EXTINF:0,ES:LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37102.ts
+#EXTINF:0,ES:LA 1 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37104.ts
+#EXTINF:0,ES:LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37100.ts
+#EXTINF:0,ES:La 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37099.ts
+#EXTINF:0,ES:LA 2 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37101.ts
+#EXTINF:0,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37097.ts
+#EXTINF:0,ES:ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37096.ts
+#EXTINF:0,ES:ANTENA 3 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37098.ts
+#EXTINF:0,ES:LA CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37094.ts
+#EXTINF:0,ES:LA CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37093.ts
+#EXTINF:0,ES:CUATRO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37095.ts
+#EXTINF:0,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37091.ts
+#EXTINF:0,ES:TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37090.ts
+#EXTINF:0,ES:TELECINCO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37092.ts
+#EXTINF:0,ES:LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37088.ts
+#EXTINF:0,ES:LA SEXTA  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37087.ts
+#EXTINF:0,ES:LA SEXTA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37089.ts
+#EXTINF:0,ES:MOVISTAR  0#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37046.ts
+#EXTINF:0,ES:MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37037.ts
+#EXTINF:0,ES:MOVISTAR  DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37043.ts
+#EXTINF:0,ES:MOVISTAR 0# FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37044.ts
+#EXTINF:0,ES:MOVISTAR 0# HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37045.ts
+#EXTINF:0,ES:MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37035.ts
+#EXTINF:0,ES:MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37036.ts
+#EXTINF:0,ES:MOVISTAR ACCION PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37038.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37033.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37032.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37034.ts
+#EXTINF:0,ES:MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37031.ts
+#EXTINF:0,ES:MOVISTAR DCINE  Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37029.ts
+#EXTINF:0,ES:MOVISTAR DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37030.ts
+#EXTINF:0,ES:MOVISTAR ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36971.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37041.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37039.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37040.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS PARA MOVILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37042.ts
+#EXTINF:0,ES:MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37025.ts
+#EXTINF:0,ES:MOVISTAR SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37024.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37022.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37019.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37023.ts
+#EXTINF:0,ES:MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37028.ts
+#EXTINF:0,ES:MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37027.ts
+#EXTINF:0,ES:MOVISTR SERIES PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37026.ts
+#EXTINF:0,ES:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36987.ts
+#EXTINF:0,ES:NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37002.ts
+#EXTINF:0,ES:NAT GEO  WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37000.ts
+#EXTINF:0,ES:NAT GEO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37003.ts
+#EXTINF:0,ES:NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37001.ts
+#EXTINF:0,ES:NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37055.ts
+#EXTINF:0,ES:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37004.ts
+#EXTINF:0,ES:NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37005.ts
+#EXTINF:0,ES:NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37006.ts
+#EXTINF:0,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36989.ts
+#EXTINF:0,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37018.ts
+#EXTINF:0,ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37061.ts
+#EXTINF:0,ES:SOL Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36974.ts
+#EXTINF:0,ES:SOMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37047.ts
+#EXTINF:0,ES:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36976.ts
+#EXTINF:0,ES:SUNDANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36975.ts
+#EXTINF:0,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37067.ts
+#EXTINF:0,ES:SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37066.ts
+#EXTINF:0,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37059.ts
+#EXTINF:0,ES:TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37058.ts
+#EXTINF:0,ES:TCM PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37060.ts
+#EXTINF:0,ES:TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36960.ts
+#EXTINF:0,ES:TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36982.ts
+#EXTINF:0,ES:TEN PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36983.ts
+#EXTINF:0,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37073.ts
+#EXTINF:0,ES:TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37072.ts
+#EXTINF:0,ES:TV 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37053.ts
+#EXTINF:0,ES:Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36996.ts
+#EXTINF:0,ES:VIAJAR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36995.ts
+#EXTINF:0,ES:XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37048.ts
+#EXTINF:0,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37070.ts
+#EXTINF:0,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37016.ts
+#EXTINF:0,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37054.ts
+#EXTINF:0,ES:13 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36968.ts
+#EXTINF:0,ES:24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36981.ts
+#EXTINF:0,ES:7RM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36967.ts
+#EXTINF:0,ES:8Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36980.ts
+#EXTINF:0,ES:A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37056.ts
+#EXTINF:0,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37080.ts
+#EXTINF:0,ES:AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37079.ts
+#EXTINF:0,ES:AMC PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37081.ts
+#EXTINF:0,ES:ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36979.ts
+#EXTINF:0,ES:ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36978.ts
+#EXTINF:0,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37085.ts
+#EXTINF:0,ES:AXN  WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37083.ts
+#EXTINF:0,ES:AXN  WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37082.ts
+#EXTINF:0,ES:AXN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37084.ts
+#EXTINF:0,ES:AXN PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37086.ts
+#EXTINF:0,ES:BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37007.ts
+#EXTINF:0,ES:BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37020.ts
+#EXTINF:0,ES:BARCATV PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37021.ts
+#EXTINF:0,ES:BE MAD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36985.ts
+#EXTINF:0,ES:BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36969.ts
+#EXTINF:0,ES:BOING PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37017.ts
+#EXTINF:0,ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37069.ts
+#EXTINF:0,ES:CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37068.ts
+#EXTINF:0,ES:CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36970.ts
+#EXTINF:0,ES:CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36966.ts
+#EXTINF:0,ES:CAZA  Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36994.ts
+#EXTINF:0,ES:CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36993.ts
+#EXTINF:0,ES:CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36997.ts
+#EXTINF:0,ES:CI PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36999.ts
+#EXTINF:0,ES:CLAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37009.ts
+#EXTINF:0,ES:CLAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37008.ts
+#EXTINF:0,ES:CMM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36965.ts
+#EXTINF:0,ES:COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36991.ts
+#EXTINF:0,ES:COCINA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36990.ts
+#EXTINF:0,ES:COMEDY  CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37063.ts
+#EXTINF:0,ES:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37062.ts
+#EXTINF:0,ES:COMEDY CENTRAL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36998.ts
+#EXTINF:0,ES:COSMOPOLITAN  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37064.ts
+#EXTINF:0,ES:COSMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37065.ts
+#EXTINF:0,ES:DARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37049.ts
+#EXTINF:0,ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36988.ts
+#EXTINF:0,ES:DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36992.ts
+#EXTINF:0,ES:DISNEY  JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37013.ts
+#EXTINF:0,ES:DISNEY  XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37014.ts
+#EXTINF:0,ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37011.ts
+#EXTINF:0,ES:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37010.ts
+#EXTINF:0,ES:DISNEY CHANNEL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37012.ts
+#EXTINF:0,ES:DISNEY XD PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37015.ts
+#EXTINF:0,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37057.ts
+#EXTINF:0,ES:DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36977.ts
+#EXTINF:0,ES:DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36984.ts
+#EXTINF:0,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37051.ts
+#EXTINF:0,ES:ETB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36964.ts
+#EXTINF:0,ES:EXTREMADURA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36963.ts
+#EXTINF:0,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37052.ts
+#EXTINF:0,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37077.ts
+#EXTINF:0,ES:FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37076.ts
+#EXTINF:0,ES:FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37075.ts
+#EXTINF:0,ES:FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37074.ts
+#EXTINF:0,ES:FOX PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37078.ts
+#EXTINF:0,ES:HIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36986.ts
+#EXTINF:0,ES:HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37071.ts
+#EXTINF:0,ES:INTERECONOMIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36961.ts
+#EXTINF:0,ES:LA OTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36962.ts
+#EXTINF:0,ES:MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37050.ts
+#EXTINF:0,ES:MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36973.ts
+#EXTINF:0,ES:MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36972.ts
+#EXTINF:0,▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://
+#EXTINF:0,ES SP:BEIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37189.ts
+#EXTINF:0,ES SP:BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37188.ts
+#EXTINF:0,ES SP:BEIN LALIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37147.ts
+#EXTINF:0,ES SP:BEIN LALIGA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37145.ts
+#EXTINF:0,ES SP:LA LIGATV BAR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37149.ts
+#EXTINF:0,ES SP:Partidazo HD ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37206.ts
+#EXTINF:0,ES SP: BEIN  LALIGA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37144.ts
+#EXTINF:0,ES SP: BEIN  LALIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37143.ts
+#EXTINF:0,ES SP: BEIN LALIGA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37142.ts
+#EXTINF:0,ES SP:AXN WAHIT PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37111.ts
+#EXTINF:0,ES SP:BEIN  LALIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37146.ts
+#EXTINF:0,ES SP:BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37190.ts
+#EXTINF:0,ES SP:BEIN LALIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37148.ts
+#EXTINF:0,ES SP:BEIN LALIGA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37141.ts
+#EXTINF:0,ES SP:BEIN LALIGA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37140.ts
+#EXTINF:0,ES SP:BEIN LALIGA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37139.ts
+#EXTINF:0,ES SP:BEIN LALIGA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37191.ts
+#EXTINF:0,ES SP:CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37110.ts
+#EXTINF:0,ES SP:ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37113.ts
+#EXTINF:0,ES SP:Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37154.ts
+#EXTINF:0,ES SP:EUROSPORT  ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37157.ts
+#EXTINF:0,ES SP:EUROSPORT 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37156.ts
+#EXTINF:0,ES SP:EUROSPORT 2 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37155.ts
+#EXTINF:0,ES SP:Extreme EMEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37112.ts
+#EXTINF:0,ES SP:FOX LIFE PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37109.ts
+#EXTINF:0,ES SP:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37173.ts
+#EXTINF:0,ES SP:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37160.ts
+#EXTINF:0,ES SP:HISTORIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37159.ts
+#EXTINF:0,ES SP:HOLLYWOOD PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37108.ts
+#EXTINF:0,ES SP:Iberalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37153.ts
+#EXTINF:0,ES SP:LIGA 123 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37177.ts
+#EXTINF:0,ES SP:LIGA 123 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37178.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37176.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37175.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37174.ts
+#EXTINF:0,ES SP:LIGA 123 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37179.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37187.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37136.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37186.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37137.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37138.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 2  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37135.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 3  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37134.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 5  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37132.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 6  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37131.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 7  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37130.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 8 ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37129.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37185.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES4  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37133.ts
+#EXTINF:0,ES SP:LIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37182.ts
+#EXTINF:0,ES SP:LIGA TV PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37184.ts
+#EXTINF:0,ES SP:LIGA123 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37180.ts
+#EXTINF:0,ES SP:LIGATV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37181.ts
+#EXTINF:0,ES SP:LIGATV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37183.ts
+#EXTINF:0,ES SP:MOVISTAR  DEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37203.ts
+#EXTINF:0,ES SP:MOVISTAR  DEPORTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37199.ts
+#EXTINF:0,ES SP:MOVISTAR  FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37194.ts
+#EXTINF:0,ES SP:MOVISTAR  GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37161.ts
+#EXTINF:0,ES SP:MOVISTAR  MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37167.ts
+#EXTINF:0,ES SP:MOVISTAR  TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37163.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37201.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37198.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE DOS PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37200.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37202.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE UNO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37204.ts
+#EXTINF:0,ES SP:MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37169.ts
+#EXTINF:0,ES SP:MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37170.ts
+#EXTINF:0,ES SP:MOVISTAR FORMULA 1 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37172.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37193.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37195.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOLL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37192.ts
+#EXTINF:0,ES SP:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37158.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37165.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37166.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO PG PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37168.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZO PARA MOVILES ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37208.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37207.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37205.ts
+#EXTINF:0,ES SP:MOVISTAR TORO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37164.ts
+#EXTINF:0,ES SP:MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37162.ts
+#EXTINF:0,ES SP:MOVISTAR XTRA PARA MOVIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37107.ts
+#EXTINF:0,ES SP:MULTI DEPORTE  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37127.ts
+#EXTINF:0,ES SP:MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37196.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37128.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37126.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37125.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37124.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37123.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37122.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37121.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37120.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37119.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37118.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37117.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37116.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37115.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37114.ts
+#EXTINF:0,ES SP:REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37152.ts
+#EXTINF:0,ES SP:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37151.ts
+#EXTINF:0,ES SP:TELEDEPORTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37150.ts
+#EXTINF:0,ES SP:TNT PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37106.ts
