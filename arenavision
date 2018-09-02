@@ -3,7 +3,7 @@
 <link>_</link><thumbnail>https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg</thumbnail>
   </item>
 
-<item>
+item>
 <title>[COLOR green] ARENAVISION con Agenda [/COLOR] [COLOR red]PINCHA AQUI[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
