@@ -3,138 +3,138 @@
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 #EXTINF:-1,2400 ES: #0 Familiar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/646.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/646.ts
 #EXTINF:-1,2220 ES: 24 Horas News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/640.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/640.ts
 #EXTINF:-1,2401 ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/647.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/647.ts
 #EXTINF:-1,2402 ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/648.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/648.ts
 #EXTINF:-1,2103 ES: Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/625.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/625.ts
 #EXTINF:-1,2403 ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/649.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/649.ts
 #EXTINF:-1,2404 ES: AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/650.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/650.ts
 #EXTINF:-1,2500 ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/676.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/676.ts
 #EXTINF:-1,2231 ES: Hola TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/678.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/678.ts
 #EXTINF:-1,2501 ES: Movi Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/677.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/677.ts
 #EXTINF:-1,2200 ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/631.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/631.ts
 #EXTINF:-1,2405 ES: Calle 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/651.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/651.ts
 #EXTINF:-1,2300 ES: Canal Action Pelis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/641.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/641.ts
 #EXTINF:-1,2407 ES: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/653.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/653.ts
 #EXTINF:-1,2301 ES: Canal Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/642.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/642.ts
 #EXTINF:-1,2302 ES: Canal DCine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/643.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/643.ts
 #EXTINF:-1,2303 ES: Canal Estrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/644.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/644.ts
 #EXTINF:-1,2406 ES: Canal Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/652.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/652.ts
 #EXTINF:-1,2503 ES: Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/681.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/681.ts
 #EXTINF:-1,2201 ES: Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/632.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/632.ts
 #EXTINF:-1,2408 ES: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/654.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/654.ts
 #EXTINF:-1,2423 ES: Cosmo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/669.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/669.ts
 #EXTINF:-1,2409 ES: Crimen Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/655.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/655.ts
 #EXTINF:-1,2104 ES: Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/626.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/626.ts
 #EXTINF:-1,2410 ES: De Casa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/656.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/656.ts
 #EXTINF:-1,2505 ES: Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/683.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/683.ts
 #EXTINF:-1,2504 ES: Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/682.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/682.ts
 #EXTINF:-1,2411 ES: Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/657.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/657.ts
 #EXTINF:-1,2202 ES: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/633.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/633.ts
 #EXTINF:-1,2203 ES: Disney Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/634.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/634.ts
 #EXTINF:-1,2204 ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/635.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/635.ts
 #EXTINF:-1,2412 ES: Divinity
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/658.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/658.ts
 #EXTINF:-1,2413 ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/659.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/659.ts
 #EXTINF:-1,2508 ES: Euro Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/684.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/684.ts
 #EXTINF:-1,2509 ES: Euro Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/685.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/685.ts
 #EXTINF:-1,2416 ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/662.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/662.ts
 #EXTINF:-1,2414 ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/660.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/660.ts
 #EXTINF:-1,2415 ES: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/661.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/661.ts
 #EXTINF:-1,2518 ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/688.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/688.ts
 #EXTINF:-1,2511 ES: Golf HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/687.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/687.ts
 #EXTINF:-1,2417 ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/663.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/663.ts
 #EXTINF:-1,2515 ES: Iberalia Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/691.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/691.ts
 #EXTINF:-1,2101 ES: La 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/623.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/623.ts
 #EXTINF:-1,2102 ES: la 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/624.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/624.ts
 #EXTINF:-1,2422 ES: Odisea
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/690.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/690.ts
 #EXTINF:-1,2418 ES: Mega
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/664.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/664.ts
 #EXTINF:-1,2230 ES: Be Mad
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/692.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/692.ts
 #EXTINF:-1,2517 ES: Movistar Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/693.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/693.ts
 #EXTINF:-1,0053 ES: Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/694.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/694.ts
 #EXTINF:-1,2210 ES: MTV Espana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/639.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/639.ts
 #EXTINF:-1,2420 ES: Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/666.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/666.ts
 #EXTINF:-1,2419 ES: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/665.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/665.ts
 #EXTINF:-1,2421 ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/667.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/667.ts
 #EXTINF:-1,2206 ES: Nick JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/637.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/637.ts
 #EXTINF:-1,2205 ES: Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/636.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/636.ts
 #EXTINF:-1,0059 ES: Toros HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/668.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/668.ts
 #EXTINF:-1,2107 ES: Nova HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/629.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/629.ts
 #EXTINF:-1,2207 ES: Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/638.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/638.ts
 #EXTINF:-1,2424 ES: Paramount
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/670.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/670.ts
 #EXTINF:-1,2425 ES: Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/671.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/671.ts
 #EXTINF:-1,2426 ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/672.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/672.ts
 #EXTINF:-1,2304 ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/645.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/645.ts
 #EXTINF:-1,2519 ES: Tele Deporte HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/695.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/695.ts
 #EXTINF:-1,2105 ES: Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/627.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/627.ts
 #EXTINF:-1,2427 ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/673.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/673.ts
 #EXTINF:-1,2108 ES: TVE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/630.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/630.ts
 #EXTINF:-1,2428 ES: Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/674.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/674.ts
 #EXTINF:-1,2429 ES: XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/675.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/675.ts
