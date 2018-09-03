@@ -2,117 +2,97 @@
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3637.ts
-#EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3630.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3636.ts
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3143.ts
-#EXTINF:-1,ES: Bein La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3142.ts
-#EXTINF:-1,ES: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3628.ts
-#EXTINF:-1,ES: BeinSports 1HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2089.ts
-#EXTINF:-1,ES: BeinSports_2HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2088.ts
-#EXTINF:-1,ES: BeinSports_3HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2087.ts
-#EXTINF:-1,ES: BeinSports_4HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2086.ts
-#EXTINF:-1,ES: BeinSports_5HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2085.ts
-#EXTINF:-1,ES: BeinSports_6HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2084.ts
-#EXTINF:-1,ES: Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.ts
-#EXTINF:-1,ES: CANAL  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3619.ts
-#EXTINF:-1,ES: CANAL  DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3620.ts
-#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3622.ts
-#EXTINF:-1,ES: CANAL  LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3627.ts
-#EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3617.ts
-#EXTINF:-1,ES: Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3139.ts
-#EXTINF:-1,ES: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3138.ts
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3137.ts
-#EXTINF:-1,ES: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3135.ts
-#EXTINF:-1,ES: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3141.ts
-#EXTINF:-1,ES: Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3134.ts
-#EXTINF:-1,ES: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3133.ts
-#EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3624.ts
-#EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3132.ts
-#EXTINF:-1,ES: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3131.ts
-#EXTINF:-1,ES: LA LIGA  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3629.ts
-#EXTINF:-1,ES: M. ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3618.ts
-#EXTINF:-1,ES: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3623.ts
-#EXTINF:-1,ES: M. FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3625.ts
-#EXTINF:-1,ES: M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3626.ts
-#EXTINF:-1,ES: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3616.ts
-#EXTINF:-1,ES: Mega HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3129.ts
-#EXTINF:-1,ES: Movistar  Deportes 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3148.ts
-#EXTINF:-1,ES: Movistar  Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3153.ts
-#EXTINF:-1,ES: Movistar  Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3147.ts
-#EXTINF:-1,ES: Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3154.ts
-#EXTINF:-1,ES: Movistar Cine Espanol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3149.ts
-#EXTINF:-1,ES: Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3152.ts
-#EXTINF:-1,ES: Movistar Dcine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3136.ts
-#EXTINF:-1,ES: Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3144.ts
-#EXTINF:-1,ES: Movistar Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3151.ts
-#EXTINF:-1,ES: Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3145.ts
-#EXTINF:-1,ES: National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3127.ts
-#EXTINF:-1,ES: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3128.ts
-#EXTINF:-1,ES: Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3126.ts
-#EXTINF:-1,ES: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3140.ts
-#EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3125.ts
-#EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3124.ts
+
+
+#EXTINF:-1,ES: MoviStar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/309.ts
+#EXTINF:-1,ES: MoviStar Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/308.ts
+#EXTINF:-1,ES: MoviStar Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/310.ts
+#EXTINF:-1,ES: MoviStar Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/304.ts
+#EXTINF:-1,ES: MoviStar Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1187.ts
+#EXTINF:-1,ES: MoviStar Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2661.ts
+#EXTINF:-1,ES: LA Liga TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2157.ts
 #EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3123.ts
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3635.ts
-#EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3634.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/306.ts
+#EXTINF:-1,ES: Barca tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/307.ts
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1185.ts
+#EXTINF:-1,ES: MoviStar Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2149.ts
+#EXTINF:-1,ES: MoviStar Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2150.ts
+#EXTINF:-1,ES: MoviStar Dcine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2151.ts
+#EXTINF:-1,ES: MoviStar Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2738.ts
+#EXTINF:-1,ES: MoviStar Series Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2741.ts
+#EXTINF:-1,ES: MoviStar Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2737.ts
+#EXTINF:-1,ES: Canal T HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2739.ts
+#EXTINF:-1,ES: Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2724.ts
+#EXTINF:-1,ES: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2727.ts
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2731.ts
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2153.ts
+#EXTINF:-1,ES: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2152.ts
+#EXTINF:-1,ES: Calle 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2728.ts
+#EXTINF:-1,ES: Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2160.ts
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2730.ts
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2156.ts
+#EXTINF:-1,ES: AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2729.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2735.ts
+#EXTINF:-1,ES: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2725.ts
 #EXTINF:-1,ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3633.ts
-#EXTINF:-1,ES: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3632.ts
-#EXTINF:-1,ES: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3631.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2155.ts
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2154.ts
+#EXTINF:-1,ES: Viajar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1085.ts
+#EXTINF:-1,ES: Toros HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1086.ts
+#EXTINF:-1,ES: Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2726.ts
+#EXTINF:-1,ES: Neox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2742.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1297.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1191.ts
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2732.ts
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1319.ts
+#EXTINF:-1,ES: Canal Carnaval
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2734.ts
+#EXTINF:-1,ES: #0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/317.ts
+#EXTINF:-1,ES: Caza Y Pesca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2736.ts
+#EXTINF:-1,ES: Clan Tve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2043.ts
+#EXTINF:-1,ES: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1973.ts
+#EXTINF:-1,ES: Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2733.ts
+#EXTINF:-1,ES: Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://roi-iptv.dyndns.org:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2740.ts
