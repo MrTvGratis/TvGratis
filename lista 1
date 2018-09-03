@@ -15,18 +15,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3142.ts
 #EXTINF:-1,ES: BEIN SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3628.ts
-#EXTINF:-1,ES: BeinSports 1HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2089.ts
-#EXTINF:-1,ES: BeinSports_2HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2088.ts
-#EXTINF:-1,ES: BeinSports_3HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2087.ts
-#EXTINF:-1,ES: BeinSports_4HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2086.ts
-#EXTINF:-1,ES: BeinSports_5HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2085.ts
-#EXTINF:-1,ES: BeinSports_6HD LOCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2084.ts
 #EXTINF:-1,ES: Calle 13 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.ts
 #EXTINF:-1,ES: CANAL  COMEDIA HD
