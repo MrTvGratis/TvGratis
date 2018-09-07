@@ -1,103 +1,258 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
 
-#EXTINF:-1,[ES] TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/933.ts
-#EXTINF:-1,[ES] Telemadrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/960.ts
-#EXTINF:-1,[ES] TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/932.ts
-#EXTINF:-1,[ES] SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/930.ts
-#EXTINF:-1,[ES] Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/958.ts
-#EXTINF:-1,[ES] Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/921.ts
-#EXTINF:-1,[ES] SOMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/915.ts
-#EXTINF:-1,[ES] Nonstop People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/923.ts
-#EXTINF:-1,[ES] Nick Jr Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/940.ts
-#EXTINF:-1,[ES] National Geografic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/937.ts
-#EXTINF:-1,[ES] xtrm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/951.ts
-#EXTINF:-1,[ES] Movistar F1.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/950.ts
-#EXTINF:-1,[ES] Movistar  Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/946.ts
-#EXTINF:-1,[ES] Movistar  Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/949.ts
-#EXTINF:-1,[ES] Movistar  Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/947.ts
-#EXTINF:-1,[ES] Movistar  GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/952.ts
-#EXTINF:-1,[ES] Movistar  Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/953.ts
-#EXTINF:-1,[ES] Movistar  Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/945.ts
-#EXTINF:-1,[ES] Movistar  Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/954.ts
-#EXTINF:-1,[ES] Movistar  DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/944.ts
-#EXTINF:-1,[ES] Movistar  Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/948.ts
-#EXTINF:-1,[ES] ten
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/916.ts
-#EXTINF:-1,[ES] Levante TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/926.ts
-#EXTINF:-1,[ES] Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/922.ts
-#EXTINF:-1,[ES] LaLiga TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/956.ts
-#EXTINF:-1,[ES] La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/913.ts
-#EXTINF:-1,[ES] LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/912.ts
-#EXTINF:-1,[ES] Iberalia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/925.ts
-#EXTINF:-1,[ES] History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/935.ts
-#EXTINF:-1,[ES] Gol tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/955.ts
-#EXTINF:-1,[ES] FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/934.ts
-#EXTINF:-1,[ES] Fdf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/924.ts
-#EXTINF:-1,[ES] Esperanza TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/936.ts
-#EXTINF:-1,[ES] DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/929.ts
-#EXTINF:-1,[ES] Cosmo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/920.ts
-#EXTINF:-1,[ES] COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/938.ts
-#EXTINF:-1,[ES] CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/941.ts
-#EXTINF:-1,[ES] CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/927.ts
-#EXTINF:-1,[ES] Canal 3/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/918.ts
-#EXTINF:-1,[ES] Canal 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/917.ts
-#EXTINF:-1,[ES] Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/939.ts
-#EXTINF:-1,[ES] Bein Sports Espanga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/957.ts
-#EXTINF:-1,[ES] Barca tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/959.ts
-#EXTINF:-1,[ES] AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/943.ts
-#EXTINF:-1,[ES] AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/942.ts
-#EXTINF:-1,[ES] Amc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/931.ts
-#EXTINF:-1,[ES] A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/928.ts
-#EXTINF:-1,[ES] CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/919.ts
-#EXTINF:-1,[ES] #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://j.ddns.net:31000/live/jossef06/3456ygfe/914.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3series HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: A3series HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Antena 3 HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/11254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Liga HD" tvg-logo="http://logosiptv.ultraiptv.cl/bein_sports_laliga.jpg" group-title="España",ES: Bein Liga HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Euro Sport 1 HD" tvg-logo="http://logosiptv.ultraiptv.cl/eurosport1.png" group-title="España",ES: Euro Sport 1 HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Euronews HD en Español" tvg-logo="http://logosiptv.ultraiptv.cl/euronews.png" group-title="España",ES: Euronews HD en Español
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Historia HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Historia HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood HD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/hollywood_espana.jpg" group-title="España",ES: Hollywood HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: IB3 HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: IB3 HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga BAR HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: La Liga BAR HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 123 HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: LaLiga 123 HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mezzo Live HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Mezzo Live HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 1 HD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_deportes1.png" group-title="España",ES: Movistar Deportes 1 HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 2 HD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_deportes2.png" group-title="España",ES: Movistar Deportes 2 HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar F1 HD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_f1.png" group-title="España",ES: Movistar F1 HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Futbol HD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_futbol.png" group-title="España",ES: Movistar Futbol HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Golf HD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_golf.png" group-title="España",ES: Movistar Golf HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Moto GP HD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_motogp.png" group-title="España",ES: Movistar Moto GP HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid TV HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Real Madrid TV HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: RT HD en Español" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: RT HD en Español
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TELEDEPORTE HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS TV HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TOROS TV HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3. CAT HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TV3. CAT HD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4277.m3u8
+ #EXTINF:-1,#0 SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/antena3_espana.jpg" group-title="España",ES: Antena 3 SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/axn_espana.jpg" group-title="España",ES: AXN SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/axn_white_espana.jpg" group-title="España",ES: AXN White SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports LaLiga SD" tvg-logo="http://logosiptv.ultraiptv.cl/bein_sports_laliga.jpg" group-title="España",ES: Bein Sports LaLiga SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports SD" tvg-logo="http://logosiptv.ultraiptv.cl/bein_sport.png" group-title="España",ES: Bein Sports SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Comedy Central SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/comedy_central_espana.jpg" group-title="España",ES: Comedy Central SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmo TV SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Cosmo TV SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/cuatro_espana.jpg" group-title="España",ES: Cuatro SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/discovery_espana.jpg" group-title="España",ES: Discovery Channel SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/disney_espana.jpg" group-title="España",ES: Disney Channel SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 SD" tvg-logo="http://logosiptv.ultraiptv.cl/eurosport1.png" group-title="España",ES: Eurosport 1 SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Life SD" tvg-logo="http://logosiptv.ultraiptv.cl/fox_life.png" group-title="España",ES: Fox Life SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/fox_espana.jpg" group-title="España",ES: Fox SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol SD" tvg-logo="http://logosiptv.ultraiptv.cl/goltv.png" group-title="España",ES: Gol SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: LA 1 SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV BAR SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: La Liga TV BAR SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: La Sexta SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mega SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/mega_espana.jpg" group-title="España",ES: Mega SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Accion SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_accion.png" group-title="España",ES: Movistar Accion SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Comedia SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_comedia.png" group-title="España",ES: Movistar Comedia SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 1 SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_deportes1.png" group-title="España",ES: Movistar Deportes 1 SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 2 SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_deportes2.png" group-title="España",ES: Movistar Deportes 2 SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Estrenos SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_estrenos.png" group-title="España",ES: Movistar Estrenos SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Formula 1 SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_f1.png" group-title="España",ES: Movistar Formula 1 SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Moto GP SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_motogp.png" group-title="España",ES: Movistar Moto GP SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Series SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_series.png" group-title="España",ES: Movistar Series SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Series Xtra SD" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_series_xtra.png" group-title="España",ES: Movistar Series Xtra SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/natgeo_wild_espana.jpg" group-title="España",ES: Nat Geo Wild SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geoghraphic SD" tvg-logo="http://logosiptv.ultraiptv.cl/national_geographic.png" group-title="España",ES: National Geoghraphic SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Odisea SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Real Madrid SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: SyFy SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TCM SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Telecinco SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Teledeporte SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TNT SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar SD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Viajar SD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4347.m3u8
+#EXTINF:-1,#0
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: 24H
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 CAT" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: 3/24 CAT
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 33 CAT" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: 33 CAT
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 TV Murcia" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: 7 TV Murcia
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AE" tvg-logo="http://logosiptv.ultraiptv.cl/espana/aye_espana.jpg" group-title="España",ES: AE
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Andalucia TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Andalucia TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Aragon TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV" tvg-logo="http://logosiptv.ultraiptv.cl/babytv.png" group-title="España",ES: Baby TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV" tvg-logo="http://logosiptv.ultraiptv.cl/barca_tv.jpg" group-title="España",ES: Barca TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Betis TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Betis TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="http://logosiptv.ultraiptv.cl/espana/boing_espana.jpg" group-title="España",ES: Boing
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Calle 13" tvg-logo="http://logosiptv.ultraiptv.cl/espana/calle13_espana.jpg" group-title="España",ES: Calle 13
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina" tvg-logo="http://logosiptv.ultraiptv.cl/espana/canal_cocina_espana.jpg" group-title="España",ES: Canal Cocina
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Costa TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Canal Costa TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Canal Panda
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Parlamento" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Canal Parlamento
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Canal Sur
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur Turismo" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Canal Sur Turismo
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Castilla La Mancha Media" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Castilla La Mancha Media
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Clan TVE" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Clan TVE
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Crime & Investigation" tvg-logo="http://logosiptv.ultraiptv.cl/espana/crimen_inves_espana.jpg" group-title="España",ES: Crime & Investigation
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Decasa
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Max" tvg-logo="http://logosiptv.ultraiptv.cl/espana/dmax_espana.png" group-title="España",ES: Discovery Max
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Junior" tvg-logo="http://logosiptv.ultraiptv.cl/espana/disneyjr_espana.jpg" group-title="España",ES: Disney Junior
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney XD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/disneyxd_espana.jpg" group-title="España",ES: Disney XD
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Divinity" tvg-logo="http://logosiptv.ultraiptv.cl/espana/divinity_espana.jpg" group-title="España",ES: Divinity
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dkiss" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Dkiss
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DW en Español" tvg-logo="http://logosiptv.ultraiptv.cl/dw.png" group-title="España",ES: DW en Español
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Garaje TV" tvg-logo="http://logosiptv.ultraiptv.cl/garagetv.png" group-title="España",ES: El Garaje TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Energy" tvg-logo="http://logosiptv.ultraiptv.cl/espana/energy_espana.jpg" group-title="España",ES: Energy
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3 CAT" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Esport 3 CAT
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB Sat" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: ETB Sat
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Euro Sport 2" tvg-logo="http://logosiptv.ultraiptv.cl/eurosport2.png" group-title="España",ES: Euro Sport 2
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Extremadura TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Extremadura TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="http://logosiptv.ultraiptv.cl/espana/fdf_espana.jpg" group-title="España",ES: FDF
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Galicia TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Granada Channel TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Granada Channel TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Iberalia
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: LA 2
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 8 Mediterráneo" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: La 8 Mediterráneo
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Otra" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: La Otra
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Lancelot TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Lancelot TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Levante TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Levante TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Libertad Digital" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Libertad Digital
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Cine N" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_cinen.png" group-title="España",ES: Movistar Cine N
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Golf" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_golf.png" group-title="España",ES: Movistar Golf
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Xtra" tvg-logo="http://logosiptv.ultraiptv.cl/movistar_xtra.png" group-title="España",ES: Movistar Xtra
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Espana" tvg-logo="http://logosiptv.ultraiptv.cl/mtv.jpg" group-title="España",ES: MTV Espana
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Neox" tvg-logo="http://logosiptv.ultraiptv.cl/espana/neox_espana.jpg" group-title="España",ES: Neox
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nick JR" tvg-logo="http://logosiptv.ultraiptv.cl/nick_jr.png" group-title="España",ES: Nick JR
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon" tvg-logo="http://logosiptv.ultraiptv.cl/espana/nickelodeon_espana.jpg" group-title="España",ES: Nickelodeon
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nonstopeople" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Nonstopeople
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova" tvg-logo="http://logosiptv.ultraiptv.cl/espana/nova_espana.jpg" group-title="España",ES: Nova
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Paramount Channel" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Paramount Channel
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sevilla FC" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Sevilla FC
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance TV" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Sundance TV
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Super3" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Super3
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Teledeporte
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleMadrid" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TeleMadrid
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TEN
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Toros
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Trece" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: Trece
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: TV Canaria
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: VH1" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: VH1
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: VH1 Classic" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: VH1 Classic
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="España",ES: XTRM
+http://tvpremiumhd.club/lista-gratuita/122207/tv/n/4276.m3u8
