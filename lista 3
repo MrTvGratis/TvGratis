@@ -4,104 +4,104 @@
 paypal.me/TvGratiskodi
 
 #EXTINF:-1,*~*~*~*{Spain}*~*~*~*
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4204.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4204.ts
 #EXTINF:-1,(ES) Syfy Universal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2846.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2846.ts
 #EXTINF:-1,(ES) TVE La 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2855.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2855.ts
 #EXTINF:-1,(ES) TVE La 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2856.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2856.ts
 #EXTINF:-1,(ES) Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2842.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2842.ts
 #EXTINF:-1,(ES)  TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2841.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2841.ts
 #EXTINF:-1,(ES) Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2833.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2833.ts
 #EXTINF:-1,(ES) HOLLYWOOD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2845.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2845.ts
 #EXTINF:-1,(ES) Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2843.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2843.ts
 #EXTINF:-1,(ES) M.Toros HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2829.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2829.ts
 #EXTINF:-1,(ES) M.ACCION HD*
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2831.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2831.ts
 #EXTINF:-1,(ES) M.Dcine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2834.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2834.ts
 #EXTINF:-1,(ES) M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2835.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2835.ts
 #EXTINF:-1,(ES) Telemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/3780.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/3780.ts
 #EXTINF:-1,(ES) Axn White HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2836.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2836.ts
 #EXTINF:-1,(ES) Fox  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2844.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2844.ts
 #EXTINF:-1,(ES) Movistar Dcine HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/1999.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/1999.ts
 #EXTINF:-1,(ES) M.Series Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/1994.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/1994.ts
 #EXTINF:-1,(ES) Canal 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2847.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2847.ts
 #EXTINF:-1,(ES) Calle 13 Universal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2848.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2848.ts
 #EXTINF:-1,(ES) BABY TV.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4376.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4376.ts
 #EXTINF:-1,(ES) CANAL COCINA HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4372.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4372.ts
 #EXTINF:-1,(ES) CAZA Y PESCA HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4380.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4380.ts
 #EXTINF:-1,(ES) CRIMEN  INVESTIGACION HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4379.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4379.ts
 #EXTINF:-1,(ES) DISCOVERY CHANNEL HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4381.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4381.ts
 #EXTINF:-1,(ES) DISNEY CHANNEL HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4377.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4377.ts
 #EXTINF:-1,(ES) DISNEY JUNIOR HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4375.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4375.ts
 #EXTINF:-1,(ES) DISNEY XD HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4374.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4374.ts
 #EXTINF:-1,(ES) GOL TV HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4383.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4383.ts
 #EXTINF:-1,(ES) HISTORIA HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4378.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4378.ts
 #EXTINF:-1,(ES) MIMUSICA HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4368.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4368.ts
 #EXTINF:-1,(ES) MTV SPAIN.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4367.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4367.ts
 #EXTINF:-1,(ES) NATIONAL GEOGRAPHIC HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4382.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4382.ts
 #EXTINF:-1,(ES) NICK JR HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4371.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4371.ts
 #EXTINF:-1,(ES) VIAJAR HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4369.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/4369.ts
 #EXTINF:-1,(ES) BeIN LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2840.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2840.ts
 #EXTINF:-1,(ES) Movistar  DEPORTES 1 HD.LOCAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2839.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2839.ts
 #EXTINF:-1,(ES) M.Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2838.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2838.ts
 #EXTINF:-1,(ES) beIN Sports España HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2849.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2849.ts
 #EXTINF:-1,(ES) M.MotoGp
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2850.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2850.ts
 #EXTINF:-1,(ES) Real Madrid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2321.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2321.ts
 #EXTINF:-1,(ES) M.Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/1996.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/1996.ts
 #EXTINF:-1,(ES) Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2851.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2851.ts
 #EXTINF:-1,(ES) Alquiler_1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2821.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2821.ts
 #EXTINF:-1,(ES) Alquiler_2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2822.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2822.ts
 #EXTINF:-1,(ES) Alquiler_3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2823.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2823.ts
 #EXTINF:-1,(ES) Alquiler_4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2824.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2824.ts
 #EXTINF:-1,(ES) Alquiler_5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2825.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2825.ts
 #EXTINF:-1,(ES) Alquiler_6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2826.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2826.ts
 #EXTINF:-1,(ES) Alquiler_7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2827.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2827.ts
 #EXTINF:-1,(ES) Alquiler_8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2828.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://hbox.cdnss.me:80/live/mtg/2406/2828.ts
