@@ -2,241 +2,130 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
 paypal.me/TvGratiskodi
-#EXTINF:-1,ES:  ======= SPANISH =======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3032.ts
-#EXTINF:-1,ES: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3031.ts
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8200.ts
-#EXTINF:-1,ES: 40 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8201.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8202.ts
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8203.ts
+
 #EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3028.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3637.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3630.ts
 #EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8204.ts
-#EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3027.ts
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3026.ts
-#EXTINF:-1,ES: AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3025.ts
-#EXTINF:-1,ES: AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3024.ts
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8205.ts
-#EXTINF:-1,ES: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3022.ts
-#EXTINF:-1,ES: BeiN La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8206.ts
-#EXTINF:-1,ES: BEIN LA LIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3021.ts
-#EXTINF:-1,ES: beIN LA Liga FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8309.ts
-#EXTINF:-1,ES: BeiN La Liga Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8207.ts
-#EXTINF:-1,ES: beIN Laliga 1 HD Backup
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8312.ts
-#EXTINF:-1,ES: beIN LaLiga Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8310.ts
-#EXTINF:-1,ES: beIN LaLiga Max 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8311.ts
-#EXTINF:-1,ES: BeiN LaLiga Max 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8209.ts
-#EXTINF:-1,ES: BeiN LaLiga Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8210.ts
-#EXTINF:-1,ES: BeiN LaLiga Max 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8211.ts
-#EXTINF:-1,ES: BeiN LaLiga Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8212.ts
-#EXTINF:-1,ES: BeiN Laliga Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8214.ts
-#EXTINF:-1,ES: Bein Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8220.ts
-#EXTINF:-1,ES: Bein Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8221.ts
-#EXTINF:-1,ES: Bein Max 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8222.ts
-#EXTINF:-1,ES: Bein Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8223.ts
-#EXTINF:-1,ES: Bein Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8224.ts
-#EXTINF:-1,ES: Bein Max 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8225.ts
-#EXTINF:-1,ES: BEIN SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3018.ts
-#EXTINF:-1,ES: beIN Sport FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8313.ts
-#EXTINF:-1,ES: Bein Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8229.ts
-#EXTINF:-1,ES: BeiN Sports Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8215.ts
-#EXTINF:-1,ES: BeiN Sports Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8217.ts
-#EXTINF:-1,ES: BeiN Sports Max 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8219.ts
-#EXTINF:-1,ES: Betis Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8230.ts
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8231.ts
-#EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3016.ts
-#EXTINF:-1,ES: CANAL ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8232.ts
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8233.ts
-#EXTINF:-1,ES: Canal DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8238.ts
-#EXTINF:-1,ES: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8241.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3636.ts
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3143.ts
+#EXTINF:-1,ES: Bein La Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3142.ts
+#EXTINF:-1,ES: BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3628.ts
+#EXTINF:-1,ES: BeinSports 1HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2089.ts
+#EXTINF:-1,ES: BeinSports_2HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2088.ts
+#EXTINF:-1,ES: BeinSports_3HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2087.ts
+#EXTINF:-1,ES: BeinSports_4HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2086.ts
+#EXTINF:-1,ES: BeinSports_5HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2085.ts
+#EXTINF:-1,ES: BeinSports_6HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2084.ts
+#EXTINF:-1,ES: Calle 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.ts
+#EXTINF:-1,ES: CANAL  COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3619.ts
+#EXTINF:-1,ES: CANAL  DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3620.ts
+#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3622.ts
+#EXTINF:-1,ES: CANAL  LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3627.ts
 #EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8234.ts
-#EXTINF:-1,ES: Canal DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8239.ts
-#EXTINF:-1,ES: Canal DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8240.ts
-#EXTINF:-1,ES: Canal ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8242.ts
-#EXTINF:-1,ES: Canal FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8243.ts
-#EXTINF:-1,ES: Canal GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8244.ts
-#EXTINF:-1,ES: Canal LIGA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8245.ts
-#EXTINF:-1,ES: Canal LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8246.ts
-#EXTINF:-1,ES: Canal Plus Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8247.ts
-#EXTINF:-1,ES: Canal Plus Dcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8248.ts
-#EXTINF:-1,ES: Canal Plus Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8249.ts
-#EXTINF:-1,ES: Canal Plus Deportes2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8250.ts
-#EXTINF:-1,ES: Canal Plus Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8251.ts
-#EXTINF:-1,ES: Canal Plus futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8254.ts
-#EXTINF:-1,ES: Canal Plus laliga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8255.ts
-#EXTINF:-1,ES: Canal Plus Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8252.ts
-#EXTINF:-1,ES: Canal Plus Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8253.ts
-#EXTINF:-1,ES: Canal SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8256.ts
-#EXTINF:-1,ES: Canal SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8257.ts
-#EXTINF:-1,ES: Canal TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8258.ts
-#EXTINF:-1,ES: Canal XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8259.ts
-#EXTINF:-1,ES: Caza y pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8260.ts
-#EXTINF:-1,ES: CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3012.ts
-#EXTINF:-1,ES: Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8261.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8235.ts
-#EXTINF:-1,ES: COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8236.ts
-#EXTINF:-1,ES: Crime&Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/3008.ts
-#EXTINF:-1,ES: Crimen Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8262.ts
-#EXTINF:-1,ES: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8237.ts
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8263.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8264.ts
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8265.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8266.ts
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8267.ts
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8268.ts
-#EXTINF:-1,ES: DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8269.ts
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8272.ts
-#EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8270.ts
-#EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8271.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8273.ts
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8274.ts
-#EXTINF:-1,ES: FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8275.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3617.ts
+#EXTINF:-1,ES: Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3139.ts
+#EXTINF:-1,ES: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3138.ts
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3137.ts
+#EXTINF:-1,ES: Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3135.ts
+#EXTINF:-1,ES: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3141.ts
+#EXTINF:-1,ES: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3134.ts
+#EXTINF:-1,ES: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3133.ts
 #EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8276.ts
-#EXTINF:-1,ES: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8277.ts
-#EXTINF:-1,ES: Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8280.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8278.ts
-#EXTINF:-1,ES: HOLLYWOOD Spain HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8279.ts
-#EXTINF:-1,ES: IBERALIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8281.ts
-#EXTINF:-1,ES: LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8282.ts
-#EXTINF:-1,ES: LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8283.ts
-#EXTINF:-1,ES: La Liga BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8285.ts
-#EXTINF:-1,ES: M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8286.ts
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8287.ts
-#EXTINF:-1,ES: Mega espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8289.ts
-#EXTINF:-1,ES: Movistar Partidazo HD (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8290.ts
-#EXTINF:-1,ES: MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8288.ts
-#EXTINF:-1,ES: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8291.ts
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8292.ts
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8293.ts
-#EXTINF:-1,ES: NICK Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8294.ts
-#EXTINF:-1,ES: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8295.ts
-#EXTINF:-1,ES: Nonstop People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8297.ts
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8296.ts
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8298.ts
-#EXTINF:-1,ES: Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8299.ts
-#EXTINF:-1,ES: Real Madrid Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8300.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3624.ts
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3132.ts
+#EXTINF:-1,ES: Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3131.ts
+#EXTINF:-1,ES: LA LIGA  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3629.ts
+#EXTINF:-1,ES: La Sexta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3130.ts
+#EXTINF:-1,ES: M. ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3618.ts
+#EXTINF:-1,ES: M. ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3623.ts
+#EXTINF:-1,ES: M. FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3625.ts
+#EXTINF:-1,ES: M. GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3626.ts
+#EXTINF:-1,ES: M. SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3616.ts
+#EXTINF:-1,ES: Mega HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3129.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3148.ts
+#EXTINF:-1,ES: Movistar  Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3153.ts
+#EXTINF:-1,ES: Movistar  Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3147.ts
+#EXTINF:-1,ES: Movistar Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3154.ts
+#EXTINF:-1,ES: Movistar Cine Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3149.ts
+#EXTINF:-1,ES: Movistar Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3152.ts
+#EXTINF:-1,ES: Movistar Dcine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3136.ts
+#EXTINF:-1,ES: Movistar Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3144.ts
+#EXTINF:-1,ES: Movistar Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3151.ts
+#EXTINF:-1,ES: Movistar Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3145.ts
+#EXTINF:-1,ES: National Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3127.ts
+#EXTINF:-1,ES: National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3128.ts
+#EXTINF:-1,ES: Neox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3126.ts
+#EXTINF:-1,ES: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3140.ts
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3125.ts
+#EXTINF:-1,ES: Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3124.ts
 #EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8301.ts
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8302.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3123.ts
+#EXTINF:-1,ES: Taquilla 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3122.ts
+#EXTINF:-1,ES: Taquilla 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3121.ts
+#EXTINF:-1,ES: Taquilla 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3120.ts
+#EXTINF:-1,ES: Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3119.ts
+#EXTINF:-1,ES: Taquilla 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3118.ts
 #EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8303.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3635.ts
 #EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8304.ts
-#EXTINF:-1,ES: TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8305.ts
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8306.ts
-#EXTINF:-1,ES: Tv Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8307.ts
-#EXTINF:-1,ES: VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://kiptv.live:25461/live/k11586/szzxr/8308.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3634.ts
+#EXTINF:-1,ES: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3633.ts
+#EXTINF:-1,ES: TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3632.ts
+#EXTINF:-1,ES: TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3631.ts
