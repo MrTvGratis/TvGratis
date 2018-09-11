@@ -7,7 +7,7 @@
 <SetViewMode>55</SetViewMode>
 <title>[B][LOWERCASE][CAPITALIZE][COLOR green][makelist5.param2][/COLOR][/CAPITALIZE][/LOWERCASE][/B]</title>
 <link>$doregex[makelist2]</link>
-<thumbnail>https://i.imgur.com/yGTsSPk.jpg</thumbnail>  
+<thumbnail>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</thumbnail>  
 <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="/canales-de(.*?)".*?title="(.*?)".*?img class="lazy(.*?)".*?]]></expres>
