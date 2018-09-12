@@ -564,7 +564,7 @@
 <thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR green]  AVEZY [/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
