@@ -40,7 +40,7 @@
 <page>http://lacalleochotv.org[makelist2.param1]</page>
 <agent>iPad</agent>
 </regex>
-regex>
+<regex>
 <name>makelist8</name>
 <expres>iframe src="([^"]+).*?</expres>
 <page>http://lacalleochotv.org$doregex[makelist1]</page>
