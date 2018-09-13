@@ -4,7 +4,7 @@
 <regex>
 <name>makelist5</name>
 <listrepeat><![CDATA[
-<title>[B][LOWERCASE][CAPITALIZE][COLOR lightskyblue][makelist5.param2][/COLOR][/CAPITALIZE][/LOWERCASE][/B]</title>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][makelist5.param2][/COLOR][/CAPITALIZE][/LOWERCASE][/B]</title>
 <link>$doregex[makelist2]</link>
 <thumbnail></thumbnail>  
 <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
@@ -28,13 +28,19 @@
 </regex>
 
 <regex>
+<name>canal</name>
+<expres>(?s)source: '(.*?)'</expres>
+<page>http://lacalleochotv.org$doregex[makelist8]</page>
+<referer>http://lacalleochotv.org/magu/espana1/la4.html</referer>
+</regex>
+<regex>
 <name>makelist1</name>
 <referer>http://lacalleochotv.org/magu/espana1/la4.html</referer>
 <expres>opciones" src="([^"]+).*?</expres>
 <page>http://lacalleochotv.org[makelist2.param1]</page>
 <agent>iPad</agent>
 </regex>
-<regex>
+regex>
 <name>makelist8</name>
 <expres>iframe src="([^"]+).*?</expres>
 <page>http://lacalleochotv.org$doregex[makelist1]</page>
