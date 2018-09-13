@@ -4,7 +4,7 @@
 <regex>
 <name>makelist5</name>
 <listrepeat><![CDATA[
-<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][makelist5.param2][/COLOR][/CAPITALIZE][/LOWERCASE][/B]</title>
+<title>[COLOR lime][makelist5.param2][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <thumbnail></thumbnail>  
 <fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
