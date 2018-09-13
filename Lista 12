@@ -1,0 +1,46 @@
+<item>
+<title>[COLOR green]Lista 12[/COLOR]</title> 
+<link>$doregex[makelist5]</link>
+<regex>
+<name>makelist5</name>
+<listrepeat><![CDATA[
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lightskyblue][makelist5.param2][/COLOR][/CAPITALIZE][/LOWERCASE][/B]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>  
+<fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="/canales-de(.*?)".*?title="(.*?)".*?img class="lazy(.*?)".*?]]></expres>
+<page>http://lacalleochotv.org/</page>
+<agent>iPad</agent>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][makelist2.param2][/COLOR][/CAPITALIZE][/LOWERCASE][/B]</title>
+<link>$doregex[canal]|Referer=https://vergol.com/canales/live3/beinsport.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<referer>http://lacalleochotv.org/magu/espana1/la4.html</referer>
+<thumbnail></thumbnail>  
+<fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[ 0px; "..a href="(.*?)".*?title="(.*?)".*?lazy-src="(.*?)".*?]]></expres>
+<page>http://lacalleochotv.org/canales-de[makelist5.param1]</page>
+<agent>iPad</agent>
+</regex>
+
+<regex>
+<name>makelist1</name>
+<referer>http://lacalleochotv.org/magu/espana1/la4.html</referer>
+<expres>opciones" src="([^"]+).*?</expres>
+<page>http://lacalleochotv.org[makelist2.param1]</page>
+<agent>iPad</agent>
+</regex>
+<regex>
+<name>makelist8</name>
+<expres>iframe src="([^"]+).*?</expres>
+<page>http://lacalleochotv.org$doregex[makelist1]</page>
+<referer>http://lacalleochotv.org/magu/espana1/la4.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://i.imgur.com/yGTsSPk.jpg</thumbnail>  
+<fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
+ </item>
