@@ -4,7 +4,7 @@
   </item>
 
 <item>
-<title>[COLOR green] ARENAVISION con Agenda [/COLOR] [COLOR red]PINCHA AQUI[/COLOR]</title>
+<title>[COLOR green] ARENAVISION con Agenda [/COLOR] [COLOR yellow]PINCHA AQUI[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
