@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<SetViewMode>502</SetViewMode>
+ 
+<item>
+<title>[COLOR orange]*[B][LOWERCASE][CAPITALIZE][COLOR white] canal 24 horas señal[COLOR red] 1 [/COLOR][/CAPITALIZE][/LOWERCASE][/B] </title>
+<link>$doregex[noticia]</link>
+<regex>
+ 
+<name>noticia</name>
+ 
+<expres><![CDATA[#$pyFunction
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ import xbmc
+ 
+ import xbmcgui
+ 
+ import webbrowser
+ 
+ return  webbrowser.open_new_tab('https://www.mitele.es/directo/gh-vip-24h-senal-1') + xbmc.executebuiltin('StartAndroidActivity(,android.intent.action.VIEW,,%s)' % 'https://www.mitele.es/directo/gh-vip-24h-senal-1')
+ 
+]]></expres>
+ 
+<page></page>
+ 
+</regex>
+<info></info>
+<thumbnail>https://okdiario.com/img/2018/09/04/gran-hermano-vip-6-24-horas-655x368.jpg</thumbnail>
+<fanart>https://okdiario.com/img/2018/09/04/gran-hermano-vip-6-24-horas-655x368.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orange]*[B][LOWERCASE][CAPITALIZE][COLOR white] canal 24 horas señal[COLOR red] 2 [/COLOR][/CAPITALIZE][/LOWERCASE][/B] </title>
+<link>$doregex[noticia]</link>
+<regex>
+ 
+<name>noticia</name>
+ 
+<expres><![CDATA[#$pyFunction
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ import xbmc
+ 
+ import xbmcgui
+ 
+ import webbrowser
+ 
+ return  webbrowser.open_new_tab('https://www.mitele.es/directo/gh-vip-24h-senal-2') + xbmc.executebuiltin('StartAndroidActivity(,android.intent.action.VIEW,,%s)' % 'https://www.mitele.es/directo/gh-vip-24h-senal-2')
+ 
+]]></expres>
+ 
+<page></page>
+ 
+</regex>
+<info></info>
+<thumbnail>https://okdiario.com/img/2018/09/04/gran-hermano-vip-6-24-horas-655x368.jpg</thumbnail>
+<fanart>https://okdiario.com/img/2018/09/04/gran-hermano-vip-6-24-horas-655x368.jpg</fanart>
+</item>
