@@ -24,7 +24,7 @@
    <thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,52}"(>[0-9]+)]]></expres>
-<page>http://arenavision.us/guide</page>
+<page>http://arenavision.biz/guide</page>
 <Agent>Mozilla</Agent>
 <referer>http://cdn5.arenavision.link</referer>
 <setcookie>beget=begetok</setcookie>
