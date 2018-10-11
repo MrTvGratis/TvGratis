@@ -5,29 +5,29 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 #EXTINF:-1 tvg-id="LA2 ASTRA SD 1.sp" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg" group-title="Generalistas", La 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 #EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png" group-title="Generalistas", Antena 3
-https://livepull1.secure.footprint.net/antena3mpp/master.m3u8
+https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png" group-title="Generalistas", Antena 3
-https://livepull1.secure.footprint.net/geoantena3mpp/master.m3u8
+antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8
 #EXTINF:-1 tvg-id="SEXTA ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png" group-title="Generalistas", laSexta
-https://livepull1.secure.footprint.net/lasextampp/master.m3u8
+https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="SEXTA ASTRA HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png" group-title="Generalistas", laSexta
-https://livepull1.secure.footprint.net/geolasextampp/master.m3u8
+https://lasexta-pull2c-a3player.secure.footprint.net/geolasexta/master.m3u8
 #EXTINF:-1 tvg-id="NEOX ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png" group-title="Generalistas", Neox
 https://livepull1.secure.footprint.net/neoxmpp/master.m3u8
 #EXTINF:-1 tvg-id="NEOX ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png" group-title="Generalistas", Neox
 https://livepull1.secure.footprint.net/geoneoxmpp/master.m3u8
 #EXTINF:-1 tvg-id="NOVA ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png" group-title="Generalistas", Nova
-https://livepull1.secure.footprint.net/novampp/master.m3u8
+https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8
 #EXTINF:-1 tvg-id="NOVA ASTRA SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png" group-title="Generalistas", Nova
-https://livepull1.secure.footprint.net/geonovampp/master.m3u8
+https://nova-pull1c-a3player.secure.footprint.net/geonova/master.m3u8
 #EXTINF:-1 tvg-id="MEGA TDT SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png" group-title="Generalistas", Mega
-https://livepull1.secure.footprint.net/megampp/master.m3u8
+https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8
 #EXTINF:-1 tvg-id="MEGA TDT SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png" group-title="Generalistas", Mega
-https://livepull1.secure.footprint.net/geomegampp/master.m3u8
+https://mega-pull1a-a3player.secure.footprint.net/geomega/master.m3u8
 #EXTINF:-1 tvg-id="ATRESS TDT HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png" group-title="Generalistas", Atreseries
-https://livepull1-i.akamaized.net/a3seriesmpp/master.m3u8
+https://a3series-pull1a-a3player.secure.footprint.net/a3series/master.m3u8
 #EXTINF:-1 tvg-id="ATRESS TDT HD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png" group-title="Generalistas", Atreseries
-https://livepull1.secure.footprint.net/geoa3seriesmpp/master.m3u8
+https://a3series-pull1a-a3player.secure.footprint.net/geoa3series/master.m3u8
 #EXTINF:-1 tvg-id="13TV TDT SD 1.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/150px-Trece.svg.png" group-title="Generalistas", TRECE TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Intereconom%C3%ADa.png/245px-Intereconom%C3%ADa.png" group-title="Generalistas", Intereconomía
@@ -90,7 +90,7 @@ http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8
 http://89.140.99.41/hls/1080.m3u8
 #EXTINF:-1 group-title="Andalucía", Fuengirola TV
 http://cls2.todostreaming.eu/nerja/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Aragon TV Int" group-title="Aragón", Aragón TV
+#EXTINF:-1 tvg-id="Aragon TV Int.sp" group-title="Aragón", Aragón TV
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 group-title="Aragón", Canal 25 Barbastro TV
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
@@ -220,4 +220,3 @@ http://185.29.68.24/tvb.m3u8
 http://orion.comelson.es/ribera/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Valencia", TV4 La Vall
 http://178.32.53.254/15o8376r/mystream/playlist.m3u8
-
