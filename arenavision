@@ -562,35 +562,3 @@
 </item>
 
 
-
-
-
-
-
-
-<item>
-<title>v2+TUCHKA TV Sports Acestream </title>
-<thumbnail>http://tuchkatv.ru/templates/TuchkaTV/images/logo.png</thumbnail>
-<link>$doregex[makelist]</link>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title> [makelist.param2] </title>
-    <link>plugin://program.plexus/?mode=1&amp;name=[makelist.param2]&amp;url=$doregex[get-link]</link>
-    <thumbnail>http://tuchkatv.ru/uploads/[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>a href="(http:\/\/tuchkatv\.ru\/\d*-([^"]+)\.html)"><p.*?uploads\/([^"]+)"</expres>
-<page>http://tuchkatv.ru/sportivnye/</page>  
-</regex>
-
-<regex>
-<name>get-link</name>
-<expres>player.php\?id=(.*?)"</expres>
-<page>[makelist.param1]</page>
-<referer>http://tuchkatv.ru/sportivnye/</referer>
-<cookieJar></cookieJar>
-</regex>
-
-<!--Note : You can modify  the  /sportivnye/  for more pages ...-->
-</item>
