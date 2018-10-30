@@ -12,8 +12,8 @@
    <regex>
    <name>hash</name>
    <expres>this.loadPlayer\("(.*?)"</expres>
-   <page>http://cdn5.arenavision.link/$doregex[canal]</page>
-   <referer>http://cdn5.arenavision.link</referer>
+   <page>http://cdn.arenavision.co.in/$doregex[canal]</page>
+   <referer>http://cdn.arenavision.co.in</referer>
    <setcookie>beget=begetok</setcookie>
    </regex>
    <regex>
@@ -24,12 +24,12 @@
    <thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,52}"(>[0-9]+)]]></expres>
-<page>http://arenavision.biz/guide</page>
+<page>http://arenavision.us/guide</page>
 <Agent>Mozilla</Agent>
-<referer>http://cdn5.arenavision.link</referer>
+<referer>http://cdn.arenavision.co.in</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
-<thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
+<thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 
 <item>
