@@ -38,8 +38,8 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR lime][makelist.param1][/COLOR][COLOR yellow][makelist.param4][/COLOR][COLOR orange][UPPERCASE] [makelist.param7][/UPPERCASE] [/COLOR][COLOR white]  [makelist.param8][/COLOR][COLOR green] [makelist.param10] [makelist.param11][/COLOR]</title>
-<info>[COLOR lime][makelist.param1][/COLOR][COLOR yellow][makelist.param4][/COLOR][COLOR orange][UPPERCASE] [makelist.param6][/UPPERCASE] [/COLOR][COLOR white] [makelist.param7] [makelist.param8][/COLOR][COLOR green] [makelist.param10] [makelist.param11][/COLOR]</info>
+<title>[COLOR lime][makelist.param1][/COLOR][COLOR yellow][makelist.param4][/COLOR][COLOR blue][UPPERCASE] [makelist.param7][/UPPERCASE] [/COLOR][COLOR white]  [makelist.param8][/COLOR][COLOR green] [makelist.param10] [makelist.param11][/COLOR]</title>
+<info>[COLOR lime][makelist.param1][/COLOR][COLOR yellow][makelist.param4][/COLOR][COLOR blue][UPPERCASE] [makelist.param6][/UPPERCASE] [/COLOR][COLOR white] [makelist.param7] [makelist.param8][/COLOR][COLOR green] [makelist.param10] [makelist.param11][/COLOR]</info>
 <fanart>https://ugc.kn3.net/i/origin/http://3.bp.blogspot.com/-7Sq_1Ap72R0/TcnvEtT2eyI/AAAAAAAAA_Y/HWSWReXQsmI/s1600/camp-nou.jpg</fanart>
 <thumbnail>$doregex[img1]$doregex[img2]$doregex[img3]</thumbnail>
 <link>plugin://program.plexus/?url=[makelist.param9]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]</link>
