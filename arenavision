@@ -67,7 +67,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]ARENAVISION  1[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  1[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 01 </link>
 <regex>
 <name>hash</name>
@@ -79,7 +79,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  2[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  2[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 02 </link>
 <regex>
 <name>hash</name>
@@ -91,7 +91,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  3[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  3[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 03 </link>
 <regex>
 <name>hash</name>
@@ -103,7 +103,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  4[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  4[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 04 </link>
 <regex>
 <name>hash</name>
@@ -115,7 +115,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  5[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  5[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 05 </link>
 <regex>
 <name>hash</name>
@@ -127,7 +127,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  6[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  6[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 06 </link>
 <regex>
 <name>hash</name>
@@ -139,7 +139,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  7[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  7[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 07 </link>
 <regex>
 <name>hash</name>
@@ -151,7 +151,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  8[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  8[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 08 </link>
 <regex>
 <name>hash</name>
@@ -163,7 +163,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION  9[/COLOR]</title>
+<title>[COLOR green]ARENAVISION  9[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 09 </link>
 <regex>
 <name>hash</name>
@@ -175,7 +175,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 10[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 10[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 10 </link>
 <regex>
 <name>hash</name>
@@ -187,7 +187,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 11[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 11[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 11 </link>
 <regex>
 <name>hash</name>
@@ -199,7 +199,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 12[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 12[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 12 </link>
 <regex>
 <name>hash</name>
@@ -211,7 +211,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 13[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 13[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 13 </link>
 <regex>
 <name>hash</name>
@@ -223,7 +223,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 14[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 14[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 14 </link>
 <regex>
 <name>hash</name>
@@ -235,7 +235,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 15[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 15[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 15 </link>
 <regex>
 <name>hash</name>
@@ -247,7 +247,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 16[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 16[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 16 </link>
 <regex>
 <name>hash</name>
@@ -259,7 +259,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 17[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 17[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 17 </link>
 <regex>
 <name>hash</name>
@@ -271,7 +271,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 18[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 18[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 18 </link>
 <regex>
 <name>hash</name>
@@ -283,7 +283,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 19[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 19[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 19 </link>
 <regex>
 <name>hash</name>
@@ -295,7 +295,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 20[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 20[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 20 </link>
 <regex>
 <name>hash</name>
@@ -307,7 +307,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 21[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 21[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 21 </link>
 <regex>
 <name>hash</name>
@@ -319,7 +319,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 22[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 22[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 22 </link>
 <regex>
 <name>hash</name>
@@ -331,7 +331,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 23[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 23[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 23 </link>
 <regex>
 <name>hash</name>
@@ -343,7 +343,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 24[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 24[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 24 </link>
 <regex>
 <name>hash</name>
@@ -355,7 +355,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 25[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 25[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 25 </link>
 <regex>
 <name>hash</name>
@@ -367,7 +367,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 26[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 26[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 26 </link>
 <regex>
 <name>hash</name>
@@ -379,7 +379,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 27[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 27[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 27 </link>
 <regex>
 <name>hash</name>
@@ -391,7 +391,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 28[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 28[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 28 </link>
 <regex>
 <name>hash</name>
@@ -403,7 +403,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 29[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 29[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 29 </link>
 <regex>
 <name>hash</name>
@@ -415,7 +415,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 30[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 30[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 30 </link>
 <regex>
 <name>hash</name>
@@ -427,7 +427,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 31[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 31[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 31 </link>
 <regex>
 <name>hash</name>
@@ -439,7 +439,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 32[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 32[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 32 </link>
 <regex>
 <name>hash</name>
@@ -451,7 +451,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 33[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 33[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 33 </link>
 <regex>
 <name>hash</name>
@@ -463,7 +463,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 34[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 34[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 34 </link>
 <regex>
 <name>hash</name>
@@ -475,7 +475,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 35[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 35[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 35 </link>
 <regex>
 <name>hash</name>
@@ -487,7 +487,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 36[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 36[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 36 </link>
 <regex>
 <name>hash</name>
@@ -499,7 +499,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 37[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 37[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 37 </link>
 <regex>
 <name>hash</name>
@@ -511,7 +511,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 38[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 38[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 38 </link>
 <regex>
 <name>hash</name>
@@ -523,7 +523,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 39[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 39[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 39 </link>
 <regex>
 <name>hash</name>
@@ -535,7 +535,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 40[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 40[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 40 </link>
 <regex>
 <name>hash</name>
@@ -547,7 +547,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 41[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 41[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 41 </link>
 <regex>
 <name>hash</name>
@@ -559,7 +559,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 42[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 42[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 42 </link>
 <regex>
 <name>hash</name>
@@ -571,7 +571,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 43[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 43[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 43 </link>
 <regex>
 <name>hash</name>
@@ -583,7 +583,7 @@
 <thumbnail>hhttps://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime]ARENAVISION 44[/COLOR]</title>
+<title>[COLOR green]ARENAVISION 44[/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[COLOR lime]TvGratis[/COLOR]ARENAVISION 44 </link>
 <regex>
 <name>hash</name>
