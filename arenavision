@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]Aceslist Agenda[/COLOR]</title>
+<title>[COLOR lime]ACESLIST con  Agenda[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
