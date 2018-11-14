@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/masterferr[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://127.0.0.0
+#EXTINF:-1,Movistar Fútbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/133.ts
+#EXTINF:-1,beIN La Liga HD (Opcion2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts
+#EXTINF:-1,beIN La Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts
+#EXTINF:-1,#Vamos HD (Opcion2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/130.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/125.ts
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/124.ts
+#EXTINF:-1,Movistar Halloween HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/119.ts
+#EXTINF:-1,Movistar - Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/107.ts
+#EXTINF:-1,BeMad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/123.ts
+#EXTINF:-1,Movistar  Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/69.ts
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/85.ts
+#EXTINF:-1,ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/61.ts
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/58.ts
+#EXTINF:-1,Movistar  Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/68.ts
+#EXTINF:-1,Movistar  GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/66.ts
+#EXTINF:-1,Movistar  Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/65.ts
+#EXTINF:-1,Movistar  Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/64.ts
+#EXTINF:-1,Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/92.ts
+#EXTINF:-1,LaLiga TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/63.ts
+#EXTINF:-1,La Liga 123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/97.ts
+#EXTINF:-1,Eurosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/62.ts
+#EXTINF:-1,CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/84.ts
+#EXTINF:-1,Nonstop People
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/79.ts
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/78.ts
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/77.ts
+#EXTINF:-1,National Geografic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/75.ts
+#EXTINF:-1,NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/74.ts
+#EXTINF:-1,Movistar Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/99.ts
+#EXTINF:-1,Movistar Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/73.ts
+#EXTINF:-1,Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/72.ts
+#EXTINF:-1,Movistar eSports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/95.ts
+#EXTINF:-1,Movistar  Series Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/70.ts
+#EXTINF:-1,UFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/100.ts
+#EXTINF:-1,UFC Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/93.ts
+#EXTINF:-1,PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/83.ts
+#EXTINF:-1,Odissea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/81.ts
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/24.ts
+#EXTINF:-1,TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/26.ts
+#EXTINF:-1,TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/7.ts
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/42.ts
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/33.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/23.ts
+#EXTINF:-1,NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/43.ts
+#EXTINF:-1,MTV ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/56.ts
+#EXTINF:-1,Movistar Formula 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/36.ts
+#EXTINF:-1,MOVISTAR GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/35.ts
+#EXTINF:-1,Movistar SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/5.ts
+#EXTINF:-1,Movistar XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/38.ts
+#EXTINF:-1,#Vamos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/32.ts
+#EXTINF:-1,Movistar Deportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/31.ts
+#EXTINF:-1,Movistar Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/37.ts
+#EXTINF:-1,Movistar Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/27.ts
+#EXTINF:-1,LA LIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/30.ts
+#EXTINF:-1,LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/2.ts
+#EXTINF:-1,LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/1.ts
+#EXTINF:-1,IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/54.ts
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/40.ts
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/46.ts
+#EXTINF:-1,GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/34.ts
+#EXTINF:-1,FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/22.ts
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/12.ts
+#EXTINF:-1,DMAX.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/11.ts
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/48.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/44.ts
+#EXTINF:-1,DECASA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/21.ts
+#EXTINF:-1,CRIME & INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/20.ts
+#EXTINF:-1,COSMO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/53.ts
+#EXTINF:-1,CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/39.ts
+#EXTINF:-1,CANAL SUR A.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/14.ts
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/13.ts
+#EXTINF:-1,Movistar EstrenoS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/49.ts
+#EXTINF:-1,Movistar DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/50.ts
+#EXTINF:-1,CANAL   GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/51.ts
+#EXTINF:-1,CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/17.ts
+#EXTINF:-1,BEINSPORT-S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/29.ts
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/55.ts
+#EXTINF:-1,ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/4.ts
+#EXTINF:-1,ATRESERIES
+#EXTINF:-1,=====BlacK.:TAQUILLAS:.EviL=====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://blackeviltv.com/free/blackeviltv.mp4
+#EXTINF:-1,TAQUILLA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/134.ts
+#EXTINF:-1,TAQUILLA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/135.ts
+#EXTINF:-1,TAQUILLA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/136.ts
+#EXTINF:-1,TAQUILLA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/137.ts
+#EXTINF:-1,TAQUILLA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/138.ts
+#EXTINF:-1,=========Adultos (+18)==========
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://blackeviltv.com/free/Black2.mkv
+#EXTINF:-1,xXx Adultos Ch1 xXx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/87.ts
+#EXTINF:-1,xXx Adultos Ch2 xXx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/88.ts
+#EXTINF:-1,xXx Adultos Ch3 xXx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/89.ts
+#EXTINF:-1,xXx Adultos Ch4 xXx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/90.ts
+#EXTINF:-1,xXx Adultos Ch5 xXx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/91.ts
