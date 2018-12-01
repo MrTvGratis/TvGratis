@@ -1,0 +1,459 @@
+#EXTM3U
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/masterferr[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://127.0.0.0
+
+
+#EXTINF:-1,IT: Sky Sport1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15200
+#EXTINF:-1,IT: Sky Sport2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15201
+#EXTINF:-1,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15195
+#EXTINF:-1,PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15196
+#EXTINF:-1,PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15197
+#EXTINF:-1,PT: SPORT TV 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15198
+#EXTINF:-1,PT: SPORT TV 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15199
+#EXTINF:-1,FR: BeIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15203
+#EXTINF:-1,FR: BeIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15204
+#EXTINF:-1,FR: BeIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15205
+#EXTINF:-1,VIP UK: Sky Sports 1 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15939
+#EXTINF:-1,VIP UK: Sky Sports 2 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15938
+#EXTINF:-1,VIP UK: Sky Sports 3 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15937
+#EXTINF:-1,VIP UK: Sky Sports 4 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15936
+#EXTINF:-1,VIP UK: Sky Sports 5 HD 1080p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15935
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15942
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15944
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15945
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15946
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15947
+#EXTINF:-1,A Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15128
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15127
+#EXTINF:-1,ADN40 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15125
+#EXTINF:-1,Al Jazeera HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15124
+#EXTINF:-1,AMC HD Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15123
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15122
+#EXTINF:-1,AXN HD Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15120
+#EXTINF:-1,AZ Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15119
+#EXTINF:-1,Az Click
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15118
+#EXTINF:-1,AZ Corazon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15117
+#EXTINF:-1,Az Mundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15129
+#EXTINF:-1,Azteca 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15116
+#EXTINF:-1,Azteca Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15115
+#EXTINF:-1,Baby First HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15114
+#EXTINF:-1,Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15113
+#EXTINF:-1,Cadena H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15112
+#EXTINF:-1,Canal 26 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15111
+#EXTINF:-1,Canal 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15110
+#EXTINF:-1,Canal 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15109
+#EXTINF:-1,Canal 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15108
+#EXTINF:-1,Canal de las Estrellas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15107
+#EXTINF:-1,Canal del Congreso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15106
+#EXTINF:-1,Canal Judicial HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15105
+#EXTINF:-1,1080P: CANAL ONCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15104
+#EXTINF:-1,1080P: CANAL2355 Televisa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15103
+#EXTINF:-1,1080P: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15102
+#EXTINF:-1,Cinecanal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15101
+#EXTINF:-1,1080P: Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15100
+#EXTINF:-1,1080P: CNN International HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15099
+#EXTINF:-1,1080P: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15098
+#EXTINF:-1,1080P: De Pelicula Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15097
+#EXTINF:-1,1080P: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15096
+#EXTINF:-1,1080P: Discovery H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15095
+#EXTINF:-1,1080P: Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15094
+#EXTINF:-1,1080P: Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15093
+#EXTINF:-1,1080P: Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15092
+#EXTINF:-1,1080P: Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15091
+#EXTINF:-1,1080P: E! Entertainment HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15090
+#EXTINF:-1,El Gourmet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15132
+#EXTINF:-1,1080P: Espn 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15089
+#EXTINF:-1,1080P: Espn 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15088
+#EXTINF:-1,1080P: Espn HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15087
+#EXTINF:-1,1080P: Espn Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15086
+#EXTINF:-1,1080P: Espn U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15085
+#EXTINF:-1,1080P: Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15084
+#EXTINF:-1,1080P: Foro TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15083
+#EXTINF:-1,1080P: Fox Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15082
+#EXTINF:-1,1080P: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15081
+#EXTINF:-1,1080P: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15080
+#EXTINF:-1,1080P: Fox Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15079
+#EXTINF:-1,1080P: Fox News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15078
+#EXTINF:-1,1080P: Fox Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15077
+#EXTINF:-1,1080P: Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15076
+#EXTINF:-1,1080P: Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15075
+#EXTINF:-1,1080P: Fox Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15074
+#EXTINF:-1,1080P: Francia 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15073
+#EXTINF:-1,1080P: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15072
+#EXTINF:-1,1080P: FXM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15071
+#EXTINF:-1,1080P: Golden Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15070
+#EXTINF:-1,1080P: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15069
+#EXTINF:-1,1080P: HLN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15068
+#EXTINF:-1,1080P: Hola TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15067
+#EXTINF:-1,1080P: Imagen TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15066
+#EXTINF:-1,1080P: Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15065
+#EXTINF:-1,1080P: Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15064
+#EXTINF:-1,1080P: Mas Chic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15063
+#EXTINF:-1,1080P: MEXIQUENSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15062
+#EXTINF:-1,Milenio TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15131
+#EXTINF:-1,1080P: MORBIDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15061
+#EXTINF:-1,1080P: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15060
+#EXTINF:-1,1080P: MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15059
+#EXTINF:-1,1080P: Multimedios HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15058
+#EXTINF:-1,1080P: Multimedios Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15057
+#EXTINF:-1,1080P: Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15056
+#EXTINF:-1,1080P: Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15055
+#EXTINF:-1,1080P: NBC Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15054
+#EXTINF:-1,Nick 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15130
+#EXTINF:-1,1080P: Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15053
+#EXTINF:-1,1080P: NUEVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15052
+#EXTINF:-1,1080P: Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15051
+#EXTINF:-1,1080P: PX Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15050
+#EXTINF:-1,1080P: RT Russia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15049
+#EXTINF:-1,1080P: SEC Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15048
+#EXTINF:-1,1080P: SHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15047
+#EXTINF:-1,1080P: Sony Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15046
+#EXTINF:-1,1080P: Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15045
+#EXTINF:-1,1080P: Star TVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15044
+#EXTINF:-1,1080P: Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15043
+#EXTINF:-1,1080P: Sundance TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15042
+#EXTINF:-1,1080P: SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15041
+#EXTINF:-1,1080P: Telehit Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15040
+#EXTINF:-1,1080P: Televisa Puebla HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15039
+#EXTINF:-1,1080P: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15038
+#EXTINF:-1,1080P: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15037
+#EXTINF:-1,1080P: TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15036
+#EXTINF:-1,1080P: Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15035
+#EXTINF:-1,1080P: TV Mas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15034
+#EXTINF:-1,1080P: TVC Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15033
+#EXTINF:-1,1080P: TVC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15032
+#EXTINF:-1,1080P: Unicable HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15031
+#EXTINF:-1,1080P: Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15030
+#EXTINF:-1,1080P: VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15029
+#EXTINF:-1,1080P: Warner HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15028
+#EXTINF:-1,1080P: Wobi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15027
+#EXTINF:-1,CV: NatGeo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15133
+#EXTINF:-1,HQ: Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15003
+#EXTINF:-1,HQ: AyM Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15002
+#EXTINF:-1,HQ: Bandamax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15001
+#EXTINF:-1,HQ: BBC World News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15000
+#EXTINF:-1,HQ: Canal 52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14999
+#EXTINF:-1,HQ: CNN en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14998
+#EXTINF:-1,HQ: CNN International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14997
+#EXTINF:-1,HQ: De Pelicula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14996
+#EXTINF:-1,HQ: Discovery Civilization
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14995
+#EXTINF:-1,HQ: Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14994
+#EXTINF:-1,HQ: Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14993
+#EXTINF:-1,HQ: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14992
+#EXTINF:-1,HQ: Disney Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14991
+#EXTINF:-1,HQ: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14990
+#EXTINF:-1,HQ: Distrito Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14989
+#EXTINF:-1,HQ: DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14988
+#EXTINF:-1,HQ: Europa Europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14987
+#EXTINF:-1,HQ: Film & Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14986
+#EXTINF:-1,HQ: Fox Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14985
+#EXTINF:-1,HQ: Fox Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14984
+#EXTINF:-1,HQ: Garage TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14983
+#EXTINF:-1,HQ: Glitz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14982
+#EXTINF:-1,HQ: Golden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14981
+#EXTINF:-1,HQ: Golden Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14980
+#EXTINF:-1,HQ: IngenioTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14979
+#EXTINF:-1,HQ: Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14978
+#EXTINF:-1,HQ: Isat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14977
+#EXTINF:-1,HQ: MTV Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14976
+#EXTINF:-1,HQ: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14975
+#EXTINF:-1,HQ: Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14974
+#EXTINF:-1,HQ: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14973
+#EXTINF:-1,HQ: Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14972
+#EXTINF:-1,HQ: NTN24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14971
+#EXTINF:-1,HQ: RMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14970
+#EXTINF:-1,HQ: TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14969
+#EXTINF:-1,HQ: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14968
+#EXTINF:-1,HQ: TeleFormula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14967
+#EXTINF:-1,HQ: Telenovelas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14966
+#EXTINF:-1,HQ: Televisa Monterrey *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14965
+#EXTINF:-1,HQ: Tiin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14964
+#EXTINF:-1,HQ: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14963
+#EXTINF:-1,HQ: TLR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14962
+#EXTINF:-1,HQ: Tooncast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14961
+#EXTINF:-1,HQ: TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14960
+#EXTINF:-1,HQ: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14959
+#EXTINF:-1,HQ: VH1 Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/14958
+#EXTINF:-1,UDP: Fox Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15021
+#EXTINF:-1,UDP: Fox Family (E)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15020
+#EXTINF:-1,UDP: Golden Premier 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15019
+#EXTINF:-1,UDP: Golden Premier HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15018
+#EXTINF:-1,UDP: HBO (W)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15017
+#EXTINF:-1,UDP: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15016
+#EXTINF:-1,UDP: HBO Family (E)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15015
+#EXTINF:-1,UDP: HBO Plus (E)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15014
+#EXTINF:-1,UDP: HBO Plus (W)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15013
+#EXTINF:-1,UDP: HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15012
+#EXTINF:-1,UDP: Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15011
+#EXTINF:-1,UDP: Max Prime (E)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15010
+#EXTINF:-1,UDP: Max Prime (W)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15009
+#EXTINF:-1,UDP: Max Up
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15008
+#EXTINF:-1,UDP: NatGeo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15007
+#EXTINF:-1,UDP: TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15006
+#EXTINF:-1,UDP: Telemundo Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15005
+#EXTINF:-1,UDP: Univision TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15004
+#EXTINF:-1,BEIN Ñ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15226
+#EXTINF:-1,BEIN Ñ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15225
+#EXTINF:-1,BEIN US FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15224
+#EXTINF:-1,BEIN US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15223
+#EXTINF:-1,Fox Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15222
+#EXTINF:-1,Fox Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15221
+#EXTINF:-1,Galavision SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15220
+#EXTINF:-1,NFL Red Zone HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15219
+#EXTINF:-1,TyC Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15218
+#EXTINF:-1,TyC Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15217
+#EXTINF:-1,Unimas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15216
+#EXTINF:-1,Univision Deportes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15215
+#EXTINF:-1,Univision Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15214
+#EXTINF:-1,Univision SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15213
+#EXTINF:-1,AyM Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15228
+#EXTINF:-1,UniMas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15232
+#EXTINF:-1,Univision FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15233
+#EXTINF:-1,DTV SP Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15238
+#EXTINF:-1,DTV SP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15237
+#EXTINF:-1,DTV SP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15236
+#EXTINF:-1,Galavision FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15235
+#EXTINF:-1,Telemundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15234
+#EXTINF:-1,Dorcel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/8623
+#EXTINF:-1,Erotic 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/7848
+#EXTINF:-1,Hustler
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/8624
+#EXTINF:-1,Pinko
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/8002
+#EXTINF:-1,Nubile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15434
+#EXTINF:-1,Porneq
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15437
+#EXTINF:-1,Porneq 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15438
+#EXTINF:-1,Chichi Medina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15476
+#EXTINF:-1,Chloe Foster
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15475
+#EXTINF:-1,Demida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15473
+#EXTINF:-1,Filomena M@rtusano
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15460
+#EXTINF:-1,Porneq 06 TECNO-WILL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15513
+#EXTINF:-1,Porneq 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15512
+#EXTINF:-1,Pr@messi Sp@si
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15455
+#EXTINF:-1,R@tte e Sf@ndate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR lime]TvGratis[/COLOR];url=http://visualdroid.ddns.net:8000/albertorodrigo91@gmail.com/E7Z2VLzjOM/15462
